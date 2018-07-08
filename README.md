@@ -1,7 +1,5 @@
 # Security Analysis - Benjamin Graham and David L. Dodd
 
-In this repo I slowly retype Graham and Dodd's Security Analysis.
-
 ##### Chapter 1
 
 ## The Scope and Limitations of Security Analysis. The Concept of Intrinsic Value
