@@ -34,4 +34,50 @@ A more recent comparison of the same general type could have been drawn between 
 
 **Intrinsic Value and “Earning Power.”** Hence this idea was superseded by a newer view, *viz.*, that the intrinsic value of a business was determined by its earning power. But the phrase “earning power” must imply a fairly confident expectation of certain future results. It is not sufficient to know what the past earnings have averaged, or even that they disclose a definite line of growth or decline. There must be plausible grounds for believing that this average or this trend is a dependable guide to the future. Experience has shown only too forcibly that in many instances this is far from true. This means that the concept of “earning power,” expressed as a definite figure, and the derived concept of intrinsic value, as something equally definite and ascertainable, cannot be safely accepted as a *general premise* of security analysis.
 
-*Example:* To make this reasoning clearer, let us consider a concrete and typical example. What would we mean by the intrinsic value of J. I. Case Company common, as analyzed, say, early in 1933? The market price was $30; the asset value per share was $176; no dividend was being paid; the average earnings for ten years had been $9.50 per share; the results for 1932 had shown a *deficit* of $17 per share. If we followed a customary method of appraisal, we might take the average earnings per share of common for ten years, multiply this average by ten, and arrive at an intrinsic value of $95. But let us examine the individual figures which make up this ten-year average. They are shown in the table on page 66. The average of $9.50 is obviously nothing more than an arithmetical resultant from ten unrelated figures.
+*Example:* To make this reasoning clearer, let us consider a concrete and typical example. What would we mean by the intrinsic value of J. I. Case Company common, as analyzed, say, early in 1933? The market price was $30; the asset value per share was $176; no dividend was being paid; the average earnings for ten years had been $9.50 per share; the results for 1932 had shown a *deficit* of $17 per share. If we followed a customary method of appraisal, we might take the average earnings per share of common for ten years, multiply this average by ten, and arrive at an intrinsic value of $95. But let us examine the individual figures which make up this ten-year average. They are shown in the table on page 66. The average of $9.50 is obviously nothing more than an arithmetical resultant from ten unrelated figures. It can hardly be urged that this average is in any way representative of *typical* conditions in the past or representative of what may be expected in the future. Hence any figure of “real” or intrinsic value derived from this average must be characterized as equally accidental or artificial.
+
+<table>
+  <tr>
+    <th colspan="2">Earnings per share of J.I. Case Common</th>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>($17.40)</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>(2.90)</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>11.00</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>20.40</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>26.90</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>26.00</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>23.30</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>15.30</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>(5.90)</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>(2.10)</td>
+  </tr>
+</table>
