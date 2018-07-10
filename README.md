@@ -80,4 +80,8 @@ A more recent comparison of the same general type could have been drawn between 
     <td>1923</td>
     <td>(2.10)</td>
   </tr>
+  <tr>
+    <td>Average</td>
+    <td>$9.50</td>
+  </tr>
 </table>
