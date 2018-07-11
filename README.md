@@ -85,3 +85,11 @@ A more recent comparison of the same general type could have been drawn between 
     <td>$9.50</td>
   </tr>
 </table>
+
+**The Role of Intrinsic Value in the Work of the Analyst.** Let us try to formulate a statement of the role of intrinsic value in the work of the analyst which will reconcile the rather conflicting implications of our various examples. The essential point is that security analysis does not seek to determine exactly what is the intrinsic value of a given security. It needs only to establish either that the value is *adequate–e.g.*, to protect a bond or to justify a stock purchase–or else that the value is considerably higher or considerably lower than the market price. For such purposes an indefinite and approximate measure of the intrinsic value may be sufficient. To use a homely simile, it is quite possible to decide by inspection that a woman is old enough to vote without knowing her age or that a man is heavier than he should be without knowing his exact weight.
+
+This statement of the case may be made clearer by a brief return to our examples. The rejection of St. Louis-San Francisco Preferred did not require an exact calculation of the intrinsic value of this railroad system. It was enough to show, very simply from the earnings record, that the margin of value above the bondholders’ and preferred stockholders’ claims was too small to assure safety. Exactly the opposite was true for the Owens-Illinois Glass 5s. In this instance, also, it would undoubtedly have been difficult to arrive at a fair valuation of the business; but it was quite easy to decide that this value in any event was far in excess of the company’s debt.
+
+In the Wright Aeronautical example, the earlier situation presented a set of facts which demonstrated that the business was worth substantially more than $8 per share, or $1,800,000. In the later year, the facts were equally conclusive that the business did not have a reasonable value of $280 per share, or $70,000,000 in all. It would have been difficult for the analyst to determine whether Wright Aeronautical was actually worth $20 or $40 a share in 1922–or actually worth $50 or $80 in 1929.
+
+
