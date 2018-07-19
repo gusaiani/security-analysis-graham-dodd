@@ -109,3 +109,34 @@ The Interborough issues are an example of a rather special group of situations i
 In that portion of the analyst’s activities which relates to the discovery of undervalued, and possibly of overvalued securities, he is more directly concerned with market prices. For here the vindication of his judgment must be found largely in the ultimate market action of the issue. This field of analytical work may be said to rest upon a twofold assumption: first, that the market price is frequently out of line with the true value; and, second, that there is an inherent tendency for these disparities to correct themselves. As to the truth of the former statement, there can be very little doubt–even though Wall Street often speaks glibly of the “infallible judgment of the market” and asserts that “a stock is worth what you can sell it for–neither more nor less.”
 
 **The Hazard of Tardy Adjustment of Price Value.** The second assumption is equally true in theory, but its working out in practice is often most unsatisfactory. Undervaluations caused by neglect or prejudice may persist for an inconveniently long time, and the same applies to inflated prices caused by overenthusiasm or artificial stimulants. The particular danger to the analyst is that, because of such delay, new determining factors may supervene before the market price adjusts itself to the value as he found it. In other words, by the time the price finally does reflect the value, this value may have changed considerably and the facts and reasoning on which his decision was based may no longer be applicable.
+
+The analyst must seek to guard himself against this danger as best he can: in part, by dealing with those situations preferably which are not subject to sudden change; in part, by favoring securities in which the popular interest is keen enough to promise a fairly swift response to value elements which he is the first to recognize; in part, by tempering his activities to the general financial situation–laying more emphasis on the discovery of undervalued securities when business and market conditions are on a fairly even keel, and proceeding with greater caution in times of abnormal stress and uncertainty.
+
+**The Relationship of Intrinsic Value to Market Price.** The general question of the relation of intrinsic value to the market quotation may be made clearer by the following chart, which traces the various steps culminating in the market price. It will be evident from the chart that the infuence of what we call analytical factors over the market price is both *partial* and *indirect*–partial, because it frequently competes with purely speculative factors which influence the price in the opposite direction; and indirect, because it acts through the intermediary of people’s sentiments and decisions. In other words, the market is not a *weighing machine*, on which the value of each issue is recorded by an exact and impersonal mechanism, in accordance with its specific qualities. Rather should we say that the market is a *voting machine*, whereon countless individuals register choices which are the product partly of reason and partly of emotion.
+
+Here a "mindmap" follows, structured approximately thus:
+
+##### Relationship of Intrinsic Value Factors to Market Price
+
+I. *General market factors.*
+II. *Individual factors.*
+
+1. Market factors (of Speculative nature)
+  a. Technical
+  b. Manipulative
+  c. Psychological
+
+2. Future value factors (of both Speculative and Investment natures)
+  a. Management and reputation
+  b. Competitive conditions and prospects
+  c. Possible and probable changes in volume, price, and costs.
+
+3. Intrinsic value factors (of Investment nature)
+  a. Earnings.
+  b. Dividends.
+  c. Assets.
+  d. Capital structure.
+  e. Terms of the issue.
+  f. Others.
+
+1, 2 and 3 above influence Attitude of public toward the issue, consequently Bids and Offers, consequently Market Price.
