@@ -140,3 +140,11 @@ II. *Individual factors.*
   f. Others.
 
 1, 2 and 3 above influence Attitude of public toward the issue, consequently Bids and Offers, consequently Market Price.
+
+### Analysis and Speculation
+
+It may be thought that sound analysis should produce successful results in any type of situation, including the confessedly speculative, *i.e.*, those subject to substantial uncertainty and risk. If the selection of speculative issues is based on expert study of the companies’ position, should not this approach give the purchaser a considerable advantage? Admitting future events to be uncertain, could not the favorable and unfavorable developments be counted on to cancel out against each other, more or less, so that the initial advantage afforded by sound analysis will carry through into an eventual average profit? This is a plausible argument but a deceptive one; and its over-ready acceptance has done much to lead analysts astray. It is worth while, therefore, to detail several valid arguments against placing chief reliance upon analysis in speculative situations.
+
+In the first place, what may be called the mechanics of speculation involves serious handicaps to the speculator, which may outweigh the benefits conferred by analytical study. These disadvantages include the payment of commissions and interest charges, the so-called “turn of the market” (meaning the spread between the bid and asked price), and, most important of all, an inherent tendency for the average loss to exceed the average profit, unless a certain technique of trading is followed, which is opposed to the analytical approach.
+
+The second objection is that the underlying analytical factors in speculative situations are subject to swift and sudden revision. The danger, already referred to, that the intrinsic value may change before the market price reflects that value, is therefore much more serious in speculative than in investment situations. A third difficulty arises from circumstances surrounding the unknown factors, which are necessarily left out of security analysis.
