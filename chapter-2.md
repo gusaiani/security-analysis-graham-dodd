@@ -104,3 +104,40 @@ Analysis is concerned primarily with values which are supported by the facts and
 *Examples:* This point may be brought out by a comparison of two preferred-stock issues as of early 1932, *viz.*, those of Studebaker (motors) and of First National (grocery) Stores, both of which were selling above par. The two exhibits were similar, in that both disclosed a continuously satisfactory margin above preferred-dividend requirements. The Studebaker figures were more impressive, however, as the following table will indicate:
 
 ##### Number of Times Preferred Dividend Was Covered
+
+<table>
+  <tr>
+    <th colspan="2">First National Stores</th>
+    <th colspan="2">Studebaker</th>
+  </tr>
+  <tr>
+    <th>Period</th>
+    <th>Times covered</th>
+    <th>Calendar year</th>
+    <th>Times covered</th>
+  </tr>
+  <tr>
+    <td>Calendar year, 1922</td>
+    <td>4.0</td>
+    <td>1922</td>
+    <td>27.3</td>
+  </tr>
+  <tr>
+    <td>Calendar year, 1923</td>
+    <td>5.1</td>
+    <td>1923</td>
+    <td>30.5</td>
+  </tr>
+  <tr>
+    <td>Calendar year, 1924</td>
+    <td>4.9</td>
+    <td>1924</td>
+    <td>23.4</td>
+  </tr>
+  <tr>
+    <td>Calendar year, 1925</td>
+    <td>5.7</td>
+    <td>1925</td>
+    <td>29.7</td>
+  </tr>
+</table>
