@@ -140,4 +140,40 @@ Analysis is concerned primarily with values which are supported by the facts and
     <td>1925</td>
     <td>29.7</td>
   </tr>
+  <tr>
+    <td>15 mos. ended Mar.31, 1927</td>
+    <td>4.6</td>
+    <td>1926</td>
+    <td>24.8</td>
+  </tr>
+  <tr>
+    <td>Year ended Mar. 31, 1928</td>
+    <td>4.4</td>
+    <td>1927</td>
+    <td>23.0</td>
+  </tr>
+  <tr>
+    <td>Year ended Mar. 31, 1929</td>
+    <td>8.4</td>
+    <td>1928</td>
+    <td>27.3</td>
+  </tr>
+  <tr>
+    <td>Year ended Mar. 31, 1930</td>
+    <td>13.4</td>
+    <td>1929</td>
+    <td>23.3</td>
+  </tr>
+  <tr>
+    <td>Annual average</td>
+    <td>6.3</td>
+    <td></td>
+    <td>26.2</td>
+  </tr>
 </table>
+
+But the analyst must penetrate beyond the mere figures and consider the inherent character of the two businesses. The chain-store grocery trade contained within itself many elements of relative stability, such as stable demand, diversified locations, and rapid inventory turnover. A typical large unit in this field, provided only it abstained from reckless expansion policies, was not likely to suffer tremendous fluctuations in its earnings. But the situation of the typical automobile manufacturer was quite different. Despite fair stability in the industry as a whole, the individual units were subject to extraordinary variations, due chiefly to the vagaries of popular preference. The stability of Studebaker’s earnings could not be held by any convincing logic to demonstrate that this company enjoyed a special and permanent immunity from the vicissitudes to which most of its competitors had shown themselves subject. The soundness of Studebaker Preferred rested, therefore, largely upon a stable statistical showing which was at variance with the general character of the industry, so far as its individual units were concerned. On the other hand, the satisfactory exhibit of First National Stores Preferred was in thorough accord with what was generally thought to be the inherent character of the business. The later consideration should have carried great weight with the analyst and should have made First National Stores Preferred appear intrinsically sounder as a fixed-value investment than Studebaker Preferred, despite the more impressive *statistical* showing of the automobile company.
+
+**Summary.** To sum up this discussion of qualitative and quantitative factors, we may express the dictum that the analyst’s conclusions must always rest upon the figures and upon established tests and standards. These figures alone are not *sufficient;* they may be completely vitiated by qualitative considerations of an opposite import. A security may make a satisfactory statistical showing, but doubt as to the future or distrust of the management may properly impel its rejection. Again, the analyst is likely to attach prime importance to the qualitative element of *stability*, because its presence means that conclusions based on past results are not so likely to be upset by unexpected developments. It is also true that he will be far more confident in his selection of an issue if he can buttress an adequate quantitative exhibit with unusually favorable qualitative factors.
+
+But whenever the commitment depends to a substantial degree upon these qualitative factors–whenever, that is, the price is considerably higher than the figures alone would justify–then the analytical basis of approval is lacking. In the mathematical phrase, a satisfactory statistical exhibit is a *necessary* though by no means a *sufficient condition* for a favorable decision by the analyst.
