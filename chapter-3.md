@@ -39,3 +39,23 @@ The information given in the income account varies considerably in extent. Some 
 *The Income Account.* In our opinion an annual income account is not reasonably complete unless it contains the following items: (1) sales, (2) net earnings (before the items following), (3) depreciation (and depletion), (4) interest charges, (5) nonoperating income (in detail), (6) income taxes, (7) dividends paid, (8) surplus adjustments (in detail).
 
 Prior to the passage of the Securities and Exchange Act it was unfortunately true that less than half of our industrial corporations supplied this very moderate quota of information. (By contrast, data relative to railroads and public utilities have long been uniformly adequate.) The S.E.C. regulations now require virtually all this information to be published in the original registration statement (Form 10) and the succeeding annual reports (Form 10-K). Quite a number of companies have requested the S.E.C. to keep their sales figures confidential, on the ground that publication would be detrimental to the enterprise. Most of these requests have been either withdrawn or denied.
+
+The standard of *reasonable completeness* for annual reports, suggested above, by no means includes all the information which might be vouchsafed to shareholders. The reports of United States Steel Corporation may be taken as a model of comprehensiveness. The data there supplied embrace, in addition to our standard requirements, the following items:
+
+  1. Production and sales in units. Rate of capacity operated.
+  2. Division of sales as between:
+    * Domestic and foreign.
+    * Intercompany and outsiders.
+  3. Details of operating expenses:
+    * Wages, wage rates, and number of employees.
+    * State and local taxes paid.
+    * Selling and general expense.
+    * Maintenance expenditures, amount and details.
+  4. Details of capital expenditures during the year.
+  5. Details of inventories.
+  6. Details of properties owned.
+  7. Number of stockholders.
+
+ *The Balance Sheet.* The form of the balance sheet is better standardized than the income account, and it does not offer such frequent grounds for criticism. Formerly a widespread defect of balance sheets was the failure to separate intangible from tangible fixed assets, but this is now quite rare in the case of listed issues. (Among the companies that since 1935 have disclosed the amount of good-will formerly included in their property accounts are American Steel Foundries, American Can, Harbison Walker Repractories, Loose-Wiles Biscuit, and United States Steel. In nearly all these cases the good-will was written off against surplus.)
+
+Criticism may properly be voiced against the practice of a great many companies in stating only the *net* figure for their property account without showing the deduction for depreciation. Other shortcomings sometimes met are the failure to state the market value of securities owned–*e.g.*, Oppenheim Collins and Company in 1932; to identify “investments” as marketable or nonliquid–*e.g.*, Pittsburgh Plate Glass Company; to value the inventory at lower of cost or market–*e.g.*, Celanese Corporation of America in 1931; to state the nature of miscellaneous reserves–*e.g.*, Hazel-Atlas Glass Company; and to state the amount of the company’s own securities held in the treasury–*e.g.*, American Arch Company.
