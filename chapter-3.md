@@ -91,3 +91,7 @@ Compelling a company to supply information involves expensive legal proceedings 
 ### Information Regarding the Industry
 
 Statistical data respecting industries as a whole are available in abundance. The *Survey of Current Business*, published by the United States Department of Commerce, gives monthly figures on output, consumption, stocks, unfilled orders, etc., for many different lines. Annual data are contained in the Statistical Abstract, the World almanac, and other compendiums. More detailed figures are available in the Biennial Census of Manufactures.
+
+Many important summary figures are published at frequent intervals in the various trade journals. In these publications will be found also a continuous and detailed picture of the current and prospective state of the industry. Thus it is usually possible for the analyst to acquire without undue difficulty a background of fairly complete knowledge of the history and problems of the industry with which he is dealing.
+
+In recent years the leading statistcal agencies have developed additional services containing basic surveys of the principal industrial grounps, supplemented frequently by current data designed to keep the basic surveys up to date.
