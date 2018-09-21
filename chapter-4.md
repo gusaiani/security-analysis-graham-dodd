@@ -65,3 +65,32 @@ Nevertheless, we shall embody our principle in the following additional criterio
 The extent to which the distinction between investment and speculation may depend upon the underlying facts, including the element of price, rather than on any easy generalization, may be brought home in somewhat extreme fashion by two contrasting examples based upon General Electric Special (*i.e.*, Preferred) stock, which occurred in successive months.
 
 *Example 1:* In December 1934 this issue sold at 12¾. It paid 6% on $10 par and was callable on any dividend date at 11. In spite of the preeminent quality of this issue, as far as safety of dividends was concerned, the buyer at 12¾ was *speculating* to the extent of more than 10% of his principal. He was virtually wagering that the issue would not be called for some years to come. As it happened, the issue was called that very month for redemption at $11 per share on April 15, 1935.
+
+*Example 2:* After the issue was called, the price promptly declined to 11. At that time the issue offered an unusual opportunity for profitable *short-term investment on margin*. Brokers buying the shares at 11 (without paying commission), say on January 15, 1935, could have borrowed $10 per share thereon at not more than 2% per annum. This operation would have netted a sure return at the rate of 40% per annum on the capital invested–as shown by the following calculation:
+
+<table>
+  <tr>
+    <td>Cost of 1,000 shares at 11 net</td>
+    <td>$11,000</td>
+  </tr>
+  <tr>
+    <td>Redeemed Apr. 15, 1935, at 11 plus dividend</td>
+    <td>11,150</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Gross profit</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>Less 3 months’ interest at 2% on $10,000</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Net profit</td>
+    <td>100</td>
+  </tr>
+</table>
+
+Net profit of $100 on $1,000 in 3 months is equivalent to annual return of 40%.
+
+Needless to say, the safety, and the resultant *investment* character, of this unusual operation derived solely from the fact that the holder could count absolutely on the redemption of the shares in April 1935.
