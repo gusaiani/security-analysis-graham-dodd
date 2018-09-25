@@ -94,3 +94,9 @@ The extent to which the distinction between investment and speculation may depen
 Net profit of $100 on $1,000 in 3 months is equivalent to annual return of 40%.
 
 Needless to say, the safety, and the resultant *investment* character, of this unusual operation derived solely from the fact that the holder could count absolutely on the redemption of the shares in April 1935.
+
+The conception of investment advanced above is broader than most of those in common use. Under it investment may conceivably–though not usually–be made in stocks, carried on margin, and purchased with the chief interest in a quick profit. In these respects it would run counter to the first four distinctions which we listed at the outset. But to offset this seeming laxity, we insist on a satisfactory assurance of safety based on adequate analysis. We are thus led to the conclusion that the viewpoint of analysis and the viewpoint of investment are largely identical in their scope.
+
+### Other Aspects of Investment and Speculation
+
+**Relation of the Future to Investment and Speculation.** It may be said, with some approximation to the truth, that investment is grounded on the past whereas speculation looks primarily to the future. But this statement is far from complete. Both investment and speculation must meet the test of the future; they are subject to its vicissitudes and are judged by its verdict. But what we have said about the analyst and the future applies equally well to the concept of investment. For investment, the future is essentially something to be guarded against rather than to be profited from. If the future brings improvement, so much the better; but investment as such cannot be founded in any important degree upon the expectation of improvement. Speculation, on the other hand, may always properly–and often soundly–derive its basis and its justification from prospective developments that differ from past performance.
