@@ -100,3 +100,28 @@ The conception of investment advanced above is broader than most of those in com
 ### Other Aspects of Investment and Speculation
 
 **Relation of the Future to Investment and Speculation.** It may be said, with some approximation to the truth, that investment is grounded on the past whereas speculation looks primarily to the future. But this statement is far from complete. Both investment and speculation must meet the test of the future; they are subject to its vicissitudes and are judged by its verdict. But what we have said about the analyst and the future applies equally well to the concept of investment. For investment, the future is essentially something to be guarded against rather than to be profited from. If the future brings improvement, so much the better; but investment as such cannot be founded in any important degree upon the expectation of improvement. Speculation, on the other hand, may always properly–and often soundly–derive its basis and its justification from prospective developments that differ from past performance.
+
+**Types of “Investment.”** Assuming that the student has acquired a fairly clear concept of investment in the distinctive sense that we have just developed, there remains the confusing effect of the prevalent use of the term in the broader meanings referred to at the beginning of this chapter. It might be useful if some descriptive adjective were regularly employed,  when care is needed, to designate the particular meaning intended. Let us tentatively suggest the following:
+
+<table>
+  <tr>
+    <td>1. Business investment</td>
+    <td>Referring to money put or held in a business.</td>
+  </tr>
+  <tr>
+    <td>2. Financial investment or investment generally</td>
+    <td>Referring to securities generally.</td>
+  </tr>
+  <tr>
+    <td>3. Sheltered investment</td>
+    <td>Referring to securities regarded as subject to small risk by reason of their prior claim on earnings or because they rest upon an adequate taxing power.</td>
+  </tr>
+  <tr>
+    <td>4. Analyst’s Investment</td>
+    <td>Referring to operations that, upon thorough study, promise safety of principal and an adequate return.</td>
+  </tr>
+</table>
+
+Evidently these different types of investment are not mutually exclusive. A good bond, for example, would fall under all four headings. Unless we specify otherwise, we shall employ the word “investment,” and its relatives, in the sense of “analyst’s investment,” as developed in this chapter.
+
+**Types of Speculation.** The distinction between speculation and gambling assumes significance when the activities of Wall Street are subjected to critical scrutiny. It is more or less the official position of the New York Stock Exchange that “gambling” represents the creation of risks not previously existing–*e.g.*, race-track betting–whereas “speculation” applies to the taking of risks that are implicit in a situation and so must be taken by someone. A formal distinction between “intelligent speculation” and “unintelligent speculation” is no doubt open to strong theoretical objections, but we do think that it has practical utility. Thus we suggest the following:
