@@ -125,3 +125,18 @@ The conception of investment advanced above is broader than most of those in com
 Evidently these different types of investment are not mutually exclusive. A good bond, for example, would fall under all four headings. Unless we specify otherwise, we shall employ the word “investment,” and its relatives, in the sense of “analyst’s investment,” as developed in this chapter.
 
 **Types of Speculation.** The distinction between speculation and gambling assumes significance when the activities of Wall Street are subjected to critical scrutiny. It is more or less the official position of the New York Stock Exchange that “gambling” represents the creation of risks not previously existing–*e.g.*, race-track betting–whereas “speculation” applies to the taking of risks that are implicit in a situation and so must be taken by someone. A formal distinction between “intelligent speculation” and “unintelligent speculation” is no doubt open to strong theoretical objections, but we do think that it has practical utility. Thus we suggest the following:
+
+<table>
+  <tr>
+    <td>1. Intelligent speculation</td>
+    <td>The taking of a risk that appears justified after careful weighing of the pros and cons.</td>
+  </tr>
+  <tr>
+    <td>2. Unintelligent speculation</td>
+    <td>Risk taking without adequate study of the situation.</td>
+  </tr>
+</table>
+
+In the field of general business most well-considered enterprises would belong in the class of intelligent speculations as well as representing “business investments” in the popular sense. If the risk of loss is very small–an exceptional occurrence–a particular business venture may qualify as an analyst’s investment in our special sense. On the other hand, many ill-conceived businesses must be called unintelligent speculations. Similarly, in the field of finance, a great deal of common-stock buying is done with reasonable care and may be called inteligent speculation; a great deal, also, is done upon inadequate consideration and for unsound reasons ahd thus must be called unintelligent; in the exceptional case a common stock may be bought on such attractive terms, qualitative and quantitative, as to set the inherent risk at a minimum and justify the title of analyst’s investment.
+
+**Investment and Speculative Components.** A proposed purchase that cannot qualify as an “analyst’s investment” automatically falls into the speculative category. But at times it may be useful to view such a purchase somewhat differently and to divide the price paid into an investment and a speculative component. Thus the analyst, considering General Electric common at its average price of $38 in 1939, might conclude that up to, say, $25 per share is justified from the strict standpoint of investment value. The remaining $13 per share will represent the stock market’s average appraisal of the company’s excellent long-term prospects, including therein, perhaps, a rather strong psychological bias in favor of this outstanding enterprise. On the basis of such a study, the analyst would declare that the price of $38 for General Electric includes an investment component of some $25 per share and a speculative component of about $13 per share. If this is sound, it would follow that at a price of 25 or less, General Electric common would constitute an “analyst’s investment” completely; but above that price the buyer should recognize that he is paying something for the company’s very real speculative possibilities.
