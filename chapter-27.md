@@ -359,3 +359,116 @@ Perhaps the most effective way of clarifying the subject is through the historic
 </table>
 
 American Can was a typical example of a prewar speculative stock. It was speculative for three good and sufficient reasons: (1) It paid no dividend; (2) its earnings were small and irregular; (3) the issue was “watered,” *i.e*, a substantial part of its stated value represented no actual invstment in the business. By contrast, Pennsylvania, Atchison, and National Biscuit were regarded as investment common stocks—also for three good and sufficient reasons: (1) They showed a satisfactory record of continued dividends; (2) the earnings were reasonably stable and averaged substantially in excess of the dividends paid; and (3) each dollar of stock was backed by a dollar or more of actual investment in the business.
+
+##### National Biscuit Company
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Range for stock</th>
+    <th>Earned per share</th>
+    <th>Paid per share</th>
+  </tr>
+  <tr>
+    <td>1909</td>
+    <td>120-97</td>
+    <td>$7.67</td>
+    <td>$5.75</td>
+  </tr>
+  <tr>
+    <td>1910</td>
+    <td>120-100</td>
+    <td>9.86</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1911</td>
+    <td>144-117</td>
+    <td>10.05</td>
+    <td>8.75</td>
+  </tr>
+  <tr>
+    <td>1912</td>
+    <td>161-114</td>
+    <td>9.59</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>1913</td>
+    <td>130-104</td>
+    <td>11.73</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>1914</td>
+    <td>139-120</td>
+    <td>9.52</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>1915</td>
+    <td>132-116</td>
+    <td>8.20</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>1916</td>
+    <td>131-118</td>
+    <td>9.72</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>1917</td>
+    <td>123-80</td>
+    <td>9.87</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>1918</td>
+    <td>111-90</td>
+    <td>11.63</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>(old basis - ignoring stock split)</td>
+    <td>(old basis)</td>
+    <td>(old basis)</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>370-266</td>
+    <td>$35.42</td>
+    <td>$21.00</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>541-352</td>
+    <td>38.15</td>
+    <td>28.00</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>553-455</td>
+    <td>40.53</td>
+    <td>28.00</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>714-518</td>
+    <td>44.24</td>
+    <td>35.00</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>1,309-663</td>
+    <td>49.77</td>
+    <td>42.00</td>
+  </tr>
+</table>
