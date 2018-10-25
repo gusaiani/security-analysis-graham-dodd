@@ -471,4 +471,72 @@ American Can was a typical example of a prewar speculative stock. It was specula
     <td>49.77</td>
     <td>42.00</td>
   </tr>
+  <tr>
+    <td>1928</td>
+    <td>1,367-1,117</td>
+    <td>51.17</td>
+    <td>49.00</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>1,657-980</td>
+    <td>57.40</td>
+    <td>52.50</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>1,628-1,148</td>
+    <td>59.68</td>
+    <td>56.00</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>1,466-637</td>
+    <td>50.05</td>
+    <td>49.00</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>820-354</td>
+    <td>42.70</td>
+    <td>49.00</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>1,061-569</td>
+    <td>36.93</td>
+    <td>49.00</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>866-453</td>
+    <td>27.48</td>
+    <td>42.00</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>637-389</td>
+    <td>22.93</td>
+    <td>31.50</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>678-503</td>
+    <td>30.28</td>
+    <td>35.00</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>584-298</td>
+    <td>28.35</td>
+    <td>28.00</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>490-271</td>
+    <td>30.80</td>
+    <td>28.00</td>
+  </tr>
 </table>
+
+If we study the range of market price of these issues during the decade preceding the World War (or the 1909-1918 period for National Biscuit), we note that American Can fluctuated widely from year to year in the fashion regularly associated with speculative media but that Pennsylvania, Atchison, and National Biscuit showed much narrower variations and evidently tended to oscillate about a base price(*i.e.*, 97 for Atchison, 64 for Pennsylvania, and 120 for National Biscuit) that seemed to represent a well-defined view of their investment or intrinsic value.
