@@ -540,3 +540,190 @@ American Can was a typical example of a prewar speculative stock. It was specula
 </table>
 
 If we study the range of market price of these issues during the decade preceding the World War (or the 1909-1918 period for National Biscuit), we note that American Can fluctuated widely from year to year in the fashion regularly associated with speculative media but that Pennsylvania, Atchison, and National Biscuit showed much narrower variations and evidently tended to oscillate about a base price(*i.e.*, 97 for Atchison, 64 for Pennsylvania, and 120 for National Biscuit) that seemed to represent a well-defined view of their investment or intrinsic value.
+
+##### American Can Company
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Range for stock</th>
+    <th>Earned per share</th>
+    <th>Paid per share</th>
+  </tr>
+  <tr>
+    <td>1904</td>
+    <td>…</td>
+    <td>$0.51</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1905</td>
+    <td>…</td>
+    <td><i>1.39(d)</i></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1906</td>
+    <td>…</td>
+    <td><i>1.30(d)</i></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1907</td>
+    <td>8-3</td>
+    <td><i>0.57(d)</i></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1908</td>
+    <td>10-4</td>
+    <td><i>0.44(d)</i></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1909</td>
+    <td>15-8</td>
+    <td><i>0.32(d)</i></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1910</td>
+    <td>14-7</td>
+    <td><i>0.15(d)</i></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1911</td>
+    <td>13-9</td>
+    <td>0.07</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1912</td>
+    <td>47-11</td>
+    <td>8.86</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1913</td>
+    <td>47-21</td>
+    <td>5.21</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>108-74</td>
+    <td>19.64</td>
+    <td>$5.00</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>164-96</td>
+    <td>20.51</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>297-158</td>
+    <td>32.75</td>
+    <td>7.00</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>379-233</td>
+    <td>26.34</td>
+    <td>13.25</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>466-262</td>
+    <td>24.66</td>
+    <td>12.00</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>705-423</td>
+    <td>41.16</td>
+    <td>12.00</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>1,107-516</td>
+    <td>48.12</td>
+    <td>30.00</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>940-628</td>
+    <td>48.48</td>
+    <td>30.00</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>779-349</td>
+    <td>30.66</td>
+    <td>30.00</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>443-178</td>
+    <td>19.56</td>
+    <td>30.00</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>603-297</td>
+    <td>30.24</td>
+    <td>24.00</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>689-542</td>
+    <td>50.32</td>
+    <td>24.00</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>898-660</td>
+    <td>34.98</td>
+    <td>24.00</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>825-660</td>
+    <td>34.80</td>
+    <td>36.00</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>726-414</td>
+    <td>36.48</td>
+    <td>24.00</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>631-425</td>
+    <td>26.10</td>
+    <td>24.00</td>
+  </tr>
+</table>
+
+**Prewar Conception of Investment in Common Stocks.** Hence the prewar relationship between analysis and investment on the one hand and price changes and speculation on the other may be set forth as follows: Investment in common stocks was confined to those showing stable dividends and fairly stable earnings; and such issues in turn were expected to maintain a fairly stable market level. The function of analysis was primarily to search for elements of *weakness* in the picture. If the earnings were not properly stated; if the balance sheet revealed a poor current position, or the funded debt was growing too rapidly; if the physical plant was not properly maintained; if dangerous new competition was threatening, or if the company was losing ground in the industry; if the management was deteriorating or was likely to change for the worse; if there was reason to fear for the future of the industry as a whole–any of these defects or some other one might be sufficient to condemn the issue from the standpoint of the cautious investor.
+
+On the positive side, analysis was concerned with finding those issues which met all the requirements of investment and *in addition* offered the best chance for future enhancement. The process was largely a matter of comparing similar issues in the investment class, *e.g.*, the group of dividend-paying Northwestern railroads. Chief emphasis would would be laid upon the relative showing for past years, in particular the average earnings in relation to price and the stability and the trend of earnings. To a lesser extent, the analyst sought to look into the future and to select the industries or the individual companies that were likely to show the most rapid growth.
+
+*Speculation Characterized by Emphasis on Future Prospects.* In the prewar period it was the well-considered view that when *prime emphasis* was laid upon what was expected of the future, instead of what had been accomplished in the past, a speculative attitude was thereby taken. Speculation, in its etymology, meant looking forward; investment was allied to “vested interests”–to property rights and values taking root in the *past*. The future was uncertain, therefore speculative; the past was known, therefore the source of safety. Let us consider a buyer of American Can common in 1910. He may have bought it believing that its price was going to advance or be “put up” or that its earnings were going to increase or that it was soon going to pay a dividend or possibly that it was destined to develop into one of the country’s strongest industrials. From the prewar standpoint, although one of these reasons may have been more intelligent or creditable than aonother, each of them constituted a *speculative* motive for the purchase.
+
+*Technique of Investing in Common Stocks Resembled That for Bonds.* Evidently there was a close similarity between the technique of investing in common stocks and that of investing in bonds. The common-stock investor, also, wanted a stable business and one showing an adequate margin of earnings over dividend requirements. Naturally he had to content himself with a smaller margin of safety than he would demand of a bond, a disadvantage that was offset by a larger income return (6% was standard on a good common stock compared with 4½% on a high-grade bond), by the chance of an increased dividend if the business continued to prosper, and–generally of least importance in his eyes–by the possibility of a profit. A common-stock investor was likely to consider himself as in no very different position from that of a purchaser of second-grade bonds; essentially his venture amounted to sacrificing a certain *degree* of safety in return for larger income. The Pennsylvania and Atchison examples during the 1904-1913 decade will supply specific confirmation of the foregoing description.
