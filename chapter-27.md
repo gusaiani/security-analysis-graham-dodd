@@ -792,3 +792,60 @@ The attractiveness of common stocks for the long pull thus lay essentially in th
 In fact their rush to take advantage of the inherent attractiveness of common stocks itself produced conditions entirely different from those which had given rise to this attractiveness and upon which it basically depended, *viz.*, the fact that earnings had averaged some 10% on market price. As we have seen, Edgar Lawrence Smith plausibly explained the growth of common-stock values as arising from the building up of asset values through the reinvestment of surplus earnings. Paradoxically enough, the new-era theory that exploited this finding refused to accord the slightest importance to the asset values behind the stocks it favored. Furthermore, the validity of Mr. Smith’s conclusions rested necessarily upon the assumption that common stocks could be counted on to behave in the future about as they had in the past. Yet the new-era theory threw out of account the past earnings of corporations except in so far as they were regarded as pointing to a *trend* for the future.
 
 *Examples Showing Emphasis on Trend of Earnings.* Take three companies with the follwoing exhibits:
+
+##### Earnings per Share
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Company A (Electric Power & Light)</th>
+    <th>Company B (Bangor & Aroostook R. R.)</th>
+    <th>Company C (Chicago Yellow Cab)</th>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>$1.01</td>
+    <td>$6.22</td>
+    <td>$5.52</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>1.45</td>
+    <td>8.69</td>
+    <td>5.60</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>2.09</td>
+    <td>8.41</td>
+    <td>4.54</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>2.37</td>
+    <td>6.94</td>
+    <td>4.58</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>2.98</td>
+    <td>8.30</td>
+    <td>4.47</td>
+  </tr>
+  <tr>
+    <td>5-year average</td>
+    <td>$1.98</td>
+    <td>$7.71</td>
+    <td>$4.94</td>
+  </tr>
+  <tr>
+    <td>High price, 1929</td>
+    <td>86⅝</td>
+    <td>90⅜</td>
+    <td>35</td>
+  </tr>
+</table>
+
+The 1929 high prices for these three companies show that the new-era attitude was enthusiastically favorable to Company *A*, unimpressed by Company *B*, and definitely hostile to Company *C*. The market considered Company *A* shares worth more than twice as much as Company *C* shares, although the latter earned 50% more per share than Company *A* in 1929 and its average earnings were 150% greater.
+
+**Average vs. Trend of Earnings.** These relationships between price and earnings in 1929 show definitely that the past exhibit was no longer a measure of normal earning power but merely a weather vane to show which way the winds of profit were blowing. That the *average earnings* had ceased to be a dependable measure of future earnings must indeed be admitted, because of the greater instability of the typical business to which we have previously alluded. But it did not follow at all that the *trend of earnings* must therefore be a more dependable guide than the *average*; and even if it were more dependable, it would not necessarily provide a safe basis, entirely by itself, for investment.
