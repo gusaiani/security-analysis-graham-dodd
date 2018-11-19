@@ -854,4 +854,58 @@ The accepted assumption that because earnings have moved in a certain direction 
 
 *Danger in Projecting Trends into the Future.* There are several reasons why we cannot be sure that a trend of profits shown in the past will continue in the future. In the broad economic sense, there is the law of diminishing returns and of increasing competition which must finally flatten out any sharply upward curve of growth. There is also the flow and ebb of the business cycle, from which the particular danger arises that the earnings curve will look most impressive on the very eve of a serious setback. Considering the 1927–1929 period we observe that since the trend-of-earnings theory was at bottom only a pretext to excuse rank speculation under the guise of “investment,” the profit-mad public was quite willing to accept the flimsiest evidence of the existence of a favorable trend. Rising earnings for a period of five, or four, or even three years only, were regarded as an assurance of uninterrupted future growth and a warrant for projecting the curve of profits indefinitely upward.
 
-*Example:* The prevalent heedlessness on this score was most evident in connection with the numerous common-stock flotations during this period. The craze for a showing of rising profits resulted in the promotion of many industrial enterprises that had been favored by temporary good fortune and were just approaching, or had already reached, the peak of their prosperity. A typical example of this practice is found in the offering of preferred and common stock of Schletter and Zander, Inc., a manufacturer of hosiery (name changed later to Signature Hosiery Company).
+*Example:* The prevalent heedlessness on this score was most evident in connection with the numerous common-stock flotations during this period. The craze for a showing of rising profits resulted in the promotion of many industrial enterprises that had been favored by temporary good fortune and were just approaching, or had already reached, the peak of their prosperity. A typical example of this practice is found in the offering of preferred and common stock of Schletter and Zander, Inc., a manufacturer of hosiery (name changed later to Signature Hosiery Company). The company was organized in 1929, to succeed a company organized in 1922, and the financing was effected by the sale of 44,810 shares of $3.50 convertible preferred shares at $50 per share and 261,349 voting-trust certificates for common stock at $26 per share. The offering circular presented the following exhibit of earnings from the constituent properties:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net after federal taxes</th>
+    <th>Per share of preferred</th>
+    <th>Per share of common</th>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>$172,058</td>
+    <td>$3.84</td>
+    <td>$0.06</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>339,920</td>
+    <td>7.58</td>
+    <td>0.70</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>563,856</td>
+    <td>12.58</td>
+    <td>1.56</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>1,021,308</td>
+    <td>22.79</td>
+    <td>3.31</td>
+  </tr>
+</table>
+
+The subsequent record was as follows:
+
+<table>
+  <tr>
+    <td>1929</td>
+    <td>812,136</td>
+    <td>18.13</td>
+    <td>2.51</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>179,875(d)</td>
+    <td>4.01(d)</td>
+    <td>1.81(d)</td>
+  </tr>
+</table>
+
+In 1931 liquidation of the company’s assets was begun, and a total of $17 per share in liquidating dividends on the preferred had been paid up to the end of 1933. (Assets then remaining for liquidation were negligible.) The common was wiped out.
+
+This example illustrates one of the paradoxes of financial history, *viz.*, that at the very period when the increasing instability of individual companies had made the purchase of common stocks far more precarious than before, the gospel of common stocks as safe and satisfactory investments was preached to and avidly accepted by the American public.
