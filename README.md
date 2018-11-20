@@ -16,3 +16,4 @@
 
 [Chapter 27: The Theory of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-27.md)
 
+[Chapter 28: Newer Canons of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-28.md)
