@@ -33,3 +33,46 @@ They would be rash authors who would express themselves unequivocably for or aga
  1. *What Are Growth Companies?* The National Investors Corporation discussion defined growth companies as those “whose earnings move forward from cycle to cycle.” How many cycles are needed to meet this definition? The fact of the matter seems to be that prior to 1930 a large proportion of *all* publicly owned American businesses grew from cycle to cycle. The distinguishing characteristic of growth companies, as now understood, developed only in the period between 1929 and 1936–1937. In this *one* cycle we find that most companies failed to regain their full depression losses. The minority that did so stand out from the rest, and it is these which are now given the complimentary title of “growth companies.” But since this distinction is in reality based on performance during a single cycle, how sure can the investor be that it will be maintained over the longer future?
 
  It is true, from what we have previously said, that many of the companies that expanded from 1929 to 1937 had participated in the general record of growth prior to 1929, so that they combine the advantages of a long period of upbuilding and an *exceptional* ability to expand in the last decade. The following are examples of large and well-known companies of this class:
+
+<table>
+  <tr>
+    <td>Air Reduction</td>
+    <td>Monsanto Chemical</td>
+  </tr>
+  <tr>
+    <td>Allis Chalmers</td>
+    <td>Owens-Illinois Glass</td>
+  </tr>
+  <tr>
+    <td>Coca-Cola</td>
+    <td>J. C. Penney</td>
+  </tr>
+  <tr>
+    <td>Commercial Credit</td>
+    <td>Procter & Gamble</td>
+  </tr>
+  <tr>
+    <td>Dow Chemical</td>
+    <td>Sherwin-Williams Paint</td>
+  </tr>
+  <tr>
+    <td>Du Pont</td>
+    <td>Standard Oil of New Jersey</td>
+  </tr>
+  <tr>
+    <td>International Business Machines</td>
+    <td>Scott Paper</td>
+  </tr>
+  <tr>
+    <td>International Nickel</td>
+    <td>Union Carbide and Carbon</td>
+  </tr>
+  <tr>
+    <td>Libbey-Owens-Ford</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+2. *Can the Investor Identify Them?* But our natural enthusiasm for such excellent records is tempered somewhat by a sobering consideration. This is the fact that, viewed historically, most successful companies of the past are found to have pursued a well-defined life cycle, consisting first of a series of struggles and setbacks; second, of a halcyon period of prosperity and persistent growth; which in turn passes over into a final phase of supermaturity—characterized by a slackening of expansion and perhaps an actual loss of leadership or even profitability. It follows that a business that has enjoyed a very long period of increasing earnings may *ipso facto* be nearing its own “saturation point.” Hence the seeker for growth stocks really faces a dilemma; for if he chooses newer companies with a short record of expansion, he runs the risk of being deceived by a temporary prosperity; and if he chooses enterprises that have advanced through several business cycles, he may find this apparent strength to be the harbinger of coming weakness.
+
+We see, therefore, that the identification of a growth company is not so simple a matter as it may at first appear. It cannot be accomplished solely by an examination of the statistics and record but requires a considerable supplement of special investigation and of business judgement. Proponents of the growth-company principle of investment are wont currently to lay great emphasis on the element of industrial research. In the absence of *general* business expansion, exceptional gains are likely to be made by companies supplying new products or processes.
