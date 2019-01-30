@@ -66,3 +66,76 @@ We have seen that the traditional common-stock investor sought to place himself 
     <td>7.00</td>
   </tr>
 </table>
+
+##### Atchison, Topeka, and Santa Fe Railway Company
+
+<table>
+  <tr>
+    <th>1916</th>
+    <th>Range for stock</th>
+    <th>Earned per share</th>
+    <th>Paid per share</th>
+  </tr>
+  <tr>
+    <td>1916</td>
+    <td>109-100</td>
+    <td>$14.74</td>
+    <td>$6.00</td>
+  </tr>
+  <tr>
+    <td>1917</td>
+    <td>108-75</td>
+    <td>14.50</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1918</td>
+    <td>100-81</td>
+    <td>10.59</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1919</td>
+    <td>104-81</td>
+    <td>15.41</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1920</td>
+    <td>90-76</td>
+    <td>12.54</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1921</td>
+    <td>94-76</td>
+    <td>14.69</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1922</td>
+    <td>109-92</td>
+    <td>12.41</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>105-94</td>
+    <td>15.48</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>121-97</td>
+    <td>15.47</td>
+    <td>6.00</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>141-116</td>
+    <td>17.19</td>
+    <td>7.00</td>
+  </tr>
+</table>
+
+The market range of both issues is surprisingly narrow, considering the continuous gyrations of the stock market generally during those periods. The most striking feature of the exhibit is the slight influence exercised both by the irregular earnings of American Sugar and by the exceptionally well-maintained and increasing earning power on the part of Atchison. It is clear that the price of American Sugar was dominated throughout by its $7 rate and that of Atchison by its $6 rate, even though the earnings records would apparently have justified an entirely different range of relative market values.
