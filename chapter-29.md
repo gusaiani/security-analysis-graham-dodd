@@ -156,4 +156,37 @@ Examining this policy more closely, we see that it rests upon two quite distinct
 
 This would be an ideal arrangement. But in practice it is rarely followed. We find that stability of dividends is usually accomplished by the simple expedient of paying out a *small part* of the average earnings. By a *reductio ad absurdum* it is clear that any company that earned $10 per share on the average could readily stabilize its dividend at $1. The question arises very properly if the shareholders might not prefer a much larger aggregate dividend, even with some irregularity. This point is well illustrated in the case of Atchison.
 
-*The Case of Atchison.* Atchison maintained its dividend at the annual rate of $6 for the 15 years between 1910 and 1924. During this time the average earnings were in excess of $12 per share, so that the stability was attained by withholding over half the earnings from the stockholders. Eventually this policy bore fruit in an advance of the dividend to $10, which rate was paid between 1927 and 1931, and was accompanied by a rise in the market price to nearly $300 per share in 1929. Within six months after the last payment at the $10 rate (in December 1931) the dividend was omitted entirely. Viewed critically, the stability of the Atchison dividend between 1910 and 1924 must be considered as of dubious benefit to the stockholders. During its continuance they received an unduly small return in relation to the earnings: when the rate was finally advanced, the importance attached to such a move promoted excessive speculation in the shares; finally, the reinvestment of the enormous sums out of earnings failed to protect the shareholders from a complete loss of income in 1932.
+*The Case of Atchison.* Atchison maintained its dividend at the annual rate of $6 for the 15 years between 1910 and 1924. During this time the average earnings were in excess of $12 per share, so that the stability was attained by withholding over half the earnings from the stockholders. Eventually this policy bore fruit in an advance of the dividend to $10, which rate was paid between 1927 and 1931, and was accompanied by a rise in the market price to nearly $300 per share in 1929. Within six months after the last payment at the $10 rate (in December 1931) the dividend was omitted entirely. Viewed critically, the stability of the Atchison dividend between 1910 and 1924 must be considered as of dubious benefit to the stockholders. During its continuance they received an unduly small return in relation to the earnings: when the rate was finally advanced, the importance attached to such a move promoted excessive speculation in the shares; finally, the reinvestment of the enormous sums out of earnings failed to protect the shareholders from a complete loss of income in 1932. Allowance must be made, of course, for the unprecedented character of the depression in 1932. But the fact remains that the actual operating losses in dollars per share up to the passing of the dividend were entirely insignificant in comparison with the surplus accumulated out of the profits of previous years.
+
+*United States Steel, Another Example.* The Atchison case illustrates the two major objections to what is characterized and generally approved of as a “conservative dividend policy.” The first objection is that stockholders receive *both currently and ultimately* too low a return in relation to the earnings of their property; the second is that the “saving up of profits for a rainy day” often fails to safeguard even the moderate dividend rate when the rainy day actually arrives. A similarly striking example of the ineffectiveness of a large accumulated surplus is shown by that leading industrial enterprise, United States Steel.
+
+The following figures tell a remarkable story:
+
+<table>
+  <tr>
+    <td>Profits available for the common stock, 1901-1930</td>
+    <td>$2,344,000,000</td>
+  </tr>
+  <tr>
+    <td colspan="2">Dividends paid:</td>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td>891,000,000</td>
+  </tr>
+  <tr>
+    <td>Stock</td>
+    <td>203,000,000</td>
+  </tr>
+  <tr>
+    <td>Undistributed earnings</td>
+    <td>1,250,000,000</td>
+  </tr>
+  <tr>
+    <td>Loss after preferred dividends Jan. 1, 1931—June 30, 1932</td>
+    <td>$59,000,000</td>
+  </tr>
+  <tr>
+    <td colspan="2">Common dividend passed June 30, 1932.</td>
+  </tr>
+</table>
