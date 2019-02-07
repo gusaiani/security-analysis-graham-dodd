@@ -190,3 +190,14 @@ The following figures tell a remarkable story:
     <td colspan="2">Common dividend passed June 30, 1932.</td>
   </tr>
 </table>
+
+
+A year and a half of declining business was sufficient to outweigh the beneficial influence of 30 years of practically continuous reinvestment of profits.
+
+**The Merits of “Plowing-back” Earnings.** These examples serve to direct our critical attention to the other assumption on which American dividend policies are based, *viz.*, that it is advantageous to the stockholders if a large portion of the annual earnings are retained in the business. This may well be true, but in determining its truth a number of factors must be considered that are usually left out of account. The customary reasoning on this point may be stated in the form of a syllogism, as follows:
+
+Major premise—Whatever benefits the company benefits the stockholders.
+Minor premise—A company is benefited if its earnings are retained rather than paid out in dividends.
+Conclusion—Stockholders are benefited by the withholding of corporate earnings.
+
+The weakness of the foregoing reasoning rests of course in the major premise. Whatever benefits a business benefits its owners, *provided* the benefit is not conferred upon the corporation at the *expense* of the stockholders. Taking money away from the stockholders and presenting it to the company will undoubtedly strengthen the enterprise, but whether or not it is to the owners’ advantage is an entirely different question. It is customary to commend managements for “plowing earnings back into the property”; but, in measuring the benefits from such a policy, the time element is usually left out of account. It stands to reason that, if a business paid out only a small part of its earnings in dividends, the value of the stock should increase over a period of years, but it is by no means so certain that this increase will compensate the stockholders for the dividends withheld from them, *particularly if interest on these amounts is compounded.
