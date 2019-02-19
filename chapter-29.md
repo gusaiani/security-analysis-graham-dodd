@@ -219,3 +219,20 @@ It is important to note that this feature is peculiar to American corporate fina
 In the original sale of F. W. Woolworth Company shares to the public, made in 1911, the company issued preferred stock to represent all the tangible assets and common stock to represent the good-will. The balance sheet accordingly carried a good-will item of $50,000,000 among the assets, offsetting a corresponding liability for 500,000 shares of common, par $100. As Woolworth prospered, a large surplus was built up of earnings, and amounts were charged against this surplus to reduce the good-will account, until finally it was written down to $1.
 
 In the case of United States Steel Corporation, the original capitalization exceeded tangible assets by no less than $768,000,000, representing all the common and more than half the preferred stock. This “water” in the balance sheet was not shown as a good-will item, as in the case of Woolworth, but was concealed by an overvaluation of the fixed assets (*i.e.*, of the “Property Investment Accounts”). Through various accounting methods, however, the management applied earnings from operations to the writing off of these intangible or fictitious assets. By the end of 1929 a total of $508,000,000—equal to the entire original common-stock issue—had been taken from earnings or surplus and deducted from the property account. The balance of $260,000,000 was set up separately as an intangible asset in the 1937 report and then written off entirely in 1938 by means of a reduction in the stated value of the common stock.
+
+Some of the accounting policies above referred to will be discussed again, with respect to their influence on investment values, in our chapters on Analysis of the Income Account and Balance-sheet Analysis. From the dividend standpoint it is clear that in both of these examples the decision to retain large amounts of earnings, instead of paying them out to the stockholders, was due in part to the desire to eliminate intangible items from the asset accounts.
+
+**Conclusions from the Foregoing.** From the foregoing discussion certain conclusions may be drawn. These bear, first on the very practical question of what significance should be accorded the dividend rate as compared with the reported earnings and, secondly, upon the more theoretical but exceedingly important question of what dividend policies should be considered as most desirable from the standpoint of the stockholders’ interest.
+
+Experience would confirm the established verdict of the stock market that a dollar of earnings is worth more to the stockholder if paid him in dividends than when carried to surplus. The common-stock investor should ordinarily require both an adequate earning power and an adequate dividend. If the dividend is disproportionately small, an investment purchase will be justified only on an exceptionally impressive showing of earnings (or by a very special situation with respect to liquid assets). On the other hand, of course, an extra-liberal dividend policy cannot compensate for inadequate earnings, since with such a showing the dividend rate must necessarily be undependable.
+
+To aid in developing these ideas quantitatively, we submit the following definitions:
+
+  The *dividend rate* is the amount of annual dividends paid per share, expressed either in dollars or as a percentage of a $100 par value. (If the par value is less than $100, it is inadvisable to refer to the dividend rate as a percentage figure since this may lead to confusion.)
+
+  The *earnings rate* is the amount of annual earnings per share, expressed either in dollars or as a percentage of a $100 par value.
+
+  The *dividend ratio***, *dividend return* or *dividend yield*, is the ratio of the dividend paid to the market price (*e.g.*, a stock paying $6 annually and selling at 120 has a dividend ration of 5%).
+
+  The *earnings ratio*, *earnings return* or *earnings yield*, is the ration of the annual earnings to the market price (*e.g.*, a stock earning $6 and selling at 50 shows an earnings yield of 12%).
+
