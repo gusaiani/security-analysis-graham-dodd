@@ -247,3 +247,95 @@ In the opposite case a similar stock, *C*, may earn $7 but pay $6. Here the inve
 Were this principle to be generally accepted, the withholding of earnings would not be taken as a matter of course and of arbitrary determination by the management, but it would require justification corresponding to that now expected in the case of changes in capitalization and of the sale of additional stock. The result would be to subject dividend policies to greater scrutiny and more intelligent criticism than they now receive, thus imposing a salutary check upon the tendency of managements to expand unwisely and to accumulate excessive working capital.
 
 If it should become the standard policy to disburse the major portion of each year’s earnings (as is done abroad), then the rate of dividend will vary with business conditions. This would apparently introduce an added factor of instability into stock values. But the objection to the present practice is that is *fails* to produce the stable dividend rate which is its avowed purpose and the justification for the sacrifice it imposes. Hence instead of a dependable dividend that mitigates the uncertainty of earnings we have a frequently arbitrary and unaccountable dividend policy that aggravates the earnings hazard. The sensible remedy would be to transfer to the stockholder the task of averaging out his own annual income return. Since the common-stock investor must form some fairly satisfactory opinion of average earning power, which transcends the annual fluctuations, he may as readily accustom himself to forming a similar idea of average *income*. As in fact the two ideas are substantially identical, dividend fluctuations of *this kind* would not make matters more difficult for the common-stock investor. In the end such fluctuations will work out more to his advantage than the present method of attempting, usually unsuccessfully, to stabilize the dividend by large additions to the surplus account. On the former basis, the stockholders’s average income would probably be considerably larger.
+
+*A Paradox.* Although we have concluded that the payment of a liberal portion of the earnings in dividends adds definitely to the attractiveness of a common stock, it must be recognized that this conclusion involves a curious paradox. Value is increased by taking away value. The more the stockholder subtracts in dividends from the capital and surplus fund the larger value he places upon what is left. It is like the famous legend of the Sibylline Books, except that here the price of the remainder is *increased* because part has been taken away.
+
+This point is well illustrated by a comparison of Atchison and Union Pacific—two railroads of similar standing—over the ten-year period between January 1, 1915, and December 31, 1924.
+
+<table>
+  <tr>
+    <th>Item - per share</th>
+    <th>Union Pacific<th>
+    <th>Atchison</th>
+  </tr>
+  <tr>
+    <td>Earned, 10 years 1915—1924</td>
+    <td>$142.00</td>
+    <td>$137.00</td>
+  </tr>
+  <tr>
+    <td>Net adjustments in surplus account</td>
+    <td>dr. 1.50</td>
+    <td>cr. 13</td>
+  </tr>
+  <tr>
+    <td>  <i>Total available for stockholders</i></td>
+    <td>$140.50</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
