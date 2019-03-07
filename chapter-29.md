@@ -274,68 +274,81 @@ This point is well illustrated by a comparison of Atchison and Union Pacific—t
     <td>$150</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Dividends paid</td>
+    <td>$97.50</td>
+    <td>$60</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Increase in market price</td>
+    <td>33.00</td>
+    <td>24</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>  <i>Total realizable by stockholders</td>
+    <td>$130.50</td>
+    <td>$85.00</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Increase in earnings, 1924 over 1914</td>
+    <td>9%</td>
+    <td>109%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Increase in book value, 1924 over 1914</td>
+    <td>25%</td>
+    <td>70%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Increase in dividend rate, 1924 over 1914</td>
+    <td>25%</td>
+    <td>none</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Increase in market price, 1924 over 1914</td>
+    <td>28%</td>
+    <td>27%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Market price, Dec. 31, 1914</td>
+    <td>116</td>
+    <td>93</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Market price, Dec. 31, 1924</td>
+    <td>149</td>
+    <td>118</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Earnings, year ended June 30, 1914</td>
+    <td>$13.10</td>
+    <td>$7.40</td>
+  </tr>
+  <tr>
+    <td>Earnings, calendar year 1924</td>
+    <td>14.30</td>
+    <td>15.45</td>
   </tr>
 </table>
+
+It is to be noted that because Atchison failed to increase its dividend the market price of the shares failed to reflect adequately the large increase both in earning power and in book value. The more liberal dividend policy of Union Pacific produced the opposite result.
+
+This anomaly of the stock market is explained in good part by the underlying conflict of the two prevailing ideas regarding dividends which we have discussed in this chapter. In the following brief summary of the situation we endeavor to indicate the relation between the theoretical and the practical aspects of the dividend question.
+
+**Summary**
+
+1. In some cases the stockholders derive positive benefits from an ultraconservative dividend policy, *i.e.*, through much larger eventual earnings and dividends.
