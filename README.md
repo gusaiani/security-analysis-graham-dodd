@@ -19,3 +19,5 @@
 [Chapter 28: Newer Canons of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-28.md)
 
 [Chapter 29: The Dividend Factor in Common-stock Analysis](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-29.md)
+
+[Chapter 30: Analysis of The Income Account](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-30.md)
