@@ -23,3 +23,16 @@ The foregoing may be summarized in the following formula:
 ```
 Price = current earnings per share × quality coefficient
 ```
+
+The result of this procedure is that in most cases the “earnings per share” have attained a weight in determining value that is equivalent to the *weight of all the other factors taken together*. The truth of this is evident if it be remembered that the “quality coefficient” is itself largely determined by the *earnings trend*, which in turn is taken from the stated earnings over a period.
+
+**Earnings Not Only Fluctuate but Are Subject to Arbitrary Determination.** But these earnings per share, on which the entire edifice of value has come to be built, are not only highly fluctuating but are subject also in extraordinary degree to arbitrary determination and manipulation. It will be illuminating if we summarize at this point the various devices, legitimate and otherwise, by which the per-share earnings may *at the choice of those in control* be made to appear either larger or smaller.
+
+1. By allocating items to surplus instead of to income, or *vice versa*.
+2. By over-or understating amortizaion and other reserve charges.
+3. By varying the capital structure, as between senior securities and common stock. (Such moves are decided upon by managements and ratified by the stockholders as a matter of course.)
+4. By the use made of large capital funds not employed in the conduct of the business.
+
+**Significance of the Foregoing to the Analyst.** These intricacies of corporate accounting and financial policies undoubtedly provide a broad field for the activities of the securities analyst. There are unbounded opportunities for shrewd detective work, for critical comparison, for discovering and pointing out a state of affairs quite diffecent from that indicated by the publicized “per-share earnings.”
+
+That this work may be of exceeding value cannot be denied. In a number of cases it will lead to a convincing conclusion that the market price is far out of line with intrinsic or comparative worth and hence to profitable action based upon this sound foundation. But it is necessary to caution the analyst against overconfidence in the practical utility of his findings. It is always good to know the truth, but it may not always be wise to act upon it, particularly in Wall Street.
