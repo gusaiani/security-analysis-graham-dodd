@@ -29,10 +29,26 @@ The result of this procedure is that in most cases the “earnings per share” 
 **Earnings Not Only Fluctuate but Are Subject to Arbitrary Determination.** But these earnings per share, on which the entire edifice of value has come to be built, are not only highly fluctuating but are subject also in extraordinary degree to arbitrary determination and manipulation. It will be illuminating if we summarize at this point the various devices, legitimate and otherwise, by which the per-share earnings may *at the choice of those in control* be made to appear either larger or smaller.
 
 1. By allocating items to surplus instead of to income, or *vice versa*.
-2. By over-or understating amortizaion and other reserve charges.
+2. By over-or understating amortization and other reserve charges.
 3. By varying the capital structure, as between senior securities and common stock. (Such moves are decided upon by managements and ratified by the stockholders as a matter of course.)
 4. By the use made of large capital funds not employed in the conduct of the business.
 
-**Significance of the Foregoing to the Analyst.** These intricacies of corporate accounting and financial policies undoubtedly provide a broad field for the activities of the securities analyst. There are unbounded opportunities for shrewd detective work, for critical comparison, for discovering and pointing out a state of affairs quite diffecent from that indicated by the publicized “per-share earnings.”
+**Significance of the Foregoing to the Analyst.** These intricacies of corporate accounting and financial policies undoubtedly provide a broad field for the activities of the securities analyst. There are unbounded opportunities for shrewd detective work, for critical comparison, for discovering and pointing out a state of affairs quite different from that indicated by the publicized “per-share earnings.”
 
-That this work may be of exceeding value cannot be denied. In a number of cases it will lead to a convincing conclusion that the market price is far out of line with intrinsic or comparative worth and hence to profitable action based upon this sound foundation. But it is necessary to caution the analyst against overconfidence in the practical utility of his findings. It is always good to know the truth, but it may not always be wise to act upon it, particularly in Wall Street.
+That this work may be of exceeding value cannot be denied. In a number of cases it will lead to a convincing conclusion that the market price is far out of line with intrinsic or comparative worth and hence to profitable action based upon this sound foundation. But it is necessary to caution the analyst against overconfidence in the practical utility of his findings. It is always good to know the truth, but it may not always be wise to act upon it, particularly in Wall Street. And it must always be remembered that the truth that the analyst uncovers is first of all not the *whole* truth and, secondly, not the *immutable* truth. The result of his study is only a *more nearly correct version of the past*. His information may have lost its relevance by the time he acquires it, or in any event by the time the market place is finally ready to respond to it.
+
+With full allowance for these pitfalls, it goes without saying, none the less, that security analysis must devote thoroughgoing study to corporate income accounts. It will aid our exposition if we classify this study under three headings, *viz.:*
+
+1. The accounting aspect. Leading question: What are the true earnings for the period studied?
+2. The business aspect. Leading question: What indications does the earnings record carry as to the *future* earning power of the company?
+3. The aspect of investment finance. Leading question: What elements in the earnings exhibit must be taken into account, and what standards followed, in endeavoring to arrive at a reasonable *valuation* of the shares?
+
+### Criticism and Restatement of the Income Account
+
+If an income statement is to be informing in any true sense, it must at least present a fair and undistorted picture of the year’s operating results. Direct misstatement of the figures in the case of publicly owned companies is a rare occurrence. The Ivar Kreuger frauds, revealed in 1932, partook of this character, but these were quite unique in the baldness as well as in the extent of the deception. The statements of most important companies are audited by independent public accountants, and their reports are reasonably dependable within the rather limited sphere of accounting accuracy. But from the standpoint of common-stock analysis these audited statements may require critical interpretation and adjustment, especially with respect to three important elements:
+
+1. Nonrecurrent profits and losses
+2. Operations of subsidiaries or affiliates.
+3. Reserves.
+
+**General Observations on the Income Account.** Accounting procedure allows considerable leeway to the management in the method of treating nonreccurent items.
