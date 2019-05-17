@@ -51,4 +51,16 @@ If an income statement is to be informing in any true sense, it must at least pr
 2. Operations of subsidiaries or affiliates.
 3. Reserves.
 
-**General Observations on the Income Account.** Accounting procedure allows considerable leeway to the management in the method of treating nonreccurent items.
+**General Observations on the Income Account.** Accounting procedure allows considerable leeway to the management in the method of treating nonrecurrent items. It is a standard and proper rule that transactions applicable to past years should be excluded from current income and entered as a charge or credit direct to the surplus account. Yet there are many kinds of entries that may technically be considered part of the current year’s results but that are none the less of a special and nonrecurrent nature. Accounting rules permit the management to decide whether to show these operations as part of the *income* or to report them as adjustments of *surplus*. Following are a number of examples of entries of this type:
+
+1. Profit or loss on sale of fixed assets.
+2. Profit or loss on sale of marketable securities.
+3. Discount or premium on retirement of capital obligations.
+4. Proceeds of life insurance policies.
+5. Tax refunds and interest thereon.
+6. Gain or loss as result of litigation.
+7. Extraordinary write-downs of inventory.
+8. Extraordinary write-downs of receivables.
+9. Cost of maintaining nonoperating properties.
+
+Wide variations will be found in corporate practice respecting items such as the foregoing. Under each heading examples may be given of either inclusion in or exclusion from the income account. Which is the better accounting procedure in some of these cases may be a rather controversial question, but, as far as the analyst is concerned, his object requires that all these items be segregated from the *ordinary operating results* of the year. For what the investor chiefly wants to learn from an annual report is the *indicated earning power* under the given set of conditions, *i.e.*, what the company might be expected to earn year after year if the business conditions prevailing during the period were to continue unchanged. (On the other hand, as we shall point out later, all these extraordinary items enter properly into the calculation of earning power as actually shown over a *period of years* in the past.)
