@@ -73,4 +73,48 @@ The third aspect of the income account to which the analyst must give critical a
 
 *Examples:* A glaring example of this practice is presented by the report of the Manhattan Electrical Supply Company for 1926. This showed earnings of $882,000 or $10.25 per share, which was regarded as a very favorable exhibit. But a subsequent application to list additional shares on the New York Stock Exchange revealed that out of this $882,000 reported as earned, no less than $586,700 had been realized through the sale of the company’s battery business. Hence the earnings from ordinary operations were only $295,300, or about $3.40 per share. The inclusion of this special profit in income was particularly objectionable because in the very same year the company had charged to surplus extraordinary *losses* amounting to $544,000. Obviously the special losses belonged to the same category as the special profits, and the two items should have been grouped together. The effect of including the one in income and charging the other to surplus was misleading in the highest degree. Still more discreditable was the failure to make any clear reference to the profit from the battery sale either in the income account itself or in the extended remarks that accompanied it in the annual report.
 
-During the 1931 the United States Steel Corporation reported “special income” of some $19,300,00, the greater part of which was due to “profit on sale of fixed property”—understood to be certain public-utility holdings in Gary, Indiana. This item was included in the year’s earnings and resulted in a final “net income” of $13,000,000. But since this credit was definitely of a nonrecurring nature, the analyst would be compelled to eliminate it from his consideration of the 1931 operating results, which would accordingly register a *loss* of $6,300,000 before preferred dividends.
+During the 1931 the United States Steel Corporation reported “special income” of some $19,300,00, the greater part of which was due to “profit on sale of fixed property”—understood to be certain public-utility holdings in Gary, Indiana. This item was included in the year’s earnings and resulted in a final “net income” of $13,000,000. But since this credit was definitely of a nonrecurring nature, the analyst would be compelled to eliminate it from his consideration of the 1931 operating results, which would accordingly register a *loss* of $6,300,000 before preferred dividends. United States Steel’s accounting method in 1931 is at variance with its previous policy, as shown by its treatment of the large sums received in the form of income-tax refunds in the three preceding years. These receipts were not reported as current income but were credited directly to surplus.
+
+**Profits from Sale of Marketable Securities.** Profits realized by a business corporation from the sale of marketable securities are also of a special character and must be separated from the ordinary operating results.
+
+*Examples:* The report of National Transit Company, a former Standard Oil subsidiary, for the year 1928 illustrates the distorting effect due to the inclusion in the income account of profits from this source. The method of presenting the story to the stockholders is also open to serious criticism. The consolidated income account for 1927 and 1978 was stated in approximately the following terms:
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>1927</th>
+    <th>1928</th>
+  </tr>
+  <tr>
+    <td>Operating revenues</td>
+    <td>$3,432,000</td>
+    <td>$3,419,000</td>
+  </tr>
+  <tr>
+    <td>Dividends, interest, and miscellaneous income</td>
+    <td>463,000</td>
+    <td>370,000</td>
+  </tr>
+  <tr>
+    <td>Total revenues</td>
+    <td>$3,895,000</td>
+    <td>$3,789,000</td>
+  </tr>
+  <tr>
+    <td>“Operating expenses, including depreciation and profit and loss direct items” (in 1928 “including profits from sale of securities”)</td>
+    <td>3,264,000</td>
+    <td>2,599,000</td>
+  </tr>
+  <tr>
+    <td>Net income</td>
+    <td>$631,000</td>
+    <td>$1,190,000</td>
+  </tr>
+  <tr>
+    <td>(Earned per share)</td>
+    <td>($1.24)</td>
+    <td>($2.34)</td>
+  </tr>
+</table>
+
+The increase in the earnings per share appeared quite impressive. But a study of the detailed figures of the parent company alone, as submitted to the Interstate Commerce Commission, would have revealed that $570,000 of the 1928 income was due to its profits from the sale of securities.
