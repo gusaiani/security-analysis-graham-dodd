@@ -184,4 +184,12 @@ Herein lies also a paradoxical difficulty of the investment-trust movement. Give
   </tr>
 </table>
 
-The foregoing income account shows that the chief “earnings” of Utah Securities were derived from the repurchase of its own obligations at a discount.
+The foregoing income account shows that the chief “earnings” of Utah Securities were derived from the repurchase of its own obligations at a discount. Had it not been for this extraordinary item the company would have failed to cover its interest charges.
+
+The widespread repurchases of senior securities at a substantial discount constituted one of the unique features of the 1931—1933 depression years. It was made possible by the disproportion that existed between the strong cash positions and the poor earnings of many enterprises. Because of the latter influence the senior securities sold at low prices, and because of the former the issuing companies were able to buy them back in large amounts. This practice was most in evidence among the investment trusts.
+
+*Examples:* The International Securities Corporation of America, to use an outstanding example, repurchased in the fiscal year ending November 30, 1932, no less than $12,684,000 of its 5% bonds, representing nearly half of the issue. The average price paid was about 55, and the operation showed a profit of about $6,000,000, which served to offset the shrinkage in the value of the investment portfolio.
+
+In the industrial field we note the report of Armour and Company for 1932. This showed net earnings of $1,633,000 but only after including in income a profit of $5,520,000 on bonds bought in at a heavy discount. Similarly, more than all of the 1933 net of Goodrich Rubber, United Drug, Bush Terminal Building Company and others was ascribable to this non-recurring source. A like condition was disclosed in the report of United Cigar-Whelan Stores for the first half of 1938. (Observe, on the other hand, that some companies, *e.g.*, Gulf States Steel Corporation in 1933, have followed the better practice of crediting this profit direct to surplus.)
+
+A contrary result appears when senior securities are retired at a cost exceeding the face or stated value. When this premium involves a large amount, it is always charged against surplus and not against current income.
