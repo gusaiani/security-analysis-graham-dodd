@@ -142,3 +142,46 @@ Herein lies also a paradoxical difficulty of the investment-trust movement. Give
 **Profits through Repurchase of Senior Securities at a Discount.** At times a substantial profit is realized by corporations through the repurchase of their own senior securities at less than par value. The inclusion of such gains in current income is certainly a misleading practice, first, because they are obviously nonrecurring and, second, because this is at best a questionable sort of profit, since it is made at the expense of the company’s own security holders.
 
 *Example:* A peculiar example of this accounting practice was furnished as long ago as 1915 by Utah Securities Corporation, a holding company controlling Utah Power and Light Company. The following income account illustrates this point:
+
+##### Year Ended March 31, 1915
+
+<table>
+  <tr>
+    <td>Earnings of Utah Securities Corporation</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>including surplus of subsidiaries accruing to it</td>
+    <td>$ 771,299</td>
+  </tr>
+  <tr>
+    <td>Expenses and taxes</td>
+    <td>30,288</td>
+  </tr>
+  <tr>
+    <td>Net earnings</td>
+    <td>$741,011</td>
+  </tr>
+  <tr>
+    <td>Profit on redemption of 6% notes</td>
+    <td>1,309,657</td>
+  </tr>
+  <tr>
+    <td>Income from all sources accruing to Utah</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Securities Corporation</td>
+    <td>$2,050,668</td>
+  </tr>
+  <tr>
+    <td>Deduct interest charges on 6% notes</td>
+    <td>1,063,009</td>
+  </tr>
+  <tr>
+    <td>Combined net income for the year</td>
+    <td>$987,659</td>
+  </tr>
+</table>
+
+The foregoing income account shows that the chief “earnings” of Utah Securities were derived from the repurchase of its own obligations at a discount.
