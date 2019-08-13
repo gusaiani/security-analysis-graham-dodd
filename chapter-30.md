@@ -193,3 +193,142 @@ The widespread repurchases of senior securities at a substantial discount consti
 In the industrial field we note the report of Armour and Company for 1932. This showed net earnings of $1,633,000 but only after including in income a profit of $5,520,000 on bonds bought in at a heavy discount. Similarly, more than all of the 1933 net of Goodrich Rubber, United Drug, Bush Terminal Building Company and others was ascribable to this non-recurring source. A like condition was disclosed in the report of United Cigar-Whelan Stores for the first half of 1938. (Observe, on the other hand, that some companies, *e.g.*, Gulf States Steel Corporation in 1933, have followed the better practice of crediting this profit direct to surplus.)
 
 A contrary result appears when senior securities are retired at a cost exceeding the face or stated value. When this premium involves a large amount, it is always charged against surplus and not against current income.
+
+*Examples:* As prominent illustrations of this practice, we cite the charge of $40,600,000 against surplus made by United States Steel Corporation in 1929, in connection with the retirement at 110 of $307,000,000 of its own and subsidiaries’ bonds, also the charge of $9,600,000 made against surplus in 1927 by Goodyear Tire and Rubber Company, growing out of the retirement at a premium of various bond and preferred-stock issues and their replacement by new securities bearing lower coupon and dividend rates. From the analysts’s standpoint, either profit or expense in such special transactions involving the company’s own securities should be regarded as nonrecurring and excluded from the operating results in studying a single year’s performance.
+
+*A Comprehensive Example.* American Machine and Metals, Inc. (successor to Manhattan Electrical Supply Company mentioned earlier in this chapter), included in its current *income* for 1932 a profit realized from the repurchase of its own bonds at a discount. Because the reports for 1931 and 1932 illustrate to an unusual degree the arbitrary nature of much corporate accounting, we reproduce herewith in full the income account and the appended capital and surplus adjustments.
+
+##### Report of American Machine and Metals, Inc., for 1931 and 1932
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>1932</th>
+    <th>1931</th>
+  </tr>
+  <tr>
+    <td>Income account:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Net before depreciation and interest</td>
+    <td>Loss $ 136,885</td>
+    <td>Profit $101,534</td>
+  </tr>
+  <tr>
+    <td>Add profit on bonds repurchased</td>
+    <td>174,278</td>
+    <td>270,701</td>
+  </tr>
+  <tr>
+    <td>Profit, including bonds repurchased</td>
+    <td>37,393</td>
+    <td>372,236</td>
+  </tr>
+  <tr>
+    <td>Depreciation</td>
+    <td>87,918</td>
+    <td>184,562</td>
+  </tr>
+  <tr>
+    <td>Bond interest</td>
+    <td>119,273</td>
+    <td>140,658</td>
+  </tr>
+  <tr>
+    <td>Final net profit or loss</td>
+    <td>Loss 169,798</td>
+    <td>Profit 47,015</td>
+  </tr>
+  <tr>
+    <td>Charges against capital, capital surplus and earned surplus</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Deferred moving expense and mine development</td>
+    <td>111,014</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Provision for losses on:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Doubtful notes, interest thereon, and claims</td>
+    <td>600,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Inventories</td>
+    <td>385,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Investments</td>
+    <td>54,999</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Liquidation of subsidiary</td>
+    <td>39,298</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
