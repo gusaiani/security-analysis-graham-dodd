@@ -277,58 +277,51 @@ A contrary result appears when senior securities are retired at a cost exceeding
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Depletion of ore reserves</td>
+    <td>28,406</td>
+    <td>32,515</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Write-down of fixed assets (net)</td>
+    <td>557,578</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reduction of ore reserves and mineral rights</td>
+    <td>681,742</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Federal tax refund,etc</td>
+    <td>cr. 7,198</td>
+    <td>cr. 12,269</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Total charges not shown in income account</td>
+    <td>$2,450,839</td>
+    <td>$20,246</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Result shown in income account</td>
+    <td>dr. 169,798</td>
+    <td>cr. 47,015</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Received from sale of additional stock</td>
+    <td>cr. 44,000</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Combined change in capital and surplus</td>
+    <td>dr. $2,576,637</td>
+    <td>cr. $26,769</td>
   </tr>
 </table>
+
+We find again in 1932, as in 1926, the highly objectionable practice of including extraordinary profits in income while charging special losses to surplus. It does not make much difference that in the later year the nature of the special profit—gain through repurchase of bonds at less than par—is disclosed in the report. Stockholders and stock buyers for the most part pay attention only to the final figure of earnings per share, as presented by the company; nor are they likely to inquire carefully into the manner in which it is determined. The significance of some of the charges made by this company against surplus in 1932 will be taken up later under the appropriate headings.
+
+**Other Nonrecurrent Items.** The remaining group of nonrecurrent profit items is not important enough to merit detailed discussion. In most cases it is of minor consequence whether they appear as part of the year’s earnings or are credited to surplus where they properly belong.
+
+*Examples:* Gimbel Brothers included the sum of $167,660, proceeds of life insurance policies, in income for 1938, designating it as a “non-trading item.” On the other hand, United Merchants and Manufacturers, receiving a similar payment of $1,579,000 in its 1938 fiscal year, more soundly credited it to surplus—although it had sustained a large loss from operations.
+
+Bendix Aviation Corporation reported as income for the year 1929 the sum of $901,282 received in settlement of a patent suit, and again in 1931 it included in current earnings an amount of $242,656 paid to it as back royalties collected through litigation. The 1932 earnings of Gulf Oil Corporation included the sum of $5,512,000 representing the value of oil previously in litigation. By means of this item, designated as nonrecurrent, it was able to turn a loss of $2,768,000 into a profit of $2,743,000. Although tax refunds are regularly shown as credits to surplus only, the accumulated interest received thereon sometimes appears as part of the income account, *e.g.*, $2,000,000 reported by E. I. du Pont de Nemours and Company in 1926 and an unstated but apparently much larger sum included in the earnings of United States Steel for 1930.
