@@ -22,4 +22,4 @@
 
 ##### Part V - Analysis of the Income Account. The Earnings Factor in Common-Stock Valuation
 
-[Chapter 30: Analysis of The Income Account](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-30.md)
+[Chapter 31: Analysis of The Income Account](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-31.md)
