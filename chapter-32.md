@@ -1,0 +1,7 @@
+##### Chapter 32
+
+### Extraordinary Losses and Other Special Items in the Income Account
+
+The question of nonrecurrent losses is likely to create peculiar difficulties in the analysis of income accounts. To what extent should write-downs of inventories and receivables be regarded as extraordinary deductions not fairly chargeable against the year’s operating results? In the disastrous year 1932 such charge-offs were made by nearly every business. The accounting methods used showed wide divergences, but the majority of companies spared their income accounts as much as possible and subtracted these losses from surplus. On the other hand the milder inventory losses of the 1937—1938 recession were almost universally charged into the earnings statement.
+
+Inventory losses are directly related to the conduct of the business and are, therefore, by no means extraordinary in their general character. The collapse of inventory values in 1931—1932 might be considered extraordinary in its *extent*, in the same way as the business results as a whole were exceptional. It follows from this reasoning that if the 1931—1932 results are taken into account at all, *e.g.*, in computing a long-term average, all losses on inventories and receivables must be considered part of the operating deficit of those years even though charged to surplus. In Chap. 37 we shall consider the role of extraordinary years in determining the average earning power.
