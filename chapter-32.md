@@ -30,3 +30,7 @@ Inventory losses are directly related to the conduct of the business and are, th
     <td>&nbsp;</td>
   </tr>
 </table>
+
+The foregoing example illustrates a whole set of practices that constitute perhaps the most vicious type of accounting manipulation. They consist, in brief, of taking sums out of surplus (or even capital) and then reporting these same sums as income. The charge to surplus goes unnoticed; the credit to income may have a determining influence upon the market price of the securities of the company. We shall later point out the “conservative” writing down of the property account has precisely this result, in that it permits a decreased depreciation charge and hence an increase in the apparent earnings. The dangers inherent in accounting methods of this sort are the more serious because they are so little realized by the public, so difficult to detect even by the expert analyst and so impervious to legislative or stock-exchange correction.
+
+The basing of common-stock values on reported per-share earnings has made it much easier for managements to exercise an arbitrary and unwholesome control over the price of their shares. Whereas it should be emphasized that the overwhelming majority of managements are honest, it must be emphasized also that loose or “purposive” accounting is a highly contagious disease.
