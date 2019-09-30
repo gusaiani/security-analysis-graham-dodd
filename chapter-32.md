@@ -36,3 +36,37 @@ The foregoing example illustrates a whole set of practices that constitute perha
 The basing of common-stock values on reported per-share earnings has made it much easier for managements to exercise an arbitrary and unwholesome control over the price of their shares. Whereas it should be emphasized that the overwhelming majority of managements are honest, it must be emphasized also that loose or “purposive” accounting is a highly contagious disease.
 
 **Reserves for Inventory Losses.** The accounting for inventory losses is frequently complicated by the use of reserves set up before the loss is actually realized. These reserves are usually created by a charge to surplus, on the theory that it is a function of the surplus account to act as a sort of contingency reserve to absorb unusual future losses. If later the inventory shrinkage actually takes place, it is naturally charged against the reserve already created to meet it. The result is that in *no year* does the income account reflect the inventory loss, although it is just as much a hazard of operations as a decline in selling prices. When a company charges inventory losses to surplus—whether directly or through the intermediary of a reserve device—the analyst must take this practice carefully into account, especially in comparing the published results with those of other companies. A good illustration of this rule is afforded by a comparison of the reports submitted by United States Rubber Company and by Goodyear Tire and Rubber Company for the years 1925-1927, during which time rubber prices were subject to wide fluctuations.
+
+In these three years Goodyear charged against *earnings* a total of $11,500,000 as reserves against decline of raw-material prices. Of this amount one-half was used to absorb actual losses sustained and the other half was carried forward into 1928 (and eventually used up in 1930).
+
+United States Rubber during this period charged a total of $20,446,000 for inventory reserves and write-downs, all of which was absorbed by actual losses taken. But the form af annual statement, as submitted to the stockholders, excluded these deductions from income and made them appear as special adjustments of surplus. (In 1927, moreover, the inventory loss of $8,910,000 was apparently offset by a special credit of $8,000,000 from the transfer of *past* earnings of the crude-rubber producing subsidiary.)
+
+The result of these divergent bases of reporting annual income was that the per-share earnings of the two companies, as compiled by the statistical manuals, made an entirely misleading comparative exhibit. The following per-share earnings are taken from *Poor’s Manual* for 1928:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>U.S. Rubber</th>
+    <th>Goodyear</th>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>$14.92</td>
+    <td>$9.45</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>10.54</td>
+    <td>3.79</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>1.26</td>
+    <td>9.02</td>
+  </tr>
+  <tr>
+    <td>3-year average</td>
+    <td>$8.91</td>
+    <td>$7.42</td>
+  </tr>
+</table>
