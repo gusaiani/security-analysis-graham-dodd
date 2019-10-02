@@ -70,3 +70,67 @@ The result of these divergent bases of reporting annual income was that the per-
     <td>$7.42</td>
   </tr>
 </table>
+
+For proper comparative purposes the statements must manifestly be considered on an identical basis, or as close thereto as possible. Such a comparison might be made by three possible methods, *viz.:*
+
+1. As reported by United States Rubber, *i.e.*, excluding inventory reserves and losses from the current income account.
+
+2. As reported by Goodyear, *i.e.*, reducing the earnings of the period of high prices for crude rubber by a reserve for future losses and using this reserve to absorb the later shrinkage.
+
+3. Eliminating such reserves, as an arbitrary effort of the management to level out the earnings. On this basis the inventory losses would be deducted from the results of the year in which they were actually sustained. (The Standard Statistics Company’s analysis of Goodyear includes a revision of the reported earnings in conformity with this approach.)
+
+  We have then, for comparative purposes, three statements of the per-share earnings for the period:
+
+  <table>
+    <tr>
+      <th>Year</th>
+      <th colspan="2">1. Omitting adjustments of inventory</th>
+      <th colspan="2">2. Allowing for inventory adjustments, as made by the companies</th>
+      <th colspan="2">3. Excluding <i>reserves</i> and charging losses to the year in which decline occurred</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>U.S. Rubber</td>
+      <td>Goodyear</td>
+      <td>U.S. Rubber</td>
+      <td>Goodyear</td>
+      <td>U.S. Rubber</td>
+      <td>Goodyear</td>
+    </tr>
+    <tr>
+      <td>1925</td>
+      <td>$14.92</td>
+      <td>$18.48</td>
+      <td>$11.21</td>
+      <td>$9.45</td>
+      <td>$14.92</td>
+      <td>$18.48</td>
+    </tr>
+    <tr>
+      <td>1926</td>
+      <td>10.54</td>
+      <td>3.79</td>
+      <td>0.00</td>
+      <td>3.79</td>
+      <td>14.71(d)</td>
+      <td>2.53(d)</td>
+    </tr>
+    <tr>
+      <td>1927</td>
+      <td>1.26</td>
+      <td>13.24</td>
+      <td>9.73(d)</td>
+      <td>9.02</td>
+      <td>1.26</td>
+      <td>13.24</td>
+    </tr>
+    <tr>
+      <td>3-year average</td>
+      <td>$8.91</td>
+      <td>$12.17</td>
+      <td>$0.49</td>
+      <td>$7.42</td>
+      <td>$0.49</td>
+      <td>$9.73</td>
+    </tr>
+  </table>
