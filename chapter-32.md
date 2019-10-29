@@ -134,3 +134,47 @@ For proper comparative purposes the statements must manifestly be considered on 
       <td>$9.73</td>
     </tr>
   </table>
+
+The range of market prices for the two common issues during this period suggest that the accounting methods followed by the United States Rubber served rather effectively to obscure the unsatisfactory nature of its results for these years.
+
+<table>
+  <tr>
+    <th rowspan="2">Year</th>
+    <th colspan="2"> U.S. Rubber common</th>
+    <th colspan="2"> Goodyear common</th>
+  </tr>
+  <tr>
+    <th>High</th>
+    <th>Low</th>
+    <th>High</th>
+    <th>Low</th>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>97</td>
+    <td>33</td>
+    <td>50</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>88</td>
+    <td>50</td>
+    <td>40</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>67</td>
+    <td>37</td>
+    <td>69</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td>Average of highs and lows</td>
+    <td colspan="2">62</td>
+    <td colspan="2">40</td>
+  </tr>
+</table>
+
+More recently United States Rubber has followed the Goodyear pracice of taking out of the earnings of prosperous years a reserve for future inventory shrinkage. As a result of this policy, the company somewhat understated its earnings for 1935 and 1936 but overstated them for 1937.
