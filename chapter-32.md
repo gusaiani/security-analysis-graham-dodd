@@ -178,3 +178,9 @@ The range of market prices for the two common issues during this period suggest 
 </table>
 
 More recently United States Rubber has followed the Goodyear pracice of taking out of the earnings of prosperous years a reserve for future inventory shrinkage. As a result of this policy, the company somewhat understated its earnings for 1935 and 1936 but overstated them for 1937.
+
+*A More Recent Contrast.* The packing industry supplies us with a more extreme divergence in the method used by two companies to handle the matter of probable future inventory losses.
+
+Wilson and Company set up a reserve of $750,000 prior to the beginning of its 1934 fiscal year, for “Fluctuation in Inventory Valuation.” This was taken partly from surplus and partly from income. In 1934 it reduced its opening inventory by this reserve, thus increasing the year’s reported profit by $750,000. The S.E.C., however, required it to amend its registration statement so as to credit this amount to surplus and not to income.
+
+On the other hand, Swift and Company reduced its reported earnings in the fiscal years 1933-1935 by $16,767,000, which was set up as a reserve for future inventory decline. In 1938 the expected decline occurred; but instead of drawing on this reserve to spare the income account, the company charged the full loss against the year’s operations and then transferred $11,000,000 of the reserve directly to surplus. In this exceptional case the net income for the six-year period of 1933–1938 was *understated,* since amounts were actually taken out of income and turned over to surplus.
