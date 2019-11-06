@@ -39,7 +39,7 @@ The basing of common-stock values on reported per-share earnings has made it muc
 
 In these three years Goodyear charged against *earnings* a total of $11,500,000 as reserves against decline of raw-material prices. Of this amount one-half was used to absorb actual losses sustained and the other half was carried forward into 1928 (and eventually used up in 1930).
 
-United States Rubber during this period charged a total of $20,446,000 for inventory reserves and write-downs, all of which was absorbed by actual losses taken. But the form of annual statement, as submitted to the stockholders, excluded these deductions from income and made them appear as special adjustments of surplus. (In 1927, moreover, the inventory loss of $8,910,000 was apparently offset by a special credit of $8,000,000 from the transfer of *past* earnings of the crude-rubber producing subsidiary.)
+United States Rubber during this period charged a total of $20,446,000 for inventory reserves and write-downs, all of which was absorbed by actual losses taken. But the form aaccountf annual statement, as submitted to the stockholders, excluded these deductions from income and made them appear as special adjustments of surplus. (In 1927, moreover, the inventory loss of $8,910,000 was apparently offset by a special credit of $8,000,000 from the transfer of *past* earnings of the crude-rubber producing subsidiary.)
 
 The result of these divergent bases of reporting annual income was that the per-share earnings of the two companies, as compiled by the statistical manuals, made an entirely misleading comparative exhibit. The following per-share earnings are taken from *Poor’s Manual* for 1928:
 
