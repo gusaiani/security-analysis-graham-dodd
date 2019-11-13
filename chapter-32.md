@@ -217,3 +217,36 @@ Under approved accounting methods such costs are spread over an appropriate peri
 In order to relieve the reported earnings of these annual deductions it has become common practice to write off such expense applicable to future years by a single charge against surplus. In theory this practice is improper, because it results in the understatement of operating expenses for a succeeding period of years and hence in the exaggeration of the net income. If, to take a simple example, the president’s salary were paid for ten years in advance and the entire outlay charged against surplus as a “special expense,” it is clear that the profits of the ensuing period would thereby be overstated. There is the danger also that expenses of a character frequently repeated, *e.g.*, advertising campaigns, or cost of developing new automobile models, might be omitted from the income account by designating them as deferred charges and then writing them off against surplus.
 
 Ordinarily the amounts involved in such accounting transactions are not large enough to warrant the analyst’s making an issue of them. Security analysis is a severely practical activity, and it must not linger over matters that are not likely to affect the ultimate judgement. At times, however, these items may assume appreciable importance.
+
+*Examples:* The Kraft Cheese Company for example, during some years prior to 1927 carried a substantial part of its advertising outlays as a deferred charge to be absorbed in the operations of subsequent years. In 1926 it spent about $1,000,000 for advertising and charged only one-half of this amount against current income. But in the same year the balance of this expenditure was deducted from surplus, and furthermore an additional $480,000 was similarly written off against surplus to cancel the balance carried forward from prior years as a deferred charge. By this means the company was able to report to its stockholders the sum of $1,071,000 as earned for 1926. But when in the following year it applied to list additional shares, it found it necessary to adopt a less questionable basis of reporting its income to the New York Stock Exchange, so that its profit for 1926 was restated to read $461,296, instead of $1,071,000.
+
+The 1932 report of International Telephone and Telegraph Company showed various charges *against surplus* aggregating $35,817,000, which included the following: “Write-off of certain deferred charges that have today no tangible value although originally set up to be amortized over a period of years in accordance with accepted accounting principles, $4,655,696.”
+
+Hudson Motor Car Company charged against surplus instead of income the following items (among others) during 1930—1931.
+
+<table>
+  <tr>
+    <td>1930</td>
+    <td>
+      Special adjustment of tools and materials due to development of new models
+    </td>
+    <td>
+      $2,266,000
+    </td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>Reserve for special tools</td>
+    <td>2,000,000
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Rearrangement of plant equipment</td>
+    <td>633,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Special advertising</td>
+    <td>1,400,000</td>
+  </tr>
+</table>
