@@ -250,3 +250,13 @@ Hudson Motor Car Company charged against surplus instead of income the following
     <td>1,400,000</td>
   </tr>
 </table>
+
+In 1933 Hecker Products (then called Gold Dust Corporation) appropriated out of surplus the sum of $2,000,000 as a reserve for the “net cost of introduction and exploitation of new products.” About three-quarters of this amount was expended in years 1933—1936, and the balance then transferred to “General and Contingency Reserves.”
+
+The effect of these accounting practices is to relieve the reported earnings of expenditures that most companies charge currently thereagainst, and that in any event should be charged against earnings in installments over a short period of years.
+
+**Amortization of Bond Discount.** Bonds are usually floated by corporations at a price to net the treasury less than par. The discount suffered is part of the cost of borrowing the money, *i.e.*, part of the interest burden, and it should be amortized over the life of the bond issue by an annual charge against earnings, included with the statement of interest paid. It was formerly considered “conservative” to write off such bond discounts by a single charge against surplus, in order not to show so intangible an item among the assets on the balance sheet. More recently these write-offs against surplus have become popular for the opposite reason, *viz.*, to eliminate future annual deductions from earnings and in that way to make the shares more “valuable.”
+
+*Example:* Associated Gas and Electric Company charged against surplus in 1932 the sum of $5,892,000 for “debt discount and expense” written off.
+
+This practice has aroused considerable criticism in recent years both from the New York Stock Exchange and from the S.E.C. As a result of these objections a number of companies have reversed their previous charge to surplus and are again charging amortization of bond discounts annually against earnings.
