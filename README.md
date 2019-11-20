@@ -23,4 +23,7 @@
 ##### Part V - Analysis of the Income Account. The Earnings Factor in Common-Stock Valuation
 
 [Chapter 31: Analysis of The Income Account](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-31.md)
+
 [Chapter 32: Extraordinary Losses and Other Special Items in the Income Account](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-32.md)
+
+[Chapter 33: Misleading Artifices in the Income Account. Earnings of Subsidiaries](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-33.md)
