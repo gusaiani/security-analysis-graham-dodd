@@ -12,3 +12,111 @@
 An examination of the balance sheets discloses that during these two years the item of Good-will and Trade-marks was written up successively from $1,000,000 to $1,600,000 and then to $2,000,000, and these increases *deducted* from the expenses for the period. The extraordinary character of the bookkeeping employed will be apparent from a study of the condensed balance sheets as of three dates, shown on page 436.
 
 These figures show a reduction of $1,600,000 in net current assets in 15 months, or $1,000,000 more than the cash dividends paid. This shrinkage was concealed by a $1,000,000 write-up of Good-will and Trade-marks. No statements relating to these amazing entries was vouchsafed to the stockholders in the annual reports or to the New York Stock Exchange in subsequent listing applications. In answer to an individual inquiry, however, the company stated that these additions to Good-will and Trade-marks represented expenditures for advertising and other sales efforts to develop the business of Tintex Company, Inc. a subsidiary.
+
+<table>
+  <tr>
+    <th>Balance Sheet</th>
+    <th>Sept. 30, 1929</th>
+    <th>Dec. 31, 1929</th>
+    <th>Dec. 31, 1930</th>
+  </tr>
+  <tr>
+    <td>Assets</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Fixed assets</td>
+    <td>$1,250,000</td>
+    <td>$1,250,000</td>
+    <td>$1,250,000</td>
+  </tr>
+  <tr>
+    <td>Deferred charges</td>
+    <td>132,000</td>
+    <td>163,000</td>
+    <td>32,000</td>
+  </tr>
+  <tr>
+    <td>Good-will and Trade-marks</td>
+    <td>1,000,000</td>
+    <td>1,600,000</td>
+    <td>2,000,000</td>
+  </tr>
+  <tr>
+    <td>Net Current Assets</td>
+    <td>4,797,000</td>
+    <td>4,080,000</td>
+    <td>3,154,000</td>
+  </tr>
+  <tr>
+    <td>Liabilities:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Bonds and mortgages</td>
+    <td>2,195,000</td>
+    <td>2,195,000</td>
+    <td>2,095,000</td>
+  </tr>
+  <tr>
+    <td>Capital and Surplus</td>
+    <td>4,984,000</td>
+    <td>4,898,000</td>
+    <td>4,341,000</td>
+  </tr>
+  <tr>
+    <td>Total of Assets and Liabilities</td>
+    <td>$7,179,000</td>
+    <td>$7,093,000</td>
+    <td>$6,426,000</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Adjusted earnings</th>
+    <th>First 9 months, 1929</th>
+    <th>Last 3 months, 1929</th>
+    <th>Year, 1929</th>
+    <th>Year, 1930</th>
+  </tr>
+  <tr>
+    <td>Earnings for stock as reported</td>
+    <td>$929,000</td>
+    <td>$ 72,000</td>
+    <td>$1,001,000</td>
+    <td>$125,000</td>
+  </tr>
+  <tr>
+    <td>Cash dividends paid</td>
+    <td>463,000</td>
+    <td>158,000</td>
+    <td>621,000</td>
+    <td>453,000</td>
+  </tr>
+  <tr>
+    <td>Charges against surplus</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>229,000</td>
+  </tr>
+  <tr>
+    <td>Added to capital and surplus</td>
+    <td>466,000</td>
+    <td>decrease 86,000</td>
+    <td>380,000</td>
+    <td>decrease 557,000</td>
+  </tr>
+  <tr>
+    <td>Earnings for stock as corrected (excluding increase in intangibles and deducting charges to surplus)</td>
+    <td>929,000</td>
+    <td>528,000(d)</td>
+    <td>401,000</td>
+    <td>504,000(d)</td>
+  </tr>
+</table>
