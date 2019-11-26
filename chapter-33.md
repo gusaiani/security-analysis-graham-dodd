@@ -120,3 +120,11 @@ These figures show a reduction of $1,600,000 in net current assets in 15 months,
     <td>504,000(d)</td>
   </tr>
 </table>
+
+The charging of current advertising expense to the good-will account is inadmissible under all canons of sound accounting. To do so without any disclosure to the stockholders is still more discreditable. It is difficult to believe, moreover, that the sum of $600,000 could have been expended for this purpose by Park and Tilford in the *three months* between September 30 and December 31, 1929. The entry appears therefore to have included a recrediting to *current* income of expenditures made in a *previous period*, and to that extent the results for the fourth quarter of 1929 may have been flagrantly distorted. Needless to say, no accountant’s certificate accompanied the annual statements of this enterprise.
+
+**Balance-sheet and Income-tax Checks upon the Published Earnings Statements.** The Park and Tilford case illustrates the necessity of relating an analysis of income accounts to an examination of the appurtenant balance sheets. This is a point that cannot be stressed too strongly, in view of Wall Street’s naïve acceptance of reported income and reported earnings per share. Our example suggests also a further check upon the reliability of the published earnings statements, *viz.*, by the amount of the federal income tax accrued. The taxable profit can be calculated fairly readily from the income-tax accrual, and this profit compared in turn with the earnings reported to stockholders. The two figures should not necessarily be the same, since the intricacies of the tax laws may give rise to a number of divergences. We do not suggest that any effort be made to reconcile the amounts absolutely but only that very wide differences be noted and made the subject of further inquiry.
+
+The Park and Tilford figures analyzed from this viewpoint supply the suggestive results as shown in the table on page 438.
+
+The close correspondence of the tax accrual with the reported income during the earlier period makes the later discrepancy appear the more striking. These figures eloquently cast suspicion upon the truthfulness of the reports made to the stockholders during 1927—1929, at which time considerable manipulation was apparently going on in the shares.
