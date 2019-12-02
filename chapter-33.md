@@ -128,3 +128,50 @@ The charging of current advertising expense to the good-will account is inadmiss
 The Park and Tilford figures analyzed from this viewpoint supply the suggestive results as shown in the table on page 438.
 
 The close correspondence of the tax accrual with the reported income during the earlier period makes the later discrepancy appear the more striking. These figures eloquently cast suspicion upon the truthfulness of the reports made to the stockholders during 1927—1929, at which time considerable manipulation was apparently going on in the shares.
+
+This and other examples discussed herein point strongly to the need for independent audits of corporate statements by certified public accountants. It may be suggested also that annual reports should include a detailed reconcilement of the net earnings reported to the shareholders with the net income upon which the federal tax is paid. In our opinion a good deal of the information relative to minor matters that appears in registration statements and prospectuses might be dispensed with to general advantage; but if, in lieu thereof, the S.E.C. were to require such a reconcilement, the cause of security analysis would be greatly advanced.
+
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Federal Income Tax Accrued</th>
+    <th>Rate of tax, per cent</th>
+    <th>Net income before federal tax as indicated by the tax accrued</th>
+    <th>Net income before federal tax as reported to the stockholders</th>
+  </tr>
+  <tr>
+    <td>5 mo. to Dec. 1925</td>
+    <td>$36,881</td>
+    <td>13</td>
+    <td>$283,000</td>
+    <td>$297,000</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>66,624</td>
+    <td>13½</td>
+    <td>493,000</td>
+    <td>533,000</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>51,319</td>
+    <td>13½</td>
+    <td>380,000</td>
+    <td>792,000</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>79,852</td>
+    <td>12</td>
+    <td>665,000</td>
+    <td>1,315,000</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>81,623</td>
+    <td>11</td>
+    <td>744,000</td>
+    <td>1,076,000</td>
+  </tr>
+</table>
