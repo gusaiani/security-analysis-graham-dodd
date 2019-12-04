@@ -175,3 +175,61 @@ This and other examples discussed herein point strongly to the need for independ
     <td>1,076,000</td>
   </tr>
 </table>
+
+**Another Extraordinary Case of Manipulated Accounting.** An accounting vagary fully as extraordinary as that of Park and Tilford, though exercising a smaller influence on the reported earnings, was indulged in by United Cigar Stores Company of America, from 1924—1927. The “theory” behind the entries was explained by the company for the first item in May 1927 in a listing application that contained the following paragraphs:
+
+```
+The Company owns several hundred long-term leaseholds on business buildings in the principal cities of the United States, which up until May, 1924, were not set up on the books. Accordingly, at that time they were appraised by the Company and Messrs. F. W. Lafrentz and Company, certified public accountants of New York City, in excess of $20,000,000.
+
+
+The Board of Directors have, since that time, authorized every three months the setting up among the assets of the Company a portion of this valuation and the capitalization thereof, in the form of dividends, payable in Common Stock at par on the Common Stock on the quarterly basis of 1¼% on the Common Stock issued and outstanding.
+
+The entire capital surplus created in this manner has been absorbed by the issuance of Common Stock at par for an equal amount and accordingly is not a part of the existing surplus of the Company. No cash dividends have been declared out of such capital surplus so created.
+
+The present estimated value of such leaseholds, using the smae basis of appraisal as in 1924, is more than twice the present value shown on the books of the Company.
+```
+
+The effect of the inclusion of “Appreciation of Leaseholds” in earnings is shown herewith:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net earnings as reported</th>
+    <th>Earned per share of common ($25-par basis)</th>
+    <th>Market range ($25-par basis)</th>
+    <th>Amount of “Leasehold Appreciation” included in earnings</th>
+    <th>Earned per share of common excluding lease appreciation</th>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>$6,697,000</td>
+    <td>$4.69</td>
+    <td>$64-43</td>
+    <td>$1,248,000</td>
+    <td>$3.77</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>8,813,000</td>
+    <td>5.95</td>
+    <td>116-60</td>
+    <td>1,295,000</td>
+    <td>5.05</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>9,855,000</td>
+    <td>5.02</td>
+    <td>110-83</td>
+    <td>2,302,000</td>
+    <td>3.81</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>9,952,000</td>
+    <td>4.63</td>
+    <td>100-81</td>
+    <td>2,437,000</td>
+    <td>3.43</td>
+  </tr>
+</table>
