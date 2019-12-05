@@ -233,3 +233,21 @@ The effect of the inclusion of “Appreciation of Leaseholds” in earnings is s
     <td>3.43</td>
   </tr>
 </table>
+
+In passing judgement on the inclusion of leasehold appreciation in the current earnings of United Cigar Stores, a number of considerations might well be borne in mind.
+
+1. Leaseholds are essentially as much a liability as they are an asset. They are an obligation to pay rent for premises occupied. Ironically enough, these very leaseholds of United Cigar Stores eventually plunged it into bankruptcy.
+
+2. Assuming leaseholds may acquire a capital value to the occupant, such value is highly intangible, and it is contrary to accounting principles to mark up above actual cost the value of such intangibles in a balance sheet.
+
+3. If the value of any capital asset is to be marked up, such enhancement must be credited to Capital Surplus. By no stretch of the imagination can it be considered as *income*.
+
+4. The $20,000,000 appreciation of the United Cigar Stores leases took place prior to May 1924, but it was *treated as income in subsequent years*. There was thus no connection between the $2,437,000 appreciation included in the profits of 1927 and the operations or developments of that year.
+
+5. If the leaseholds had really increased in value, the effect should be visible in *larger earnings* realized from these favorable locations. Any other recognition given this enhancement would mean counting the same value twice. In fact, however, allowing for extensions of the business financed by additional capitalization, the per-share earnings of United Cigar Stores showed no advancing trend.
+
+6. Whatever value is given to leaseholds must be amortized over the life of the lease. If the United Cigar Stores investors were paying a high price for the shares because of earnings produced by these valuable leases, then they should *deduct* from earnings an allowance to write off this capital value, by the time it disappears through the expiration of the leases. The United Cigar Stores Company continued to amortize its leaseholds on the basis of *original cost*, which apparently was practically nothing.
+
+The surprising truth of the matter, therefore, is that the effect of the appreciation of leasehold values—if it had occurred—should have been to *reduce* the subsequent operating profits by an increased amortization charge.
+
+7. The padding of the United Cigar Stores income for 1924—1927 was made the more reprehensible by the failure to reveal the facts clearly in the annual reports to shareholders. Disclosure of the essential facts to the New York Stock Exchange was made nearly three years after the practice was initiated. It may have been compelled by legal considerations growing out of the sale to the public at that time of a new issue of preferred stock, underwritten by large financial institutions. The following year the policy of including leasehold appreciation in earnings was discontinued.
