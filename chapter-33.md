@@ -257,3 +257,64 @@ These accounting maneuvers of United Cigar Stores may be fairly described, there
 The federal-income-tax check, described in the Park and Tilford example, will also give interesting results if applied to United Cigar Stores as shown in the table below.
 
 **Moral Drawn from Foregoing Examples.** A moral of considerable practical utility may be drawn from the United Cigar Stores example. When an enterprise pursues questionable accounting policies, *all* its securities must be shunned by the investor, no matter how safe or attractive some of them may appear. This is well illustrated by United Cigar Stores Preferred, which made an exceedingly impressive statistical showing for many successive years but later narrowly escaped complete extinction. Investors confronted with the strange bookkeeping detailed above might have reasoned that the issue was still perfectly sound, because, when the overstatement of earnings was corrected, the margin of safety remained more than ample. Such reasoning is fallacious. You cannot make a quantitative deduction to allow for an unscrupulous management; the only way to deal with such situations is to avoid them.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Federal Tax Reserve</th>
+    <th>A. Income before tax as indicated by tax reserve</th>
+    <th>B. Income before tax as reported to stockholders</th>
+    <th>C. Income before tax as reported to stockholders, less leasehold appreciation</th>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>$700,000</td>
+    <td>$5,600,000</td>
+    <td>$7,397,000</td>
+    <td>$6,149,000</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>825,000</td>
+    <td>6,346,000</td>
+    <td>9,638,000</td>
+    <td>8,343,000</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>900,000</td>
+    <td>6,667,000</td>
+    <td>10,755,000</td>
+    <td>8,453,000</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>900,000</td>
+    <td>6,667,000</td>
+    <td>10,852,000</td>
+    <td>8,415,000</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>700,000</td>
+    <td>5,833,000</td>
+    <td>9,053,000</td>
+    <td>9,053,000</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>13,000</td>
+    <td>118,000</td>
+    <td>3,132,000</td>
+    <td>3,132,000</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>none</td>
+    <td>none</td>
+    <td>1,552,000</td>
+    <td>1,552,000</td>
+  </tr>
+</table>
+
+**Fictitious Value Placed on Stock Dividends Received.** From 1922 on most of the United Cigar Stores common shares where held by Tobacco Products Corporation, an enterprise controlled by the same interests. This was an important company, the market value of its shares averaging more than $100,000,000 in 1926 and 1927. The accounting practice of Tobacco Products introduced still another way of padding the income account, *viz.*, by placing a fictitious valuation upon stock dividends received.
