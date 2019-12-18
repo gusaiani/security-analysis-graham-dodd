@@ -318,3 +318,57 @@ The federal-income-tax check, described in the Park and Tilford example, will al
 </table>
 
 **Fictitious Value Placed on Stock Dividends Received.** From 1922 on most of the United Cigar Stores common shares where held by Tobacco Products Corporation, an enterprise controlled by the same interests. This was an important company, the market value of its shares averaging more than $100,000,000 in 1926 and 1927. The accounting practice of Tobacco Products introduced still another way of padding the income account, *viz.*, by placing a fictitious valuation upon stock dividends received.
+
+For the year 1926 the company’s earnings statement read as follows:
+
+<table>
+  <tr>
+    <td>Net income</td>
+    <td>$10,790,000</td>
+  </tr>
+  <tr>
+    <td>Income tax</td>
+    <td>400,000</td>
+  </tr>
+  <tr>
+    <td>Class A dividend</td>
+    <td>3,136,000</td>
+  </tr>
+  <tr>
+    <td>Balance for common stock</td>
+    <td>7,254,000</td>
+  </tr>
+  <tr>
+    <td>Earned per share</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Market range for common</td>
+    <td>117-95</td>
+  </tr>
+</table>
+
+Detailed information regarding the company’s affairs during that period has never been published (the New York Stock Exchange having been unaccountably willing to list new shares on submissions of an extremely sketchy exhibit). Sufficient information is available, however, to indicate that the net income was made up substantially as follows:
+
+<table>
+  <tr>
+    <td>Rental received from lease of assets to American Tobacco Co.</td>
+    <td>$2,500,000</td>
+  </tr>
+  <tr>
+    <td>Cash dividends on United Cigar Stores common (80% of total paid)</td>
+    <td>2,950,000</td>
+  </tr>
+  <tr>
+    <td>Stock dividends on United Cigar Stores commont (par value $1,840,000), less expenses</td>
+    <td>5,340,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$10,790,000</td>
+  </tr>
+</table>
+
+It is to be noted that Tobacco Products must have valued the stock dividends received from United Cigar Stores at about three times their face value, *i.e.*, at three times the value at which United Cigar charged them against surplus. Presumably the basis of this valuation by Tobacco Products was the market price of United Cigar Stores shares, which price was easily manipulated due to the small amount of stock not owned by Tobacco Products.
+
+When a holding company takes into its income account stock dividends received at a higher value than that assigned them by the subsidiary that pays them, we have a particularly dangerous form of pyramiding of earnings. The New York Stock Exchange, beginning in 1929, has made stringent regulations forbidding this practice. (The point was discussed in Chap. 30, which is on accompanying CD.) In the case of Tobacco Products the device was issued in the first instance to represent a fictitious element of earnings, *i.e.*, the appreciation of leasehold values. By unscrupulous exploitation of the holding-company mechanism these imaginary profits were effectively multiplied by three.
