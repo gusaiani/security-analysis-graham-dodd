@@ -2,7 +2,7 @@
 
 ### Misleading Artifices in the Income Account. Earnings of Subsidiaries
 
-**Flagrant Example of Padded Income Account.** On comparatively rare occasions, managements resort to padding their income account by including items in earnings that have no real existence. Perhaps the most flagrant instance of this kind that has come to our knowledge occurred in the 1929—1930 reports of Park and Tilford, Inc., an enterprise with shares listed on the New York Stock Exchange. For these years the company reported net income as follows:
+**Flagrant Example of Padded Income Account.** In comparatively rare occasions, managements resort to padding their income account by including items in earnings that have no real existence. Perhaps the most flagrant instance of this kind that has come to our knowledge occurred in the 1929—1930 reports of Park and Tilford, Inc., an enterprise with shares listed on the New York Stock Exchange. For these years the company reported net income as follows:
 
 ```
 1929—$1,001,130 = $4.72 per share.
@@ -372,3 +372,42 @@ Detailed information regarding the company’s affairs during that period has ne
 It is to be noted that Tobacco Products must have valued the stock dividends received from United Cigar Stores at about three times their face value, *i.e.*, at three times the value at which United Cigar charged them against surplus. Presumably the basis of this valuation by Tobacco Products was the market price of United Cigar Stores shares, which price was easily manipulated due to the small amount of stock not owned by Tobacco Products.
 
 When a holding company takes into its income account stock dividends received at a higher value than that assigned them by the subsidiary that pays them, we have a particularly dangerous form of pyramiding of earnings. The New York Stock Exchange, beginning in 1929, has made stringent regulations forbidding this practice. (The point was discussed in Chap. 30, which is on accompanying CD.) In the case of Tobacco Products the device was issued in the first instance to represent a fictitious element of earnings, *i.e.*, the appreciation of leasehold values. By unscrupulous exploitation of the holding-company mechanism these imaginary profits were effectively multiplied by three.
+
+On a consolidated earnings basis, the report of Tobacco Products for 1926 would read as follows:
+
+<table>
+  <tr>
+    <td>American Tobacco Co. lease income, less income tax, etc.</td>
+    <td>$2,100,000</td>
+  </tr>
+  <tr>
+    <td>80% of earnings on United Cigar Stores common</td>
+    <td>6,828,000*</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$8,928,000</td>
+  </tr>
+  <tr>
+    <td>Class A dividend</td>
+    <td>3,136,000</td>
+  </tr>
+  <tr>
+    <td>Balance for Common</td>
+    <td>$5,792,000</td>
+  </tr>
+  <tr>
+    <td>Earned per share</td>
+    <td>$7.27</td>
+  </tr>
+</table>
+
+* Excluding leasehold appreciation.
+
+The reported earnings for Tobacco Products common given as $11 per share are seen to have been overstated by about 50%.
+
+It may be stated as a Wall-Street maxim that where manipulation of account is found, stock juggling will be found also in some form or other. Familiarity with the methods of questionable finance should assist the analyst and perhaps even the public, in detecting such practices when they are perpetrated.
+
+### Subsidiary Companies and Consolidated Reports
+
+This title introduces our second general type of adjustment of reported earnings. When an enterprise controls one or more important subsidiaries, a *consolidated* income account is necessary to supply a true picture of the year’s operations. Figures showing the parent company’s results only are incomplete and may be quite misleading. As previously remarked, they may either understate the earnings by not showing all the current profits made by the subsidiaries, or they may overstate the earnings by failure to deduct subsidiaries’ losses or by including dividends from subsidiaries in excess of their actual income for the year.
