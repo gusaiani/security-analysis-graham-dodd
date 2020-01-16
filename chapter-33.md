@@ -181,7 +181,6 @@ This and other examples discussed herein point strongly to the need for independ
 ```
 The Company owns several hundred long-term leaseholds on business buildings in the principal cities of the United States, which up until May, 1924, were not set up on the books. Accordingly, at that time they were appraised by the Company and Messrs. F. W. Lafrentz and Company, certified public accountants of New York City, in excess of $20,000,000.
 
-
 The Board of Directors have, since that time, authorized every three months the setting up among the assets of the Company a portion of this valuation and the capitalization thereof, in the form of dividends, payable in Common Stock at par on the Common Stock on the quarterly basis of 1¼% on the Common Stock issued and outstanding.
 
 The entire capital surplus created in this manner has been absorbed by the issuance of Common Stock at par for an equal amount and accordingly is not a part of the existing surplus of the Company. No cash dividends have been declared out of such capital surplus so created.
