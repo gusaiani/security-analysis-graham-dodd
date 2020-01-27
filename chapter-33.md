@@ -422,3 +422,96 @@ This title introduces our second general type of adjustment of reported earnings
 The analyst should adjust the reported earnings for the results of non-consolidated affiliates, if this has not already been done in the income account and if the amounts involved are significant. The criterion here is not the technical question of control but the *importance* of the holdings.
 
 *Examples:* On the one hand it is not customary, nor does it seem worth while, to make such calculations with respect to the holdings of Union Pacific of Illinois Central and other railroads. These holdings, although substantial, do not bulk large enough to affect the Union Pacific common stock materially. On the other hand, the adjustment is clearly indicated in the case of the ownership of Chicago, Burlington, and Quincy stock by Northern Pacific and Great Northern, each holding less than a controlling interest (48.6%).
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Du Pont earnings per share</th>
+    <th>Adjustments to reflect Du Pont’s interest in operating results of General Motors</th>
+    <th>Earnings per share of Du Pont as adjusted</th>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>$6.99</td>
+    <td>$+$2.07</td>
+    <td>$9.06</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>4.52</td>
+    <td>+0.04</td>
+    <td>4.56</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>4.30</td>
+    <td>-0.51</td>
+    <td>3.79</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>1.81</td>
+    <td>-1.35</td>
+    <td>0.46</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>2.93</td>
+    <td>+0.43</td>
+    <td>3.36</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>3.63</td>
+    <td>+0.44</td>
+    <td>4.07</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>5.02</td>
+    <td>+1.30</td>
+    <td>6.32</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>7.53</td>
+    <td>+0.77</td>
+    <td>8.30</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>7.25</td>
+    <td>+0.57</td>
+    <td>7.82</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>3.74</td>
+    <td>+0.61</td>
+    <td>4.35</td>
+  </tr>
+</table>
+
+Similarly, the interest of Du Pont in General Motors, representing about 23% of the total issue, is undoubtedly significant enough in its effect on the owning company to warrant adjustment of its earnings to reflect the results of General Motors. This is actually done by Du Pont each year in the form of an adjustment of *surplus* to reflect the previous year’s change in the book value of its General Motors holdings. The analyst would prefer, however, to make the adjustment concurrently and to include it in the calculated earnings of Du Pont. The effect of such adjustment on the earnings of Du Pont for 1929—1938 is shown in the table on p. 445.
+
+The report of General Motors Corporation for 1931 is worthy of appreciative attention because it includes a supplementary calculation of the kind suggested in this and the previous chapter *i.e.*, exclusive of special and nonrecurring profits or losses and inclusive of General Motors’ interest in the results of nonconsolidated subsidiaries. The report contains the following statement of per-share earnings for 1931 and 1930:
+
+##### Earnings per share, including the equity in undivided profits or losses of nonconsolidated subsidiaries
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Including nonrecurrent items</th>
+    <th>Excluding nonrecurrent items</th>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>$2.01</td>
+    <td>$2.43</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>3.25</td>
+    <td>3.04</td>
+  </tr>
+</table>
