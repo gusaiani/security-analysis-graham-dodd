@@ -515,3 +515,15 @@ The report of General Motors Corporation for 1931 is worthy of appreciative atte
     <td>3.04</td>
   </tr>
 </table>
+
+**Suggested Procedure for Statistical Agencies.** Although this procedure may seem to complicate a report, it is in fact a salutary antidote against the oversimplification of common-stock analysis which resulted from exclusive preoccupation with the single figure of per-share earnings. The statistical manuals and agencies have naturally come to feature the per-share earnings in their analyses of corporations. They might, however, perform a more useful service if they omitted a calculation of the per-share earnings in all cases where the company’s reports appear to contain irregularities or complications in any of the following directions and where a satisfactory correction is not practicable.
+
+1. By reason of nonrecurrent items included in income or because of charges to surplus that might properly belong in the income account.
+
+2. Because current results of subsidiaries are not accurately reflected in the parent company’s statements.
+
+3. Because the depreciation and other amortization charges are irregularly computed.
+
+**Special Dividends Paid by Subsidiaries.** When earnings of non-consolidated subsidiaries are allowed to accumulate in their surplus account, they may be used later to bolster up the results of a poor year by means of a large special dividend paid over to the parent company.
+
+*Examples:* Such dividends, amounting to $11,000,000, were taken by the Erie Railroad Company in 1922 from the Pennsylvania Coal Company and Hillside Coal and Iron Company. The Northern Pacific Railway Company similarly eked out its depleted earnings in 1930 and 1931 by means of large sums taken as special dividends from the Chicago, Burlington, and Quincy Railrod Company, the Northern Express Company, and the Northwestern Improvement Company, the last being a real-estate, coal and iron-ore subsidiary. The 1931 earnings of the New York, Chicago, and St. Louis Railroad Company included a back dividend of some $1,600,000 on its holdings of Wheeling and Lake Erie Railway Company Prior Preferred Stock, only a part of which was earned in that year by the Wheeling road.
