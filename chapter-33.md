@@ -543,3 +543,54 @@ These extraordinary devices may have been resorted to for what was considered th
 **Broader Significance of Subsidiaries’ Losses.** We have suggested in this chapter that security analysis must make full allowance for the results of subsidiaries, whether they be profits or losses. But the question may well be raised: Is the loss of a subsidiary necessarily a direct offset against the parent company’s earnings? Why should a company be worth *less* because it owns something–in this case, an unprofitable interest? Could it not at any time put an end to the loss by selling, liquidating or even abandoning the subsidiary? Hence, if good management is assumed, must we not also assume that the subsidiary losses are at most temporary and therefore to be regarded as nonrecurring items rather than as deductions from normal earnings?
 
 This point is similar to that discussed in the previous chapter relative to idle-plant expense and similar also to the matter of unprofitable *divisions* of a business, to be touched upon later. There is no one, simple answer to the questions that we have raised. Actually, if the subsidiary could be wound up *without an adverse effect upon the rest of the business*, it would be logical to view such losses as temporary–since good sense would dictate that in a short time the subsidiary must either become profitable or be disposed of. But if there are important business relations between the parent company and the subsidiary, *e.g.*, if the latter affords an outlet for goods or supplies cheap materials or absorbs an important share of the overhead, then the termination of its losses is not so simple a matter. It may turn out, upon further analysis, that all or a good part of the subsidiary’s loss is a necessary factor in the parent company’s profit. It is not an easy task to determine just what business relationships are involved in each instance. Like so many other elements in analysis, this point usually requires an investigation going well beyond the reported figures. The following examples will illustrate the type of situation and analysis with which we have been dealing.
+
+*Example A: Purity Bakeries Corporation.* This large maker of bread and cake operates through a number of subsidiaries, of which one of the largest is Cushman’s Sons, Inc., of New York. Cushman’s has outstanding $7 and $8 cumulative preferred stock, not guaranteed by Purity. The annual reports of Purity are on a consolidated basis and show earnings after deduction of full dividends on those Cushman’s preferred shares not owned by Purity, whether earned or paid. The separate reports of Cushman’s reveal that between 1934 and 1937 its operations resulted in a considerable loss to Purity, on its accounting basis, *viz.:*
+
+##### (000 omitted)
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Purity net income as reported</th>
+    <th>Loss of Cushman’s after full preferred dividends</th>
+    <th>Purity earnings excluding Cushman’s operations</th>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>$463</td>
+    <td>$426</td>
+    <td>$889</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>690</td>
+    <td>620</td>
+    <td>1,310</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>225 (d.)</td>
+    <td>930</td>
+    <td>678</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>209</td>
+    <td>173</td>
+    <td>382</td>
+  </tr>
+  <tr>
+    <td>Average 4 years</td>
+    <td>278</td>
+    <td>537</td>
+    <td>815</td>
+  </tr>
+  <tr>
+    <td>Per share of Purity</td>
+    <td>0.36</td>
+    <td>0.71</td>
+    <td>1.06</td>
+  </tr>
+</table>
+
+The earnings are thus seen to be three times as large excluding Cushman’s as they were including Cushman’s.
