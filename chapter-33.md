@@ -593,4 +593,8 @@ This point is similar to that discussed in the previous chapter relative to idle
   </tr>
 </table>
 
-The earnings are thus seen to be three times as large excluding Cushman’s as they were including Cushman’s.
+The earnings are thus seen to be three times as large excluding Cushman’s as they were including Cushman’s. Could the analyst have reasoned that the former provides the truer measure of Purity’s earning power, since the company can be expected either again to earn money from that subsidiary (as it had earned it in the past up to 1934) or to drop it? The question of inter-corporate relationships would have to be considered. A note in the 1937 report of Cushman’s indicated that Purity was making a fairly large service charge in connection with its subsidiaries’ operations, which suggests that Cushman’s might be of some extra value in absorbing overhead. This matter would call for a careful inquiry.
+
+But the report for the next year, 1938, showed, first, that Cushman’s had earned the preferred dividend deduction, and secondly, that two unprofitable retail plants (in Philadelphia and Chicago) had been closed. Subject to further investigation, therefore, the analyst might well infer that the subsidiary’s losses were nonpermanent in nature and that the reported results for 1934—1937 are to be viewed with this point in mind.
+
+*Example B: Lehigh Coal and Navigation Company.* This enterprise has derived its income from various sources, chief of which has been the lease of its railroad property to the Central Railroad of New Jersey for an annual rental of $2,268,000. Its next largest holding consists of anthracite coal mines, which since 1930 have been operated at a loss. In 1937 this loss was equivalent to about 90 cents per share of Lehigh stock. As a result the company reported a *consolidated* net loss of $307,000 for the year, as contrasted with a profit on a parent-company basis only of $1,125,000, or 64 cents per share.
