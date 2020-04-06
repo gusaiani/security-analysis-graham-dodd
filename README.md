@@ -27,3 +27,5 @@
 [Chapter 32: Extraordinary Losses and Other Special Items in the Income Account](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-32.md)
 
 [Chapter 33: Misleading Artifices in the Income Account. Earnings of Subsidiaries](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-33.md)
+
+[Chapter 34: The Relation of Depreciation and Similar Charges to Earning Power](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-34.md)
