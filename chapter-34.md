@@ -24,4 +24,15 @@ Whatever may be said for or against this theory, it is virtually never followed 
 
 Since 1914 there have been two waves of such revaluations. The first, taking place in the 1920’s, marked up prewar costs to the higher values currently prevailing. The second, appearing in 1931–1933, marked down property accounts to the much lower valuations associated with the depression.
 
-*Examples:* In 1926 American Ice Company wrote up its fixed assets by $7,868,000, and in 1935 it wrote them down correspondingly to restore the valuations to a cost basis. The 1926 write-up resulted in larger depreciation charges thereafter against income, and the 1935 reduction resulted in lower depreciation charges.
+*Examples:* In 1926 American Ice Company wrote up its fixed assets by $7,868,000, and in 1935 it wrote them down correspondingly to restore the valuations to a cost basis. The 1926 write-up resulted in larger depreciation charges thereafter against income, and the 1935 reduction resulted in lower depreciation charges. In 1933 American Locomotive Company reduced the stated value of its stock from $50 to $5 a share and utilized most of the capital surplus thus created to write down fixed properties by nearly $26,000,000 and its investment in General Steel Casting Corporation by about $6,200,000. The net effect on the income account was to reduce depreciation charges to about 40% of their former level.
+
+There is some criticism in accounting circles of the propriety of such sporadic changes in the depreciation base from original cost. In our opinion they are not objectionable *provided:*
+1. The new values are set up in the *bona fide* conviction that they represent existing realities more fairly than the old values.
+
+2. Proper depreciation against these new values is charged in the income account.
+
+In many cases, however, we find that companies revaluing their fixed assets fail to observe one or the other of these conditions.
+
+**Mark-downs to Reduce Depreciation Charges.** Perhaps the most striking phenomenon in the field of depreciation accounting is the recent marking down of the fixed assets, not in the interests of conservatism but with the precisely opposite intent of making a better earnings exibit and thereby *increasing* the apparent value of the shares.
+
+We believe that it will be more convenient for the reader if we defer consideration of the significance to security analysis of these devices until our chapter devoted to “Amortization Charges from the Investor’s Standpoint.” At this time, since we are dealing with accounting methods, we shall merely remark that in our opinion excessive write-downs of fixed assets, for the avowed or obvious purpose of decreasing depreciation and increasing reported earnings, constitute an inexcusable subterfuge and should not be condoned by the accounting profession. Registration statements submitted to the S.E.C. include a statement of how much lower the earnings would have been if the former plant values had been retained. We think that such information should also appear as a footnote to the income account in the annual reports to stockholders, but it would be better practice still if accountants refused to certify a report containing such mark-downs and insisted on restoration of the proper figures to the company’s accounts.
