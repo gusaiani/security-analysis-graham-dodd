@@ -40,3 +40,60 @@ We believe that it will be more convenient for the reader if we defer considerat
 **Balance Sheet-Income Account Discrepancies.** Many corporations that have marked up their fixed assets fail to increase correspondingly their depreciation charges against the income account. They are in effect attempting to get the benefit of the higher valuation in their balance sheet without accepting the burden of consequently higher depreciation charges against earnings. This practice has been especially prevalent in the case of mining and oil companies. Two examples drawn from the general industrial field are given here:
 
 *Examples:* Hall Printing Company wrote up its property account by $6,222,000 in 1926 and 1931, crediting this “appraisal increment” to capital surplus. Depreciation on this appreciated value was then charged to capital surplus, instead of to income; *e.g,*, typically, in the year ended March 1938 the company charged $406,000 for such depreciation against surplus and $864,000 for “regular” depreciation against income. In April 1938 the balance of the appraisal increment was eliminated by writing down both property account and capital surplus; and the special depreciation charge was then discontinued.
+
+Borg Warner has been charging about $102,000 per annum since 1935 (and various amounts in prior years) to “Appreciation Surplus,” instead of to income, to amortize a write-up of fixed assets made in 1927.
+
+It should be obvious that no company should use one set of values for its balance sheet and another for its income account. The more recent tendency is to correct these disparities by eliminating the previous write-up from the balance sheet, thus returning to original cost.
+
+### The Rate of Depreciation. Standard and Nonstandard Practice
+
+**1. As Shown by Listing Statements.** The vast majority of industrial companies follow the standard policy of charging an appropriate depreciation rate against each class of depreciable asset. The analyst can readily check this fact by reference to New York Stock Exchange listing applications or to a prospectus or registration statement.
+
+*Examples:* If standard methods are followed, they are likely to be announced in somewhat the following manner:
+
+(From listing application of Electric Storage Battery Company, dated December 17, 1928.)
+
+```
+The policy of this company in regard to depreciation … is as follows: On buildings the term of life is twenty to thirty-three years, depending upon the character of construction. Machinery, tools and fixtures are written off at the rate of one to ten years, depending upon the character of the equipment.
+
+Office furniture and fixtures are written off in ten years. On all depreciable properties rates are determined by actual experience and engineers’ estimates as to the productive life of the equipment. In respect to depreciation of current assets, a reserve is set aside to cover probable loss from bad debts.
+```
+
+(From the listing application of Midland Steel Products Company, dated February 11, 1930.)
+
+The following are the rates of depreciation used:
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Rate of depreciation per year, %</th>
+  </tr>
+  <tr>
+    <td>Buildings</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Grounds, driveways and walks</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Machinery</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Furniture and fixtures</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Railroad sidings</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Automobiles and trucks</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Tools and dies — amortized over life of job when number of units required can be determined, otherwise written off at close of each fiscal year.</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
