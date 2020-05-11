@@ -97,3 +97,91 @@ The following are the rates of depreciation used:
     <td>&nbsp;</td>
   </tr>
 </table>
+
+```
+These rates have been used by the Company for several years, being standard practice in the industry.
+
+The rates are based upon the estimated life of the respective property involved. Thus, with respect to buildings, the cost is depreciated, over 50 years; grounds, driveways, and walks, over 50 years; macinery over 14 years; furniture and fixtures, over 10 years; railroad sidings, over 50 years. No residual value at the expiration of said periods is considered in determining the rates used.
+```
+
+In contrast with this standard policy, now all but universally followed, we may point to the questionable practice on this important point formerly resorted to by such important companies as American Car and Foundry, American Sugar Refining and Baldwin Locomotive Works.
+
+The American Sugar Refining Company’s listing application, dated December 6, 1923, contained the following statement:
+
+```
+The Company maintains a very liberal policy as to depreciation as shown by the annual profit and loss statement of past years. The value of its properties is at all times fully maintained by the making of all needful and proper repairs thereto and renewals and replacements thereof.
+```
+
+This declaration sounds reassuring, but it is far too indefinite to satisfy the analyst. The actual depreciation charges, as shown in the following record, disclose an unusually arbitrary and erratic policy.
+
+### Annual charges by American Sugar Refining Company for depreciation
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Charged to income</th>
+    <th>Charged to surplus</th>
+  </tr>
+  <tr>
+    <td>1916-1920</td>
+    <td>$2,000,000</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1921</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1922-1923</td>
+    <td>1,000,000</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>1,000,000</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>1,000,000</td>
+    <td>$2,000,000</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>1,000,000</td>
+    <td>1,000,000</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>1,250,000</td>
+    <td>500,000</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>1,000,000</td>
+    <td>500,000</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>1,000,000</td>
+    <td>542,631</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>1,000,000</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>1,000,000</td>
+    <td>None</td>
+  </tr>
+</table>
+
+The additional charges to surplus made in the years 1926-1930, inclusive, appear to strengthen our contention that American Sugar’s depreciation allowances have been both arbitrary and inadequate.
