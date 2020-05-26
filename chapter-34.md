@@ -185,3 +185,68 @@ This declaration sounds reassuring, but it is far too indefinite to satisfy the 
 </table>
 
 The additional charges to surplus made in the years 1926-1930, inclusive, appear to strengthen our contention that American Sugar’s depreciation allowances have been both arbitrary and inadequate.
+
+The American Car and Foundry’s applications, dated April 2, 1925, contains the following:
+
+```
+The company has no depreciation account as such. However, its equivalent is found in the policy and the practice of the Company to maintain at all times its plants and properties in first class physical condition and in a high state of efficiency by repairing, renewing and replacing equipment and buildings as their physical conditions may require, and by replacing facilities with those of more modern type, when such action results in more economical production. This procedure amply covers depreciation and obsolescence and the cost is charged to Operating Expenses.
+```
+
+Here again a sceptical attitude on the part of the analyst is “amply” warranted. The same is true in respect of American Can which managed–inexplicably–to avoid all reference to its depreciation policy in its listing application dated February 26, 1926, although it did mention that the company had spent approximately $50,000,000 on extensions and improvement of properties since February 1907 and that “during this period properties have been depreciated by at least $20,000,000.”
+
+Baldwin Locomotive Works, in its listing application dated October 3, 1929, makes the following rather astonishing statement on depreciation:
+
+```
+The amount of the depreciation upon plant and equipment as determined by the Federal Government for the five years 1924 to 1928 inclusive has totaled $5,112,258.09 which has been deducted either from income or surplus as follows:
+```
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>From income</th>
+    <th>From surplus</th>
+    <th>Total depreciation</th>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>$600,000</td>
+    <td>None</td>
+    <td>$600,000.00</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>1,000,000</td>
+    <td>$2,637,881.01</td>
+    <td>3,637,881.01</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>600,000</td>
+    <td>274,377.08</td>
+    <td>874,377.08</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$2,200,000</td>
+    <td>$2,912,258.09</td>
+    <td>$5,112,258.09</td>
+  </tr>
+</table>
+
+```
+It is expected that in future years the amount of depreciation based upon the estimated useful life of depreciable properties as determined by the Federal Government, allowed by the Commissioner of Taxes as a proper deduction from income and agreed to by our engineers, will govern the amount to be used by the Works in its calculation fo depreciation.
+```
+
+Evidently the income statements of Baldwin for this period were anything but accurate. The average annual earnings per share of common stock for 1924–1928, as reported to the stockholders, were strikingly higher than the correct figure, as shown at the top of page 460.
