@@ -249,4 +249,79 @@ The amount of the depreciation upon plant and equipment as determined by the Fed
 It is expected that in future years the amount of depreciation based upon the estimated useful life of depreciable properties as determined by the Federal Government, allowed by the Commissioner of Taxes as a proper deduction from income and agreed to by our engineers, will govern the amount to be used by the Works in its calculation fo depreciation.
 ```
 
-Evidently the income statements of Baldwin for this period were anything but accurate. The average annual earnings per share of common stock for 1924–1928, as reported to the stockholders, were strikingly higher than the correct figure, as shown at the top of page 460.
+Evidently the income statements of Baldwin for this period were anything but accurate. The average annual earnings per share of common stock for 1924–1928, as reported to the stockholders, were strikingly higher than the correct figure, as shown below.
+
+##### Earnings per Share of Common
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>As reported</th>
+    <th>As corrected for annual depreciation charge of $1,022,000</th>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>$0.40(d)</td>
+    <td>$2.51(d)</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>6.02(d)</td>
+    <td>11.13(d)</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>22.42</td>
+    <td>17.31</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>5.21</td>
+    <td>5.10</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>5.34(d)</td>
+    <td>7.45(d)</td>
+  </tr>
+  <tr>
+    <td>5-year average</td>
+    <td>$3.33</td>
+    <td>$0.06</td>
+  </tr>
+</table>
+
+**2. As Shown by Comparisons of Two Companies.** When the analyst knows that a company’s depreciation policy differs from the standard, there is special reason to check the adequacy of the allowance. Comparison with a single company in the same field may yield significant results, as is shown by the table below respecting American Sugar and American Car and Foundry.
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Average property account (net) 1928—1932</th>
+    <th>Average depreciation charge 1928—1932</th>
+    <th>% of depreciation charge to property account</th>
+  </tr>
+  <tr>
+    <td>American Sugar Refining</td>
+    <td>$60,665,000</td>
+    <td>$1,050,000*</td>
+    <td>1.73†</td>
+  </tr>
+  <tr>
+    <td>National Sugar Refining</td>
+    <td>19,250,000**</td>
+    <td>922,000**</td>
+    <td>4.79**</td>
+  </tr>
+  <tr>
+    <td>American Car and Foundry</td>
+    <td>72,000,000</td>
+    <td>1,186,000§</td>
+    <td>1.65</td>
+  </tr>
+  <tr>
+    <td>American Steel Foundries</td>
+    <td>31,000,000</td>
+    <td>1,136,000</td>
+    <td>3.66</td>
+  </tr>
+</table>
