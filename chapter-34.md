@@ -325,3 +325,16 @@ Evidently the income statements of Baldwin for this period were anything but acc
     <td>3.66</td>
   </tr>
 </table>
+
+```
+* Exclusive of depreciation charged to surplus. Including the latter, this figure whould be $1,358,500.
+† Including depreciation charged to surplus this figure would be 2.24%.
+** Based on the four years 1929—1932, inclusive. Figure for 1928 unavailable.
+§ Estimated at one-half of the expenditures for renewals and repairs. In the case of United States Steel for the period 1901—1933, the charge for depreciation averaged about 40% of the total allowances for both maintenances and depreciation.
+```
+
+Both comparatively and absolutely the depreciation allowances made by American Sugar and American Car and Foundry appear to have been inadequate.
+
+**Depreciation Charges Often an Issue in Mergers.** Comparative depreciation charges at times become quite an issue in determining the fairness of proposed terms of consolidation.
+
+*Example:* In 1924 a merger plan was announced embracing the Chesapeake and Ohio, Hocking Valley Pere Marquette, “Nickel Plate,” and Erie railroads. Some Chesapeake and Ohio stockholders dissented, and they convinced the Interstate Commerce Commission that the terms of the consolidation were highly unfair to their road. Among other matters they pointed out that the earnings of Chesapeake and Ohio in the preceding three years had in reality been much higher than stated, due to the unusually heavy charges made against them for depreciation and retirement of equipment. A similar objection was made in connection with the projected merger of Bethlehem Steel and Youngstown Sheet and Tube in 1929, which plan was also defeated. Some figures on these two steel producers are given as shown in the table below.
