@@ -338,3 +338,38 @@ Both comparatively and absolutely the depreciation allowances made by American S
 **Depreciation Charges Often an Issue in Mergers.** Comparative depreciation charges at times become quite an issue in determining the fairness of proposed terms of consolidation.
 
 *Example:* In 1924 a merger plan was announced embracing the Chesapeake and Ohio, Hocking Valley Pere Marquette, “Nickel Plate,” and Erie railroads. Some Chesapeake and Ohio stockholders dissented, and they convinced the Interstate Commerce Commission that the terms of the consolidation were highly unfair to their road. Among other matters they pointed out that the earnings of Chesapeake and Ohio in the preceding three years had in reality been much higher than stated, due to the unusually heavy charges made against them for depreciation and retirement of equipment. A similar objection was made in connection with the projected merger of Bethlehem Steel and Youngstown Sheet and Tube in 1929, which plan was also defeated. Some figures on these two steel producers are given as shown in the table below.
+
+<table>
+  <tr>
+    <th>1928</th>
+    <th>Bethlehem Steel</th>
+    <th>Youngstown Sheet & Tube</th>
+  </tr>
+  <tr>
+    <td>Property Account, Dec. 31, 1927</td>
+    <td>$673,000,000</td>
+    <td>$204,000,000</td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td>295,000,000</td>
+    <td>141,000,000</td>
+  </tr>
+  <tr>
+    <td>Depreciation, depletion, and obsolescence</td>
+    <td>13,658,000</td>
+    <td>8,321,000</td>
+  </tr>
+  <tr>
+    <td>Ratio: depreciation to property account</td>
+    <td>2.03%</td>
+    <td>4.08%</td>
+  </tr>
+  <tr>
+    <td>Ratio: depreciation to sales</td>
+    <td>4.63%</td>
+    <td>5.90%</td>
+  </tr>
+</table>
+
+**Concealed Depreciation.** That nothing can be taken for granted in security analysis is shown by the strange case of American Can, which until 1937 had failed to reveal details of its depreciation policy to its shareholders. During the years 1922–1936 it deducted annually a flat $2,000,000 for this purpose. A comparison with Continental Can—which charged about the same amount against a much smaller plant investment—whould have suggested that American Can’s earning power had been overstated. But the annual report for 1934 disclosed to stockholders for the first time that the company had also been charging sums to operating expenses for “replacements,” without giving the amount. The fact (but not the amounts) that such charges had been made in 1935 and 1936 was also revealed in those years. Meanwhile Form 10-K for 1935, filed with the S.E.C., revealed that the amount of these extra charges was about $2,400,000. Finally the annual report for 1937 advised the stockholders that the corresponding extra charge-off amounted to approximately $3,275,000 for the year 1936. Beginning with 1937 the company made “regular” depreciation charges, amounting to $5,702,000 in that year and to $6,085,000 in 1938. Thus, by easy stages, the owners of the business were told the facts of life bearing on their property.
