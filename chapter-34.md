@@ -373,3 +373,97 @@ Both comparatively and absolutely the depreciation allowances made by American S
 </table>
 
 **Concealed Depreciation.** That nothing can be taken for granted in security analysis is shown by the strange case of American Can, which until 1937 had failed to reveal details of its depreciation policy to its shareholders. During the years 1922–1936 it deducted annually a flat $2,000,000 for this purpose. A comparison with Continental Can—which charged about the same amount against a much smaller plant investment—whould have suggested that American Can’s earning power had been overstated. But the annual report for 1934 disclosed to stockholders for the first time that the company had also been charging sums to operating expenses for “replacements,” without giving the amount. The fact (but not the amounts) that such charges had been made in 1935 and 1936 was also revealed in those years. Meanwhile Form 10-K for 1935, filed with the S.E.C., revealed that the amount of these extra charges was about $2,400,000. Finally the annual report for 1937 advised the stockholders that the corresponding extra charge-off amounted to approximately $3,275,000 for the year 1936. Beginning with 1937 the company made “regular” depreciation charges, amounting to $5,702,000 in that year and to $6,085,000 in 1938. Thus, by easy stages, the owners of the business were told the facts of life bearing on their property.
+
+In the light of this later disclosure, the earlier inference that American Can had understated its depreciation charges must give way to the remark that the company had failed to reveal the facts.
+
+**A Case of Excessive Depreciation Charges Concealed by Accounting Methods.** The American Can example suggests comparison with the earlier practice of National Biscuit Company, an enterprise controlled largely by the same interests. For many years prior to 1922 the company was constantly adding to the number of its factories, but its property account failed to show any appreciable increase, except in the single year 1920. The reports to stockholders were supremely ambiguous on the matter of depreciation charges, but according to the financial manuals the company’s policy was as follows: “Depreciation is $300,000 per annum, and all items of replacement and building alterations are charged direct to operating expense.”
+
+It is difficult to avoid the conclusion, however, that the capital investments in additional plants were actually being charged against the profits and that the real earnings were in all probability much larger than those reported to the public. Coincident with the issuance of seven shares of stock for one and the tripling of the cash-dividend rate in 1922, this policy of understating earnings was terminated. The result was a sudden doubling of the apparent earning power, accompanied by an equally sudden expansion in the plant account. The contrast between the two periods is shown forcibly in the table on this page.
+
+<table>
+  <tr>
+    <th>Year ended</th>
+    <th>Earnings for common stock</th>
+    <th>Net plant account at end of year</th>
+  </tr>
+  <tr>
+    <td>Jan. 31, 1911</td>
+    <td>$2,883,000</td>
+    <td>$53,159,000</td>
+  </tr>
+  <tr>
+    <td>1912</td>
+    <td>2,937,000</td>
+    <td>53,464,000</td>
+  </tr>
+  <tr>
+    <td>1913</td>
+    <td>2,803,000</td>
+    <td>53,740,000</td>
+  </tr>
+  <tr>
+    <td>1914</td>
+    <td>3,432,000</td>
+    <td>54,777,000</td>
+  </tr>
+  <tr>
+    <td>1915</td>
+    <td>2,784,000</td>
+    <td>54,886,000</td>
+  </tr>
+  <tr>
+    <td>1916</td>
+    <td>2,393,000</td>
+    <td>55,207,000</td>
+  </tr>
+  <tr>
+    <td>1917</td>
+    <td>2,843,000</td>
+    <td>55,484,000</td>
+  </tr>
+  <tr>
+    <td>Dec.31, 1917</td>
+    <td>2,886,000 (11 mo.)</td>
+    <td>53,231,000</td>
+  </tr>
+  <tr>
+    <td>1918</td>
+    <td>3,400,000</td>
+    <td>52,678,000</td>
+  </tr>
+  <tr>
+    <td>1919</td>
+    <td>3,614,000</td>
+    <td>53,955,000</td>
+  </tr>
+  <tr>
+    <td>1920</td>
+    <td>3,807,000</td>
+    <td>57,788,000</td>
+  </tr>
+  <tr>
+    <td>1921</td>
+    <td>3,941,000</td>
+    <td>57,925,000</td>
+  </tr>
+  <tr>
+    <td>1922</td>
+    <td>9,289,000</td>
+    <td>61,700,000</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>10,357,000</td>
+    <td>64,400,000</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>11,145,000</td>
+    <td>67,292,000</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>11,845,000</td>
+    <td>69,745,000</td>
+  </tr>
+</table>
