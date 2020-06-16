@@ -467,3 +467,11 @@ It is difficult to avoid the conclusion, however, that the capital investments i
     <td>69,745,000</td>
   </tr>
 </table>
+
+**Failure to State Depreciation Charges.** Prior to the S.E.C. regulation some of the important companies reported earnings after depreciation but failed to state the amount deducted for this purpose. Fortunately, this information must now be supplied in the case of every registered company.
+
+### Amortization Charges of Oil and Mining Companies
+
+These important sectors of the industrial field are subject to special factors bearing on amortization. In addition to depreciation in the ordinary sense—which they usually calculate in the same way as do other companies they must allow for depletion of their ore or oil reserves. In the case of mining concerns there is also the factor of development expense. Oil producers, on the other hand, have additional charges for intangible drilling costs and for unproductive leases. These items are important in their bearing on the true profits, and they are troublesome because of the varying methods that are followed by different enterprises.
+
+**Depletion Charges of Mining Companies.** Depletion represents the using up of capital assets by turning them into products for sale. It applies to companies producing metals, oil and gas, sulphur, timber, etc. As the holdings, or reserves, of these products are exhausted, their value must gradually be written off through charges against earnings. In the case of the older mining companies (including particularly the copper and sulphur producers) the depletion charges are determined by certain technical requirements of the federal income tax law, which rest upon the amount and value of the reserves as they were supposed to exist on March 1, 1913, or by applying certain percentages to the value of the product. Because of the artificial base used in these computations, many companies have omitted the depletion charge from their reports to stockholders.
