@@ -475,3 +475,40 @@ It is difficult to avoid the conclusion, however, that the capital investments i
 These important sectors of the industrial field are subject to special factors bearing on amortization. In addition to depreciation in the ordinary sense—which they usually calculate in the same way as do other companies they must allow for depletion of their ore or oil reserves. In the case of mining concerns there is also the factor of development expense. Oil producers, on the other hand, have additional charges for intangible drilling costs and for unproductive leases. These items are important in their bearing on the true profits, and they are troublesome because of the varying methods that are followed by different enterprises.
 
 **Depletion Charges of Mining Companies.** Depletion represents the using up of capital assets by turning them into products for sale. It applies to companies producing metals, oil and gas, sulphur, timber, etc. As the holdings, or reserves, of these products are exhausted, their value must gradually be written off through charges against earnings. In the case of the older mining companies (including particularly the copper and sulphur producers) the depletion charges are determined by certain technical requirements of the federal income tax law, which rest upon the amount and value of the reserves as they were supposed to exist on March 1, 1913, or by applying certain percentages to the value of the product. Because of the artificial base used in these computations, many companies have omitted the depletion charge from their reports to stockholders.
+
+**Independent Calculation by Investor Necessary.** As we shall show later, the investor in a mining concern must ordinarily compute his own depletion allowance, based upon the *amount that he has paid* for his share of the mining property. Consequently a depletion charge based either on the company’s original book cost or on the special figure set up for income-tax purposes would be confusing rather than helpful. The omission of the depletion charge of mining companies is not to be criticized, therefore; but the stockholder in such enterprises must be well aware of the fact in studying their reports. Furthermore, in any comparison of mining companies a proper distinction must be drawn between those which do and those which do not deduct their depletion charges in reporting their earnings. Following are some examples of companies that pursue one or the other policy:
+
+<table>
+  <tr>
+    <td>Companies That Report Earnings without Deduction for Depletion:</td>
+    <td>Companies That Report Earnings after Deduction for Depletion:</td>
+  </tr>
+  <tr>
+    <td>Alaska Juneau Gold Mining Co.</td>
+    <td>Cerro de Pasco Copper Corp.</td>
+  </tr>
+  <tr>
+    <td>Anaconda Copper Mining Co.</td>
+    <td>Granby Consolidated Mining, etc., Co. (copper)</td>
+  </tr>
+  <tr>
+    <td>Dome Mines, Ltd. (gold)</td>
+    <td>Homestake Mining Co. (gold)</td>
+  </tr>
+  <tr>
+    <td>Kennecott Copper Corp.</td>
+    <td>International Nickel Co. of Canada, Ltd.</td>
+  </tr>
+  <tr>
+    <td>Noranda Mines, Ltd. (copper and gold)</td>
+    <td>Patino Mines, etc. (tin)</td>
+  </tr>
+  <tr>
+    <td>Texas Gulf Sulphur Co.</td>
+    <td>Phelps Dodge Corp. (copper)</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>St. Joseph Lead Co.</td>
+  </tr>
+</table>
