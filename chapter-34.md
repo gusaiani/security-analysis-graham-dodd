@@ -512,3 +512,12 @@ These important sectors of the industrial field are subject to special factors b
     <td>St. Joseph Lead Co.</td>
   </tr>
 </table>
+
+**Depletion and Similar Charges in the Oil Industry.** In the oil industry depletion charges are more closely related to the actual cost of doing business than in the case of mining enterprises. The latter ordinarily invest in a single property or group of properties, the cost of which is then written off over a fairly long period of years. But the typical large oil producer normally spends substantial sums each year on new leases and new wells. These additional holdings are needed to make up for the shrinkage of reserves through production. The depletion charge corresponds in some measure, therefore, to a current cash outlay for the purpose of maintaining reserves and production. New wells may yield as high as 80% of their total output during the first year. Hence nearly all the cost of such “flush production” must be written off in a single fiscal period, and most of the “earnings” from this source are in reality a return of the capital expended thereon. If the investment is not written off rapidly through depletion and other charges, the profit and the value of the property account will both be grossly overstated. In the case of an oil company actively engaged in development work, the various headings under which write-offs must be made include the following:
+
+1. *Depreciation* of tangile assets.
+2. *Depletion* of oil and gas reserves, based upon the cost of the leases.
+3. *Unprofitable leases* written off. Part of the acquisitions and exploration will always prove totally valueless and must be charged against the revenue from the production leases.
+4. *Intangible drilling costs.* These are either written off, as equivalent to an operating expense, or amortized over the life of the well.
+
+*Example:* The case of Marland Oil in 1926 illustrates the extent to which reported earnings of oil companies are dependent upon the accounting policies with respect to amortization. This company spent large sums annually on new leases and wells to maintain its rate of production. Prior to 1926 it charged the so-called “intangible drilling costs” to capital account and then wrote them off against earnings through an annual amortization charge. In 1926 Marland adopted the more conservative policy of charging off all these “intangible costs” currently against earnings. The effect on profits is shown in the following table.
