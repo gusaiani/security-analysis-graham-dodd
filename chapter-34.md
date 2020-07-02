@@ -521,3 +521,42 @@ These important sectors of the industrial field are subject to special factors b
 4. *Intangible drilling costs.* These are either written off, as equivalent to an operating expense, or amortized over the life of the well.
 
 *Example:* The case of Marland Oil in 1926 illustrates the extent to which reported earnings of oil companies are dependent upon the accounting policies with respect to amortization. This company spent large sums annually on new leases and wells to maintain its rate of production. Prior to 1926 it charged the so-called “intangible drilling costs” to capital account and then wrote them off against earnings through an annual amortization charge. In 1926 Marland adopted the more conservative policy of charging off all these “intangible costs” currently against earnings. The effect on profits is shown in the following table.
+
+##### Marland Oil Company
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>1925</th>
+    <th>1926</th>
+    <th>1927</th>
+  </tr>
+  <tr>
+    <td>Gross earnings and miscellaneous income</td>
+    <td>$73,231,000</td>
+    <td>$87,360,000</td>
+    <td>$38,980,000</td>
+  </tr>
+  <tr>
+    <td>Net before reserves</td>
+    <td>24,495,000</td>
+    <td>30,303,000</td>
+    <td>9,808,000</td>
+  </tr>
+  <tr>
+    <td>Amortization charges</td>
+    <td>9,696,000</td>
+    <td>18,612,000</td>
+    <td>17,499,000</td>
+  </tr>
+  <tr>
+    <td>Balance for stock</td>
+    <td>14,799,000</td>
+    <td>11,691,000</td>
+    <td>7,691,000(d)</td>
+  </tr>
+</table>
+
+In the past ten years significant changes have occurred in the policies followed by the important oil companies. Prior to the depression the general tendency was towards charging the “intangible drilling costs” to earnings—as shown in the change made by Marland in 1926. But since the depression many of the large companies have switched over to the less conservative basis of capitalizing these costs, subject to annual amortization. This change seems justified in good part by the wide adoption of state pro-ration laws, which effectively spread out the total production of a new well over many years instead of concentrating it within a relatively few months. This makes an oil well a fairly long-term capital asset, so that charging off a good part of its cost (now often running to very high figures) against a single year’s profits would be unduly severe.
+
+The companies have also aided their earnings by large write-downs of fixed assets, with corresponding reductions in the annual amortization charges against them. This practice has perhaps been more widespread among oil companies than in any other industrial group. Some producers have also switched their charges for property *retirements* from earnings to the depreciation reserve. Finally, we have examples of a reduction in amortization charge being brought about by adoption of an “over-all-basis” instead of a lease basis for depletion. By this means, oil produced from high-cost leases is written off not at its actual cost but at the average cost of all the oil reserves owned.
