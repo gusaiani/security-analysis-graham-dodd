@@ -1,4 +1,4 @@
-##### Chapter 33
+##### Chapter 34
 
 ### The Relation of Depreciation and Similar Charges to Earning Power
 
@@ -606,3 +606,9 @@ When structures are built on leased property or alterations made or fixtures ins
 Since these items belong to the amortization group, they lend themselves to the same kind of arbitrary treatment as do the others. By making the annual charge against surplus instead of income or by writing down the entire capital investment to $1 and thus eliminating the annual charge entirely, a corporation can exclude these items of operating cost from its reported per-share earnings and thus make the latter appear deceptively large.
 
 **Amortization of Patents.** In theory, a patent should be dealt with in exactly the same way as a mining property; *i.e.*, its cost to the investor should be written off against earnings during its remaining life. It is obvious, therefore, that charges made against earnings by the company—which are based on the *book value* of the patent—have ordinarily little relevance to the real situation. Consideration of this question belongs chiefly to a later chaper on amortization from the investor’s standpoint, and to avoid dividing our treatment we shall postpone to the same place our brief discussion of the accounting methods relative to patents encountered in corporate reports.
+
+**Amortization of Good-will.** This is a matter of very minor importance. A few companies have followed the rather extraordinary policy of charging off their good-willl account against earnings in a number of annual installments.
+
+*Examples:* Radio Corporation of America charged $310,000 a year for this purpose between 1934 and 1937. This was applicable to the good-will account of its subsidiary National Broadcasting Company and was discontinued in 1938, although $1,876,000 remained unamortized.
+
+Obviously, this practice has no factual basis, since good-will has no duration of life apart from that of the business as a whole. Where the item is of any size, the analyst should adjust the earnings by canceling the charge.
