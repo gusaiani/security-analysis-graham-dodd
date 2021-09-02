@@ -135,3 +135,98 @@ These conclusions, reached in 1933, are supported by the results of the six year
 ```
 Quantitative data are useful only to the extent that they are supported by a qualitative survey of the enterprise.
 ```
+
+In order for a company’s business to be regarded as reasonably stable, it does not suffice that the past record should show stability. The nature of the undertaking, considered apart from any figures, must be such as to indicate an inherent permanence of earning power. The importance of the additional criterion was well illustrated by the case of the Studebaker Corporation which was used as an example in our discussion of qualitative factors in analysis on page 87. It is possible, on the other hand, that there may be considerable variation in yearly earnings, but there is a reasonable basis nevertheless for taking the average as a rough index at least of future performance. In 1934 we cited United States Steel Corporation as a leading case in point. The text of our discussion was as follows:
+
+The annual earnings for 1923—1932 are given below:
+
+##### United States Steel Corporation, 1923—1932
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Earnings per share of common</th>
+    <th>Output of finished steel, tons</th>
+    <th>% of total output of country</th>
+    <th>Net per ton before depreciation</th>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>$11.08(d)</td>
+    <td>3,591,000</td>
+    <td>34.4</td>
+    <td>$3.54(d)</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>1.40(d)</td>
+    <td>7,196,000</td>
+    <td>37.5</td>
+    <td>5.71</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>9.12</td>
+    <td>11,609,000</td>
+    <td>39.3</td>
+    <td>13.10</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>21.19</td>
+    <td>15,303,000</td>
+    <td>37.3</td>
+    <td>16.90</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>12.50</td>
+    <td>13,972,000</td>
+    <td>37.1</td>
+    <td>13.83</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>8.81</td>
+    <td>12,979,000</td>
+    <td>39.5</td>
+    <td>12.66</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>12.85</td>
+    <td>14,334,000</td>
+    <td>40.4</td>
+    <td>13.89</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>9.19</td>
+    <td>13,271,000</td>
+    <td>39.7</td>
+    <td>12.49</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>8.41</td>
+    <td>11,723,000</td>
+    <td>41.7</td>
+    <td>13.05</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>11.73</td>
+    <td>14,721,000</td>
+    <td>44.2</td>
+    <td>12.20</td>
+  </tr>
+  <tr>
+    <td>10-year average</td>
+    <td>$8.13</td>
+    <td>11,870,000</td>
+    <td>39.1</td>
+    <td>11.03</td>
+  </tr>
+</table>
+
+If compared with those of Studebacker for 1920—1929, the foregoing earnings show much greater instability. Yet the average of about $8 per share for the ten-year period has far more significance as a guide to the future than had Studebaker’s indicated earning power of about $6.75 per share. This greater dependability arises from the entrenched position of United States Steel in its industry; and also from the relatively narrow fluctuations in both the annual output and the profit per ton over most of the period. These two elements may be used as a basis for calculating approximate “normal earnings” of U.S. Steel, somewhat as follows:
