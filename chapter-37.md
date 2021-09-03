@@ -230,3 +230,40 @@ The annual earnings for 1923—1932 are given below:
 </table>
 
 If compared with those of Studebacker for 1920—1929, the foregoing earnings show much greater instability. Yet the average of about $8 per share for the ten-year period has far more significance as a guide to the future than had Studebaker’s indicated earning power of about $6.75 per share. This greater dependability arises from the entrenched position of United States Steel in its industry; and also from the relatively narrow fluctuations in both the annual output and the profit per ton over most of the period. These two elements may be used as a basis for calculating approximate “normal earnings” of U.S. Steel, somewhat as follows:
+
+<table>
+  <tr>
+    <td>Normal or usual annual production of finished goods</td>
+    <td>13,000,000 tons</td>
+  </tr>
+  <tr>
+    <td>Gross receipts per ton of finished products</td>
+    <td>$100.00</td>
+  </tr>
+  <tr>
+    <td>Net earnings per ton before depreciation</td>
+    <td>$12.50</td>
+  </tr>
+  <tr>
+    <td>Net earnings on 13,000,000 tons</td>
+    <td>$160,000,000.00</td>
+  </tr>
+  <tr>
+    <td>Depreciation, bond interest, and preferred dividends</td>
+    <td>90,000,000.00</td>
+  </tr>
+  <tr>
+    <td>Balance for 8,700,000 shares of common</td>
+    <td>70,000,000.00</td>
+  </tr>
+  <tr>
+    <td>Normal earnings per share</td>
+    <td>$8.00</td>
+  </tr>
+</table>
+
+The average earnings for the 1923—1932 decade are thus seen to approximate a theoretical figure based upon a fairly well-defined “normal” output and profit margin. (The increase in number of shares outstanding prevents this normal figure from exceeding the ten-year average.) Although a substantial margin of error must be allowed for in such a computation, it at least supplies a starting point for an intelligent estimate of future probabilities.
+
+Examining this analysis six years later, we may draw some confliciting conclusions as to its value. United States Steel’s earnings did recover to $7.88 per share in 1937 ($8.31 before the surtax on undistributed profits). The price advanced from the 1933 average of 45½ to a high of 126 in March 1937. Hence our implication that the company had a better earning power than the 1932 results and stock prices reflected would seem to have been amply justified by the event.
+
+But actually the average earnings for 1934—1939 have been quite disappointing (amounting to no more than 14 cents per share). If these results have as much validity for the steel industry as they have for most lines of business, we should have to admit that the analysis based on 1923—1932 was not really useful, because the underlying conditions in steel have changed for the worse. The change consists chiefly in much higher unit costs and a lower average output, selling prices on the whole having been well maintained.
