@@ -277,3 +277,60 @@ This is one of the most important lines of cleavage between Wall Street practice
 It is true also that underlying values may change substantially from one market cycle to another, more so, of course, in the case of individual issues than for the market as a whole. Hence if a common stock is sold at what seems to be a generous price in relation to the average of past earnings, it may later so improve its position as to justify a still higher quotation even in the next depression. The converse may occur in the purchase of securities at subnormal prices. If such permanent changes did not frequently develop, it is doubtful if the market would respond so vigorously to current variations in the business picture. The mistake of the market lies in its assumption that *in every case* changes of this sort are likely to go farther, or at least to persist, whereas experience shows that such developments are exceptional and that the *probabilities* favor a swing of the pendulum in the opposite direction.
 
 The analyst cannot follow the stock market in its indiscriminate tendency to value issues on the basis of current earnings. He may on occasion attach predominant weight to the recent figures rather than to the average, but only when persuasive evidence is at hand pointing to the continuance of these current results.
+
+**Average vs. Trend of Earnings.** In addition to emphasizing strongly the current showing of a company, the stock market attaches great weight to the indicated *trend of earnings*. In Chap. 27 we pointed out the twofold danger inhering in this magnification of the trend–the first being that the supposed trend might prove deceptive, and the second being that valuations based upon trend obey no arithmetical rules and therefore may too easily be exaggerated. There is indeed a fundamental conflict between the concepts of the *average* and of the *trends* as applied to an earnings record. This may be illustrated by the following simplified example:
+
+##### Earned per share in successive years
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>1st</th>
+    <th>2nd</th>
+    <th>3rd</th>
+    <th>4th</th>
+    <th>5th</th>
+    <th>6th</th>
+    <th>7th (current)</th>
+    <th>Average of 7 years</th>
+    <th>Trend</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <th>$1</th>
+    <th>$2</th>
+    <th>$3</th>
+    <th>$4</th>
+    <th>$5</th>
+    <th>$6</th>
+    <th>$7</th>
+    <th>$4</th>
+    <th>Excellent</th>
+  </tr>
+  <tr>
+    <td>B</td>
+    <th>7</th>
+    <th>7</th>
+    <th>7</th>
+    <th>7</th>
+    <th>7</th>
+    <th>7</th>
+    <th>7</th>
+    <th>7</th>
+    <th>Neutral</th>
+  </tr>
+  <tr>
+    <td>C</td>
+    <th>13</th>
+    <th>12</th>
+    <th>11</th>
+    <th>10</th>
+    <th>9</th>
+    <th>8</th>
+    <th>7</th>
+    <th>10</th>
+    <th>Bad</th>
+  </tr>
+</table>
+
+On the basis of these figures the better the trend, when compared with the same current earnings (in this case $7 per share), the poorer the average and the higher the average the poorer the trend. They suggest an important question respecting the theoretical and practical interpretation of earnings records: Is not the trend at least as significant for the future as the average? Concretely, in judging the probable performance of Companies *A* and *C* over the next five years, whould not there be more reason to think in terms of a sequence of $8, $9, $10, $11, and $12 for *A* and a sequence of $7, %6, $5, $4, and $3 for *C* rather than in terms of the past average of $4 for *A* and $10 for *C*?
