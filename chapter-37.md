@@ -339,4 +339,63 @@ The answer to this problem derives from common sense rather than from formal or 
 
 *Attitude of Analyst Where Trend Is Upward.* If such a *qualitative* study leads to a favorable verdic—as frequently it should—the analyst’s philosophy must still impel him to base his investment valuation on an assumed earning power no larger than the company has already achieved in a period of normal business. This is suggested because, in our opinion, investment values can be related only to demonstrated performance: so that neither expected increases nor even past results under conditions fo abnormal business activity may be taken as a basis. As we shall point out in the next chapter, this assumed earning power may properly be capitalized more liberally when the prospects appear excellent than in the ordinary case, but we shall also suggest that the maximum multiplier be held to a conservative figure (say, 20, under the conditions of 1940) if the valuation reached is to be kept within strictly *investment* limits. On this basis, assuming that general business conditions in the current year are not unusually good, the earning power of Company *A* might be taken at $7 per share, and its investment value might be set as high as 140. The divergence in method between the stock market and the analyst—as we define his viewpoint—would mean in general that the price levels ruling for the so-called “good stocks” under normal market conditions are likely to appear overgenerous to the conservative student. This does not mean that the analyst is convinced that the market valuation is wrong but rather that he is not convinced that its valuation is right. He would call a substantial part of the price a “speculative component,” in the sense that it is paid not for *demonstrated* but for expected results. (This subject is discussed further in Chap. 39.)
 
-*Attitude of Analyst Where Trend is Downward.* Where the trend has been definitely downward, as that of Company *C*, the analyst will assign great weight to this unfavorable factor. He will not assume that the downcurve *must* presently turn upward, nor can he accept the past average—which is much higher than the current figure—as a normal index of future earnings. But he will be equally chary about any hasty conclusions to the effect that the company’s outlook is hopeless, that its earnings are certain to disappear entirely and that the stock is therefore without merit or value. Here again a qualitative study of the company’s situation and prospects is essential to forming a opinion whether *at some price*, relatively low, of course, the issue may not be a bargain, despite its declining earnings trend.
+*Attitude of Analyst Where Trend is Downward.* Where the trend has been definitely downward, as that of Company *C*, the analyst will assign great weight to this unfavorable factor. He will not assume that the downcurve *must* presently turn upward, nor can he accept the past average—which is much higher than the current figure—as a normal index of future earnings. But he will be equally chary about any hasty conclusions to the effect that the company’s outlook is hopeless, that its earnings are certain to disappear entirely and that the stock is therefore without merit or value. Here again a qualitative study of the company’s situation and prospects is essential to forming a opinion whether *at some price*, relatively low, of course, the issue may not be a bargain, despite its declining earnings trend. Once more we identify the viewpoint of the analyst with that of a sensible business man looking into the pros and cons of some privately owned enterprise.
+
+To illustrate this reasoning, we append the record of net earnings for 1925—1933 of Continental Baking Corporation and American Laundry Machinery company.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Continental Baking</th>
+    <th>American Laundry Machinery</th>
+  </tr>
+  <tr>
+    <tr>1933</tr>
+    <tr>$2,788,000</tr>
+    <tr>$1,187,000(d)</tr>
+  </tr>
+  <tr>
+    <tr>1932</tr>
+    <tr>2,759,000</tr>
+    <tr>986,000(d)</tr>
+  </tr>
+  <tr>
+    <tr>1931</tr>
+    <tr>4,243,000</tr>
+    <tr>772,000</tr>
+  </tr>
+  <tr>
+    <tr>1930</tr>
+    <tr>6,114,000</tr>
+    <tr>1,849,000</tr>
+  </tr>
+  <tr>
+    <tr>1929</tr>
+    <tr>6,671,000</tr>
+    <tr>3,542,000</tr>
+  </tr>
+  <tr>
+    <tr>1928</tr>
+    <tr>5,273,000</tr>
+    <tr>4,128,000</tr>
+  </tr>
+  <tr>
+    <tr>1927</tr>
+    <tr>5,570,000</tr>
+    <tr>4,221,000</tr>
+  </tr>
+  <tr>
+    <tr>1926</tr>
+    <tr>6,547,000</tr>
+    <tr>4,807,000</tr>
+  </tr>
+  <tr>
+    <tr>1925</tr>
+    <tr>8,794,000</tr>
+    <tr>5,101,000</tr>
+  </tr>
+</table>
+
+The profits of American Laundry Machinery reveal an uninterrupted decline, and the trend shown by Continental Baking is almost as bad. It will be noted that in 1929—the peak of prosperity for most companies—the profits of these concerns were substantially less than they were four years earlier.
+
+Wall Street reasoning would be prone to conclude from this exhibit that both enterprises are definitely on the downward path. But such extreme pessimism would be far from logical. A study of these two businesses from the qualitative standpoint would indicate first that the respective industries are permanent and reasonably stable and secondly that each company occupies a leading position in its industry and is well fortified financially. The inference would properly follow that the unfavorable tendency shown during 1925—1932 was probably due to accidental or nonpermanent conditions and that in gaging the future earning power more enlightenment will be derived from the substantial *average* than from the seemingly disastrous trend.
