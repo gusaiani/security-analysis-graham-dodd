@@ -410,4 +410,93 @@ When an *average* is taken over a period that includes a number of deficits, som
 
 *Analysis of the Future Should Be Penetrating Rather than Prophetic.* Analytical reasoning with regard to the future is of a somewhat different character, being penetrating rather than prophetic.
 
-*Example:* Let us take the situation presented by Intertype Corporation in March-July 1939, when the stock was selling at $8 per share. This old, established company was one of the leaders in a relatively small industry (line-casting machines, etc., for the printing trade). Its recent earnings had not been favorable, nor did there seem to be any particular reason for optimistic expectations as to the near-term outlook. The analyst, however, could not fail to be impressed by the balance sheet, which showed net current assets available for the stock amounting to close to $20 per share. The ten-year earnings, dividend and price record of the common stock was as shown in the table on p. 483.
+*Example:* Let us take the situation presented by Intertype Corporation in March-July 1939, when the stock was selling at $8 per share. This old, established company was one of the leaders in a relatively small industry (line-casting machines, etc., for the printing trade). Its recent earnings had not been favorable, nor did there seem to be any particular reason for optimistic expectations as to the near-term outlook. The analyst, however, could not fail to be impressed by the balance sheet, which showed net current assets available for the stock amounting to close to $20 per share. The ten-year earnings, dividend and price record of the common stock was as shown in the table below.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Earned per share</th>
+    <th>Dividend paid</th>
+    <th>Price range</th>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>$0.57</td>
+    <td>0.45</td>
+    <td>12¾–8</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>1.41</td>
+    <td>0.80</td>
+    <td>26½–9</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>1.42</td>
+    <td>0.75</td>
+    <td>16–6 1/8</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>0.75</td>
+    <td>0.40</td>
+    <td>16–6 1/8</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>0.21</td>
+    <td>&nbsp;</td>
+    <td>10–5 5/8</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>0.77(d)</td>
+    <td>&nbsp;</td>
+    <td>11 1/4 – 1 7/8</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>1.82(d)</td>
+    <td>&nbsp;</td>
+    <td>7–2½</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>0.56</td>
+    <td>1.00</td>
+    <td>18½–4 5/8</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>1.46</td>
+    <td>2.00</td>
+    <td>32–12</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>3.05</td>
+    <td>1.75</td>
+    <td>38 7/8–17</td>
+  </tr>
+  <tr>
+    <td>Average 1934–1938</td>
+    <td>0.87</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Average 1929–1938</td>
+    <td>0.68</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+Certainly there is nothing attractive in this record, marked as it is by irregularity and the absence of a favorable trend. But although these facts would undoubtedly condemn the issue in the eyes of the speculator, the reasoning of the analyst might conceivably run along different lines.
+
+The essential question for him would be whether or not the company can be counted on to remain in business and to participate about as before in good times and bad. On this point of the industry, the company’s prominent position in it and the strong financial set-up would clearly suggest an affirmative answer. If this were granted, the analyst would then point out that the shares could be bought at 8 with very small chance of ultimate loss and with every indication that under the next set of favorable conditions the value of the stock would double. Note that in 3 years out of the past 5 and in 6 out of the past 10, the stock sold between 2 and 4 times the July 1939 price.
+
+This type of reasoning, it will be noted, lays emphasis not upon an accurate prediction of future trends but rather on reaching the general conclusion that the company will continue to do business pretty much as before.
+
+Wall Street is inclined to doubt that any such presumption may be applied to companies with an irregular trend, and to consider that it is just as difficult and hazardous to reach a conclusion of this kind as to determine that a “growing company“ will continue to grow. But in our view the Intertype form of reasoning has two definite advantages over the customary attitude, *e.g.*, that which would prefer a company such as Coca-Cola, at 22 times recent earnings and 35 times its asset value, because of the virtually uninterrupted expansion of its profits for more than 15 years.
