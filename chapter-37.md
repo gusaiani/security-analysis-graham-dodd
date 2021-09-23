@@ -500,3 +500,96 @@ The essential question for him would be whether or not the company can be counte
 This type of reasoning, it will be noted, lays emphasis not upon an accurate prediction of future trends but rather on reaching the general conclusion that the company will continue to do business pretty much as before.
 
 Wall Street is inclined to doubt that any such presumption may be applied to companies with an irregular trend, and to consider that it is just as difficult and hazardous to reach a conclusion of this kind as to determine that a “growing company“ will continue to grow. But in our view the Intertype form of reasoning has two definite advantages over the customary attitude, *e.g.*, that which would prefer a company such as Coca-Cola, at 22 times recent earnings and 35 times its asset value, because of the virtually uninterrupted expansion of its profits for more than 15 years.
+
+The first advantage is that, after all, private business is conducted and investments made therein on the same kind of assumptions that we have made with respect to Intertype. The second is that reasoning of this kind can be *conservative* in that it allows for a liberal margin of safety in case of error or disappointement. It runs considerably less risk of confusion between “confidence in the future” and mere speculative enthusiasm.
+
+**Large Profits Frequently Transitory.** More frequently we have the opposite type of situation from that just discussed. Here the analyst finds reason to question the indefinite continuance of past prosperity.
+
+*Examples:* Consider a company like J. W. Watson (“Stabilator”) Company, engaged chiefly in the manufacture of a single type of automotive accessory. The success of such a “gadget” is normally short-lived; competition and changes in the art are an ever present threat to the stability of earning power. Hence in such a case the student could have pointed out that the market price, bearing the usual ratio to current and average earnings, reflected a quite unwarranted confidence in the permanence of profits that by their nature were likely to be transitory. Some of the pertinent data relative to this judgement are given in the table below, with respect to this company.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net for common</th>
+    <th>Per share</th>
+    <th>Price range for common</th>
+    <th>Dividend</th>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>$214,026(d)</td>
+    <td>$1.07(d)</td>
+    <td>3/8 — 1/8</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>240,149(d)</td>
+    <td>1.20(d)</td>
+    <td>2–1/8</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>264,269(d)</td>
+    <td>1.32(d)</td>
+    <td>6–1</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>323,137(d)</td>
+    <td>1.61(d)</td>
+    <td>14 7/8 – 1 5/8</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>348,930(d)</td>
+    <td>1.74(d)</td>
+    <td>20–5¼</td>
+    <td>50 cents</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>503,725</td>
+    <td>2.16</td>
+    <td>25¾–18⅞</td>
+    <td>50 cents</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>577,450</td>
+    <td>2.88</td>
+    <td>(Issue not quoted prior to 1927)</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>502,593</td>
+    <td>2.51</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>29,285</td>
+    <td>0.15</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>173,907</td>
+    <td>0.86</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1922</td>
+    <td>142,701</td>
+    <td>0.71</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
