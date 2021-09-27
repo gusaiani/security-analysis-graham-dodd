@@ -593,3 +593,81 @@ The first advantage is that, after all, private business is conducted and invest
     <td>&nbsp;</td>
   </tr>
 </table>
+
+A similar consideration would apply to the exhibit of Coty, Inc., in 1928. Here was a company with an excellent earnings record, but the earnings were derived from the popularity of a trade-marked line of cosmetics. This was a field in which the variable tastes of femininity could readily destroy profits as well as build them up. The inference that rapidly rising profits in previous years meant much larger profits in the future was thus expecially fallacious in this case, because *by the nature of the business* a peak of popularity was likely to be reached at some not distant point, after which a substantial falling off would be, if not inevitable, at least highly probable. Some of the data appearing on the Coty exhibit are as follows:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net income</th>
+    <th>Earned per share (adjusted)</th>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>$1,070,000</td>
+    <td>$0.86</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>2,046,000</td>
+    <td>1.66</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>2,505,000</td>
+    <td>2.02</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>2,943,000</td>
+    <td>2.38</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>3,341,000</td>
+    <td>2.70</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>4,047,000</td>
+    <td>3.09</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>4,058,000</td>
+    <td>2.73</td>
+  </tr>
+</table>
+
+At the high price of 92 in 1929, Coty, Inc. was selling in the market for about $120,000,000 or thirty times its *maximum* earnings. The actual investment in the business (capital and surplus) amounted to about $14,000,000.
+
+Subsequent earnings were as shown in the table following.
+
+##### Coty, Inc.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net income</th>
+    <th>Earned per share</th>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>$1,318,000</td>
+    <td>$0.86</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>991,000</td>
+    <td>0.65</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>521,000</td>
+    <td>0.34 (low price in 1932—1½)</td>
+  </tr>
+</table>
+
+A third variety of this kind of reasoning could be applied to the brewery-stock flotations in 1933. These issues showed substantial current or prospective earnings based upon capacity operations and the indicated profit per barrel. Without claiming the gift of second sight, an analyst could confidently predict that the flood of capital being poured into this new industry would ultimately result in overcapacity and keen competition.
+
+Hence a continued large return on the actual cash investment was scarcely probable; it was likely, moreover, that many of the individual companies would prove financial failures, and most of the others would be unable to earn enough to justify the optimistic price quotations engendered by their initial success.
