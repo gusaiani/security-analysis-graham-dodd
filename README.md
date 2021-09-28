@@ -32,3 +32,4 @@
 
 [Chapter 37: Significance of the Earnings Record](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-37.md)
 
+[Chapter 38: Specific Reasons for Questioning or Rejecting the Past Record](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-38.md)
