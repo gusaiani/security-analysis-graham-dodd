@@ -38,4 +38,44 @@ Early in 1937 the stock sold at $20 per share, a valuation of $40,000,000 for th
 A detailed analysis of the make-up of the 1936 earnings would have shown them to be derived from four separate sources, approximately as follows:
 
 <table>
+  <tr>
+    <th>Source of copper</th>
+    <th>Number of pounds, millions</th>
+    <th>Profit before depreciation and depletion - Cents per pound (approximate)</th>
+    <th>Profit before depreciation and depletion - Total (approximate)</th>
+  </tr>
+  <tr>
+    <td>Copper previously produced</td>
+    <td>17.3</td>
+    <td>4.5</td>
+    <td>$775,000</td>
+  </tr>
+  <tr>
+    <td>Conglomerate mine</td>
+    <td>36.3</td>
+    <td>3.6</td>
+    <td>1,305,000</td>
+  </tr>
+  <tr>
+    <td>Ahmeek mine</td>
+    <td>23.0</td>
+    <td>3.3</td>
+    <td>760,000</td>
+  </tr>
+  <tr>
+    <td>Reclamation plants</td>
+    <td>19.2</td>
+    <td>5.3</td>
+    <td>1,015,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>95.8</td>
+    <td>4.0</td>
+    <td>$3,855,000</td>
+  </tr>
 </table>
+
+Of these four sources of profit, all but the smallest were definitely limited in life. The sale of copper produced in prior years was obviously non-recurring. The mainstay of the company’s production for 70 years—the Conglomerate Branch—was facing exhaustion “in the course of 12 or 14 months.” The reclamation-plant copper, recovered by reworking old tailings and providing the cheapest metal, was limited to a life of 5 to 7 years. There remained as the only more permanent source of future output the Ahmeek Mine, which was the highest cost operation and which had therefore been shut down from April 1932 through 1935. (There were also certain other high-cost properties that were still shut down in 1936.)
+
+Analysis would indicate, therefore, that probably not more than a total of some 7 to 8 millions in profit could be expected in the future from the Conglomerate and the reclamation operations. Hence, aside from new developments of a speculative character, the greater part of the 40 millions of valuation for the company would have to be supported by earnings from higher cost properties *which had contributed only a minor part of the 1936 results.*
