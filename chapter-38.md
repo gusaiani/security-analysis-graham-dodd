@@ -106,3 +106,59 @@ Evidently the stock market—like the heart, in the French proverb—has reasons
 **Anomalous Prices and Price Relationships in the History of the I.R.T. System.** The checkered history of the Interborough Rapid Transit System in New York City has presented a great variety of divergences between market prices and the real or relative values ascertainable by analysis. Two of these discrepancies turn upon the fact that *for specific reasons* the then current and past earnings should not have been accepted as indicative of future earning power. In abbreviated form the details of these two situations are as follows:
 
 For a number of years prior to 1918 the Interborough Rapid Transit Company was very prosperous. In the 12 months ended June 30, 1917, it earned $26 per share on its capital stock and paid dividends of $20 per share. Nearly all of this stock was owned by Interborough Consolidated Corporation, a holding concern (previously called Interborough-Metropolitan Corporation) which in turn had outstanding collateral trust bonds, 6% preferred stock and common stock. Including its share of the undistributed earnings of the operating company it earned about $11.50 per share on its preferred stock and about $2.50 on the common. The preferred sold in the market at 60, and the common at 10. These issues were actively traded in, and they were highly recommended to the public by various financial agencies which stressed the phenomenal growth of the subway traffic.
+
+A modicum af analysis would have shown that the real picture was entirely different from what appeared on the surface. New rapid tansit facilities were being constructed under contract between the City of New York and the Interborough (as well as others under contract between the City and the Brooklyn Rapid Transit Company). As soon as the new lines were placed in operation, which was to be the following year, the earnings available for Interborough were to be limited under this contract to the figure prevailing in 1911—1913, *which was far less than the current profits*. The City would then be entitled to receive a high return on its enormous investment in the new lines. If and after all such payments were made in full, including back accruals, the City and the Interborough would then share equally in surplus profits. However, the preferential payments due the City would be so heavy that experts had testified that under the most favorable conditions it would be *more than 30 years* before there could be any surplus income to divide with the company.
+
+The subjoined brief table shows the significance of these facts.
+
+##### Interborough Rapid Transit System
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Actual earnings 1917</th>
+    <th><em>Maximum</em> earnings when contract with City became operative</th>
+  </tr>
+  <tr>
+    <td>Balance for I.R.T. stock</td>
+    <td>$9,100,000</td>
+    <td>$5,200,000</td>
+  </tr>
+  <tr>
+    <td>Share applicable to Interborough Consolidated Corp.</td>
+    <td>8,800,000</td>
+    <td>5,000,000</td>
+  </tr>
+  <tr>
+    <td>Interest on Inter. Consol. bonds</td>
+    <td>3,520,000</td>
+    <td>3,520,000</td>
+  </tr>
+  <tr>
+    <td>Balance for Inter. Consol. pfd.</td>
+    <td>5,280,000</td>
+    <td>1,480,000</td>
+  </tr>
+  <tr>
+    <td>Preferred dividend requirements</td>
+    <td>2,740,000</td>
+    <td>2,740,000</td>
+  </tr>
+  <tr>
+    <td>Balance for Inter. Consol. common</td>
+    <td>2,540,000</td>
+    <td>1,260,000(d)</td>
+  </tr>
+  <tr>
+    <td>Earned per share, Inter. Consol. pfd.</td>
+    <td>$11.50</td>
+    <td>$3.25</td>
+  </tr>
+  <tr>
+    <td>Earned per share, Inter. Consol. common</td>
+    <td>2.50</td>
+    <td>nil</td>
+  </tr>
+</table>
+
+The underlying facts proved beyond question, therefore, that instead of a brilliant future being in store for Interborough, it was destined to suffer a severe loss of earning power within a year’s time. It would then be quite impossible to maintain the $6 dividend on the holding company’s preferred stock, and no earnings at all would be available for the common for a generation or more. On this showing it was mathematically certain that both Interborough Consolidated stock issues were worth far less than their current selling prices.
