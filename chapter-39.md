@@ -23,3 +23,144 @@ Although this rule is of necessity arbitrary in its nature, it is not entirely s
 *Higher Prices May Prevail for Speculative Commitments.* The intent of this distinction must be clearly understood. We do not imply that it is a mistake to pay more than 20 times average earnings for any common stock. We do suggest that such a price would be speculative. The purchase may easily turn out to be highly profitable, but in that case it will have proved a wise or fortunate speculation. It is proper to remark, moreover, that very few people are consistenly wise or fortunate in their speculative operations. Hence we may submit, as a corollary of no small practical importance, *that people who habitually purchase common stocks at more than about 20 times their average earnings are likely to lose considerable money in the long run*. This is the more probable because, in the absence of such a mechanical check, they are prone to succumb recurrently to the lure of bull markets, which always find some specious argument to justify paying extravagant prices for common stocks.
 
 *Other Requisites for Common Stocks of Investment Grade and a Corollary Therefrom.* It should be pointed out that if 20 times average earnings is taken as the *upper limit* of price for an investment purchase, then ordinarily the price paid should be substantially less than this maximum. This suggests that about 12 or 12½ times average earnings may be suitable for the typical case of a company with neutral prospects. We must emphasize also that a reasonable ratio of market price to average earnings is not the only requisite for a common-stock investment. It is a necessary but not a sufficient condition. The company must be satisfactory also in its financial set-up and management, and not unsatisfactory in its prospects.
+
+From this principle there follows another important corollary, *viz.: An attractive common-stock investment is an attractive speculation.* This is true because, if a common stock can meet the demand of a conservative investor that he get full value for his money *plus* not unsatisfactory future prospect, then such an issue must also have a fair chance of appreciating in market value.
+
+**Examples of Speculative and Investment Common Stocks.** Our definition of an investment basis for common-stock purchases is at variance with the Wall Street practice in respect to common stocks of high rating. For such issues a price of considerably more than 20 times average earnings is held to be warranted, and furthermore these stocks are designated as “investment issues” regardless of the price at which they sell. According to our view, the high prices paid for “the best common stocks” make these purchases essentially speculative, because they require future growth to justify them. Hence common-stock investment operations, as we define them, will occupy a middle ground in the market, lying between low-price issues that are speculative because of doubtful quality and well-entrenched issues that are speculative, none the less, because of their high price.
+
+##### Group A: Common stocks speculative in December 1938 because of their high price (figures adjusted to reflect changes in capitalization)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>General Electric</th>
+    <th>Coca Cola</th>
+    <th>Johns-Manville</th>
+  </tr>
+  <tr>
+    <td>Amount Earned per Share of Common:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>$0.96</td>
+    <td>$5.95</td>
+    <td>$1.09</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>2.20</td>
+    <td>5.73</td>
+    <td>5.80</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>1.52</td>
+    <td>4.66</td>
+    <td>5.13</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>0.97</td>
+    <td>3.48</td>
+    <td>2.17</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>0.59</td>
+    <td>3.12</td>
+    <td>0.22</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>0.38</td>
+    <td>2.20</td>
+    <td>0.64(d)</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>0.41</td>
+    <td>2.17</td>
+    <td>4.47(d)</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>1.33</td>
+    <td>2.96</td>
+    <td>0.45</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>1.90</td>
+    <td>2.79</td>
+    <td>3.66</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>2.24</td>
+    <td>2.56</td>
+    <td>8.90</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
