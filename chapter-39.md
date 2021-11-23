@@ -104,63 +104,79 @@ From this principle there follows another important corollary, *viz.: An attract
     <td>8.90</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10-yr. average</td>
+    <td>$1.25</td>
+    <td>$3.56</td>
+    <td>$$2.15</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5-yr. average (1934—1938)</td>
+    <td>$1.25</td>
+    <td>$4.59</td>
+    <td>$2.88</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Bonds</td>
+    <td>None</td>
+    <td>None</td>
+    <td>None</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Pfd. Stock</td>
+    <td>None</td>
+    <td>600,000 sh. @60, $36,000,000</td>
+    <td>75,000 sh. @130, $9,750,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Common Stock</td>
+    <td>28,784,000 sh. @43½, $1,250,000,000</td>
+    <td>3,992,000 sh. @132¼, $529,000,000</td>
+    <td>850,000 sh. @ 105, $89,300,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Total capitalization</td>
+    <td>$1,250,000,000</td>
+    <td>$565,500,000</td>
+    <td>$99,050,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net tangible assets, 12/31/38</td>
+    <td>$335,182,000</td>
+    <td>$43,486,000</td>
+    <td>$48,001,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net current assets, 12/31/38</td>
+    <td>$155,023,000</td>
+    <td>$25,094,000</td>
+    <td>$$17,418,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Average earnings on common-stock price, 1929—1938</td>
+    <td>2.9%</td>
+    <td>2.7%</td>
+    <td>2.0%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Maximum earnings on common-stock price, 1929—1938</td>
+    <td>5.1%</td>
+    <td>4.5%</td>
+    <td>7.7%</td>
+  </tr>
+  <tr>
+    <td>Minimum earnings on common-stock price, 1929—1938</td>
+    <td>0.9%</td>
+    <td>1.6%</td>
+    <td>(d)</td>
+  </tr>
+  <tr>
+    <td>Average earnings on common-stock price, 1934—1938</td>
+    <td>2.9%</td>
+    <td>3.5%</td>
+    <td>2.7%</td>
   </tr>
 </table>
+
+These distinctions are illustrated by the acompanying nine examples, taken as of December 31, 1938.
+
+*Comments on the Various Groups.* The companies listed in Group *A* are representative of the so-called “first-grade” or “blue chip” industrials, which
