@@ -180,3 +180,170 @@ From this principle there follows another important corollary, *viz.: An attract
 These distinctions are illustrated by the acompanying nine examples, taken as of December 31, 1938.
 
 *Comments on the Various Groups.* The companies listed in Group *A* are representative of the so-called “first-grade” or “blue chip” industrials, which
+
+##### Group B: Common stocks speculative in December 1938 because of their irregular record
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Goodyear Tire and Rubber</th>
+    <th>Simmons</th>
+    <th>Youngstown Sheet and Tube</th>
+  </tr>
+  <tr>
+    <td>Amount earned per share of common:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>$1.34</td>
+    <td>$1.42</td>
+    <td>$0.89(d)</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>1.95</td>
+    <td>2.88</td>
+    <td>6.79</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>3.90</td>
+    <td>3.53</td>
+    <td>7.03</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>0.12</td>
+    <td>1.14</td>
+    <td>0.64</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>0.66(d)</td>
+    <td>0.84(d)</td>
+    <td>2.95(d)</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>0.79(d)</td>
+    <td>0.04</td>
+    <td>7.76(d)</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>4.24(d)</td>
+    <td>2.57(d)</td>
+    <td>11.75(d)</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>0.04</td>
+    <td>0.79(d)</td>
+    <td>6.55(d)</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>0.37(d)</td>
+    <td>1.05(d)</td>
+    <td>5.17</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>10.23</td>
+    <td>4.15</td>
+    <td>17.28</td>
+  </tr>
+  <tr>
+    <td>10-yr. average</td>
+    <td>$1.15</td>
+    <td>$0.79</td>
+    <td>$0.70</td>
+  </tr>
+  <tr>
+    <td>5-yr. average(1934—1938)</td>
+    <td>$1.35</td>
+    <td>$1.63</td>
+    <td>$2.12</td>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>$50,235,000</td>
+    <td>$10,000,000</td>
+    <td>$87,000,000</td>
+  </tr>
+  <tr>
+    <td>Pfd. stock</td>
+    <td>650,000 sh. @ 108, 70,250,000</td>
+    <td>None</td>
+    <td>150,000 sh. @ 81, 12,165,000</td>
+  </tr>
+  <tr>
+    <td>Common stock</td>
+    <td>2,059,000 sh. @ 37 5/8, $77,500,000</td>
+    <td>1,158,000 sh. @ 32, $37,070,000</td>
+    <td>1,675,000 sh. @ 54¼, $90,900,000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
