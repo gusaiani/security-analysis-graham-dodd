@@ -287,34 +287,165 @@ These distinctions are illustrated by the acompanying nine examples, taken as of
     <td>1,675,000 sh. @ 54¼, $90,900,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Total capitalization</td>
+    <td>$197,985,000</td>
+    <td>$47,050,000</td>
+    <td>$190,065,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net tangible assets, 12/31/38</td>
+    <td>$170,322,000</td>
+    <td>$28,446,000</td>
+    <td>$224,678,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net current assets, 12/31/38</td>
+    <td>$96,979,000</td>
+    <td>$14,788,000</td>
+    <td>$83,375,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Average earnings on common-stock price, 1929—1938</td>
+    <td>3.1%</td>
+    <td>2.5%</td>
+    <td>1.3%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Maximum earnings on common-stock price, 1929—1938</td>
+    <td>27.2%</td>
+    <td>13.0%</td>
+    <td>31.8%</td>
+  </tr>
+  <tr>
+    <td>Minimum earnings on common-stock price, 1929—1938</td>
+    <td>(d)</td>
+    <td>(d)</td>
+    <td>(d)</td>
+  </tr>
+  <tr>
+    <td>Average earnings on common-stock price, 1934—1938</td>
+    <td>3.6%</td>
+    <td>5.1%</td>
+    <td>3.9%</td>
+  </tr>
+</table>
+
+were particularly favored in the great speculation of 1928—1929 and in the markets of ensuing years. They are characterized by a strong financial position, by presumably excellent prospects and in most cases by relatively stable or growing earnings in the past. *The market price* of the shares, however, was higher than would be justified by their average earnings. In fact the profits of the *best* year in the 1929—1938 decade were less than 8% of the
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Adams-Mills</th>
+    <th>American Safety Razor</th>
+    <th>J.J. Newberry</th>
+  </tr>
+  <tr>
+    <td>Amount earned per share of common:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>$3.21</td>
+    <td>$1.48</td>
+    <td>$4.05</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>2.77</td>
+    <td>2.47</td>
+    <td>5.27</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>2.55</td>
+    <td>2.70</td>
+    <td>6.03</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>2.93</td>
+    <td>2.42</td>
+    <td>4.94</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>3.41</td>
+    <td>2.03</td>
+    <td>5.38</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>2.63</td>
+    <td>1.40</td>
+    <td>3.06</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>1.03</td>
+    <td>1.14</td>
+    <td>1.07</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>4.72</td>
+    <td>1.58</td>
+    <td>1.73</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>4.83</td>
+    <td>2.50</td>
+    <td>2.27</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>4.83</td>
+    <td>2.57</td>
+    <td>3.15</td>
+  </tr>
+  <tr>
+    <td>10-yr. average</td>
+    <td>$3.29</td>
+    <td>$2.03</td>
+    <td>$3.70</td>
+  </tr>
+  <tr>
+    <td>5-yr. average (1934–1938)</td>
+    <td>$2.97</td>
+    <td>$2.22</td>
+    <td>$5.13</td>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>None</td>
+    <td>None</td>
+    <td>$5,587,000</td>
+  </tr>
+  <tr>
+    <td>Pdf. stock</td>
+    <td>None</td>
+    <td>None</td>
+    <td>51,000 sh. @ 106, $5,405,000</td>
+  </tr>
+  <tr>
+    <td>Common stock</td>
+    <td>156,000 sh. @ 21, $3,280,000</td>
+    <td>524,000 sh. @ 14 7/8, $7,800,000</td>
+    <td>$13,110,000</td>
+  </tr>
+  <tr>
+    <td>Total capitalization</td>
+    <td>$3,280,000</td>
+    <td>$7,800,000</td>
+    <td>$13,110,000</td>
+  </tr>
+  <tr>
+    <td>Net tangible assets, 12/31/1938</td>
+    <td>$3,320,000</td>
+    <td>$6,484,000</td>
+    <td>$25,551,000</td>
   </tr>
   <tr>
     <td></td>
