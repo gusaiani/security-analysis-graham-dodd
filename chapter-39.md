@@ -448,33 +448,47 @@ were particularly favored in the great speculation of 1928—1929 and in the mar
     <td>$25,551,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net current assets, 12/31/38</td>
+    <td>$926,000</td>
+    <td>$3,649,000</td>
+    <td>$8,745,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Average earnings on common-stock price, 1929—1938</td>
+    <td>15.7%</td>
+    <td>13.7%</td>
+    <td>10.7%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Maximum earnings on common-stock price, 1929—1938</td>
+    <td>23.0%</td>
+    <td>18.2%</td>
+    <td>17.5%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Minimum earnings on common-stock price, 1929—1938</td>
+    <td>4.9%</td>
+    <td>7.7%</td>
+    <td>3.1%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Average earnings on common-stock price, 1934—1938</td>
+    <td>14.1%</td>
+    <td>14.9%</td>
+    <td>14.9%</td>
   </tr>
 </table>
+
+December 1938 market price. It is also characteristic of such issues that they sell for enormous premiums above the actual capital invested.
+
+The companies analyzed in Group *B* are obviously speculative, because of the great instability of their earnings records. They show varying relationships of market price to average earnings, maximum earnings, and asset values.
+
+The common stocks shown in Group *C* are examples of those which meet specific and quantitative tests of investment quality. These tests include the following:
+
+1. The earnings have been reasonably stable, allowing for the tremendous fluctuations in business conditions during the ten-year period.
+2. The average earnings bear a satisfactory ratio to market price.
+3. The financial set-up is sufficiently conservative, and the working-capital position is strong.
+
+Although we do not suggest that a common stock bought for investment be *required* to show asset values equal to the price paid, it is non the less characteristic of issues in Group *C* that, as whole, they will not sell for a huge premium above the companies’ actual resources.
+
+Common-stock *investment*, as we envisage it, will confine itself to issues making exhibits of the kind illustrated by Group *C*. But the actual purchase of any such issues must require *also* that the purchaser be satisfied in his own mind that the prospects of the enterprise are at least reasonably favorable.
