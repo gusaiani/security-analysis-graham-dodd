@@ -498,3 +498,51 @@ Common-stock *investment*, as we envisage it, will confine itself to issues maki
 In dealing with the past record of earnings, when given on a per-share basis, it is elementary that the figures must be adjusted to reflect any important changes in the capitalization which have taken place during the period. In the simplest case these will involve a change only in the number of shares of common stock due to stock dividends, split-ups, etc. All that is necessary then is to restate the capitalization throughout the period on the basis of the current number of shares. (Such recalculations are made by some of the statistical services but not by others.)
 
 When the change in capitalization has been due to the sale of additional stock at a comparatively low price (usually through the exercise of subscription rights or warrants) or to the conversion of senior securities, the adjustement is more difficult. In such cases the earnings available for the common during the earlier period must be increased by whatever gain would have followed from the issuance of the additional shares. When bonds or preferred stocks have been converted into common, the charges formerly paid theron are to be added back to the earnings and the new figure then applied to the larger number of shares. If stock has been sold at a relatively low price, a proper adjustment would allow earnings of, say, 5 to 8% on the proceeds of the sale. (Such recalculations need not be made unless the changes indicated thereby are substantial.)
+
+A corresponding adjustment of the per-share earnings must be made at times to reflect the possible *future* increase in the number of shares outstanding as a result of conversions or exercise of option warrnts. When other security holders have a choice of any kind, sound analysis must allow for the possible adverse effect upon the per-share earnings of the common stock that would follow from the exercise of the option.
+
+*Examples:* This type of adjustment must be made in analyzing the reported earnings of American Airlines, Inc., for the 12 months ended September 30, 1939.
+
+<table>
+  <tr>
+    <td>Earnings as reported</td>
+    <td>$1,128,000</td>
+  </tr>
+  <tr>
+    <td>Per share on about 300,000 shares outstanding</td>
+    <td>$3.76 (Price December 1939 about 37)</td>
+  </tr>
+</table>
+
+But there were outstading $2,600,000 of 4½% debentures, convertible into common stock at $12.50 per share. The analyst must *assume* conversion of the bonds, giving the following adjusted result:
+
+<table>
+  <tr>
+    <td>Earnings, adding back $117,000 interest
+    <td>$1,245,000</td>
+  </tr>
+  <tr>
+    <td>Per share on 508,000 shares</td>
+    <td>$2.45</td>
+  </tr>
+</table>
+
+More than one-third of the reported earnings per share are lost when the necessary adjustment is made.
+
+American Water Works and Electric Company can be used to illustrate both types of adjustment.
+
+Adjustment *A* reflects the payment of stock dividends in 1928, 1929 and 1930.
+
+Adjustment *B* assumes conversion of the $15,000,000 of convertible 5s, issued in 1934, thus increasing the earings by the amount of the interest charges but also increasing the common-stock issue by 750,000 shares. (The foregoing adjustements are independent of any possible modifications in the reported earnings arising from the questioning of the depreciation charges, etc., as previously discussed.)
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Amount of shares (Earnings for common reported)</th>
+    <th>Number</th>
+    <th>Per share</th>
+    <th>Number of shares (Adjustment A)</th>
+    <th>Earned per share (Adjustment A)</th>
+    <th>
+  </tr>
+</table>
