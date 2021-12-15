@@ -543,6 +543,102 @@ Adjustment *B* assumes conversion of the $15,000,000 of convertible 5s, issued i
     <th>Per share</th>
     <th>Number of shares (Adjustment A)</th>
     <th>Earned per share (Adjustment A)</th>
-    <th>
+    <th>Amount (Adjustment B)</th>
+    <th>Number of Shares (Adjustment B)</th>
+    <th>Earned per share (Adjustment B)</th>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>$2,392</td>
+    <td>1,751</td>
+    <td>$1.37</td>
+    <td>1,751</td>
+    <td>$1.37</td>
+    <td>$3,140</td>
+    <td>2,501</td>
+    <td>$1.26</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>2,491</td>
+    <td>1,751</td>
+    <td>1.42</td>
+    <td>1,751</td>
+    <td>1.42</td>
+    <td>3,240</td>
+    <td>2,501</td>
+    <td>1.30</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>4,904</td>
+    <td>1,751</td>
+    <td>2.80</td>
+    <td>1,751</td>
+    <td>2.80</td>
+    <td>5,650</td>
+    <td>2,501</td>
+    <td>2.26</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>5,424</td>
+    <td>1,751</td>
+    <td>3.10</td>
+    <td>1,751</td>
+    <td>3.10</td>
+    <td>6,170</td>
+    <td>2,501</td>
+    <td>2.47</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>6,621</td>
+    <td>1,657</td>
+    <td>4,00</td>
+    <td>1,741</td>
+    <td>3.80</td>
+    <td>7,370</td>
+    <td>2,491</td>
+    <td>2.95</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>5,009</td>
+    <td>1,432</td>
+    <td>3.49</td>
+    <td>1,739</td>
+    <td>2.88</td>
+    <td>5,760</td>
+    <td>2,489</td>
+    <td>2.30</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>3,660</td>
+    <td>1,361</td>
+    <td>2.69</td>
+    <td>1,737</td>
+    <td>2.11</td>
+    <td>4,410</td>
+    <td>2,487</td>
+    <td>2.30</td>
+  </tr>
+  <tr>
+    <td>7-year average</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>$2.70</td>
+    <td>&nbsp;</td>
+    <td>$2.50</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>$2.04</td>
   </tr>
 </table>
+
+Corresponding adjustments in book values or current-asset values per share of common stock should be made in analyzing the balance sheet. This technique is followed in our discussion of the Baldwin Locomotive Works exhibit in Appendix Note 70, page 838 on accompanying CD, in which outstanding warrants are allowed for.
+
+### Allowances for Participating Interests
+
+In calculating the earnings available for the common, full recognition must be given to the rights of holders of participating issues, whether or not the amounts involved are actually being paid thereon. Similar allowances must be made for the effect of management contracts providing for a substantial percentage of the profits as compensation, as in the case of investment trusts.
