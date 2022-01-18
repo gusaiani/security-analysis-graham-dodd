@@ -641,4 +641,95 @@ Corresponding adjustments in book values or current-asset values per share of co
 
 ### Allowances for Participating Interests
 
-In calculating the earnings available for the common, full recognition must be given to the rights of holders of participating issues, whether or not the amounts involved are actually being paid thereon. Similar allowances must be made for the effect of management contracts providing for a substantial percentage of the profits as compensation, as in the case of investment trusts.
+In calculating the earnings available for the common, full recognition must be given to the rights of holders of participating issues, whether or not the amounts involved are actually being paid thereon. Similar allowances must be made for the effect of management contracts providing for a substantial percentage of the profits as compensation, as in the case of investment trusts. Unusual cases sometimes arise involving “restricted shares,” dividends on which are contingent upon earnings or other considerations.
+
+*Example:* Trico Products Corporation, a large manufacturer of automobile accessories, is capitalized at 675,000 shares of common stock, of which 450,000 shares (owned by the president) were originally “restricted” as to dividends. The unrestricted stock is first entitled to dividends of $2.50 per share, after which both classes share equally in further dividends. In addition, successive blocks of the restricted stock were to be released from the restriction according as the earnings for 1925 and successive years reached certain stipulated figures. (To the end of 1938, a total of 239,951 shares had been thus released.)
+
+##### Adjusted Earnings: Trico Products Corporation
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Earnings for common</th>
+    <th>Earned per share on unrestricted stock — A. Ignoring restricted shares</th>
+    <th>Earned per share on unrestricted stock — B. Maximum distribution on unrestricted shares</th>
+    <th>Earned per share on unrestricted stock — C. Allowing for release of restricted shares (i.e., on total capitalization)</th>
+  </tr>
+  <tr>
+    <th>1929</th>
+    <th>$2,250,000</th>
+    <th>$6.67</th>
+    <th>$4.58</th>
+    <th>$3.33</th>
+  </tr>
+  <tr>
+    <th>1930</th>
+    <th>1,908,000</th>
+    <th>5.09</th>
+    <th>3.94</th>
+    <th>2.83</th>
+  </tr>
+  <tr>
+    <th>1931</th>
+    <th>1,763,000</th>
+    <th>4.70</th>
+    <th>3.72</th>
+    <th>2.61</th>
+  </tr>
+  <tr>
+    <th>1932</th>
+    <th>965,000</th>
+    <th>2.57</th>
+    <th>2.54</th>
+    <th>1.44</th>
+  </tr>
+  <tr>
+    <th>1933</th>
+    <th>1.418,000</th>
+    <th>3.78</th>
+    <th>3.21</th>
+    <th>2.10</th>
+  </tr>
+  <tr>
+    <th>1934</th>
+    <th>1,772,000</th>
+    <th>4.72</th>
+    <th>3.74</th>
+    <th>2.62</th>
+  </tr>
+  <tr>
+    <th>1935</th>
+    <th>3,567,000</th>
+    <th>9.84</th>
+    <th>6.52</th>
+    <th>5.38</th>
+  </tr>
+  <tr>
+    <th>1936</th>
+    <th>4,185,000</th>
+    <th>9.75</th>
+    <th>7.25</th>
+    <th>6.39</th>
+  </tr>
+  <tr>
+    <th>1937</th>
+    <th>3,792,000</th>
+    <th>8.97</th>
+    <th>6.82</th>
+    <th>5.99</th>
+  </tr>
+  <tr>
+    <th>1938</th>
+    <th>2,320,000</th>
+    <th>5.56</th>
+    <th>4.53</th>
+    <th>3.70</th>
+  </tr>
+  <tr>
+    <th>10-year average</th>
+    <th>$3,394,000</th>
+    <th>$6.17</th>
+    <th>$4.69</th>
+    <th>$3.64</th>
+  </tr>
+</table>
