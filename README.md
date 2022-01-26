@@ -35,3 +35,5 @@
 [Chapter 38: Specific Reasons for Questioning or Rejecting the Past Record](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-38.md)
 
 [Chapter 39: Price-Earnings Rations for Common Stocks. Adjustments for Changes in Capitalization](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-39.md)
+
+[Chapter 40: Capitalization Structure](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-40.md)
