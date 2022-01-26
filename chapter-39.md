@@ -733,3 +733,11 @@ In calculating the earnings available for the common, full recognition must be g
     <th>$3.64</th>
   </tr>
 </table>
+
+In the above table Column *C* supplies the soundest measure of the earning power shown for the unrestricted shares. Column *A* is irrelevant.
+
+A situation similar to that in Trico Products Corporation obtained in the case of Montana Power Company stock prior to June 1921.
+
+**General Rule.** The material in the last few pages may be summarized in the in the following general rule:
+
+`The intrinsic value of a common stock preceded by convertible securities, or subject to dilution through the exercise of stock options or through participating privileges enjoyed by other security holders, cannot reasonably be appraised at a higher figure than would be justified if all such privileges were exercised in full.`
