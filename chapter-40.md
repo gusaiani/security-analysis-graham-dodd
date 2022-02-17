@@ -101,3 +101,120 @@ Since Company *C* bonds are not safe, because of the excessive size of the issue
 As a matter of cold fact, it should be recognized that this unfavorable result may not necessarily follow. If investors are sufficiently careless and if speculators are sufficiently enthusiastic, the securities of Company *C* may conceivably sell in the market for $18,000,000 or even more. But such a situation would be unwarranted and unsound. Our theory of capitalization structure could not admit a Company *C* arrangement as in any sense standard or suitable. This indicates that there are definite limits upon the advantages to be gained by the use of senior securities. We have already expressed this fact in our principle of the optimum capitalization structure, for senior securities cease to be an advantage at the point where their amount becomes larger than can safely be issued or bought for investment.
 
 We have characterized the Company *A* type of capitalization arrangement as “overconservative”; the Company *C* type may be termed “speculative,” whereas that of Company *B* may well be called “suitable” or “appropriate.”
+
+**The Factor of Leverage in Speculative Capitalization Structure.** Although a speculative capitalization structure throws all the company’s securities outside the pale of investment, it may give the common stock a definite speculative advantage. A 25% increase in the earnings of Company *C* (from $1,000,000 to $1,250,000) will mean about a 50% increase in the earnings per share of common (from $5.20 to $7.70). Because of this fact there is some tendency for speculatively capitalized enterprises to sell at relatively high values in the aggregate during good times or good markets. Conversely, of course, they may be subject to a greater degree of undervaluation in depression. There is, however, a real advantage in the fact that such issues, when selling on a deflated basis, can advance much further than they can decline.
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>1921</th>
+    <th>1923</th>
+    <th>1924</th>
+    <th>1929</th>
+    <th>Ratio of 1929 figures to 1921 figures</th>
+  </tr>
+  <tr>
+    <td>Gross earnings</td>
+    <td>$20,574</td>
+    <td>$36,380</td>
+    <td>$38,356</td>
+    <td>$54,119</td>
+    <td>2.63:1</td>
+  </tr>
+  <tr>
+    <td>Net for charges</td>
+    <td>6,692</td>
+    <td>12,684</td>
+    <td>13,770</td>
+    <td>22,776</td>
+    <td>3.44:1</td>
+  </tr>
+  <tr>
+    <td>Fixed charges and preferred dividends</td>
+    <td>6,353</td>
+    <td>11,315</td>
+    <td>12,780</td>
+    <td>16,154</td>
+    <td>2.54:1</td>
+  </tr>
+  <tr>
+    <td>Balance for common</td>
+    <td>339</td>
+    <td>1,369</td>
+    <td>990</td>
+    <td>6,622</td>
+    <td>19.53:1</td>
+  </tr>
+  <tr>
+    <td>1921 basis:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Number of shares of common</td>
+    <td>92,000</td>
+    <td>100,000</td>
+    <td>100,000</td>
+    <td>130,000</td>
+    <td>1.41:1</td>
+  </tr>
+  <tr>
+    <td>Earned per share</td>
+    <td>$3.68</td>
+    <td>$13.69</td>
+    <td>$9.90</td>
+    <td>$51.00</td>
+    <td>13.86:1</td>
+  </tr>
+  <tr>
+    <td>High price of common</td>
+    <td>6½</td>
+    <td>44 3/4</td>
+    <td>209</td>
+    <td>about 2500</td>
+    <td>385.00:1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
