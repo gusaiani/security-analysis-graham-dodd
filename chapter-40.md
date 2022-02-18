@@ -104,6 +104,8 @@ We have characterized the Company *A* type of capitalization arrangement as “o
 
 **The Factor of Leverage in Speculative Capitalization Structure.** Although a speculative capitalization structure throws all the company’s securities outside the pale of investment, it may give the common stock a definite speculative advantage. A 25% increase in the earnings of Company *C* (from $1,000,000 to $1,250,000) will mean about a 50% increase in the earnings per share of common (from $5.20 to $7.70). Because of this fact there is some tendency for speculatively capitalized enterprises to sell at relatively high values in the aggregate during good times or good markets. Conversely, of course, they may be subject to a greater degree of undervaluation in depression. There is, however, a real advantage in the fact that such issues, when selling on a deflated basis, can advance much further than they can decline.
 
+##### American Water Works and Electric Company
+
 <table>
   <tr>
     <th>Item</th>
@@ -178,43 +180,51 @@ We have characterized the Company *A* type of capitalization arrangement as “o
     <td>385.00:1</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>% earned on high price of common</td>
+    <td>56.6%</td>
+    <td>30.6%</td>
+    <td>4.7%</td>
+    <td>2.04%</td>
+    <td>0.037:1</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>As reported:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Number of shares of common</td>
+    <td>92,000</td>
+    <td>100,000</td>
+    <td>500,000</td>
+    <td>1,657,000</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Earned per share</td>
+    <td>$3.68</td>
+    <td>$13.69</td>
+    <td>$1.98</td>
+    <td>$4.00</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>High price of common</td>
+    <td>6½</td>
+    <td>44¾</td>
+    <td>41⅞</td>
+    <td>199</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
+
+The record of American Water Works and Electric Company common stock between 1921 and 1929 presents an almost fabulous picture of enhancement in value, a great part of which was due to the influence of a highly speculative capitalization structure. Four annual exhibits during this period are summarized in the table above.
+
+The purchaser of 1 share of American Water Works common stock at the high price of 6½ in 1921, if he retained the distributions made in stock, would have owned about 12½ shares when the common sold at its high price of 199 in 1929. His $6.50 would have grown to about $2,500. While the market value of the common shares was thus increasing some 400-fold, the gross earnings had expanded to only 2.6 times the earlier figure. The tremendously disproportionate rise in the common-stock value was due to the following elments, in order of importance:
+
+1. A much higher valuation placed upon the per-share earnings of this issue. In 1921 the company’s capitalization was recognized as top-heavy; its bonds sold at a low price, and the earnings per share of common were not taken seriously, especially since no dividends were being paid on the second preferred. In 1929 the general enthusiasm for public-utility shares resulted in a price for the common issue of nearly 50 times its highest recorded earnings.
+
+2. The speculative capitalization structure allowed the common stock to gain an enormous advantage from the expansion of the company’s properties and earnings. Nearly all the additional funds needed were raised by the sale of senior securities. It will be observed that whereas the gross revenues increased about 160% from 1921 to 1929, the balance per share of old common stock grew 14-fold during the same period.
