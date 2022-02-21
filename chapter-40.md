@@ -228,3 +228,100 @@ The purchaser of 1 share of American Water Works common stock at the high price 
 1. A much higher valuation placed upon the per-share earnings of this issue. In 1921 the company’s capitalization was recognized as top-heavy; its bonds sold at a low price, and the earnings per share of common were not taken seriously, especially since no dividends were being paid on the second preferred. In 1929 the general enthusiasm for public-utility shares resulted in a price for the common issue of nearly 50 times its highest recorded earnings.
 
 2. The speculative capitalization structure allowed the common stock to gain an enormous advantage from the expansion of the company’s properties and earnings. Nearly all the additional funds needed were raised by the sale of senior securities. It will be observed that whereas the gross revenues increased about 160% from 1921 to 1929, the balance per share of old common stock grew 14-fold during the same period.
+
+3. The margin of profit improved during these years, as shown by the higher ratio of net to gross. The speculative capital structure greatly accentuated the benefit to the common stock from the additional net profits so derived.
+
+*Other Examples:* The behavior of speculatively capitalized enterprises *under varying business conditions* is well illustrated by the appended analysis of A. E. Staley Manufacturing Company, manufacturers of corn products. For comparison there is given also a corresponding analysis of American Maize Products Company, a conservatively capitalized enterprise in the same field.
+
+The most striking aspect of the Staley exhibit is the extraordinary fluctuation in the yearly earnings per share of common stock. The business itself is evidently subject to wide variations in net profit, and the effect of these variations on the common stock is immensely magnified by reason of the small amount of common stock in comparison with the senior securities. The large depreciation allowance acts also as the equivalent of a heavy fixed charge. Hence a decline in net before depreciation from $3,266,000 in 1929 to $1,540,000 the next year, somewhat over 50%, resulted in a drop in earnings *per share of common* from $84 to only $3.74. The net profits of American Maize Products were fully as variable, but the small amount of prior charges made the fluctuations in common-stock earnings far less spectacular.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net before depreciation</th>
+    <th>Depreciation</th>
+    <th>Fixed charges and pfd. dividends</th>
+    <th>Balance for common</th>
+    <th>Earned per share</th>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>$2,563</td>
+    <td>$743</td>
+    <td>$652</td>
+    <td>$1,168</td>
+    <td>$55.63</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>1,546</td>
+    <td>753</td>
+    <td>678</td>
+    <td>114</td>
+    <td>5.43</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>892</td>
+    <td>696</td>
+    <td>692</td>
+    <td>496(d)</td>
+    <td>23.60(d)</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>1,540</td>
+    <td>753</td>
+    <td>708</td>
+    <td>79</td>
+    <td>3.74</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>3,266</td>
+    <td>743</td>
+    <td>757</td>
+    <td>1,766</td>
+    <td>84.09</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
