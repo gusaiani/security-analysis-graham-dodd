@@ -285,43 +285,172 @@ The most striking aspect of the Staley exhibit is the extraordinary fluctuation 
     <td>84.09</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1928</td>
+    <td>1,491</td>
+    <td>641</td>
+    <td>696</td>
+    <td>154</td>
+    <td>7.35</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1927</td>
+    <td>1,303</td>
+    <td>531</td>
+    <td>541</td>
+    <td>231</td>
+    <td>11.01</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1926</td>
+    <td>2,433</td>
+    <td>495</td>
+    <td>430</td>
+    <td>1,507</td>
+    <td>71.77</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1925</td>
+    <td>792</td>
+    <td>452</td>
+    <td>358</td>
+    <td>18(d)</td>
+    <td>0.87(d)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1924</td>
+    <td>1,339</td>
+    <td>419</td>
+    <td>439</td>
+    <td>481</td>
+    <td>22.89</td>
+  </tr>
+</table>
+
+##### American Maize Products
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net before depreciation</th>
+    <th>Depreciation</th>
+    <th>Fixed charges and preferred dividends</th>
+    <th>Balance for common</th>
+    <th>Earned per share</th>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>$1,022</td>
+    <td>$301</td>
+    <td>&nbsp;</td>
+    <td>$721</td>
+    <td>$2.40</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>687</td>
+    <td>299</td>
+    <td>&nbsp;</td>
+    <td>388</td>
+    <td>1.29</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>460</td>
+    <td>299</td>
+    <td>&nbsp;</td>
+    <td>161</td>
+    <td>0.54</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>1,246</td>
+    <td>306</td>
+    <td>22</td>
+    <td>918</td>
+    <td>3.06</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>1,835</td>
+    <td>312</td>
+    <td>80</td>
+    <td>1,443</td>
+    <td>4.81</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>906</td>
+    <td>317</td>
+    <td>105</td>
+    <td>484</td>
+    <td>1.61</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>400</td>
+    <td>318</td>
+    <td>105</td>
+    <td>23(d)</td>
+    <td>0.08(d)</td>
+  </tr>
+</table>
+
+##### Capitalization (as of January 1933)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>A. E. Staley</th>
+    <th>American Maize Products</th>
+  </tr>
+  <tr>
+    <td>6% bonds</td>
+    <td>($4,000,000 @ 75) $3,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>$7 pfd. stock</td>
+    <td>(50,000 sh. @ 44) 2,200,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Common stock</td>
+    <td>(21,000 sh. @ 45) 950,000</td>
+    <td>(300,000 sh. @ 20) $6,000,000</td>
+  </tr>
+  <tr>
+    <td>Total capitalization</td>
+    <td>$6,150,000</td>
+    <td>$6,000,000</td>
+  </tr>
+  <tr>
+    <td>Average earnings, 1927—1932, about</td>
+    <td>900,000</td>
+    <td>615,000</td>
+  </tr>
+  <tr>
+    <td>% of these earnings on 1933 capitalization</td>
+    <td>14.6%</td>
+    <td>10.3%</td>
+  </tr>
+  <tr>
+    <td>Average earnings per sh. of common</td>
+    <td>$14.76</td>
+    <td>$1.87</td>
+  </tr>
+  <tr>
+    <td>% earned on price of common</td>
+    <td>32.8%</td>
+    <td>9.4%</td>
+  </tr>
+  <tr>
+    <td>Working capital, Dec. 31, 1932</td>
+    <td>$3,664,000</td>
+    <td>$2,843,000</td>
+  </tr>
+  <tr>
+    <td>Net assets, Dec. 31, 1932</td>
+    <td>$15,000,000</td>
+    <td>$4,827,000</td>
   </tr>
 </table>
