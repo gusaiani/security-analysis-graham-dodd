@@ -454,3 +454,7 @@ The most striking aspect of the Staley exhibit is the extraordinary fluctuation 
     <td>$4,827,000</td>
   </tr>
 </table>
+
+**Speculative Capitalization May Cause Valuation of Total Enterprise at an Unduly Low Figure.** The market situation of the Staley securities in January 1933 presents a practical confirmation of our theoretical analysis of Company *C* above. The top-heavy capitalization structure resulted in a low price for the bonds and the preferred stock, the latter being affected particularly by the temporary suspension of its dividend in 1931. The result was that, instead of showing an increased total value by reason of the presence of senior securities, the company sold in the market at a much lower relative price than the conservatively capitalized American Maize Products. (The latter company showed a normal relationship between average earnings and market value. It should not properly be termed *overconservatively* capitalized because the variations in its annual earnings would constitute a good reason for avoiding any substantial amount of senior securities. A bond or preferred stock issue of very small size, on the other hand, would be of no particular advantage or disadvantage.)
+
+The indication that the A. E. Staley Company was undervalued in January 1933 in comparison with American Maize Products is strengthened by reference to the relative current-asset positions and total resources. Per dollar of net asset values the Staley company was selling only one-third as high as American Maize.
