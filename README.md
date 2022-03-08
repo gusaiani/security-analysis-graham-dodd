@@ -37,3 +37,5 @@
 [Chapter 39: Price-Earnings Rations for Common Stocks. Adjustments for Changes in Capitalization](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-39.md)
 
 [Chapter 40: Capitalization Structure](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-40.md)
+
+[Chapter 41: Low-Priced Common Stocks. Analysis of the Source of Income](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-41.md)
