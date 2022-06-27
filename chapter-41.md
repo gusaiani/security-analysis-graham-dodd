@@ -26,3 +26,94 @@ Assuming (1) that the future behavior of the various price groups will be simila
 2. In case two or more issues of industrial stocks seem to offer equal prospective profits, the speculator should purchase the shares selling at the lowest price.
 ```
 
+**Some Reasons Why Most Buyers of Low-priced Issues Lose Money.** The pronounced liking of the public for “cheap stocks” would therefore seem to have a sound basis in logic. Yet it is undoubtedly true that most people who buy low-priced stocks lose money on their purchases. Why is this so? The underlying reason is that the public buys issues that are *sold* to it, and the sales effort is put forward to benefit the seller and not the buyer. In consequence the bulk of the low-priced purchases made by the public are of the wrong kind; *i.e.*, they do not provide the real advantages of this security type. The reason may be either because the company is in bad financial condition or because the common stock is low-priced in appearance only and actually represents a full or excessive commitment in relation to the size of the enterprise. The latter is preponderantly true of *new* security offerings in the low-priced range. In such cases, a *pseudo-low* price is accomplished by the simple artifice of creating so large a number of shares that even at a few dollars per share the total value of the common issue is excessive. This has been true of mining-stock flotations from of old and was encountered again in the liquor-stock offerings of 1933 and in the airplane issues in 1938—1939.
+
+A *genuinely* low-priced common stock will show an aggregate value for the issue which is small in relation to the company’s assets, sales and past or prospective profits. The examples shown herewith will illustrate the difference between a ”genuine” and ”pseudo-low” price.
+
+<table>
+  <th>
+    <td>Item</td>
+    <td>Wright-Hargreaves Mines, Ltd (gold mining)</td>
+    <td>Barker Bros. Corp. (retail store)</td>
+  </th>
+  <tr>
+    <td>July 1933:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Price of common stock</td>
+    <td>7</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Number of shares outstanding</td>
+    <td>5,500,500</td>
+    <td>148,500</td>
+  </tr>
+  <tr>
+    <td>Total value of common</td>
+    <td>$38,500,000</td>
+    <td>$743,000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
