@@ -57,63 +57,62 @@ A *genuinely* low-priced common stock will show an aggregate value for the issue
     <td>$743,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Preferred stock at par</td>
+    <td>&nbps;</td>
+    <td>2,815,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Preferred stock at market</td>
+    <td>&nbsp;</td>
+    <td>500,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Year 1932:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sales</td>
+    <td>$3,983,000</td>
+    <td>$8,154,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net earnings</td>
+    <td>2,001,000</td>
+    <td>703,000(d)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Period 1924—1932:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Maximum sales</td>
+    <td>$3,983,000</td>
+    <td>$16,261,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Maximum net earnings</td>
+    <td>2,001,000</td>
+    <td>1,100,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Maximum earnings per share of common</td>
+    <td>$0.36</td>
+    <td>$7.59</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Working capital, Dec. 1932</td>
+    <td>$1,930,000</td>
+    <td>$5,010,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net tangible assets, Dec. 1932</td>
+    <td>4,544,000</td>
+    <td>7,200,000</td>
   </tr>
 </table>
+
+The Wright-Hargreaves issue was low-priced in appearance only, for in fact the price registered a very high valuation for the company as compared with all parts of its financial exhibit. The opposite was true of Barker Brothers because here the $743,000 valuation represented by the common stock was exceedingly small in relation to the size of the enterprise. (Note also that the same statement could be applied to Barker Brothers Preferred, which at its quotation of 18 partook of the qualities of a low-priced common stock.)
+
+Observation of the stock market will show that the stocks of companies facing receivership are likely to be more active than those which are very low in price merely because of poor current earnings. This phenomenon is caused by the desire of insiders to dispose of their holdings before the receivership wipes them out, thus accounting for a large supply of these shares at a low level and also sometimes for unscrupulous efforts to persuade the unwary public to buy them. But where a low-priced stock fulfills our conditions of speculative attractiveness, there is apt to be no pressure to sell and no effort to create buying. Hence the issue is inactive and attracts little public attention. This analysis may explain why the public almost always buys the wrong low-priced issues and ignores the really promising opportunities in this field.
