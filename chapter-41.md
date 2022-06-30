@@ -116,3 +116,120 @@ A *genuinely* low-priced common stock will show an aggregate value for the issue
 The Wright-Hargreaves issue was low-priced in appearance only, for in fact the price registered a very high valuation for the company as compared with all parts of its financial exhibit. The opposite was true of Barker Brothers because here the $743,000 valuation represented by the common stock was exceedingly small in relation to the size of the enterprise. (Note also that the same statement could be applied to Barker Brothers Preferred, which at its quotation of 18 partook of the qualities of a low-priced common stock.)
 
 Observation of the stock market will show that the stocks of companies facing receivership are likely to be more active than those which are very low in price merely because of poor current earnings. This phenomenon is caused by the desire of insiders to dispose of their holdings before the receivership wipes them out, thus accounting for a large supply of these shares at a low level and also sometimes for unscrupulous efforts to persuade the unwary public to buy them. But where a low-priced stock fulfills our conditions of speculative attractiveness, there is apt to be no pressure to sell and no effort to create buying. Hence the issue is inactive and attracts little public attention. This analysis may explain why the public almost always buys the wrong low-priced issues and ignores the really promising opportunities in this field.
+
+**Low Price Coupled with Speculative Capitalization.** Speculatively capitalized enterprises, according to our definition, are marked by a relatively large amount of senior securities and a comparatively small issue of common stock. Although in most cases the common stock will sell at a low price per share, it need not necessarily do so if the number of shares is small. In the Staley case, for example (referred to on pp. 515—516) even at $50 per share for the common in 1933 the capitalization structure would still have been speculative, since the bonds and preferred at par would represent over 90% of the total. It is also true that even where there are no senior securities the common stock may have possibilities equivalent to those in a speculatively capitalized enterprise. These possibilities will occur wherever the market value of the common issue represents a small amount of money in relation to the size of the business, regardless of how it is capitalized.
+
+To illustrate this point we append a condensed analysis of Mandel Brothers, Inc., and Gimbel Brothers, Inc., two department-store enterprises, as of September 1939.
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Gimbel Bros.</th>
+    <th>Mandel Bros.</th>
+  </tr>
+  <tr>
+    <td>September 1939:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Bonds at par</td>
+    <td>$26,753,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Preferred stock</td>
+    <td>197,000 sh. @ 50</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$9,850,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Common stock</td>
+    <td>977,000 sh. @ 8</td>
+    <td>297,000 sh. @ 5</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$7,816,000</td>
+    <td>$1,485,000</td>
+  </tr>
+  <tr>
+    <td>Total capitalization</td>
+    <td>$44,419,000</td>
+    <td>$1,485,000</td>
+  </tr>
+  <tr>
+    <td>Results for 12 months to July 31, 1939:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td>$87,963,000</td>
+    <td>$17,883,000</td>
+  </tr>
+  <tr>
+    <td>Net before interest</td>
+    <td>1,073</td>
+    <td>155,000</td>
+  </tr>
+  <tr>
+    <td>Balance for common</td>
+    <td>1,105(d)</td>
+    <td>155,000</td>
+  </tr>
+  <tr>
+    <td>Earned per share</td>
+    <td>1.13(d)</td>
+    <td>0.52</td>
+  </tr>
+  <tr>
+    <td>Period 1934—1938*:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Maximum sales (1937)</td>
+    <td>$100,081,000</td>
+    <td>$19,378,000</td>
+  </tr>
+  <tr>
+    <td>Maximum net earnings (1937) for common</td>
+    <td>2,032,000</td>
+    <td>414,000</td>
+  </tr>
+  <tr>
+    <td>Maximum earnings per share of common (1937)</td>
+    <td>2.08</td>
+    <td>1.33</td>
+  </tr>
+  <tr>
+    <td>High price of common</td>
+    <td>29 3/8 (1937)</td>
+    <td>18 (1936)</td>
+  </tr>
+  <tr>
+    <td>Average earnings per share of common</td>
+    <td>0.23</td>
+    <td>0.46</td>
+  </tr>
+  <tr>
+    <td>Jan. 31, 1939:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
