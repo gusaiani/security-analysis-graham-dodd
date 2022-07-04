@@ -219,17 +219,26 @@ To illustrate this point we append a condensed analysis of Mandel Brothers, Inc.
   </tr>
   <tr>
     <td>Jan. 31, 1939:</td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net current assets</td>
+    <td>$22,916,000</td>
+    <td>$4,043,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net tangible assets</td>
+    <td>75,614,000</td>
+    <td>6,001,000</td>
+  </tr>
+  <tr>
+    <td>Rents paid 1937</td>
+    <td>1,401,000</td>
+    <td>867,000</td>
   </tr>
 </table>
+
+Gimbel Brothers presents a typical picture of a speculatively capitalized enterprise. On the other hand Mandel Brothers has no senior securities ahead of the comon, but despite this fact the relatively sall market value of the entire issue imparts to the shares the same sort of speculative possibilities (though in somewhat lesser degree) as are found in the Gimel Brothers set-up. Note, however, that the rental payments of Mandel Brothers, are proportionately much higher than those of Gimbel Brothers and that these rental charges are equivalent in good part to senior securities.
+
+**Large Volume and High Production Cost Equivalent to Speculative Capital Structure.** This example should lead us to widen our conception of a speculatively situated common stock. The speculative or *marginal* position may arise from any cause that reduces the percentage of gross available for the common to a subnormal figure and that therefore serves to create a subnormal value for the common stock in relation to the volume of business. Unusually high operating or production costs have the identical effect as excessive senior charges in cutting down the percentage of gross available for common. The following hypothetical examples of three copper producers will make this point more intelligible and also lead to some conclusions on the subject of large output versus low operating costs.
