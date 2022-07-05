@@ -242,3 +242,134 @@ To illustrate this point we append a condensed analysis of Mandel Brothers, Inc.
 Gimbel Brothers presents a typical picture of a speculatively capitalized enterprise. On the other hand Mandel Brothers has no senior securities ahead of the comon, but despite this fact the relatively sall market value of the entire issue imparts to the shares the same sort of speculative possibilities (though in somewhat lesser degree) as are found in the Gimel Brothers set-up. Note, however, that the rental payments of Mandel Brothers, are proportionately much higher than those of Gimbel Brothers and that these rental charges are equivalent in good part to senior securities.
 
 **Large Volume and High Production Cost Equivalent to Speculative Capital Structure.** This example should lead us to widen our conception of a speculatively situated common stock. The speculative or *marginal* position may arise from any cause that reduces the percentage of gross available for the common to a subnormal figure and that therefore serves to create a subnormal value for the common stock in relation to the volume of business. Unusually high operating or production costs have the identical effect as excessive senior charges in cutting down the percentage of gross available for common. The following hypothetical examples of three copper producers will make this point more intelligible and also lead to some conclusions on the subject of large output versus low operating costs.
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Company A</th>
+    <th>Company B</th>
+    <th>Company C</th>
+  </tr>
+  <tr>
+    <td>Capitalization:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>6% Bonds</td>
+    <td>&nbsp;</td>
+    <td>$50,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Common stock</td>
+    <td>1,000,000 sh.</td>
+    <td>1,000,000 sh.</td>
+    <td>1,000,000 sh.</td>
+  </tr>
+  <tr>
+    <td>Output</td>
+    <td>100,000,000 lb.</td>
+    <td>150,000,000 lb.</td>
+    <td>150,000,000 lb.</td>
+  </tr>
+  <tr>
+    <td>Cost of production (before interest)</td>
+    <td>7¢</td>
+    <td>7¢</td>
+    <td>9¢</td>
+  </tr>
+  <tr>
+    <td>Interest charge per pound</td>
+    <td>&nbsp;</td>
+    <td>2¢</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Total cost per pound</td>
+    <td>7¢</td>
+    <td>9¢</td>
+    <td>9¢</td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Assumed price of copper</td>
+    <td>10¢</td>
+    <td>10¢</td>
+    <td>10¢</td>
+  </tr>
+  <tr>
+    <td>Profit per pound</td>
+    <td>3¢</td>
+    <td>1¢</td>
+    <td>1¢</td>
+  </tr>
+  <tr>
+    <td>Output per share</td>
+    <td>100 lb.</td>
+    <td>150 lb.</td>
+    <td>150 lb.</td>
+  </tr>
+  <tr>
+    <td>Profit per share</td>
+    <td>$3</td>
+    <td>$1.50</td>
+    <td>$1.50</td>
+  </tr>
+  <tr>
+    <td>Value of stock at 10 times earnings</td>
+    <td>$30</td>
+    <td>$15</td>
+    <td>$15</td>
+  </tr>
+  <tr>
+    <td>Output per $1 of market value of stock</td>
+    <td>3½lb.</td>
+    <td>10lb.</td>
+    <td>10lb.</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Assumed price of copper</td>
+    <td>13¢</td>
+    <td>13¢</td>
+    <td>13¢</td>
+  </tr>
+  <tr>
+    <td>Profit per pound</td>
+    <td>6¢</td>
+    <td>4¢</td>
+    <td>4¢</td>
+  </tr>
+  <tr>
+    <td>Profit per share</td>
+    <td>$6</td>
+    <td>$6</td>
+    <td>$6</td>
+  </tr>
+  <tr>
+    <td>Value per share at ten times earnings</td>
+    <td>$60</td>
+    <td>$60</td>
+    <td>$60</td>
+  </tr>
+  <tr>
+    <td>Output per $1 of market price of stock</td>
+    <td>1 2/3 lb.</td>
+    <td>2½ lb.</td>
+    <td>2½ lb.</td>
+  </tr>
+</table>
+
+It is scarcely necessary to point out that the higher production cost of Company *C* will have exactly the same effect as the bond-interest requirement of Company *B* (assuming output and production costs to continue as stated).
