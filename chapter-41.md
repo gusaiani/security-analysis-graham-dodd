@@ -373,3 +373,11 @@ Gimbel Brothers presents a typical picture of a speculatively capitalized enterp
 </table>
 
 It is scarcely necessary to point out that the higher production cost of Company *C* will have exactly the same effect as the bond-interest requirement of Company *B* (assuming output and production costs to continue as stated).
+
+*General Principle Derived.* The foregoing table is perhaps more useful in showing concretely the inverse relationship that usually exists between profit per unit and output per dollar of stock value.
+
+The general principle may be stated that the lower the unit cost the lower the production per dollar of market value of stock and *vice versa*. Since Company *A* has a 7-cent cost, its stock naturally sells at a higher price *per pound of output* than Company *C* with its 9-cent cost. Conversely, Company *C* produces more pounds per dollar of stock value than Company *A*. This fact is not without significance from the standpoint of speculative technique. When a rise in the price of the commodity occurs, there will ordinarily be a larger advance, percentagewise, in the shares of high-cost producers than in the shares of low-cost producers. The foregoing table indicates that a rise in the price of copper from 10 to 13 cents would increase the value of Company *A* shares by 100% and the value of Company *B* and *C* shares by 300%. Contrary to the general impression in Wall Street, the stocks of high-cost producers are more logical commitments than those of the low-cost producers when the buyer is convinced that a rise in the price of the product is imminent and he wishes to exploit this conviction to the utmost. Exactly the same advantage attaches to the purchase of speculatively capitalized common stocks when a pronouced improvement in sales and profits is confidently anticipated.
+
+### The Sources of Income
+
+The “source of income” will ordinarily be thought of as meaning the same thing as the “type of business.” This consideration enters very largely into the basis on which the public will value the earnings per share shown by a given common stock. Different “multipliers” are used for different sorts of enterprise, but we must point out that these distinctions are themselves subject to change with the changing times.
