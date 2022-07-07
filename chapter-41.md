@@ -380,4 +380,35 @@ The general principle may be stated that the lower the unit cost the lower the p
 
 ### The Sources of Income
 
-The “source of income” will ordinarily be thought of as meaning the same thing as the “type of business.” This consideration enters very largely into the basis on which the public will value the earnings per share shown by a given common stock. Different “multipliers” are used for different sorts of enterprise, but we must point out that these distinctions are themselves subject to change with the changing times.
+The “source of income” will ordinarily be thought of as meaning the same thing as the “type of business.” This consideration enters very largely into the basis on which the public will value the earnings per share shown by a given common stock. Different “multipliers” are used for different sorts of enterprise, but we must point out that these distinctions are themselves subject to change with the changing times. Prior to the World War the railroad stocks were valued most generously of all, because of their supposed stability. In 1927—1929 the public-utility group sold at the highest ratio to earnings, because of their record of steady growth. Between 1933 and 1939 adverse legislation and, in particular, the fear of goverment competition greatly reduced the relative popularity of the utility stocks. the most liberal valuations have recently been accorded to the large and well-entrenched industrial enterprises which were able to maintain substantial earnings during the depression and are considered to possess favorable long-term prospects. Because of these repeated variations in relative behavior and popularity, security analysis must hesitate to prescribe any definitive rules for valuing one type of business as against another. It is a truism to say that the more impressive the record and the more promising the prospects of stability and growth the more liberally the per-share earnings should be valued, subject always to our principle that a multiplier higher than about 20 (*i.e.,* an “earnings basis” of less than 5%) will carry the issue out of the *investment* price range.
+
+**A Special Phase: Three Examples.** A more fruitful field for the technique of analysis is found in those cases where the source of income must be studied in relation to specific assets owned by the company, instead of in relation merely to the general nature of the business. This point may be quite important when a substantial portion of the income accrues from investment holdings or from some other fixed and dependable source. Three examples will be used to illuminate this rather subtle aspect of common-stock analysis.
+
+1. *Northern Pipe Line Company.* For the years 1923—1925 the Northern Pipe Line Company reported earnings and dividends as follows:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Net earnings</th>
+    <th>Earned per share</th>
+    <th>Dividend paid</th>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>$308,000</td>
+    <td>$7.70</td>
+    <td>$10, plus $15 extra</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>214,000</td>
+    <td>5.35</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>311,000</td>
+    <td>7.77</td>
+    <td>6</td>
+  </tr>
+</table>
