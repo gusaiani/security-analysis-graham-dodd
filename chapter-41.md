@@ -412,3 +412,74 @@ The “source of income” will ordinarily be thought of as meaning the same thi
     <td>6</td>
   </tr>
 </table>
+
+In 1924 the shares sold as low as 72, in 1925 as low as 67½ and in 1926 as low as 64. These prices were on the whole somewhat less than ten times the reported earnings and reflected a lack of enthusiasm for the shares, due to a pronounced decline in profits from the figures of preceding years and also to the reductions in the dividend.
+
+Analysis of the income account however, would have revealed the following division of the *sources of income:*
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>1923</th>
+    <th>&nbsp;</th>
+    <th>1924</th>
+    <th>&nbsp;</th>
+    <th>1925</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <th>Income</th>
+    <th>Total</th>
+    <th>Per share</th>
+    <th>Total</th>
+    <th>Per share</th>
+    <th>Total</th>
+    <th>Per share</th>
+  </tr>
+  <tr>
+    <td>Earned from:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Pipe-line operations</td>
+    <td>$179,000</td>
+    <td>$4.48</td>
+    <td>$69,000</td>
+    <td>$1.71</td>
+    <td>$103,000</td>
+    <td>$2.57</td>
+  </tr>
+  <tr>
+    <td>Interest and rents</td>
+    <td>164,000</td>
+    <td>4,10</td>
+    <td>159,000</td>
+    <td>3.99</td>
+    <td>170,000</td>
+    <td>4.25</td>
+  </tr>
+  <tr>
+    <td>Nonrecurrent items</td>
+    <td>dr. 35,000</td>
+    <td>dr. 0.88</td>
+    <td>dr. 14,000</td>
+    <td>0.35</td>
+    <td>cr. 38,000</td>
+    <td>cr. 0.95</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$308,000</td>
+    <td>$7,70</td>
+    <td>$214,000</td>
+    <td>$5.35</td>
+    <td>$311,000</td>
+    <td>$7.77</td>
+  </tr>
+</table>
+
+This income account is exceptional in that the greater part of the profits were derived from sources other than the pipe-line business itself. About $4 per share were regularly received in interest on investments and rentals. The balance sheet showed holdings of nearly $3,200,000 (or $80 per share) in Liberty Bonds and other gilt-edged marketable securities, on which the enterest income was about 4%.
