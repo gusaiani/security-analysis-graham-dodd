@@ -483,3 +483,32 @@ Analysis of the income account however, would have revealed the following divisi
 </table>
 
 This income account is exceptional in that the greater part of the profits were derived from sources other than the pipe-line business itself. About $4 per share were regularly received in interest on investments and rentals. The balance sheet showed holdings of nearly $3,200,000 (or $80 per share) in Liberty Bonds and other gilt-edged marketable securities, on which the enterest income was about 4%.
+
+This fact meant that a special basis of valuation must be applied to the per-share earnings, inasmuch as the usual “ten-times-earnings” basis would result in a nonsensical conclusion. Gilt-edged investments of $80 per share would yield an income of $3.20 per share, and at ten times earnings this $80 would be “worth” only $32 per share, a *reductio ad absurdum*. Obviously, that part of the Northern Pipe Line income that was derived from its bond holdings should logically be valued at a higher basis than the portion derived from the fluctuating pipe-line business. A sound valuation of Northern Pipe Line stock would therefore have to proceed along the lines suggested below. The pipe-line earnings would have to be valued at a low basis because of their unsatisfactory trend. The interest and rental income must presumably be valued on a basis corresponding with the actual value of the assets producing the income. This analysis indicated clearly that, at the price of 64 in 1926, Northern Pipe Line stock was selling considerably below its intrinsic value.
+
+<table>
+  <tr>
+    <th>Average 1923—1925</th>
+    <th>&nbsp;</th>
+    <th>Valuation basis</th>
+    <th>Value per share</th>
+  </tr>
+  <tr>
+    <td>Earned per share from pipe line.</td>
+    <td>$2.92</td>
+    <td>15% (6 2/3 times earnings)</td>
+    <td>$20</td>
+  </tr>
+  <tr>
+    <td>Earned per share from interest and rentals</td>
+    <td>4.10</td>
+    <td>5% (20 times earnings)</td>
+    <td>80</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$7.02</td>
+    <td>&nbsp;</td>
+    <td>$100</td>
+  </tr>
+</table>
