@@ -512,3 +512,86 @@ This fact meant that a special basis of valuation must be applied to the per-sha
     <td>$100</td>
   </tr>
 </table>
+
+2. *Lackawanna Securities Company.* This company was organized to hold a large block of Glen Alden Coal Company 4% bonds formerly owned by the Delaware, Lackawanna and Western Railroad Company, and its shares were distributed pro rata to the Delaware, Lackawanna and Western stockholders. The Securities Company had outstanding 844,000 shares of common stock. On December 31, 1931 its sole asset—other than about $1 per share in cash—consisted of $51,000,000 face value of Glen Alden 4% first mortgage bonds. For the year 1931, the income account was as follows:
+
+<table>
+  <tr>
+    <td>Interest received on Glen Alden bonds</td>
+    <td>$2,084,000</td>
+  </tr>
+  <tr>
+    <td>Less:</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Expenses</td>
+    <td>17,000</td>
+  </tr>
+  <tr>
+    <td>Federal taxes</td>
+    <td>250,000</td>
+  </tr>
+  <tr>
+    <td>Balance for stock</td>
+    <td>1,817,000</td>
+  </tr>
+  <tr>
+    <td>Earned per share</td>
+    <td>$2.15</td>
+  </tr>
+</table>
+
+Superficially, the price of 23 in 1932 for a stock earning $2.15 did not appear out of line. But these earnings were derived, not from ordinary commercial or manufacturing operations, but from the holding of a bond issue which presumaby constituted a high-grade investment. (In 1931 the Glen Alden Coal Company earned $9,550,000 available for interest charges of $2,151,000, thus covering the bond requirements 4½ times.) By valuing this interest income on about a 10% basis the market was in fact valuing the Glen Alden bonds at ony 37 cents on the dollar. (The price of 23 for a share of Lackawanna Securities was equivalent to $60 face value of Glen Alden bonds at 37, plus $1 in cash)
+
+Here again, as in the Northern Pipe Line example, analysis would show convincingly that the customary ten-times-earnings basis resulted in a glaring undervaluation of this specially situated issue.
+
+##### Tobacco Products Corporation
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
