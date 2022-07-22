@@ -550,48 +550,50 @@ Here again, as in the Northern Pipe Line example, analysis would show convincing
 
 <table>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Item</th>
+    <th>Price: December 1931</th>
+    <th>Market value</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Capitalization</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2,240,000 shares of 7% Class A (par $20)</td>
+    <td>$6</td>
+    <td>$13,440,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>3,300,000 shares common</td>
+    <td>2¼</td>
+    <td>7,425,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Total</td>
+    <td>&nbsp;</td>
+    <td>$20,825,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net income for the year 1931</td>
+    <td>&nbsp;</td>
+    <td>about $2,200,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Earned per share of Class A</td>
+    <td>&nbsp;</td>
+    <td>about $1</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Earned for common after Class A dividends</td>
+    <td>&nbsp;</td>
+    <td>nil</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Dividend paid on Class A</td>
+    <td>&nbsp;</td>
+    <td>$0.80</td>
   </tr>
 </table>
+
+3. *Tobacco Products Corporation of Virginia.* In this example, as in the other two, the company was selling in the market for about ten times the latest reported earnings. But the 1931 earnings of Tobacco Products were derived entirely from a lease of certain of its assets to American Tobacco Company, which provided for an annual rental of $2,500,000 for 99 years from 1923. Since the American Tobacco Company was able to meet its obligation without question, this annual rental income was equivalent to interest on a high-grade investment. Its value was therefore much more than ten times the income therefrom. This meant that the market valuation of the Tobacco Products stock issues in December 1931 was far less than was justified by the actual position of the company. (The value of the leases was in fact calculated to be about $35,600,00 on an amortized basis. The company also owned a large amount of United Cigar Stores’ stock, which later proved to be practically worthless, but these additional holdings did not, of course, detract from the value of its American Tobacco lease.)
