@@ -21,3 +21,130 @@ Book Value per Share of Common = (Common Stock + Surplus Items - Intangibles) / 
 ```
 
 By Surplus Items are meant not only items clearly marked as surplus but also premiums on capital stock and such reserves as are really part of the surplus. This would include, for example, reserves for preferred-stock retirement, for plant improvement, and for contingencies (unless known to be actually needed). Reserves of this character may be termed “Voluntary Reserves.”
+
+##### Calculation of Book Value of United States Steel Common on December 31, 1938
+
+##### Condensed Balance Sheet December 31, 1938 (In Millions)
+
+<table>
+  <tr>
+    <th>Assets</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>1. Property Investment Account (less depreciation)</td>
+    <td>$1,166</td>
+  </tr>
+  <tr>
+    <td>2. Mining Royalties</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Deferred Charges</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous Investments</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous Other Assets</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Current Assets</td>
+    <td>510</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$1,711</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Liabilities</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>7. Common Stock</td>
+    <td>$653</td>
+  </tr>
+  <tr>
+    <td>8. Preferred Stock</td>
+    <td>360</td>
+  </tr>
+  <tr>
+    <td>9. Subsidiary Stocks Publicly Held</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>10. Bonded Debt</td>
+    <td>232</td>
+  </tr>
+  <tr>
+    <td>11. Mining Royalty Notes</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>12. Current Liabilities</td>
+    <td>79</td>
+  </tr>
+  <tr>
+    <td>13. Contingency and Other Reserves</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td>14. Insurance Reserves</td>
+    <td>46</td>
+  </tr>
+  <tr>
+    <td>15. Capital Surplus</td>
+    <td>38</td>
+  </tr>
+  <tr>
+    <td>Earned Surplus</td>
+    <td>247</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>1,711</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Tangible Assets</td>
+    <td>$1,711,000,000</td>
+  </tr>
+  <tr>
+    <td>Less: All liabilities ahead of common (Sum of items 8-12)</td>
+    <td>688,000,000</td>
+  </tr>
+  <tr>
+    <td>Net assets for common stock</td>
+    <td>$1,023,000,000</td>
+  </tr>
+  <tr>
+    <td>Book value per share (on 8,700,000 shares)</td>
+    <td>$117.59</td>
+  </tr>
+</table>
+
+The alternative method of computation, which is usually shorter than the foregoing, is as follows:
+
+<table>
+  <tr>
+    <td>Common stock</td>
+    <td>$653,000,000</td>
+  </tr>
+  <tr>
+    <td>Surplus and voluntary reserves (Sum of items 13—16)</td>
+    <td>370,000,000</td>
+  </tr>
+  <tr>
+    <td>Net assets for common stock</td>
+    <td>$1,023,000,000</td>
+  </tr>
+</table>
+
