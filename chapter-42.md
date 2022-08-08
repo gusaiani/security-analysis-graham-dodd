@@ -148,3 +148,52 @@ The alternative method of computation, which is usually shorter than the foregoi
   </tr>
 </table>
 
+**Treatment of Preferred Stock When Calculating Book Value of Common.** In calculating the assets available for the common stock, care must be taken to subtract preferred stock at its proper valuation. Ordinarily, this will be the par or stated value of the preferred stock as it appears in the balance sheet. But there is a growing number of cases in which preferred stock is carried in the balance sheet at arbitrary values far lower than the real liability attaching thereto.
+
+Island Creek Coal Company has a preferred stock of $1 par, which is entitled to annual dividends of $6 and to $120 per share in the event of dissolution. In 1939 the price of this issue ruled about 120. In the calculation of the asset value of Island Creek Coal Common the preferred stock should be deducted not at $1 per share but at $100 per share, its “true” or “effective” par, or else at 120. Capital Administration Company, Ltd., an investment trust, has outstanding preferred stock entitled to $3 cumulative dividends and to $50 or $55 in liquidation, but its par value is $10. It has also a Class *A* stock entitled to $20 in liquidation plus 70% of the assets remaining and to 70% of the earnings paid out after preferred dividends, but the par value of this issue is $1. Finally it has Class *B* stock, par 1 cent, entitled to the residue of earnings and assets. Obviously a balance sheet set up on the basis of par value is worse than meaningless in this case, and it must be corrected by the analyst somewhat as follows:
+
+##### Balance Sheet December 31, 1938
+
+<table>
+  <tr>
+    <th>As published</th>
+    <th>&nbsp;</th>
+    <th>As revised</th>
+  </tr>
+  <tr>
+    <td>Total assets (at cost)</td>
+    <td>$5,335,300</td>
+    <td>(at mkt.) $5,862,500</td>
+  </tr>
+  <tr>
+    <td>Payables and accruals</td>
+    <td>1,661,200</td>
+    <td>1,661,200</td>
+  </tr>
+  <tr>
+    <td>Preferred stock (at par $10)</td>
+    <td>434,000</td>
+    <td>(at 55*) 2,387,00</td>
+  </tr>
+  <tr>
+    <td>Class A stock (at par $1)</td>
+    <td>143,400</td>
+    <td>(at 20*) 2,868,000</td>
+  </tr>
+  <tr>
+    <td>Common stock (at par 1 cent)</td>
+    <td>2,400</td>
+    <td>1,043,600(d)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Surplus and reserves</td>
+    <td>3,094,300</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Total liabilities</td>
+    <td>$5,335,300</td>
+    <td>$5,862,600</td>
+  </tr>
+</table>
