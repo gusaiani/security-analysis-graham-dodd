@@ -197,3 +197,7 @@ Island Creek Coal Company has a preferred stock of $1 par, which is entitled to 
     <td>$5,862,600</td>
   </tr>
 </table>
+
+Coca-Cola Company has outstanding a no-par Class *A* stock entitled to preferential dividends of $3 per share, cumulative, and redeemable at 55. The company carries this issue as a liability at its “stated value” of $5 per share. But the true par value is clearly $50.
+
+In all instances such as the above an “effective par value” must be set up for the preferred stock that will correspond properly to its dividend rate. A strong argument may be advanced in favor of valuing all preferred stocks on a uniform dividend basis, say 5%, unless callable at a lower figure. This would mean that a $1,000,000 five per cent issue would be valued at $1,000,000, a $1,000,000 four per cent issue would be given an effective value of $800,000 and a $1,000,000 seven per cent noncallable issue would be given an effective value of $1,400,000. But it is more convenient, of course, to use the par value, and in most cases the result will be sufficiently accurate. A simpler method, which would work well for most practical purposes, is to value preferred issues at par (plus back dividends) or market, whichever is higher.
