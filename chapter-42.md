@@ -201,3 +201,104 @@ Island Creek Coal Company has a preferred stock of $1 par, which is entitled to 
 Coca-Cola Company has outstanding a no-par Class *A* stock entitled to preferential dividends of $3 per share, cumulative, and redeemable at 55. The company carries this issue as a liability at its “stated value” of $5 per share. But the true par value is clearly $50.
 
 In all instances such as the above an “effective par value” must be set up for the preferred stock that will correspond properly to its dividend rate. A strong argument may be advanced in favor of valuing all preferred stocks on a uniform dividend basis, say 5%, unless callable at a lower figure. This would mean that a $1,000,000 five per cent issue would be valued at $1,000,000, a $1,000,000 four per cent issue would be given an effective value of $800,000 and a $1,000,000 seven per cent noncallable issue would be given an effective value of $1,400,000. But it is more convenient, of course, to use the par value, and in most cases the result will be sufficiently accurate. A simpler method, which would work well for most practical purposes, is to value preferred issues at par (plus back dividends) or market, whichever is higher.
+
+**Calculation of Book Value of Preferred Stocks.** In calculating the book value of a preferred stock issue it is treated as a common stock and the issues junior to it are left out of consideration. The following computations from the December 31, 1932, balance sheet of Tubize Chatillon Corporation will illustrate the principles involved.
+
+##### Tubize Chatillon Corporation Balance Sheet, December 31, 1932
+
+<table>
+  <tr>
+    <th>Assets</th>
+    <th>&nbsp;</th>
+    <th>Liabilities</th>
+    <th>&nbsp</th>
+  </tr>
+  <tr>
+    <td>Property and Equipment</td>
+    <td>$19,009,000</td>
+    <td>7% First Preferred Stock (par $100)</td>
+    <td>$2,500,000</td>
+  </tr>
+  <tr>
+    <td>Patents, Processes, etc.</td>
+    <td>802,000</td>
+    <td>$7 Second Preferrd Stock (par $1)</td>
+    <td>136,000</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous Assets</td>
+    <td>478,000</td>
+    <td>Common Stock (par $1)</td>
+    <td>294,000</td>
+  </tr>
+  <tr>
+    <td>Current Assets</td>
+    <td>4,258,000</td>
+    <td>Bonded Debt</td>
+    <td>2,000,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>Current Liabilities</td>
+    <td>613,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>Reserve for Depreciation, etc</td>
+    <td>11,456,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>Surplus</td>
+    <td>7,548,000</td>
+  </tr>
+  <tr>
+    <td>Total Assets</td>
+    <td>$24,547,000</td>
+    <td>Total Liabilities</td>
+    <td>$24,547,000</td>
+  </tr>
+</table>
+
+The book value of the First Preferred is computed as follows:
+
+<table>
+  <tr>
+    <td>Total Assets</td>
+    <td>&nbsp;</td>
+    <td>$24,547,000</td>
+  </tr>
+  <tr>
+    <td>Less: Intangible Assets</td>
+    <td>802,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Reserve for Depreciation, etc.</td>
+    <td>11,456,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>2,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Current Liabilities</td>
+    <td>613,000</td>
+    <td>14,871,000</td>
+  </tr>
+  <tr>
+    <td>Net assets for First Preferred</td>
+    <td>&nbsp;</td>
+    <td>$9,676,000</td>
+  </tr>
+  <tr>
+    <td>Book value per share</td>
+    <td>&nbsp;</td>
+    <td>$387</td>
+  </tr>
+</table>
