@@ -302,3 +302,53 @@ The book value of the First Preferred is computed as follows:
     <td>$387</td>
   </tr>
 </table>
+
+Alternative method:
+
+<table>
+  <tr>
+    <td>Capital Stock at par</td>
+    <td>$2,930,000</td>
+  </tr>
+  <tr>
+    <td>Surplus</td>
+    <td>7,548,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$10,478,000</td>
+  </tr>
+  <tr>
+    <td>Less Intangible Assets</td>
+    <td>802,000</td>
+  </tr>
+  <tr>
+    <td>Net assets for First Preferred</td>
+    <td>$9,676,000</td>
+  </tr>
+</table>
+
+The Reserve for Depreciation and Miscellaneous Purposes was very large and might have included arbitrary allowances belonging in Surplus. But in the absence of details a reserve of this kind must be deducted from the assets. (It later transpired that a substantial part of the reserve was needed to absorb a write-off of plant abandoned owing to obsolescence.)
+
+The book value of the Second Preferred stock is readily computed from the foregoing as follows:
+
+<table>
+  <tr>
+    <td>Net assets for First Preferred</td>
+    <td>$9,676,000</td>
+  </tr>
+  <tr>
+    <td>Less: First Preferred at par</td>
+    <td>2,500,000</td>
+  </tr>
+  <tr>
+    <td>Net assets for Second Preferred</td>
+    <td>$7,176,000</td>
+  </tr>
+  <tr>
+    <td>Book value per share</td>
+    <td>$52.75</td>
+  </tr>
+</table>
+
+In computing the book value of the common it would be an obvious error to deduct the Second Preferred at its nonrepresentative par value of $1. The “effective par” should be taken at not less than $100 per share, in view of the $7 dividend. Hence there are no assets available for the common stock, and its book value is nil.
