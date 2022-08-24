@@ -352,3 +352,70 @@ The book value of the Second Preferred stock is readily computed from the forego
 </table>
 
 In computing the book value of the common it would be an obvious error to deduct the Second Preferred at its nonrepresentative par value of $1. The “effective par” should be taken at not less than $100 per share, in view of the $7 dividend. Hence there are no assets available for the common stock, and its book value is nil.
+
+**Current-asset Value and Cash-asset Value.** In addition to the well-known concept of book value, we wish to suggest two others of similar character, *viz.*, current-asset value and cash-asset value.
+
+Thu current-asset value of a stock consists of the current assets alone, minus all liabilities and claims ahead of the issue. In excludes not only the intangible assets but the fixed and miscellaneous assets as well.
+
+The cash-asset value of a stock consists of the cash assets alone, minus all liabilities and claims ahead of the issue. Cash assets, other than cash itself, are defined as those directly equivalent to and held in place of cash. They include certificates of deposit, call loans, marketable securities at market value and cash-surrender value of insurance policies.
+
+The following is an example of the computation of the three categories of asset value:
+
+##### Otis Company (Cotton Goods) Balance Sheet, June 29, 1929
+
+<table>
+  <tr>
+    <th>Assets</th>
+    <th>&nbsp;</th>
+    <th>Liabilities</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>1. Cash</td>
+    <td>$532,000</td>
+    <td>8. Accounts Payable</td>
+    <td>$79,000</td>
+  </tr>
+  <tr>
+    <td>2. Call Loans</td>
+    <td>1,200,000</td>
+    <td>9. Accrued Items, etc</td>
+    <td>291,000</td>
+  </tr>
+  <tr>
+    <td>3. Accounts Receivable (less reserve)</td>
+    <td>1,090,000</td>
+    <td>10. Reserve for Equipment, etc</td>
+    <td>210,000</td>
+  </tr>
+  <tr>
+    <td>4. Inventory (less reserve of $425,000)</td>
+    <td>1,648,000</td>
+    <td>11. Preferred Stock</td>
+    <td>400,000</td>
+  </tr>
+  <tr>
+    <td>5. Prepaid Items</td>
+    <td>108,000</td>
+    <td>12. Common Stock</td>
+    <td>4,079,000</td>
+  </tr>
+  <tr>
+    <td>6. Investments</td>
+    <td>15,000</td>
+    <td>13. Earned Surplus</td>
+    <td>1,944,000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
