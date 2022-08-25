@@ -407,15 +407,95 @@ The following is an example of the computation of the three categories of asset 
     <td>1,944,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>7. Plant (less Depreciation)</td>
+    <td>3,564,000</td>
+    <td>14. Paid-in Surplus</td>
+    <td>1,154,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>$8,157,000</td>
+    <td>&nbsp;</td>
+    <td>$8,157,000</td>
+  </tr>
+</table>
+
+*A.* Calculation of book value of common stock:
+
+<table>
+  <tr>
+    <td>Total assets</td>
+    <td>&nbsp;</td>
+    <td>$8,157,000</td>
+  </tr>
+  <tr>
+    <td>Less: Payables</td>
+    <td>$79,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Accrued Items</td>
+    <td>291,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Preferred stock</td>
+    <td>400,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Add voluntary reserve of $425,000</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>subtracted from inventory</td>
+    <td>&nbsp;</td>
+    <td>425,000</td>
+  </tr>
+  <tr>
+    <td>Net assets for common stock</td>
+    <td>&nbsp;</td>
+    <td>$7,812,000</td>
+  </tr>
+  <tr>
+    <td>Book value per share (on 40,790 shares)</td>
+    <td>&nbsp;</td>
+    <td>$191</td>
+  </tr>
+</table>
+
+*B.* Calculation of current-asset value of the common stock
+
+<table>
+  <tr>
+    <td>Total current assets (items 1, 2, 3, and 4)</td>
+    <td>&nbsp;</td>
+    <td>$4,470,000</td>
+  </tr>
+  <tr>
+    <td>Add voluntary reserve against inventory</td>
+    <td>&nbsp;</td>
+    <td>425,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>$4,895,000</td>
+  </tr>
+  <tr>
+    <td>Less liabilities ahead of common (items 8, 9, and 11)</td>
+    <td>&nbsp;</td>
+    <td>770,000</td>
+  </tr>
+  <tr>
+    <td>Current assets available for common</td>
+    <td>&nbsp;</td>
+    <td>$4,125,000</td>
+  </tr>
+  <tr>
+    <td>Current-asset value per share</td>
+    <td>&nbsp;</td>
+    <td>$101</td>
   </tr>
 </table>
