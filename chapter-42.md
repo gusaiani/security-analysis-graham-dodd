@@ -499,3 +499,34 @@ The following is an example of the computation of the three categories of asset 
     <td>$101</td>
   </tr>
 </table>
+
+*C.* Calculation of cash-asset value of the common stock:
+
+<table>
+  <tr>
+    <td>Total cash assets (items 1 and 2)</td>
+    <td>&nbsp;</td>
+    <td>$1,732,000</td>
+  </tr>
+  <tr>
+    <td>Less liabilities ahead of common (items 8, 9, and 11)</td>
+    <td>&nbsp;</td>
+    <td>770,000</td>
+  </tr>
+  <tr>
+    <td>Cash assets available for common</td>
+    <td>&nbsp;</td>
+    <td>$962,000</td>
+  </tr>
+  <tr>
+    <td>Cash-asset value per share</td>
+    <td>&nbsp;</td>
+    <td>$23.50</td>
+  </tr>
+</table>
+
+In these calculations it will be noted, first, that the inventory is increased by restoring the reserve of $425,000 subtracted therefrom in the balance sheet. This is done because the deduction taken by the company is clearly a reserve for contingent decline in value that has not yet taken place. As such it is entirely arbitrary or voluntary, and consistency of method would require the analyst to regard it as a surplus item. The same is true of the $210,000 ”Reserve for Equipment and Other Expenses,” which, as far as can be seen, represents neither an actual liability nor a necessary deduction from the value of any specific asset.
+
+In June 1929 Otis Company common stock was selling at 35. The reader will observe an extraordinary divergence between this market price and the current-asset value of the shares. Its significance will engage our attention later.
+
+**Practical Significance of Book Value.** The book value of a common stock was originally the most important element in its financial exhibit. It was supposed to show “the value” of the shares in the same way as a merchant’s balance sheet shows him the value of his business. This idea has almost completely disappeared from the financial horizon. The value of a company’s assets as carried in its balance sheet has lost practically all its significance. This change arose from the fact, first, that the value of the fixed assets, as stated, frequently bore no relationship to the actual cost and, secondly, that in an even larger proportion of cases these values bore no relationship to the figure at which they would be sold or the figure which would be justified by the earnings.
