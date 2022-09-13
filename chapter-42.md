@@ -536,3 +536,120 @@ Before we discard completely this time-honored conception of book value, let us 
 No thoughtful observer could fail to be impressed by the disparities revealed in the examples given. In the case of General Electric and Commercial Solvents the figures proclaim more than the bare fact that the market was valuing the shares at many times their book value. The stock ticker seems here to register an aggregate valuation for these enterprises that is totally unrelated to their standing as ordinary business enterprises. In other words, these are in no sense *business valuations*; they are products of Wall Street’s legerdemain, or possibly of its clairvoyance.
 
 *Financial Reasoning vs. Business Reasoning.* We have here the point that brings home more strikingly perhaps than any other the widened rift between financial thought and ordinary business thought. It is an almost unbelievable fact that Wall Street never asks, “How much is the business selling for?” Yet this should be the first question in considering a stock purchase. If a business man were offered a 5% interest in some concern for $10,000, his first mental process would be to multiply the asked price by 20 and thus establish a proposed value of $200,000 for the entire undertaking. The rest of his calculation would turn about the question whether or not the business way a “good buy” at $200,000.
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>General Electric</th>
+    <th>Pepperell Manufacturing</th>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td>(1930) 95</td>
+    <td>(1932) 18</td>
+  </tr>
+  <tr>
+    <td>Number of shares</td>
+    <td>28,850,000</td>
+    <td>97,600</td>
+  </tr>
+  <tr>
+    <td>Market value of common</td>
+    <td>$2,740,000,000</td>
+    <td>$1,760,000</td>
+  </tr>
+  <tr>
+    <td>Balance sheet</td>
+    <td>(Dec. 1929)</td>
+    <td>(June 1932)</td>
+  </tr>
+  <tr>
+    <td>Fixed assets (less depreciation)</td>
+    <td>$52,000,000</td>
+    <td>$7,830,000</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous assets</td>
+    <td>183,000,000</td>
+    <td>230,000</td>
+  </tr>
+  <tr>
+    <td>Net current assets</td>
+    <td>206,000,000</td>
+    <td>9,120,000</td>
+  </tr>
+  <tr>
+    <td>Total net assets</td>
+    <td>$441,000,000</td>
+    <td>$17,180,000</td>
+  </tr>
+  <tr>
+    <td>Less bonds and preferred</td>
+    <td>45,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Book value of common</td>
+    <td>$396,000,000</td>
+    <td>$17,180,000</td>
+  </tr>
+  <tr>
+    <td>Book value per share</td>
+    <td>$13.75</td>
+    <td>$176</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Commercial Solvents</th>
+    <th>Pennsylvania Coal and Coke</th>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
