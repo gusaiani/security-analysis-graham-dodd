@@ -608,48 +608,51 @@ No thoughtful observer could fail to be impressed by the disparities revealed in
   </tr>
   <tr>
     <td>Price</td>
-    <td></td>
-    <td></td>
+    <td>(July 1933) 57</td>
+    <td>(July 1933) 3</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Number of shares</td>
+    <td>2,493,000</td>
+    <td>165,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Market value of common</td>
+    <td>$142,000,000</td>
+    <td>$495,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Balance sheet</td>
+    <td>(Dec. 1932)</td>
+    <td>(Dec. 1933)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Fixed assets (less depreciation)</td>
+    <td>&nbsp;</td>
+    <td>6,500,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Miscellaneous assets</td>
+    <td>2,600,000</td>
+    <td>990,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net current assets</td>
+    <td>6,000,000</td>
+    <td>740,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Total assets for common</td>
+    <td>$8,600,000</td>
+    <td>$8,230,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Book value per share</td>
+    <td>$3.50</td>
+    <td>$50</td>
   </tr>
 </table>
 
+This elementary and indispensable approach has been practically abandoned by those who purchase stocks. Of the thousands who “invested” in General Electric in 1929—1930 probably only an infinitesimal number had any idea that they were paying on the basis of about 2½  billions of dollars for the company, of which over two billions represented a premium above the money actually invested in the business. The price of 57 established for Commercial Solvents in July 1933 was more of a gambling phenomenon, induced by the expected repeal of prohibition. But the gamblers in this instance were acting no differently from those who call themselves investors, in their blithe disregard of the fact that they were paying 140 millions for an enterprise with about 10 millions of resources. (The fixed assets fo Commercial Solvents, written down to nothing in the balance sheet, had real value, of course, but not in excess of a few millions.)
+
+The contrast in the other direction shown by our examples is almost as impressive. A going but unsuccessful concern like Pennsylvania Coal and Coke can be valued in the market at about one-sixteenth of its stated resources almost on the same day as a speculatively attractive issue is bid for at sixteen times its net worth. The Pepperell example is perhaps more striking still, because of the unquestioned reality of the figures of book value and also because of the high reputation, large earnings, and liberal dividends of the enterprise covering a long stretch of years. Yet part owners of this business—under the stress of depression, it is true—were willing to sell out their interest at one-tenth of the value that a single private owner would have unhesitatingly placed upon it.
