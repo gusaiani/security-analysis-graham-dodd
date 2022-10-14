@@ -39,3 +39,7 @@
 [Chapter 40: Capitalization Structure](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-40.md)
 
 [Chapter 41: Low-Priced Common Stocks. Analysis of the Source of Income](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-41.md)
+
+[Chapter 42: Balance-Sheet Analysis. Significance of Book Value](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-42.md)
+
+[Chapter 43: Significance of the Current-Asset Value](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-43.md)
