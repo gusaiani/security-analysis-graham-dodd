@@ -56,4 +56,109 @@ The current-asset value of a common stock is more likely to be an important figu
 
 *Example:* White Motor Company.
 
-*Object of This Calculation.* In studying this computation it must be borne in mind that our object is not to determine the exact liquidating value of White Motor but merely to form a rough idea of this liquidating value *in order to ascertain whether or not the shares are selling for less than the stockholders could actually take out of the business*. The latter question is answered very definitely in the affirmative.
+*Object of This Calculation.* In studying this computation it must be borne in mind that our object is not to determine the exact liquidating value of White Motor but merely to form a rough idea of this liquidating value *in order to ascertain whether or not the shares are selling for less than the stockholders could actually take out of the business*. The latter question is answered very definitely in the affirmative. With full allowance for possible error, there was no doubt at all (in 1931) that White Motor would liquidate for a great deal more than $8 per share, or $5,200,000 for the company. The striking fact that the cash assets alone considerably exceed this figure, *after deducting all liabilities*, completely clinched the argument on this score.
+
+*Current-asset Value a Rough Measure of Liquidating Value.* The estimated value in liquidation as given for White Motor are somewhat lower in respect of inventories and somewhat higher as regards the fixed and miscellaneous assets than one might be inclined to adopt in other examples. We are allowing for the fact that motor-truck inventories are likely to be less salable than the average. On the other hand some of the assets listed as non-current, in particular the investment in White Motor Securities Corporation, would be likely to yield a larger proportion of their book values than the ordinary property account. It will be seen that White Motor’s estimated liquidating value (about $31 per share) was not far from the current-asset value ($34 per share). In the typical case it may be said that the noncurrent assets are likely to realize enough to make up most of the shrinkage suffered in the liquidation of the current assets. Hence our first thesis, *viz.*, that the current-asset value affords a rough measure of the liquidating value.
+
+##### White Motor Company
+
+`
+Capitalization: 650,000 shares of common stock.
+Price in December 1931: $8 per share.
+Total market value of the company: $5,200,0000.
+`
+
+##### Balance Sheet, December 31, 1931 (000 ommitted)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Book value</th>
+    <th>Estimated liquidating value — % of book value</th>
+    <th>Estimated liquidating value — amount</th>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td>$4,057</td>
+    <td>100</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>U.S. Govt. and New York City Bonds</td>
+    <td>4,573</td>
+    <td>100</td>
+    <td>$8,600</td>
+  </tr>
+  <tr>
+    <td>Receivables (less reserves)</td>
+    <td>5,611</td>
+    <td>80</td>
+    <td>4,500</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
