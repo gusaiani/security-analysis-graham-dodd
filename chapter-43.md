@@ -96,69 +96,101 @@ Total market value of the company: $5,200,0000.
     <td>4,500</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Inventory (lower of cost or market)</td>
+    <td>9,219</td>
+    <td>50</td>
+    <td>4,600</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Total current assets</td>
+    <td>$23,460</td>
+    <td>&nbsp;</td>
+    <td>$17,700</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Less current liabilities</td>
+    <td>1,353</td>
+    <td>&nbsp;</td>
+    <td>1,400</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Net current assets</td>
+    <td>$22,107</td>
+    <td>&nbsp;</td>
+    <td>$16,300</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Plant account</td>
+    <td>16,036</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Less depreciation</td>
+    <td>7,491</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Plant account, net</td>
+    <td>$8,545</td>
+    <td>20</td>
+    <td>4,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Investments in subsidiaries, etc.</td>
+    <td>4,996</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Deferred charges</td>
+    <td>388</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Good-will</td>
+    <td>5,389</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Total net assets for common stock</td>
+    <td>$41,425</td>
+    <td>&nbsp;</td>
+    <td>$20,300</td>
+  </tr>
+  <tr>
+    <td>Estimated liquidating value per share</td>
+    <td>&nbsp;</td>
+    <td>$31</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Book value per share</td>
+    <td>&nbsp;</td>
+    <td>55</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Current-asset value per share</td>
+    <td>&nbsp;</td>
+    <td>34</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Cash-asset value per share</td>
+    <td>&nbsp;</td>
+    <td>$11</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Market price per share</td>
+    <td>&nbsp;</td>
+    <td>8</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
+
+**Prevalence of Stocks Selling below Liquidating Value.** Our second point is that for some years past a considerable number of common stocks have been selling in the market well below their liquidating value. Naturally the percentage was largest during the depression. But even in the bull market of 1926—1929 instances of this kind were by no means rare. It will be noted that the striking case of Otis Company, presented in the last chapter, occurred during June 1929, at the very height of the boom. The Northern Pipe Line example, given in Chap. 41, dates from 1926. On the other hand, our Pepperell and White Motor illustration were phenomena of the 1931—1933 collapse.
