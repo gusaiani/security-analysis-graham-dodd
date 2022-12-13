@@ -200,3 +200,17 @@ It seems to us that the most distinctive feature of the stock market those three
 In the recession of 1937—1938 this situation was repeated on a smaller scale. Available data indicate that 20.5% of the industrial companies listed on the New York Stock Exchange sold in early 1938 at less than their net-current-asset value. (At the close of 1938, when the general price level was by no means abnormally low, a total of 54 companies out of 648 industrials studied sold for less than their net current assets.)
 
 It is important to observe that these widespread discrepancies between price and current-asset value are a comparatively recent development. In the severe market depression of 1921 the proportion of industrial stocks in this class was quite small. Evidently the phenomena of 1932 (and 1938) were the direct out-growth of the new-era doctrine which transferred *all* the tests of value to the income account and completely ignored the balance-sheet picture. In consequence, a company without current earnings was regarded as having very little real value, and it was likely to sell in the market for the merest fraction of its realizable resources. Most of the sellers were not aware that they were disposing of their interest at far less than its scrap value. Many, however, who might have known the fact would have justified the low price on the ground that the liquidating value was of no practical importance, since the company had no intention of liquidating.
+
+**Logical Significance of This Phenomenon.** This brings us to the third point, *viz.*, the logical significance of this “subliquidating value” phenomenon from the standpoint of the market, of the managements and of the stockholders. The whole issue may be summarized in the form of a basic principle, *viz.*:
+
+*When a common stock sells persistently below its liquidating value, then either the price is too low or the company should be liquidated.*
+
+Two corollaries may be deduced from this principle:
+
+*Corollary I*. Such a price should impel the stockholders to raise the question whether or not it is in their interest to continue the business.
+
+*Corollary II*. Such a price should impel the management to take all proper steps to correct the obvious disparity between market quotation and intrinsic value, including a reconsideration of its own policies and a frank justification to the stockholders of its decision to continue the business.
+
+The truth of the principle above stated should be self-evident. There can be no *sound* economic reason for a stock’s selling continuously below its liquidation value. If the company is not worth more as a going concern than in liquidation, it should be liquidated. If it is worth more as a going concern, then the stock should sell for more than its liquidating value. Hence, on either premise, a price below liquidating value is unjustifiable.
+
+*Twofold Application of Foregoing Principle.* Stated in the form of a logical alternative, our principle invites a twofold application. Stocks selling below liquidation value are in many cases too cheap and so offer an attractive medium for purchase. We have thus a profitable field here for the technique of security analysis. But in many cases also the fact that an issue sells below liquidating value is a signal that mistaken policies are being followed and that therefore the management should take corrective action—if not voluntarily, then under pressure from the stockholders. Let us consider these two lines of inquiry in order.
