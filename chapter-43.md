@@ -214,3 +214,19 @@ Two corollaries may be deduced from this principle:
 The truth of the principle above stated should be self-evident. There can be no *sound* economic reason for a stock’s selling continuously below its liquidation value. If the company is not worth more as a going concern than in liquidation, it should be liquidated. If it is worth more as a going concern, then the stock should sell for more than its liquidating value. Hence, on either premise, a price below liquidating value is unjustifiable.
 
 *Twofold Application of Foregoing Principle.* Stated in the form of a logical alternative, our principle invites a twofold application. Stocks selling below liquidation value are in many cases too cheap and so offer an attractive medium for purchase. We have thus a profitable field here for the technique of security analysis. But in many cases also the fact that an issue sells below liquidating value is a signal that mistaken policies are being followed and that therefore the management should take corrective action—if not voluntarily, then under pressure from the stockholders. Let us consider these two lines of inquiry in order.
+
+### Attractiveness of Such Issues as Commitments
+
+Common stocks in this category practically always have an unsatisfactory trend of earnings. If the profits had been increasing steadily, it is obvious that the shares would not sell at so low a price. The objection to buying these issues lies in the probability, or at least the possibility, that earnings will decline or losses continue and that the resources will be dissipated and the intrinsic value ultimately become less than the price paid. It may not be denied that this does actually happen in individual cases. On the other hand, there is a much wider range of potential developments which may result in establishing a higher market price. These include the following:
+
+1. The creation of an earning power commensurate with the company’s assets. This may result from:
+  a. General improvement in the industry.
+  b. Favorable change in the company’s operating policies, with or without a change in management. These changes include more efficient methods, new products, abandonment of unprofitable lines, etc.
+2. A sale or merger, because some other concern is able to utilize the resources to better advantage and hence can pay at least liquidating value for the assets.
+3. Complete or partial liquidation.
+
+**Examples of Effect of Favorable Developments on Such Issues.**
+
+*General Improvement in the Industry.* Examples already given, and certain others, will illustrate the operation of these various kinds of favorable developments. In the case of Pepperell the low price of17½ coincided with a large loss for the year ended June 30, 1932. In the following year conditions in the textile industry improved; Pepperell earned over $9 per share and resumed dividends; consequently the price of the stock advanced to 100 in January 1934 and to 149¾ in 1936.
+
+*Changes in Operating Policies.* Hamilton Woolen Company, another example in the textile field, is a case of individual rather than of general improvement. For several years prior to 1928 the company had operated at substantial losses, which amounted to nearly $20 and $12 per share in 1926 and 1927, respectively. Late in 1927 the common stock sold at $13 per share, although the company had net current assets of $38.50 per share at that time. In 1928 and 1929 changes in management and in managerial policies were made, new lines of product and direct sales methods were introduced, and certain phases of production were reorganized. This resulted in greatly improved earnings which averaged about $5.50 per share during the succeeding four years, and within a single year the stock had risen to a price of about $40.
