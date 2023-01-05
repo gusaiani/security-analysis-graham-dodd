@@ -230,3 +230,66 @@ Common stocks in this category practically always have an unsatisfactory trend o
 *General Improvement in the Industry.* Examples already given, and certain others, will illustrate the operation of these various kinds of favorable developments. In the case of Pepperell the low price of17½ coincided with a large loss for the year ended June 30, 1932. In the following year conditions in the textile industry improved; Pepperell earned over $9 per share and resumed dividends; consequently the price of the stock advanced to 100 in January 1934 and to 149¾ in 1936.
 
 *Changes in Operating Policies.* Hamilton Woolen Company, another example in the textile field, is a case of individual rather than of general improvement. For several years prior to 1928 the company had operated at substantial losses, which amounted to nearly $20 and $12 per share in 1926 and 1927, respectively. Late in 1927 the common stock sold at $13 per share, although the company had net current assets of $38.50 per share at that time. In 1928 and 1929 changes in management and in managerial policies were made, new lines of product and direct sales methods were introduced, and certain phases of production were reorganized. This resulted in greatly improved earnings which averaged about $5.50 per share during the succeeding four years, and within a single year the stock had risen to a price of about $40.
+
+*Sale or Merger.* The White Motor instance is typical of the genesis and immediate effect of a sale or merger, as applied to an issue selling for less than liquidating value. (The later developments, however, were quite unusual.) The heavy losses of White Motor in 1930—1932 impelled the management to seek a new alignment. Studebaker Corporation believed it could combine its own operations with those of White to mutual advantage, and it was greaatly attracted by White’s large holdings of cash. Hence in September 1932 Studebaker offered to purchase all White Motor’s stock, paying for each share as follow:
+
+* $5 in cash.
+* $25 in 10-year 6% notes of Studebaker Corporation.
+* 1 share of Studebaker common, selling for about $10.
+
+It will be seen that these terms of purchase were based not on the recent market price of White—below $7 per share—but primarily upon the current-asset value. White Motor shares promptly advanced to 27 and later sold at the equivalent of 31½.
+
+An interesting example of the same kind, but of more recent date, is afforded by Standard Oil Company of Nebraska. The facts may be outlined as follows:
+
+Early in 1939 the stock was selling at about $6, representing a total valuation of $1,000,000 for 161,000 shares comprising the entire capitalization. The December 31, 1938, balance sheet is summarized in the appended table.
+
+<table>
+  <tr>
+    <th>Assets</th>
+    <th>&nbsp;</th>
+    <th>Liabilities</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>Fixed and miscellaneous assets (net)</td>
+    <td>$2,794</td>
+    <td>Current liabilities</td>
+    <td>$176,000</td>
+  </tr>
+  <tr>
+    <td>Cash assets</td>
+    <td>1,155,000</td>
+    <td>Capital stock and surplus</td>
+    <td>4,734,000</td>
+  </tr>
+  <tr>
+    <td>Other current assets</td>
+    <td>961,000</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$4,910,000</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>(Net) Cash assets per share</td>
+    <td>$6.07</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Net current assets per share</td>
+    <td>12.05</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Net tangible assets per share</td>
+    <td>29.33</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
