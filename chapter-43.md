@@ -293,3 +293,13 @@ Early in 1939 the stock was selling at about $6, representing a total valuation 
     <td>&nbsp;</td>
   </tr>
 </table>
+
+The company was engaged in the distribution of petroleum products in Nebraska. It was carrying on an annual business of some $5,000,000 without appreciable profit. For the years 1935—1938 the reported earnings before depreciation averaged $0.69 per share; after “expended depreciation” there was an average profit of $0.39 per share; and after depreciation as taken by the company there was an average loss of $0.39 per share.
+
+Here was a company clearly selling for much less than liquidating value, the reason being its unsatisfactory earnings record. There was good reason to believe, however, that the company was really worth more than bare liquidating value, because the outlet it provided for gasoline, etc., would make its numerous retails and bulk stations a desirable acquisition for some large refining company.
+
+In April 1939 private interests offered to pay $12 per share for 66 2/3% of the outstanding stock. This bid failed of acceptance by a sufficient majority, but it was followed immediately by an offer to pay $17.50 per share, made by Standard Oil Company of Indiana, the refiner that had been supplying Standard Oil Company of Nebraska with its gasoline and that evidently was loath to lose this important outlet. The deal was promptly ratified; hence the stock of Standard Oil Company of Nebraska nearly tripled in value during a four-month’s period in which the general market had suffered a decline.
+
+*Complete Liquidation.* Mohawk Mining Company supplies an excellent example of a cash profit equivalent to a large advance in market value caused by the actual liquidation of the enterprise.
+
+In December 1931 the stock sold at $11 per share, representing a total valuation of $1,230,000 for the 112,000 shares outstanding. The balance sheet at the end of 1931 showed the following:
