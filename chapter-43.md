@@ -303,3 +303,68 @@ In April 1939 private interests offered to pay $12 per share for 66 2/3% of the 
 *Complete Liquidation.* Mohawk Mining Company supplies an excellent example of a cash profit equivalent to a large advance in market value caused by the actual liquidation of the enterprise.
 
 In December 1931 the stock sold at $11 per share, representing a total valuation of $1,230,000 for the 112,000 shares outstanding. The balance sheet at the end of 1931 showed the following:
+
+<table>
+  <tr>
+    <td>Cash and marketable securities at market</td>
+    <td>$1,381,000</td>
+  </tr>
+  <tr>
+    <td>Receivables</td>
+    <td>9,000</td>
+  </tr>
+  <tr>
+    <td>Copper at market value, about</td>
+    <td>1,800,000</td>
+  </tr>
+  <tr>
+    <td>Supplies</td>
+    <td>71,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$3,261,000</td>
+  </tr>
+  <tr>
+    <td>Less current liabilities</td>
+    <td>68,000</td>
+  </tr>
+  <tr>
+    <td>Net current assets</td>
+    <td>$3,193,000</td>
+  </tr>
+  <tr>
+    <td>Fixed assets, less depreciation and depletion</td>
+    <td>2,460,000</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous assets</td>
+    <td>168,000</td>
+  </tr>
+  <tr>
+    <td>Total assets for common stock</td>
+    <td>$5,821,000</td>
+  </tr>
+  <tr>
+    <td>Book value per share</td>
+    <td>$52</td>
+  </tr>
+  <tr>
+    <td>Current-asset value per share</td>
+    <td>28.50</td>
+  </tr>
+  <tr>
+    <td>Cash-asset value per share</td>
+    <td>11.75</td>
+  </tr>
+  <tr>
+    <td>Market price per share</td>
+    <td>11</td>
+  </tr>
+</table>
+
+Shortly thereafter the management decided to liquidate the property. Within the years 1932—1932 regular and liquidating dividends were paid, aggregating $28.50 per share. It will be noted that the amount actually received in liquidation proved identical with the current-asset value just before the liquidation began, and it was 2½ times the ruling market price at that time.
+
+*Partial Liquidation.* Northern Pipe Line Company and Otis Company, already discussed, are examples of the establishment of a higher market value through partial liquidation. The two companies made the exhibits as shown in the table following.
+
+In September 1929 Otis Company paid a special dividend of $4 per share, and in 1930 it made a distribution of $20 in partial liquidation, reducing the par value from $100 to $80. In April 1931 the shares sold at 45 and in April 1932 at 41. These prices were higher than the quotation in June 1929, despite the distributions of $24 per share made in the interim, and despite the fact also that the *general* market level had changed from fantastic inflation to equally fantastic deflation.
