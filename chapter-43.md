@@ -367,4 +367,41 @@ Shortly thereafter the management decided to liquidate the property. Within the 
 
 *Partial Liquidation.* Northern Pipe Line Company and Otis Company, already discussed, are examples of the establishment of a higher market value through partial liquidation. The two companies made the exhibits as shown in the table following.
 
-In September 1929 Otis Company paid a special dividend of $4 per share, and in 1930 it made a distribution of $20 in partial liquidation, reducing the par value from $100 to $80. In April 1931 the shares sold at 45 and in April 1932 at 41. These prices were higher than the quotation in June 1929, despite the distributions of $24 per share made in the interim, and despite the fact also that the *general* market level had changed from fantastic inflation to equally fantastic deflation.
+In September 1929 Otis Company paid a special dividend of $4 per share, and in 1930 it made a distribution of $20 in partial liquidation, reducing the par value from $100 to $80. In April 1931 the shares sold at 45 and in April 1932 at 41. These prices were higher than the quotation in June 1929, despite the distributions of $24 per share made in the interim, and despite the fact also that the *general* market level had changed from fantastic inflation to equally fantastic deflation. Later the company went out of business altogether and paid its stockholders an additional $74 per share in liquidation—making the total received by them $102 per share since June 2929 (inclusive of other dividends in 1929—1934 amounting to $4 per share).
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Northern Pipe Line</th>
+    <th>Otis Company</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>1926</td>
+    <td>June 1929</td>
+  </tr>
+  <tr>
+    <td>Market price</td>
+    <td>$64</td>
+    <td>$35</td>
+  </tr>
+  <tr>
+    <td>Cash-asset value per share</td>
+    <td>79</td>
+    <td>23½</td>
+  </tr>
+  <tr>
+    <td>Current-asset value per share</td>
+    <td>82</td>
+    <td>101</td>
+  </tr>
+  <tr>
+    <td>Book value per share</td>
+    <td>116</td>
+    <td>191</td>
+  </tr>
+</table>
+
+Northern Pipe Line distributed $50 per share to its stockholders in 1928, as a return of capital, *i.e.*, partial liquidation. This development resulted in an approximate doubling of the market price between 1926 and 1928. Later a second distribution of $20 per share was made, so that the stockholders received more in cash than in the low market price of 1925 and 1926, and they also retained their full interest in the pipe-line business. Similar liberal distributions were made by most of the pipe-line companies of the so-called Standard Oil group. (Note also the partial liquidation of Davis Coal and Coke Company, described in the footnote on p.529).
+
+**Discrimination Required in Selecting Such Issues.** There is scarcely any doubt that common stocks selling well below liquidating value represent on the whole a class of undervalued securities. They have declined in price more severely than the actual conditions justify. This must mean that *on the whole* these stocks afford profitable opportunities for purchase. Nevertheless, the securities analyst should exercise as much discrimination as possible in the choice of issues falling within this category. He will lean toward those for which he sees a fairly imminent prospect of some one of the favorable developments listed above. Or else he will be partial to such as reveal other attractive statistical features besides their liquid-asset position, *e.g.*, satisfactory current earnings and dividends or a high average earning power in the past.
