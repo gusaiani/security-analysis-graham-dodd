@@ -404,4 +404,121 @@ In September 1929 Otis Company paid a special dividend of $4 per share, and in 1
 
 Northern Pipe Line distributed $50 per share to its stockholders in 1928, as a return of capital, *i.e.*, partial liquidation. This development resulted in an approximate doubling of the market price between 1926 and 1928. Later a second distribution of $20 per share was made, so that the stockholders received more in cash than in the low market price of 1925 and 1926, and they also retained their full interest in the pipe-line business. Similar liberal distributions were made by most of the pipe-line companies of the so-called Standard Oil group. (Note also the partial liquidation of Davis Coal and Coke Company, described in the footnote on p.529).
 
-**Discrimination Required in Selecting Such Issues.** There is scarcely any doubt that common stocks selling well below liquidating value represent on the whole a class of undervalued securities. They have declined in price more severely than the actual conditions justify. This must mean that *on the whole* these stocks afford profitable opportunities for purchase. Nevertheless, the securities analyst should exercise as much discrimination as possible in the choice of issues falling within this category. He will lean toward those for which he sees a fairly imminent prospect of some one of the favorable developments listed above. Or else he will be partial to such as reveal other attractive statistical features besides their liquid-asset position, *e.g.*, satisfactory current earnings and dividends or a high average earning power in the past.
+**Discrimination Required in Selecting Such Issues.** There is scarcely any doubt that common stocks selling well below liquidating value represent on the whole a class of undervalued securities. They have declined in price more severely than the actual conditions justify. This must mean that *on the whole* these stocks afford profitable opportunities for purchase. Nevertheless, the securities analyst should exercise as much discrimination as possible in the choice of issues falling within this category. He will lean toward those for which he sees a fairly imminent prospect of some one of the favorable developments listed above. Or else he will be partial to such as reveal other attractive statistical features besides their liquid-asset position, *e.g.*, satisfactory current earnings and dividends or a high average earning power in the past. The analyst will avoid issues that have been losing their current assets at a rapid rate and show no definite signs of ceasing to do so.
+
+*Examples:* This latter point will be illustrated by the following comparison of two companies, the shares of which sold well below liquidating value early in 1933.
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Manhattan Shirt Company</th>
+    <th>&nbsp;</th>
+    <th>Hupp Motor Car Corporation</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>Price, January 1933</td>
+    <td>6</td>
+    <td>&nbsp;</td>
+    <td>2½</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Total market value of Company</td>
+    <td>$1,476,000</td>
+    <td>&nbsp;</td>
+    <td>$3,323,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th>Balance Sheet</th>
+    <th>Nov. 30, 1932</th>
+    <th>Nov. 30, 1929</th>
+    <th>Dec. 31, 1932</th>
+    <th>Dec. 31, 1929</th>
+  </tr>
+  <tr>
+    <td>Preferred stock at par</td>
+    <td>&nbsp;</td>
+    <td>$300,000</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Number of shares of common</td>
+    <td>246,000</td>
+    <td>281,000</td>
+    <td>1,329,000</td>
+    <td>1,475,000</td>
+  </tr>
+  <tr>
+    <td>Cash assets</td>
+    <td>$1,961,000</td>
+    <td>$885,000</td>
+    <td>$4,615,000</td>
+    <td>$10,156,000</td>
+  </tr>
+  <tr>
+    <td>Receivables</td>
+    <td>771,000</td>
+    <td>2,621,000</td>
+    <td>226,000</td>
+    <td>1,246,000</td>
+  </tr>
+  <tr>
+    <td>Inventories</td>
+    <td>1,289,000</td>
+    <td>4,330,000</td>
+    <td>2,115,000</td>
+    <td>8,481,000</td>
+  </tr>
+  <tr>
+    <td>Total current assets</td>
+    <td>$4,021,000</td>
+    <td>$7,836,000</td>
+    <td>$6,956,000</td>
+    <td>$19,883,000</td>
+  </tr>
+  <tr>
+    <td>Current liabilities</td>
+    <td>100,000</td>
+    <td>2,574,000</td>
+    <td>1,181,000</td>
+    <td>2,541,000</td>
+  </tr>
+  <tr>
+    <td>Net current assets</td>
+    <td>$3,921,000</td>
+    <td>$5,262,000</td>
+    <td>$5,775,000</td>
+    <td>$17,342,000</td>
+  </tr>
+  <tr>
+    <td>Other tangible assets</td>
+    <td>1,124,000</td>
+    <td>2,066,000</td>
+    <td>9,757,000</td>
+    <td>17,870,000</td>
+  </tr>
+  <tr>
+    <td>Total assets for common (and preferred)</td>
+    <td>$5,045,000</td>
+    <td>$7,328,000</td>
+    <td>$15,532,000</td>
+    <td>$35,212,000</td>
+  </tr>
+  <tr>
+    <td>Cash-asset value per share</td>
+    <td>$7.50</td>
+    <td>Nil</td>
+    <td>$2.625</td>
+    <td>$5.125</td>
+  </tr>
+  <tr>
+    <td>Current-asset value per share</td>
+    <td>16.00</td>
+    <td>$17.50</td>
+    <td>4.375</td>
+    <td>11.75</td>
+  </tr>
+</table>
