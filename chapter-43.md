@@ -522,3 +522,59 @@ Northern Pipe Line distributed $50 per share to its stockholders in 1928, as a r
     <td>11.75</td>
   </tr>
 </table>
+
+Both of these companies disclose an interesting relationship of current assets to market price at the close of 1932. But a comparison with the balance-sheet situation of three years previously will yield much more satisfactory indications for Manhattan Shirt than for Hupp Motors. The latter concern had lost more than half of its cash assets and more than 60% of its net current assets during the depression period. On the other hand, the current-asset value of Manhattan Shirt common was reduced by only 10% during these difficult times, and furthermore, its cash-asset position was greatly improved. The latter result was obtained through the liquidation of receivables and inventories, the proceeds of which paid off the 1929 bank loans and largely increased the cash resources.
+
+From the viewpoint of past indications, therefore, the two companies must be placed in different categories. In the Hupp Motors case, we should have to take into account the possibility that the remaining excess of current assets over market price might soon be dissipated. This is not true so far as Manhattan Shirt is concerned, and in fact the achievement of the company in strengthening its cash position during the depression must be given favorable consideration. We shall recur later to this phase of security analysis, *viz.*, the comparison of balance sheets over a period in order to determine the true progress of an enterprise. The former point—that attention should be paid also to the past earnings record—may be brought home by a brief comparison of two companies in early 1939.
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Ely & Walker Dry Goods Co.</th>
+    <th>&nbsp;</th>
+    <th>Pacific Mills</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>Price, January, 1939</td>
+    <td>17</td>
+    <th>&nbsp;</th>
+    <td>14</td>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>Per share:</td>
+    <td>Dec. 31, 1932</td>
+    <td>Dec. 31, 1938</td>
+    <td>Dec. 31, 1932</td>
+    <td>Dec. 31, 1938</td>
+  </tr>
+  <tr>
+    <td>Net current assets</td>
+    <td>$30.00</td>
+    <td>$39.50</td>
+    <td>$26.95</td>
+    <td>$24.50</td>
+  </tr>
+  <tr>
+    <td>Net tangible assets</td>
+    <td>37.73</td>
+    <td>46.42</td>
+    <td>90.85</td>
+    <td>79.50</td>
+  </tr>
+  <tr>
+    <td>Average earnings, 1933—1938</td>
+    <td>&nbsp;</td>
+    <td>1.82</td>
+    <td>&nbsp;</td>
+    <td>2.41(d)</td>
+  </tr>
+  <tr>
+    <td>Average dividend, 1933—1938</td>
+    <td>&nbsp;</td>
+    <td>1.25</td>
+    <td>&nbsp;</td>
+    <td>0.50</td>
+  </tr>
+</table>
