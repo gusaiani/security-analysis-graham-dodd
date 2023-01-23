@@ -586,3 +586,68 @@ The losses of Pacific Mills did not have a serious effect upon the balance-sheet
 It may be pointed out, however, that investment in such bargain issues needs to be carried on with some regard to general market conditions at the time. Strangely enough, this is a type of operation that fares best, relatively speaking, when price levels are neither extremely high nor extremely low. The purchase of “cheap stocks” when the market as a whole seems much higher than it should be, *e.g.*, in 1929 or early 1937, will not work out well, because the ensuing decline is likely to bear almost as severely on these neglected or unappreciated issues as on the general list. On the other hand, when all stocks are very cheap—as in 1932—there would seem to be fully as much reason to buy undervalued leading issues as to pick out less popular stocks, even though these may be selling at even lower prices by comparison.
 
 *A Common Stock Representing the Entire Business Cannot Be Less Safe than a Bond Having a Claim to Only a Part Thereof.* In considering these issues it will be helpful to apply the converse of the proposition developed earlier in this book with reference to senior securities. We pointed out (Chap. 26) that a bond or preferred stock could not be worth more than its value would be if it represented full ownershop of the company, *i.e.*, if it were a common stock without senior claims ahead of it. The converse is also true. A common stock cannot be *less safe* than it would be if it were a bond, *i.e.*, if instead of representing full ownership of the company it were given a fixed and limited claim, with some new common stock created to own what was left. This idea, which may appear somewhat abstract at first, may be clarified by a concrete comparison between a common stock and a bond issue of the types just described. Two companies in the investment-trust field are particularly well suited to illustrate our point, because they were both organized by the same banking interests, and they have identical offices.
+
+Our table below should make clear that Shawmut Association *stock* cannot be less safe intrinsically than the Investment Trust *senior debentures* at 85. For, with the same management behind them, the stock investment has behind it 180% in assets, whereas the bonds are protected by only 122% (of their market price) in assets. In addition to having this greater protection the Association stock represents the entire ownership of the company’s assets, whereas the interest of the Investment Trust bonds is limited to their principal amount, the balance of the equity belonging to the junior holders. (In fact this junior equity can be fairly substantial, as measured by market price, even when the bonds are selling at a considerable discount.)
+
+<table>
+  <tr>
+    <th>As of December 1939</th>
+    <th>Shawmut Association</th>
+    <th>Shawmut Bank Investment Trust</th>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>None</td>
+    <td>$3,040,000 Senior Debenture 4½s and 5s @ 85 (average) = $2,585,000 / $950,000 Junior Debenture 6s @ 50 (est) = $480,000</td>
+  </tr>
+  <tr>
+    <td>Stock</td>
+    <td>390,000 sh. @10¼ $4,000,000</td>
+    <td>75,000 sh. @ 3½ $260,000</td>
+  </tr>
+  <tr>
+    <td>Total capitalization</td>
+    <td>$4,000,000</td>
+    <td>$3,325,000</td>
+  </tr>
+  <tr>
+    <td>Net asset value (September 1939)</td>
+    <td>7,201,000</td>
+    <td>(November 1939) 3,153,000</td>
+  </tr>
+  <tr>
+    <td>Ratio: Senior bonds at market to net assets</td>
+    <td>&nbsp;</td>
+    <td>82%</td>
+  </tr>
+  <tr>
+    <td>Ratio: Total capitalization at market to net assets</td>
+    <td>55%</td>
+    <td>107%</td>
+  </tr>
+  <tr>
+    <td>12 month’s investment income</td>
+    <td>(To September 30) 198,000</td>
+    <td>(To November 30) 114,000</td>
+  </tr>
+  <tr>
+    <td>Per cent earned on capitalization at market</td>
+    <td>5.0</td>
+    <td>3.5</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
