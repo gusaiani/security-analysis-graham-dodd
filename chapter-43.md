@@ -635,19 +635,8 @@ Our table below should make clear that Shawmut Association *stock* cannot be les
     <td>5.0</td>
     <td>3.5</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
+
+That the Shawmut *Association* stock is more attractive than the *Investment Trust* debentures at the prices quoted is scarcely open to challenge. Undoubtedly, also, the investor who would consider the bond issue to be “safer” than the Association shares is being misled by the *form* into overlooking the *essence*. Yet something remains to be said of the effect of these diverse forms upon the experience of the investor and consequently upon his attitude. The Investment Trust bonds do carry a certain assurance of continued income, because interest must be paid regularly or else the company faces insolvency. It is true for the same reason that special efforts will be made to pay them off at or before maturity in 1942 and 1952. Therefore we find that the company has a special inducement to buy in bonds at a discount—since they must ultimately be paid at par—and thus one-third of the issue has been reacquired. This policy has served to maintain the market price to an important extent and to improve the position of the remaining bonds.
+
+None of this is true with respect to the Shawmut Association shares. The have in fact received continuous dividends since 1929, averaging 65 cents, or 6½% on the current price. But the rate has been variable, and the average stockholder feels that he is at the mercy of the management’s decisions. (This is not entirely so in fact, since the penalty clauses in the Revenue Act virtually compel disbursement of the net income realized by investment trusts.) Nor has the market price been maintained by company repurchases at a reasonable discount from break-up value, so that the investor has been unable to look to the management to save him from the hard necessity of sacrificing his shares at as much as 50% below their intrinsic worth.
