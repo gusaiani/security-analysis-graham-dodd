@@ -43,3 +43,5 @@
 [Chapter 42: Balance-Sheet Analysis. Significance of Book Value](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-42.md)
 
 [Chapter 43: Significance of the Current-Asset Value](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-43.md)
+
+[Chapter 44: Implications of Liquidating Value. Stockholder-Management Relationships](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-44.md)
