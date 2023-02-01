@@ -27,3 +27,19 @@ Again (on page 335) the authors restate this view in their concluding chapter as
 3. If a stockholder disapproves of any major policy of the management, his proper move is to sell his stock.
 
 **Assumed Wisdom and Efficiency of Management Not Always Justified.** These statements sound plausible, but they are in fact only half truths—the more dangerous because they are not wholly false. It is nearly always true that the management is in the best position to judge which policies are most expedient. But it does not follow that it will always either recognize or adopt the course most beneficial to the shareholders. It may err grievously through incompetence. Stockholders of any given company appear to take it for granted that their management is capable. Yet the art of selecting stocks is said to turn largely on choosing the well-managed enterprise and rejecting others. This must imply that many companies are poorly directed. Should not this mean also that the stockholders of any company should be be open-minded on the question whether its management is efficient or the reverse?
+
+**Interests of Stockholders and Officers Conflict at Certain Points.** But a second reason for not always accepting implicitly the decisions of the management is that *on certain points* the interests of the officers and the stockholders may be in conflict. This field includes the following:
+
+1. Compensation to officers—Comprising salaries, bonuses, options to buy stock.
+
+2. Expansion of the business—Involving the right to larger salaries and the acquisition of more power and prestige by the officers.
+
+3. Payment of dividends—Should the money earned remain under the control of the management or pass into the hands of the stockholders?
+
+4. Continuance of the stockholders’s investment in the company—Should the business continue as before, although unprofitable, or should part of the capital be withdrawn, or should it be wound up completely?
+
+5. Information to stockholders—Should those in control be able to benefit through having information not given to stockholders generally?
+
+On all of these questions the decisions of the management are *interested* decisions, and for that reason they require scrutiny by the stockholders. We do not imply that corporate managements are not to be trusted. On the contrary, the officers of our large corporations consitute a group of men above the average in probity as well as in ability. But this does not mean that they should be given *carte blanche* in all matters affecting their own interests. A private employer hires only men he can trust, but he does not let these men fix their own salaries or decide how much capital he should place or leave in the business.
+
+**Directors Not Always Free from Self-interest in Connection with These Matters.** In publicly owned corporations these matters are passed on by the board of directors, whom the stockholders elect and to whom the officials are responsible. Theoretically, the directors will represent the stockholders’ interests, when need be, as against the opposing interests of the officers. But this cannot be counted upon in practice. In many companies a majority, and in most companies a substantial part, of the board is composed of paid officials. The directors who are not officers are frequently joined by many close ties to the chief executives. It may be said in fact that the officers choose the directors more often than the directors choose the officers. Hence the necessity remains for the stockholders to exercise critical and independent judgements on all matters where the personal advantage of the officers may conceivably be opposed to their own. In other words, in this field the usual presumption of superior knowledge and judgement on the part of the management should not obtain, and any criticism offered in good faith deserves careful consideration by the stockholders.
