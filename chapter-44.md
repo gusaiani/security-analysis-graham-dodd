@@ -81,3 +81,66 @@ Subsequently the company embarked on a policy of piecemeal liquidation which res
 In 1934, however, the company again showed a large loss, occasioned in good part by serious labor difficulties. The management again submitted the question of liquidation to the stockholders, and this time a winding up of the business was voted. A sale of the business was promptly arranged, and the stockholders received somewhat more than the November 1934 current-asset value.
 
 Particularly noteworthy were the details of the 1927 proceedings.  The ultimate decision—to continue or to quit—was put up to the stockholders in whose province it lay; the management supplied information, expressed its own opinion and permitted an adequate statement of the other side of the case.
+
+*Other Examples of Voluntary Liquidation.* The subjoined partial list will demonstrate an obvious but fundamental fact, *viz.*, that the liquidation (or sale) of an unprofitable company holding substantial assets (particularly current) is almost certain to realize for the stockholders considerably more than the previously existing market price. The reason is, of course, that the market price is governed chiefly by the earnings, whereas the proceeds of liquidation depend upon the assets.
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Year liquidation or sale voted</th>
+    <th>Price shortly before vote to liquidate or sell</th>
+    <th>Amount realized for stock</th>
+  </tr>
+  <tr>
+    <td>American Glue</td>
+    <td>1930</td>
+    <td>$53</td>
+    <td>139.00+</td>
+  </tr>
+  <tr>
+    <td>I. Benesch & Sons</td>
+    <td>1939</td>
+    <td>2¼</td>
+    <td>6.63</td>
+  </tr>
+  <tr>
+    <td>Federal Knitting Mills</td>
+    <td>1937</td>
+    <td>20</td>
+    <td>34.20</td>
+  </tr>
+  <tr>
+    <td>Lyman Mills</td>
+    <td>1927</td>
+    <td>112</td>
+    <td>220.25</td>
+  </tr>
+  <tr>
+    <td>Mohawk Mining</td>
+    <td>1933</td>
+    <td>11</td>
+    <td>28.50</td>
+  </tr>
+  <tr>
+    <td>Signature Hosiery Pfd</td>
+    <td>1931</td>
+    <td>3 1/8</td>
+    <td>17.00</td>
+  </tr>
+  <tr>
+    <td>Standard Oil of Nebrask</td>
+    <td>1939</td>
+    <td>6</td>
+    <td>17.50</td>
+  </tr>
+  <tr>
+    <td>United Shipyards A</td>
+    <td>1938</td>
+    <td>2¼</td>
+    <td>11.10</td>
+  </tr>
+</table>
+
+*Repurchase of Shares Pro Rata from Shareholders.* The Hamilton Woolen management is also to be commended for its action during 1932 and 1933 in employing excess cash capital to repurchase pro rata a substantial number of shares at a reasonable price. This reversed the procedure followed in 1929 when additional shares were offered for subscription to the stockholders. The contraction in business that accompanied the depression made this additional capital no longer necessary, and it was therefore a logical move to give most of it back to the stockholders, to whom it was of greater benefit when in their own pockets than in the treasury of the corporation.
+
+**Abuse of Shareholders through Open-market Purchase of Shares.** During the 1930—1933 depression repurchases of their own shares were made by many industrial companies out of their surplus cash assets, but the procedure generally followed was open to grave objection. The stock was bought in the open market without notice to the shareholders. This method introduced a number of unwholesome elements into the situation.
