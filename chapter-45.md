@@ -58,3 +58,129 @@ A second measure of financial strength is the so-called “acid test,” which r
 </table>
 
 *Exceptions and Examples.* As in all arbitrary rules of this kind, exceptions must be allowed if justified by special circumstances. Consider, for example, the current position of Archer-Daniels-Midland Company on June 30, 1933, as compared with the previous year’s figures.
+
+The position of this company on June 30, 1933, was evidently much less comfortable than a year before, and, judged by the usual standards, it might appear somewhat overextended. But in this case the increase in payables represented a return to the normal practice in the vegetable-oil industry, under which fairly large seasonal borrowings are regularly incurred to carry grain and flaxseed supplies. Upon investigation, therefore, the analyst would not consider the financial condition shown in the 1933 balance sheet as in any sense disturbing.
+
+Contrasting examples on this point are supplied by Douglas Aircraft Company and Stokely Brothers and Company in 1936—1938.
+
+##### A Working-capital comparison (000 ommitted)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Stokely Brothers and Company</th>
+    <th>&nbsp;</th>
+    <th>&nbsp;</th>
+    <th>Douglas Aircraft Company</th>
+    <th>&nbsp;</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>May 31, 1936</td>
+    <td>May 31, 1937</td>
+    <td>May 31, 1938</td>
+    <td>Nov. 31, 1936</td>
+    <td>Nov. 31, 1937</td>
+    <td>Nov. 31, 1938</td>
+  </tr>
+  <tr>
+    <td>Current assets:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Cash and receivables</td>
+    <td>$2,274</td>
+    <td>$2,176</td>
+    <td>$1,827</td>
+    <td>$2,885</td>
+    <td>$2,559</td>
+    <td>$4,673</td>
+  </tr>
+  <tr>
+    <td>Inventories</td>
+    <td>5,282</td>
+    <td>7,323</td>
+    <td>6,034</td>
+    <td>6,392</td>
+    <td>12,240</td>
+    <td>4,084</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$7,556</td>
+    <td>$9,499</td>
+    <td>$8,861</td>
+    <td>$9,277</td>
+    <td>$14,749</td>
+    <td>$8,757</td>
+  </tr>
+  <tr>
+    <td>Current liabilities:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Notes payable:</td>
+    <td>$2,000</td>
+    <td>$2,000</td>
+    <td>$2,500</td>
+    <td>$1,390</td>
+    <td>$5,230</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>1,527</td>
+    <td>1,286</td>
+    <td>1,320</td>
+    <td>1,179</td>
+    <td>3,183</td>
+    <td>2,129</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$3,527</td>
+    <td>$3,286</td>
+    <td>$3,820</td>
+    <td>$2,569</td>
+    <td>$8,413</td>
+    <td>$2,129</td>
+  </tr>
+  <tr>
+    <td>Bank loans due 1—3 years</td>
+    <td>&nbsp;</td>
+    <td>3,000</td>
+    <td>3,000</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Total current liabilities plus 1—3 notes</td>
+    <td>3,527</td>
+    <td>6,286</td>
+    <td>6,820</td>
+    <td>2,569</td>
+    <td>8,413</td>
+    <td>2,129</td>
+  </tr>
+  <tr>
+    <td>Net earnings for year</td>
+    <td>1,382</td>
+    <td>(353)</td>
+    <td>(713)</td>
+    <td>976</td>
+    <td>1,082</td>
+    <td>2,147</td>
+  </tr>
+</table>
