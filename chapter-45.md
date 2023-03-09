@@ -184,3 +184,11 @@ Contrasting examples on this point are supplied by Douglas Aircraft Company and 
     <td>2,147</td>
   </tr>
 </table>
+
+The situation in Douglas Aircraft in 1937 was not a seasonal matter, as in the case of Archer-Daniels-midland, but grew out of the receipt of certain types of orders requiring considerable working capital. Upon inquiry the investor could have satisfied himself that the need for bank accommodation was likely to be temporary and that, in any event, the new business was sufficiently profitable to make any necessary financing an easy affair. The Stokely picture was quite different, since the large current debt had developed out of expanding inventories in an unprofitable market. Hence the May 1937 balance sheet of Stokely carried a serious warning for the preferred and common stockholders, as the table shows.
+
+A year later Douglas Aircraft had paid off its bank loans and showed a current ratio of 4 to 1. Stokely suspended preferred dividends (par $25) to $10.
+
+As we pointed out in our discussion of bond selection, no standard requirements such as we have been discussing are recognized as applicable to railroads and public utilities. It must not be inferred therefrom that the working-capital exhibit of these companies is entirely unimportant—the contary will soon be shown to be true—but only that it is not to be tested by any cut-and-dried formulas.
+
+**Large Bank Debt Frequently a Sign of Weakness.** Financial difficulties are almost always heralded by the presence of bank loans or of other debt due in a short time. In other words, it is rare for a weak financial position to be created solely by ordinary trade accounts payable. This does not mean that bank debt is a bad sign in itself; the use of a reasonable amount of bank credit—particularly for seasonal needs—is not only legitimate but even desirable. But, whenever the statement shows Notes or Bills Payable, the analyst will subject the financial picture to a somewhat closer scrutiny than in cases where there is a “clean” balance sheet.
