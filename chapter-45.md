@@ -228,3 +228,67 @@ This important part of security analysis may be considered under three aspects, 
 1. As a check-up on the reported earnings per share.
 2. To determine the effect of losses (or profits) on the financial position of the company.
 3. To trace the relationship between the company’s resources and its earning power over a long period.
+
+**Check-up on Reported Earnings per Share, Via the Balance Sheet.** Some of this technique has already been used in connection with related phases of security analysis. In Chapter 36 (on accompanying CD), for instance, we gave an example of the first aspect, in checking the reported earnings of American Commercial Alcohol Corporation for 1931 and 1932. As an example covering a larger stretch of years we submit the following contrast between the average earnings of United States Industrial Alcohol Company for the ten years 1929—1938, as shown by the reported per-share figures and as indicated by the changes in its net worth in the balance sheet.
+
+##### U.S. Industrial Alcohol Company, 1929—1938
+
+##### 1. Net Earnings as Reported
+
+<table>
+  <tr>
+    <td>1929</td>
+    <td>$4,721,000</td>
+    <td>\* per share: $12.63</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>1,105,000</td>
+    <td>2.95</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>1,834,000 (d)</td>
+    <td>4.90(d)</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>176,000</td>
+    <td>0.47</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>1,393,000</td>
+    <td>3.56</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>1,580,000</td>
+    <td>4.03</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>844,000</td>
+    <td>2.15</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>78,000</td>
+    <td>0.20</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>456,000 (d)</td>
+    <td>1.17 (d)</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>668,000 (d)</td>
+    <td>1.71(d)</td>
+  </tr>
+  <tr>
+    <td>Total for 10 years</td>
+    <td>$6,782,000</td>
+    <td>$18.21</td>
+  </tr>
+</table>
