@@ -292,3 +292,71 @@ This important part of security analysis may be considered under three aspects, 
     <td>$18.21</td>
   </tr>
 </table>
+
+##### 2. Discrepancy Between Earnings as Above and Changes in the Surplus Account
+
+<table>
+  <tr>
+    <td>Net earnings 1929—1938, as reported</td>
+    <td>$6,782,000</td>
+  </tr>
+  <tr>
+    <td>Less dividends paid</td>
+    <td>5,959,000</td>
+  </tr>
+  <tr>
+    <td>(A) Indicated balance to surplus</td>
+    <td>823,000</td>
+  </tr>
+  <tr>
+    <td>Earned surplus Dec. 31, 1928</td>
+    <td>14,214,000</td>
+  </tr>
+  <tr>
+    <td>Less charge @ write-down of plant account to $1 in 1933</td>
+    <td>455,000</td>
+  </tr>
+  <tr>
+    <td>Earned surplus Dec. 31, 1928, as adjusted</td>
+    <td>13,759,000</td>
+  </tr>
+  <tr>
+    <td>Earned surplus and contingency reserve, Dec. 31, 1938</td>
+    <td>5,736,000</td>
+  </tr>
+  <tr>
+    <td>(B) Decrease in surplus on balance sheet</td>
+    <td>8,023,000</td>
+  </tr>
+  <tr>
+    <td>Discrepancy between earnings shown in income accounts and those indicated by balance sheets</td>
+    <td>$8,846,000</td>
+  </tr>
+</table>
+
+##### 3. Explanation of Discrepancy
+
+<table>
+  <tr>
+    <td>Changes made to surplus and not deducted in income account from which earnings per share were computed by company:</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Mark-down of inventory</td>
+    <td>$4,500,000</td>
+  </tr>
+  <tr>
+    <td>Charge-off and write-down of various assets</td>
+    <td>3,969,000</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous adjustments, net</td>
+    <td>377,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$8,846,000</td>
+  </tr>
+</table>
+
+In addition to the foregoing the company wrote down its fixed assets to $1 in 1933 by a charge of $19,301,000, of which $18,846,000 was taken out of capital account and the balance out of surplus. To the extent that depreciation charges since 1932 may have been insufficient because of this write-down, the reported earnings for the period were further overstated.
