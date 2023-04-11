@@ -360,3 +360,47 @@ This important part of security analysis may be considered under three aspects, 
 </table>
 
 In addition to the foregoing the company wrote down its fixed assets to $1 in 1933 by a charge of $19,301,000, of which $18,846,000 was taken out of capital account and the balance out of surplus. To the extent that depreciation charges since 1932 may have been insufficient because of this write-down, the reported earnings for the period were further overstated.
+
+##### 4. Restatement of Earnings for 1929—1938
+
+<table>
+  <tr>
+    <td>Earnings per income account</td>
+    <td>$6,782,000</td>
+  </tr>
+  <tr>
+    <td>Less charges made to surplus</td>
+    <td>8,846,000</td>
+  </tr>
+  <tr>
+    <td>Earnings for period as corrected</td>
+    <td>$2,064,000(d)</td>
+  </tr>
+</table>
+
+##### 5. Working Capital Comparison: 1938 vs. 1928
+
+<table>
+  <tr>
+    <td>Net working capital Dec. 31, 1928</td>
+    <td>$11,336,000</td>
+  </tr>
+  <tr>
+    <td>Net working capital Dec. 31, 1938</td>
+    <td>8,144,000</td>
+  </tr>
+  <tr>
+    <td>Decrease for ten years</td>
+    <td>3,192,000</td>
+  </tr>
+  <tr>
+    <td>Add proceeds of sales of capital stock</td>
+    <td>6,582,000</td>
+  </tr>
+  <tr>
+    <td>Real shrinkage in working capital for period</td>
+    <td>$9,774,000</td>
+  </tr>
+</table>
+
+The foregoing analysis does not require extended discussion, since most of the points involved were covered in Chapters 31 to 36. Virtually all the charges made to surplus between 1929 and 1938 (except for the write-down of the plant account to $1) represented a real diminution of the reported earning power of United States Industrial Alcohol during this ten-year period. It seems likely, also, that the surplus would have shrunk considerably farther if the plant account had been carried at a proper figure and appropriate depreciation charged against it since 1932. The fact that the company’s working capital decreased by $3,192,000, despite receipt of $6,582,000 from the sale of additional stock, is further evidence that, instead of there being a surplus above dividends as reported, the company actually lost money before dividends during these ten years.
