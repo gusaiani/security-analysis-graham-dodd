@@ -404,3 +404,165 @@ In addition to the foregoing the company wrote down its fixed assets to $1 in 19
 </table>
 
 The foregoing analysis does not require extended discussion, since most of the points involved were covered in Chapters 31 to 36. Virtually all the charges made to surplus between 1929 and 1938 (except for the write-down of the plant account to $1) represented a real diminution of the reported earning power of United States Industrial Alcohol during this ten-year period. It seems likely, also, that the surplus would have shrunk considerably farther if the plant account had been carried at a proper figure and appropriate depreciation charged against it since 1932. The fact that the company’s working capital decreased by $3,192,000, despite receipt of $6,582,000 from the sale of additional stock, is further evidence that, instead of there being a surplus above dividends as reported, the company actually lost money before dividends during these ten years.
+
+**Checking the Effect of Losses or Profits on the Financial Position of the Company.** An example of the second aspect was given in Chapter 43, in the comparison of the 1929—1932 balance sheets of Manhattan Shirt Company and Hupp Motor Car Corporation respectively. A similar comparison is shown below, covering the exhibit of Plymouth Cordage Company and H. R. Mallinson and Company during the same period, 1929—1932.
+
+*Examples:*
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Plymouth Cordage Co.</th>
+    <th>H. R. Mallinson & Co.</th>
+  </tr>
+  <tr>
+    <td>Earnings reported:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>$288,000</td>
+    <td>$1,457,000(d)</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>25,000</td>
+    <td>561,000(d)</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>233,000(d)</td>
+    <td>200,000(d)</td>
+  </tr>
+  <tr>
+    <td>Total (3 years) profit</td>
+    <td>$80,000</td>
+    <td>$2,218,000(d)</td>
+  </tr>
+  <tr>
+    <td>Dividends</td>
+    <td>1,348,000</td>
+    <td>66,000</td>
+  </tr>
+  <tr>
+    <td>Charges to surpus and reserves</td>
+    <td>2,733,000</td>
+    <td>116,000</td>
+  </tr>
+  <tr>
+    <td>Decrease in surplus and reserve for 3 years</td>
+    <td>$4,001,000</td>
+    <td>$2,400,000</td>
+  </tr>
+</table>
+
+##### Comparative Balance Sheet (000 Omitted)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Plymouth College</th>
+    <th>&nbsp;</th>
+    <th>H. R. Mallinson</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Sept. 30, 1929</th>
+    <th>Sept. 30, 1932</th>
+    <th>Dec. 31, 1929</th>
+    <th>Dec. 31, 1932</th>
+  </tr>
+  <tr>
+    <td>Fixed and miscellaneous assets (net)</td>
+    <td>$7,211</td>
+    <td>$5,157</td>
+    <td>$2,539</td>
+    <td>$2,224</td>
+  </tr>
+  <tr>
+    <td>Cash assets</td>
+    <td>1,721</td>
+    <td>3,784</td>
+    <td>526</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Receivables</td>
+    <td>1,156</td>
+    <td>668</td>
+    <td>1,177</td>
+    <td>170</td>
+  </tr>
+  <tr>
+    <td>Inventories</td>
+    <td>8,059</td>
+    <td>3,150</td>
+    <td>3,060</td>
+    <td>621</td>
+  </tr>
+  <tr>
+    <td>Total assets</td>
+    <td>$18,147</td>
+    <td>$12,759</td>
+    <td>$7,302</td>
+    <td>$3,305</td>
+  </tr>
+  <tr>
+    <td>Current liabilities</td>
+    <td>$982</td>
+    <td>$309</td>
+    <td>$2,292</td>
+    <td>$486</td>
+  </tr>
+  <tr>
+    <td>Preferred stock</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>1,342</td>
+    <td>1,281</td>
+  </tr>
+  <tr>
+    <td>Common stock</td>
+    <td>8,108</td>
+    <td>7,394</td>
+    <td>500</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>Surplus and miscellaneous reserves</td>
+    <td>9,057</td>
+    <td>5,056</td>
+    <td>3,168</td>
+    <td>768</td>
+  </tr>
+  <tr>
+    <td>Total liabilities</td>
+    <td>$18,147</td>
+    <td>$12,759</td>
+    <td>$7,302</td>
+    <td>$3,035</td>
+  </tr>
+  <tr>
+    <td>Net current assets</td>
+    <td>$9,954</td>
+    <td>$7,298</td>
+    <td>$2,741</td>
+    <td>$3,035</td>
+  </tr>
+  <tr>
+    <td>Net current assets excluding inventory</td>
+    <td>1,895</td>
+    <td>4,143</td>
+    <td>589(d)</td>
+    <td>264(d)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
