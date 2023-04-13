@@ -558,11 +558,97 @@ The foregoing analysis does not require extended discussion, since most of the p
     <td>589(d)</td>
     <td>264(d)</td>
   </tr>
+</table>
+
+Despite the large reduction in the surplus of Plymouth Cordage during these years, its financial position was even stronger at the end of the period than at the beginning, and the liquidating value per share (as distinct from book value) was probably somewhat higher. On the other hand, the losses of Mallinson almost denuded it of working capital and thereby created an extremely serious obstacle to a restoration of its former earning power.
+
+*Taking Losses on Inventories May Strengthen Financial Position.* It is obvious that losses that are represented solely by a decline in the inventory account are not so serious as those which must be financed by an increase in current liabilities. If the shrinkage in the inventory exceeds the losses, so that there is an actual increase in cash or reduction in payables, it may then be proper to say—somewhat paradoxically—that the company’s financial position has been strengthened even though it has been suffering losses. This reasoning has a concrete application in analyzing issues selling at less than liquidating value. It will be recalled that, in estimating break-up value, inventories are ordinarily taken at about 50 to 75% of the balance sheet figure, even though the latter is based on the lower cost or market. The result is that what appears as an operating loss in the company’s statement may have the actual effect of a profit from the standpoint of the investor who has valued the inventory in his own mind at considerably less than the book figure. This idea is concretely illustrated in the Manhattan Shirt Company example beginning on page 602.
+
+##### Manhattan Shirt Company (000 omitted)
+
+<table>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <th>&nbsp;</th>
+    <th>Balance Sheet, Nov. 30, 1929</th>
+    <th>&nbsp;</th>
+    <th>Balance sheet, Nov. 30, 1932</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Book Value</th>
+    <th>Estimated liquidating value</th>
+    <th>Book Value</th>
+    <th>Estimated liquidating value</th>
+  </tr>
+  <tr>
+    <td>Cash and bonds at market</td>
+    <td>$885</td>
+    <td>$885</td>
+    <td>$1,961</td>
+    <td>$1,961</td>
+  </tr>
+  <tr>
+    <td>Receivables</td>
+    <td>2,621</td>
+    <td>2,100</td>
+    <td>771</td>
+    <td>620</td>
+  </tr>
+  <tr>
+    <td>Inventories</td>
+    <td>4,330</td>
+    <td>2,900</td>
+    <td>1,289</td>
+    <td>850</td>
+  </tr>
+  <tr>
+    <td>Fixed and other assets</td>
+    <td>2,065</td>
+    <td>500</td>
+    <td>1,124</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>Total assets</td>
+    <td>$9,901</td>
+    <td>$6,385</td>
+    <td>$5,145</td>
+    <td>$3,731</td>
+  </tr>
+  <tr>
+    <td>Current liabilities</td>
+    <td>2,574</td>
+    <td>2,574</td>
+    <td>100</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Preferred stock</td>
+    <td>299</td>
+    <td>299</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Balance for common</td>
+    <td>$7,028</td>
+    <td>$3,513</td>
+    <td>$5,045</td>
+    <td>$3,631</td>
+  </tr>
+  <tr>
+    <td>Number of shares</td>
+    <td>281,000</td>
+    <td>281,000</td>
+    <td>246,000</td>
+    <td>246,000</td>
+  </tr>
+  <tr>
+    <td>Value per share</td>
+    <td>$25.00</td>
+    <td>$12.50</td>
+    <td>$20.50</td>
+    <td>$14.75</td>
   </tr>
 </table>
