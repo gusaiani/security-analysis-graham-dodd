@@ -652,3 +652,52 @@ Despite the large reduction in the surplus of Plymouth Cordage during these year
     <td>$14.75</td>
   </tr>
 </table>
+
+##### Income Account 1930—1932
+
+<table>
+  <tr>
+    <td>Balance after preferred dividends:</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>318,000(d)</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>93,000</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>139,000(d)</td>
+  </tr>
+  <tr>
+    <td>3 years</td>
+    <td>364,000(d)</td>
+  </tr>
+  <tr>
+    <td>Charges to surplus</td>
+    <td>505,000</td>
+  </tr>
+  <tr>
+    <td>Common dividends payd</td>
+    <td>723,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$1,592,000</td>
+  </tr>
+  <tr>
+    <td>Less discount on common stock bought</td>
+    <td>481,000</td>
+  </tr>
+  <tr>
+    <td>Decrease in surplus for period</td>
+    <td>$1,111,000</td>
+  </tr>
+</table>
+
+If we consider only the company’s figures there was evidently a loss for the period, with a consequent shrinkage in the value of the common stock. But if an investor had bought the stock, say, at $8 per share in 1930 (the low price in that year was 6 1/8), he would more logically have appraised the stock in his own mind on the basis of its liquidating value rather than its book value. From his point of view, therefore, the intrinsic value of his holdings would have *increased* during the depression period from $12.50 to $14.75 per share, even after deducting the substantial dividends paid. What really happened was that Manhattan Shirt turned the larger portion of its assets into cash during these three years and sustained a much smaller loss in so doing than a conservative buyer of the stock would have anticipated. This accomplishment can be summarized in the table on page 604.
+
+We have here a direct contrast between the superficial indications of the income account and the truer story told by the successive balance sheets. Situations of this kind justify our repeated assertion that income-account analysis must be supplemented and confirmed by balance-sheet analysis.
