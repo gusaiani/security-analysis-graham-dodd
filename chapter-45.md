@@ -701,3 +701,98 @@ Despite the large reduction in the surplus of Plymouth Cordage during these year
 If we consider only the company’s figures there was evidently a loss for the period, with a consequent shrinkage in the value of the common stock. But if an investor had bought the stock, say, at $8 per share in 1930 (the low price in that year was 6 1/8), he would more logically have appraised the stock in his own mind on the basis of its liquidating value rather than its book value. From his point of view, therefore, the intrinsic value of his holdings would have *increased* during the depression period from $12.50 to $14.75 per share, even after deducting the substantial dividends paid. What really happened was that Manhattan Shirt turned the larger portion of its assets into cash during these three years and sustained a much smaller loss in so doing than a conservative buyer of the stock would have anticipated. This accomplishment can be summarized in the table on page 604.
 
 We have here a direct contrast between the superficial indications of the income account and the truer story told by the successive balance sheets. Situations of this kind justify our repeated assertion that income-account analysis must be supplemented and confirmed by balance-sheet analysis.
+
+<table>
+  <tr>
+    <th>Assets turned into cash and application of proceeds</th>
+    <th>Amount</th>
+    <th>“Expected loss” thereon and application of difference</th>
+  </tr>
+  <tr>
+    <td>Reduction in inventory</td>
+    <td>$3,000,000</td>
+    <td>$1,000,000</td>
+  </tr>
+  <tr>
+    <td>Reduction in receivables</td>
+    <td>1,800,000</td>
+    <td>350,000</td>
+  </tr>
+  <tr>
+    <td>Reduction in plant, etc.</td>
+    <td>1,000,000</td>
+    <td>750,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$5,800,000</td>
+    <td>$2,100,000</td>
+  </tr>
+  <tr>
+    <td>Actual loss sustained</td>
+    <td>800,000</td>
+    <td>800,000</td>
+  </tr>
+  <tr>
+    <td>Net amount realized</td>
+    <td>$5,000,000</td>
+    <td>“Gain” on basis of liquidation values $1,300,000</td>
+  </tr>
+  <tr>
+    <td>Applied as follows:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>To common dividends</td>
+    <td>$700,000</td>
+    <td>$700,000</td>
+  </tr>
+  <tr>
+    <td>To payment of liabilities</td>
+    <td>2,500,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>To increase liquidating value</td>
+    <td>&nbsp;</td>
+    <td>$600,000</td>
+  </tr>
+  <tr>
+    <td>To redemption of preferred</td>
+    <td>300,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>To retirement of common</td>
+    <td>500,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>To increase in cash assets</td>
+    <td>1,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>$5,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+*Is Shrinkage of Value of Normal Inventory an Operating Loss?* A further question may be raised with respect to changes in the inventory account, *i.e.*, whether or not a mere reduction in the *carrying price* should be regarded as creating an operating loss. In the case of Plymounth Cordage we note the following comparative figures:
+
+<table>
+  <tr>
+    <td>Inventory Sept. 30, 1929</td>
+    <td>$8,059,000</td>
+  </tr>
+  <tr>
+    <td>Inventory Sept. 30, 1932</td>
+    <td>3,150,000</td>
+  </tr>
+  <tr>
+    <td>Decrease</td>
+    <td>60%</td>
+  </tr>
+</table>
