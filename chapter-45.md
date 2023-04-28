@@ -802,3 +802,74 @@ In the meantime the price of fibers had declined more than 50%, and there was go
 We have already discussed this point in our exposition of the “normal-stock” basis of inventory valuation (in Chapter 32), a method adopted by Plymouth Cordage itself after 1932. In theory the analyst might attempt to put all companies on a normal-stock basis for the purpose of calculating their earning power exclusive of inventory fluctuations and for uniform comparisons. Actually, he has not the data necessary for such calculations. Hence he is reduced—here, as in many fields of analysis—to the necessity of making general rather than exact allowance for the distorting effect of inventory price changes.
 
 *Profits from Inventory Inflation.* That the importance of inventory price changes is not confined to a depression period is emphatically shown by the events of 1919 and 1920. In 1919 the profits of industrial companies were very large; in 1920 the reported earnings were irregular but in the aggregate quite substantial. Yet the gains shown in these two years were in many cases the result of an *inventory inflation, i.e.*, a huge and speculative advance in commodity prices. Not only was the authenticity of these profits thereby made open to question, but the situation was replete with danger because of the large bank loans contracted to finance these overvalued inventories.
+
+*Examples:* The following tabulation, which covers a number of the leading industrial companies, will bring out the significant contrast between the apparently satisfactory earnings developments and the undoubtedly disquieting balance-sheet developments between the end of 1918 and the end of 1920.
+
+##### Twelve Industrial Companies (Aggregate Figures)
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Year 1919</th>
+    <th>Year 1920</th>
+    <th>Years 1919-1920</th>
+  </tr>
+  <tr>
+    <td>Earned for common stock</td>
+    <td>$100,000,000</td>
+    <td>$48,000,000</td>
+    <td>$148,000,000</td>
+  </tr>
+  <tr>
+    <td>Dividends paid</td>
+    <td>35,000,000</td>
+    <td>68,000,000</td>
+    <td>103,000,000</td>
+  </tr>
+  <tr>
+    <td>Charges to surplus</td>
+    <td>5,000,000</td>
+    <td>10,000,000</td>
+    <td>15,000,000</td>
+  </tr>
+  <tr>
+    <td>Added to surplus</td>
+    <td>60,000,000</td>
+    <td>30,000,000(decr)</td>
+    <td>30,000,000</td>
+  </tr>
+  <tr>
+    <td>Inventories increased</td>
+    <td>57,000,000</td>
+    <td>84,000,000</td>
+    <td>141,000,000</td>
+  </tr>
+  <tr>
+    <td>Change in other net current assets</td>
+    <td>+30,000,000</td>
+    <td>131,000,000(decr)</td>
+    <td>101,000,000(decr)</td>
+  </tr>
+  <tr>
+    <td>Plant, etc, increased</td>
+    <td>33,000,000</td>
+    <td>169,00,000</td>
+    <td>202,000,000</td>
+  </tr>
+  <tr>
+    <td>Capitalization increased</td>
+    <td>69,000,000</td>
+    <td>141,000,000</td>
+    <td>210,000,000</td>
+  </tr>
+  <tr>
+    <td>Reserve increased</td>
+    <td>&nbsp;</td>
+    <td>12,000,000</td>
+    <td>12,000,000</td>
+  </tr>
+</table>
+
+The companies included in the foregoing computation were American Can, American Smelting and Refining, American Woolen, Baldwin Locomotive Works, Central Leather, Corn Products Refining, General Electric, B. F. Goodrich, Lackawanna Steel, Republic Iron and Steel, Studebaker, United States Rubber.
+
+We append also the individual figures for United States Rubber, in order to add concreteness to our illustration:
