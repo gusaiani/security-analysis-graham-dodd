@@ -873,3 +873,142 @@ We have already discussed this point in our exposition of the “normal-stock”
 The companies included in the foregoing computation were American Can, American Smelting and Refining, American Woolen, Baldwin Locomotive Works, Central Leather, Corn Products Refining, General Electric, B. F. Goodrich, Lackawanna Steel, Republic Iron and Steel, Studebaker, United States Rubber.
 
 We append also the individual figures for United States Rubber, in order to add concreteness to our illustration:
+
+##### U.S. Rubber (1919—1920)
+
+<table>
+  <tr>
+    <td>Earned for common stock:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1919</td>
+    <td>$12,670,000</td>
+    <td>Per share: $17.60</td>
+  </tr>
+  <tr>
+    <td>1920</td>
+    <td>16,002,000</td>
+    <td>19.76</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$28,672,000</td>
+    <td>$37.36</td>
+  </tr>
+  <tr>
+    <td>Cash dividends paid</td>
+    <td>8,580,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Stock dividend paid</td>
+    <td>9,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Transferred to contingency reserve</td>
+    <td>6,000,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Adjustments of surplus and reserves</td>
+    <td>cr. 2,210,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Net increase in surplus and miscellaneous reserves</td>
+    <td>$7,300,000</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+##### Balance Sheet (000 omitted)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Dec. 31, 1918</th>
+    <th>Dec. 31, 1920</th>
+    <th>Increase</th>
+  </tr>
+  <tr>
+    <td>Plant and miscellaneous assets (net)</td>
+    <td>$131,000</td>
+    <td>$185,500</td>
+    <td>$54,500</td>
+  </tr>
+  <tr>
+    <td>Inventories</td>
+    <td>70,700</td>
+    <td>123,500</td>
+    <td>52,800</td>
+  </tr>
+  <tr>
+    <td>Cash and receivables</td>
+    <td>49,500</td>
+    <td>63,600</td>
+    <td>14,100</td>
+  </tr>
+  <tr>
+    <td>Total assets</td>
+    <td>$251,200</td>
+    <td>$372,600</td>
+    <td>$121,400</td>
+  </tr>
+  <tr>
+    <td>Current liabilities</td>
+    <td>$26,500</td>
+    <td>$74,300</td>
+    <td>$47,800</td>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>68,600</td>
+    <td>87,000</td>
+    <td>18,400</td>
+  </tr>
+  <tr>
+    <td>Preferred and common stock</td>
+    <td>98,400</td>
+    <td>146,300</td>
+    <td>49,900</td>
+  </tr>
+  <tr>
+    <td>Surplus and miscellaneous reserves</td>
+    <td>57,700</td>
+    <td>65,000</td>
+    <td>7,300</td>
+  </tr>
+  <tr>
+    <td>Total liabilities</td>
+    <td>$251,200</td>
+    <td>$372,600</td>
+    <td>$121,400</td>
+  </tr>
+  <tr>
+    <td>Working capital</td>
+    <td>93,700</td>
+    <td>112,800</td>
+    <td>19,100</td>
+  </tr>
+  <tr>
+    <td>Working capital excluding inventory</td>
+    <td>23,000</td>
+    <td>10,700(d)</td>
+    <td>33,700(d)</td>
+  </tr>
+</table>
+
+The United States Rubber figures for 1919—1029 present the complete reverse of Manhattan Shirt’s exhibit for 1930—1932. In the Rubber example we have large earnings but a coincident deterioration of the financial position due to heavy expenditures on plant and a dangerous expansion of inventory. The stock buyer would have been led astray completely had he confined his attention solely to United States Rubber’s reported earnings of nearly $20 per share in 1920; and, conversely, the securities markets were equally mistaken in considering only the losses reported during 1930—1032, without reference to the favorable changes occurring at the same time in the balance-sheet position of many companies.
+
+It will be noted from our discussion here and in Chapter 32 that the matter of inventory profits or losses belongs almost equally in the field of income account and of balance-sheet analysis.
+
+**Long-range Study of Earning Power and Resources.** The third aspect of the comparison of successive balance sheets is of restricted interest because it comes into play only in an exhaustive study of a company’s record and inherent characteristics. The purpose of this kind of analysis may best be conveyed by means of the following applications to the long-term exhibits of United States Steel Corporation and Corn Products Refining Company.
+
+##### 1. United States Steel Corporation: Analysis of Operating Results and Financial Changes by Decades, 1930—1932 (Analysis was made in 1933)
+
+The balance sheets are adjusted to exclude an intangible item (“water”), amounting to $508,000,000, originally added to the Fixed Property Account. This was subsequently written off between 1902 and 1929 by means of an annual sinking-fund charge (aggregating $182,000,000) and by special appropriations from surplus. The sinking-fund charges in question are also eliminated from the income account.
+
+
