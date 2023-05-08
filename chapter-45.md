@@ -1011,4 +1011,152 @@ It will be noted from our discussion here and in Chapter 32 that the matter of i
 
 The balance sheets are adjusted to exclude an intangible item (“water”), amounting to $508,000,000, originally added to the Fixed Property Account. This was subsequently written off between 1902 and 1929 by means of an annual sinking-fund charge (aggregating $182,000,000) and by special appropriations from surplus. The sinking-fund charges in question are also eliminated from the income account.
 
+##### Operating Results (In Millions)
 
+<table>
+  <tr>
+    <th>Item</th>
+    <th>First decade 1903—1912</th>
+    <th>Second decade 1913—1922</th>
+    <th>Third decade 1923—1932</th>
+    <th>Total for 30 years</th>
+  </tr>
+  <tr>
+    <td>Finished goods produced</td>
+    <td>93.4 tons</td>
+    <td>123.3 tons</td>
+    <td>118.7 tons</td>
+    <td>335.4 tons</td>
+  </tr>
+  <tr>
+    <td>Gross sales (excluding inter-company items)</td>
+    <td>$4,583</td>
+    <td>$9,200</td>
+    <td>$9,185</td>
+    <td>$22,968</td>
+  </tr>
+  <tr>
+    <td>Net earnings</td>
+    <td>979</td>
+    <td>1,674</td>
+    <td>1,096</td>
+    <td>3,749</td>
+  </tr>
+  <tr>
+    <td>Bond interest</td>
+    <td>303</td>
+    <td>301</td>
+    <td>184</td>
+    <td>788</td>
+  </tr>
+  <tr>
+    <td>Preferred dividends</td>
+    <td>257</td>
+    <td>252</td>
+    <td>252</td>
+    <td>761</td>
+  </tr>
+  <tr>
+    <td>Common dividends</td>
+    <td>140</td>
+    <td>356</td>
+    <td>609</td>
+    <td>1,105</td>
+  </tr>
+  <tr>
+    <td>Balance to surplus and “voluntary reserves”</td>
+    <td>279</td>
+    <td>765</td>
+    <td>51</td>
+    <td>1,095</td>
+  </tr>
+</table>
+
+##### B. Relation of Earnings to Average Capital (All Dollar Figures in Millions)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>First decade</th>
+    <th>Second decade</th>
+    <th>Third decade</th>
+    <th>Total for 30 years</th>
+  </tr>
+  <tr>
+    <td>Capital at beginning</td>
+    <td>$987</td>
+    <td>$1,416</td>
+    <td>$2,072</td>
+    <td>$987</td>
+  </tr>
+  <tr>
+    <td>Capital at end</td>
+    <td>1,416</td>
+    <td>2,072</td>
+    <td>2,112</td>
+    <td>2,112</td>
+  </tr>
+  <tr>
+    <td>Average capital about</td>
+    <td>1,200</td>
+    <td>1,750</td>
+    <td>2,100</td>
+    <td>1,700</td>
+  </tr>
+  <tr>
+    <td>% earned on average capital, per year</td>
+    <td>8.1%</td>
+    <td>9.6%</td>
+    <td>5.2%</td>
+    <td>7.4%</td>
+  </tr>
+  <tr>
+    <td>% paid per year in interest and dividends on average capital</td>
+    <td>5.8%</td>
+    <td>5.2%</td>
+    <td>4.0%</td>
+    <td>5.2%</td>
+  </tr>
+  <tr>
+    <td>Average common stock equity (common stock, surplus, and reserves)</td>
+    <td>$237</td>
+    <td>$620</td>
+    <td>$1,389</td>
+    <td>$816</td>
+  </tr>
+  <tr>
+    <td>% earned on common stock equity</td>
+    <td>17.7%</td>
+    <td>18.3%</td>
+    <td>4.8%</td>
+    <td>9.0%</td>
+  </tr>
+  <tr>
+    <td>% paid on common stock equity</td>
+    <td>5.9%</td>
+    <td>5.7%</td>
+    <td>2.9%</td>
+    <td>3.7%</td>
+  </tr>
+  <tr>
+    <td>Depreciation per year</td>
+    <td>$24</td>
+    <td>$34</td>
+    <td>$46</td>
+    <td>$35</td>
+  </tr>
+  <tr>
+    <td>Average fiscal property account</td>
+    <td>1,000</td>
+    <td>1,320</td>
+    <td>1,600</td>
+    <td>1,300</td>
+  </tr>
+  <tr>
+    <td>Ratio of depreciation to fixed property</td>
+    <td>2.4%</td>
+    <td>2.6%</td>
+    <td>2.9%</td>
+    <td>2.7%</td>
+  </tr>
+</table>
