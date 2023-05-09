@@ -1160,3 +1160,140 @@ The balance sheets are adjusted to exclude an intangible item (“water”), amo
     <td>2.7%</td>
   </tr>
 </table>
+
+##### c. Balance-sheet Changes (All Figures in Millions)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Dec. 31, 1902</th>
+    <th>Dec. 31, 1912</th>
+    <th>Changes in first decade</th>
+    <th>Dec. 31, 1922</th>
+    <th>Changes in second decade</th>
+    <th>Dec. 31, 1932</th>
+    <th>Changes in third decade</th>
+    <th>Changes in 30 years</th>
+  </tr>
+  <tr>
+    <td>Assets:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Fixed (less deprec.) and misc.</td>
+    <td>$820</td>
+    <td>$1,160</td>
+    <td>+$340</td>
+    <td>$1,466</td>
+    <td>+$306</td>
+    <td>$1,741</td>
+    <td>+$275</td>
+    <td>+$921</td>
+  </tr>
+  <tr>
+    <td>Net current assets</td>
+    <td>167</td>
+    <td>256</td>
+    <td>+89</td>
+    <td>606</td>
+    <td>+350</td>
+    <td>371</td>
+    <td>-235</td>
+    <td>+204</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$987</td>
+    <td>$1,416</td>
+    <td>+$429</td>
+    <td>$2,072</td>
+    <td>+$656</td>
+    <td>$2,112</td>
+    <td>+$40</td>
+    <td>+$1,125</td>
+  </tr>
+  <tr>
+    <td>Liabilities:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>$380</td>
+    <td>$680</td>
+    <td>+$300</td>
+    <td>$571</td>
+    <td>-$109</td>
+    <td>$116</td>
+    <td>-$455</td>
+    <td>-$264</td>
+  </tr>
+  <tr>
+    <td>Preferred stock</td>
+    <td>510</td>
+    <td>360</td>
+    <td>-150</td>
+    <td>360</td>
+    <td>0</td>
+    <td>360</td>
+    <td>0</td>
+    <td>-150</td>
+  </tr>
+  <tr>
+    <td>Preferred dividends accrued</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>5</td>
+    <td>+5</td>
+    <td>+5</td>
+  </tr>
+  <tr>
+    <td>Common stock</td>
+    <td>508</td>
+    <td>508</td>
+    <td>0</td>
+    <td>508</td>
+    <td>0</td>
+    <td>952</td>
+    <td>+444</td>
+    <td>+444</td>
+  </tr>
+  <tr>
+    <td>Surplus and “voluntary” reserves</td>
+    <td>411(d)</td>
+    <td>132(d)</td>
+    <td>+279</td>
+    <td>633</td>
+    <td>+765</td>
+    <td>679</td>
+    <td>+46</td>
+    <td>+1,090</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$987</td>
+    <td>$1,416</td>
+    <td>+$429</td>
+    <td>$2,072</td>
+    <td>+$656</td>
+    <td>$2,112</td>
+    <td>+$40</td>
+    <td>+$1,125</td>
+  </tr>
+</table>
