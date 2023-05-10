@@ -1297,3 +1297,13 @@ The balance sheets are adjusted to exclude an intangible item (“water”), amo
     <td>+$1,125</td>
   </tr>
 </table>
+
+*The Significance of the Foregoing Figures.* The three decades had, superficially at least, a somewhat equal distribution of good years and bad. In the first decade 1904 and 1908 were depression years, while 1911 and 1912 were subnormal. The second period had three bad years, *viz.*, 1914, 1921 and 1922—the last due to high costs rather than to small volume. The third decade was made up of eight years of prosperity followed by two of unprecedented depression.
+
+The figures show that the war period, which occurred in the middle decade, was a windfall for United States Steel and added more than 300 millions to profits, as compared with the rate established in the first ten years. On the other hand, the last ten years were marked by a drastic falling off in the rate of earnings on the invested capital. The difference between the 5.2% actually earned and the 8% that might be regarded as a satisfactory annual average amounted to close to 600 million dollars for the ten-year period.
+
+Viewing the picture from another angle, we note that in the thirty years the actual investment in United States Steel Corporation was more than doubled and its productive capacity was increased threefold. Yet the average annual production was only 27% higher, and the average annual earnings before interest charges were only 12% higher, in 1923—1932 than in 1903—1912. This analysis would serve to raise the question: (1) if, since the end of the war, steel production has been transformed from a reasonably prosperous into a relatively unprofitable industry and (2) if this transformation is due in good part to excessive reinvestment of earnings in additional plant, thus creating a condition of overcapacity with resultant reduction in the margin of profit.
+
+*Postscript.* The soundness of the foregoing analysis, made in 1933, may be judged by developments since then. It should be pointed out that both the plant account figures and the annual earnings should be adjusted downward in the light of the later disclosures, *viz:* (1) segregation from plant account in 1937 of $269,000,000 (and write-off of this amount in 1938), representing intangible assets at organization in addition to the $508,000,000 written off to 1929; (2) a charge to surplus of $270,000,000 in 1935 for additional amortization of fixed assets, presumably applicable to the entire preceding period. These later revisions, however, do not affect in any essential degree the conclusions drawn above.
+
+
