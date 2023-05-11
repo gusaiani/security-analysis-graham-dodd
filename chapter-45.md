@@ -1306,4 +1306,153 @@ Viewing the picture from another angle, we note that in the thirty years the act
 
 *Postscript.* The soundness of the foregoing analysis, made in 1933, may be judged by developments since then. It should be pointed out that both the plant account figures and the annual earnings should be adjusted downward in the light of the later disclosures, *viz:* (1) segregation from plant account in 1937 of $269,000,000 (and write-off of this amount in 1938), representing intangible assets at organization in addition to the $508,000,000 written off to 1929; (2) a charge to surplus of $270,000,000 in 1935 for additional amortization of fixed assets, presumably applicable to the entire preceding period. These later revisions, however, do not affect in any essential degree the conclusions drawn above.
 
+The showing of United States Steel in the years since 1932 would appear to bear out the pessimistic implications of the 1933 study. During the six years 1934—1939, which in most instances supply a fair test period for judging normal earning power, “Steel” common earned an average of but 14 cents per share. New developments in products, processes or other factors—including war profits—may change the picture for the better, but this has become a matter for speculative anticipation of future improvment rather than a reasonable expectation based on past performance.
 
+##### II. Similar Analysis of Corn Products Refining Company
+##### February 28, 1906 to Dec. 31, 1935
+
+##### A. Average Annual Income Account (000 omitted from dollar figures)
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>1906-1915</th>
+    <th>1916-1925</th>
+    <th>1926-1935</th>
+  </tr>
+  <tr>
+    <td>Earned before depreciation</td>
+    <td>$3,798</td>
+    <td>$12,770</td>
+    <td>$14,220</td>
+  </tr>
+  <tr>
+    <td>Depreciation</td>
+    <td>811</td>
+    <td>2,538</td>
+    <td>2,557</td>
+  </tr>
+  <tr>
+    <td>Balance for interest and dividends</td>
+    <td>2,987</td>
+    <td>10,232</td>
+    <td>11,663</td>
+  </tr>
+  <tr>
+    <td>Bond interest</td>
+    <td>516</td>
+    <td>264</td>
+    <td>88</td>
+  </tr>
+  <tr>
+    <td>Preferred dividends (paid or accrued)</td>
+    <td>2,042</td>
+    <td>1,879</td>
+    <td>1,738</td>
+  </tr>
+  <tr>
+    <td>Balance for common</td>
+    <td>429</td>
+    <td>8,029</td>
+    <td>9,837</td>
+  </tr>
+  <tr>
+    <td>Common dividends</td>
+    <td>&nbsp;</td>
+    <td>2,751</td>
+    <td>8,421</td>
+  </tr>
+  <tr>
+    <td>Balance to surplus</td>
+    <td>429</td>
+    <td>5,338</td>
+    <td>1,416</td>
+  </tr>
+  <tr>
+    <td>Adjustment of common stock, surplus and reserves</td>
+    <td>cc. 1,282</td>
+    <td>cr. 6,026</td>
+    <td>dr. 5,986</td>
+  </tr>
+  <tr>
+    <td>Increase in common stock, surplus and reserves</td>
+    <td>5,572</td>
+    <td>59,410</td>
+    <td>7,173</td>
+  </tr>
+</table>
+
+##### B. Balance Sheets
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Feb. 28, 1906</th>
+    <th>Dec. 31, 1915</th>
+    <th>Dec. 31, 1925</th>
+    <th>Dec. 31, 1935</th>
+  </tr>
+  <tr>
+    <td>Plant (less depreciation) and miscellaneous assets</td>
+    <td>$49,000</td>
+    <td>$51,840</td>
+    <td>$47,865</td>
+    <td>$34,532</td>
+  </tr>
+  <tr>
+    <td>Investment in affiliates</td>
+    <td>2,000</td>
+    <td>4,706</td>
+    <td>16,203</td>
+    <td>33,141</td>
+  </tr>
+  <tr>
+    <td>Net current assets</td>
+    <td>1,000</td>
+    <td>11,091</td>
+    <td>42,528</td>
+    <td>43,192</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$52,000</td>
+    <td>$67,637</td>
+    <td>$106,596</td>
+    <td>$110,865</td>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>9,571</td>
+    <td>12,763</td>
+    <td>2,474</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Preferred stock</td>
+    <td>28,293</td>
+    <td>29,783</td>
+    <td>25,004</td>
+    <td>24,574</td>
+  </tr>
+  <tr>
+    <td>Common stock, surplus and miscellaneous reserves</td>
+    <td>14,136</td>
+    <td>19,708</td>
+    <td>79,118</td>
+    <td>86,291</td>
+  </tr>
+  <tr>
+    <td>Preferred dividend accrued</td>
+    <td>&nbsp;</td>
+    <td>5,293</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$52,000</td>
+    <td>$67,637</td>
+    <td>$106,596</td>
+    <td>$110,865</td>
+  </tr>
+</table>
