@@ -1456,3 +1456,75 @@ The showing of United States Steel in the years since 1932 would appear to bear 
     <td>$110,865</td>
   </tr>
 </table>
+
+##### C. Percentage Earned and Paid on Total Capitalization and on Common-stock Equity
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>1906-1915</th>
+    <th>1916-1925</th>
+    <th>1926-1935</th>
+    <th>29 5/6 years</th>
+  </tr>
+  <tr>
+    <td>Average capitalization</td>
+    <td>$59,818</td>
+    <td>$87,116</td>
+    <td>$108,730</td>
+    <td>$81,432</td>
+  </tr>
+  <tr>
+    <td>Earned thereon</td>
+    <td>5.0%</td>
+    <td>11.8%</td>
+    <td>10.7%</td>
+    <td>10.2%</td>
+  </tr>
+  <tr>
+    <td>Paid thereon</td>
+    <td>4.2%</td>
+    <td>5.6%</td>
+    <td>9.4%</td>
+    <td>7.3%</td>
+  </tr>
+  <tr>
+    <td>Average common equity</td>
+    <td>$16,922</td>
+    <td>$49,413</td>
+    <td>$82,704</td>
+    <td>$50,213</td>
+  </tr>
+  <tr>
+    <td>Earned thereon</td>
+    <td>2.5%</td>
+    <td>16.4%</td>
+    <td>11.9%</td>
+    <td>12.2%</td>
+  </tr>
+  <tr>
+    <td>Paid thereon</td>
+    <td>nil</td>
+    <td>5.6%</td>
+    <td>10.2%</td>
+    <td>7.8%</td>
+  </tr>
+</table>
+
+###### Notes on Foregoing Computation
+
+1. The plant account and common-stock equity are corrected throughout to reflect a write-down of $36,000,000 made in 1922 and 1923.
+
+2. Bonds outstanding are increased in 1906 and 1912 to reflect liability for issues of subsidiaries. Plant, etc., is increased in the same amounts.
+
+3. Estimates considered to be sufficiently accurate are used in the initial balance sheet.
+
+4. Deductions for bond interest are partly estimated for the first two periods.
+
+5. The adjustments of Common Stock, Surplus, and Reserves represent chiefly changes in Miscellaneous reserves and shrinkage of marketable securities.
+
+*Comment on the Corn Products Refining Company Exhibit.* The early period was one of subnormal earnings, which would have been still poorer if more nearly adequate depreciation charges had been made. As in the case of United States Steel, the war period brought enormous earnings to Corn Products. The decade 1916-1925 was marked as a whole by a great increase in working capital and a substantial reduction in funded debt and preferred stock. Depreciation charges exceeded expenditures on new plant.
+
+In the 1926-1935 period we note a striking divergence from the exhibit of United States Steel for 1923—1932. Despite inclusion of the depression years Corn Products was almost able to increase its earning power proportionately with its enlarged capital investment. Its annual profits (both before and after depreciation) were about four times as large in this decade as in the period ending in 1915. (If we use the same years for comparison, we shall find that United States Steel actually earned less in 1926-1935 than in 1906-1915.) The balance-sheet changes were marked by a further substantial shrinkage in the property account (due to the liberal depreciation charged) but by a larger increase in the investment in affiliated companies—indicating a broad expansion of the company’s activities.
+
+It is clear that the record of Corn Products Refining Company does not suggest the same questions or doubts as arise from an examination of the United States Steel Corporation’s exhibit.
