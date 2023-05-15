@@ -47,3 +47,8 @@
 [Chapter 44: Implications of Liquidating Value. Stockholder-Management Relationships](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-44.md)
 
 [Chapter 45: Balance-sheet Analysis (concluded)](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-45.md)
+
+##### Part VI — Additional Aspects of Security Analysis. Discrepancies between Price and Value
+
+[Chapter 47: Cost of Financing and Management](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-47.md)
+
