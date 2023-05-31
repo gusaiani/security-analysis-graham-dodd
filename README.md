@@ -52,3 +52,5 @@
 
 [Chapter 47: Cost of Financing and Management](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-47.md)
 
+[Chapter 48: Some Aspects of Corporate Pyramiding](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-48.md)
+
