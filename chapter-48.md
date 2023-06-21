@@ -141,3 +141,42 @@ First, American and Foreign Power Company issued in all 1,600,000 shares of comm
 Second, the high price registered for the relatively small common-stock issue automatically created a correspondingly high value for the millions of warrants.
 
 Third, Electric Bond and Share could apply these high values to its large holdings of American and Foreign Power common and its enormous block of warrants, thus setting up a correspondingly inflated value for its own common stock.
+
+*Exploitation of the Stock-purchase-warrant Device.* The result of this process, at its farthest point in 1929, was almost incredible. The earnings available for American and Foreign Power common stock had shown the following rising trend (due in goodpart, however, to continuous new acquisitions):
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Earnings for common</th>
+    <th>Number of shares</th>
+    <th>Earned per share</th>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>$216,000</td>
+    <td>1,243,988</td>
+    <td>0.17</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>856,000</td>
+    <td>1,244,388</td>
+    <td>0.69</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>1,528,000</td>
+    <td>1,248,930</td>
+    <td>1.22</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>6,510,000</td>
+    <td>1,624,357</td>
+    <td>4.01</td>
+  </tr>
+</table>
+
+On the theory that a “good public-utility stock is worth up to 50 times its current earnings,” a price of 199¼ per share was recorded for American and Foreign Power common. This produced in turn a price of 174 for the warrants. Hence, by the insane magic of Wall Street, earnings of $6,500,000 were transmuted into a market value of $320,000,000 for the common shares and $1,240,000,000 for the warrants, a staggering total of $1,560,000,000.
+
+Since over 80% of the warrants were owned by Electric Bond and Share Company, the effect of these absurd prices for American and Foreign Power junior securities was to establish a correspondingly absurd break-up value for Electric Bond and Share common. This break-up value was industriously exploited to justify higher and higher quotations for the latter issue. In March 1929 attention was called to the fact that the market value of this company’s portfolio was equivalent to about $108 per share (of new stock), against a range of 91 to 97 for its own market quotation. The implication was that Electric Bond and Share stock was “undervalued.” In September 1929 the price had advanced to 184½. It was then computed that the break-up value amounted to about 150, “allowing no value for the company’s supervisory and construction business.” The public did not stop to reflect that a considerable part of this “book value” was based upon an essentially fictitious market quotation for an asset that the company had received *for nothing* only a few years before (as a bonus with American and Foreigt Power Second Preferred stock).
