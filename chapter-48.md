@@ -179,4 +179,71 @@ Third, Electric Bond and Share could apply these high values to its large holdin
 
 On the theory that a “good public-utility stock is worth up to 50 times its current earnings,” a price of 199¼ per share was recorded for American and Foreign Power common. This produced in turn a price of 174 for the warrants. Hence, by the insane magic of Wall Street, earnings of $6,500,000 were transmuted into a market value of $320,000,000 for the common shares and $1,240,000,000 for the warrants, a staggering total of $1,560,000,000.
 
-Since over 80% of the warrants were owned by Electric Bond and Share Company, the effect of these absurd prices for American and Foreign Power junior securities was to establish a correspondingly absurd break-up value for Electric Bond and Share common. This break-up value was industriously exploited to justify higher and higher quotations for the latter issue. In March 1929 attention was called to the fact that the market value of this company’s portfolio was equivalent to about $108 per share (of new stock), against a range of 91 to 97 for its own market quotation. The implication was that Electric Bond and Share stock was “undervalued.” In September 1929 the price had advanced to 184½. It was then computed that the break-up value amounted to about 150, “allowing no value for the company’s supervisory and construction business.” The public did not stop to reflect that a considerable part of this “book value” was based upon an essentially fictitious market quotation for an asset that the company had received *for nothing* only a few years before (as a bonus with American and Foreigt Power Second Preferred stock).
+Since over 80% of the warrants were owned by Electric Bond and Share Company, the effect of these absurd prices for American and Foreign Power junior securities was to establish a correspondingly absurd break-up value for Electric Bond and Share common. This break-up value was industriously exploited to justify higher and higher quotations for the latter issue. In March 1929 attention was called to the fact that the market value of this company’s portfolio was equivalent to about $108 per share (of new stock), against a range of 91 to 97 for its own market quotation. The implication was that Electric Bond and Share stock was “undervalued.” In September 1929 the price had advanced to 184½. It was then computed that the break-up value amounted to about 150, “allowing no value for the company’s supervisory and construction business.” The public did not stop to reflect that a considerable part of this “book value” was based upon an essentially fictitious market quotation for an asset that the company had received *for nothing* only a few years before (as a bonus with American and Foreign Power Second Preferred stock).
+
+This exploitation of the warrants had a peculiar vitality which made itself felt even in the depth of the depression in 1932—1933. Time having brought its usual revenge, the once dazzling American and Foreign Power Company had trembled on the brink of receivership, as shown by a price of only 14¼ for its 5% bonds. Nevertheless, in November 1933 the highly unsubstantial warrants sill commanded an aggregate market quotation of nearly $50,000,000, a figure that bore a ridiculous relationship to the exceedingly low values placed upon the senior securities. The following table shows how absurd this situation was, the more so since it existed in a time of deflated stock prices, when relative values are presumably subjected to more critical appraisal.
+
+##### (000 ommitted in market value)
+
+<table>
+  <tr>
+    <th>Issue</th>
+    <th>Amount outstanding</th>
+    <th>Price Nov. 1933</th>
+    <th>Total market value, 1933</th>
+    <th>Price Dec. 31, 1938</th>
+    <th>Total market value, 1938</th>
+  </tr>
+  <tr>
+    <td>5% Debentures</td>
+    <td>$50,000</td>
+    <td>40</td>
+    <td>$20,000</td>
+    <td>53</td>
+    <td>26,500</td>
+  </tr>
+  <tr>
+    <td>$7 first Preferred shares</td>
+    <td>480</td>
+    <td>21</td>
+    <td>10,100</td>
+    <td>19 7/8</td>
+    <td>9,300</td>
+  </tr>
+  <tr>
+    <td>$6 First Preferred shares</td>
+    <td>387</td>
+    <td>15</td>
+    <td>5,800</td>
+    <td>15</td>
+    <td>5,800</td>
+  </tr>
+  <tr>
+    <td>$7 Second Preferred shares</td>
+    <td>2,655</td>
+    <td>12</td>
+    <td>31,900</td>
+    <td>9¼</td>
+    <td>24,900</td>
+  </tr>
+  <tr>
+    <td>Common shares</td>
+    <td>1,850</td>
+    <td>10</td>
+    <td>18,500</td>
+    <td>3½</td>
+    <td>6,500</td>
+  </tr>
+  <tr>
+    <td>Warrants shares</td>
+    <td>6,874</td>
+    <td>7</td>
+    <td>48,100</td>
+    <td>1</td>
+    <td>6,900</td>
+  </tr>
+</table>
+
+By the end of 1938, as the table indicates, a good part of the absurdity had been corrected.
+
+**Some Holding Companies Not Guilty of Excessive Pyramiding.** To avoid creating a false impression, we must point out that, although pyramiding is usually effected by means of holding companies, it does not follow that all holding companies are created for this purpose and are therefore reprehensible. The holding company is often utilized for entirely legitimate purposes, *e.g.*, to permit unified and economical operations of separate units, to diversify investment and risk and to gain certain technical advantages of flexibility and convenience. Many sound and important enterprises are in holding company form.
