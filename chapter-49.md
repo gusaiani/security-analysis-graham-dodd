@@ -32,4 +32,47 @@ In this chapter we shall suggest standard forms for such comparative analyses, a
     <li>Ratio of preferred dividends to gross.</li>
     <li>Ratio of balance for common to gross.</li>
   </ol>
+
+  <li>Calculations:</li>
+
+  <ol type="1" start="15">
+    <li>Number of times fixed charges earned</li>
+    <li>I.P. Number of times fixed charges plus preferred dividends earned.</li>
+    <li>Earned on common stock, per share.</li>
+    <li>Earned on common stock, % of market price.</li>
+    <li>Ratio of gross to aggregate market value of common stock (9 ÷ 4).</li>
+    <li>S.P. Earned on preferred stock, per share.</li>
+    <li>S.P. Earned on preferred stock, % of market price.</li>
+    <li>S.P. Ratio of gross to aggregate market value of preferred stock (9 ÷ 3).</li>
+    <li>Credit or debit to earnings for undistributed profit or loss of subsidiaries (if important).</li>
+  </ol>
+
+  <li>Seven-year average figures:</li>
+
+  <ol type="1" start="21">
+    <li>Earned on common stock, per share.</li>
+    <li>Earned on common stock, % of current market price of common.</li>
+    <li>S.P. Earned on preferred stock, per share.</li>
+    <li>S.P. Earned on preferred stock, % of current market price of preferred.</li>
+    <li>Number of times net deductions earned.</li>
+    <li>Number of times fixed charges earned.</li>
+    <li>I.P. Number of times net deductions plus freferred dividends earned.</li>
+    <li>I.P> Number of times fixed charges plus preferred dividends earned.</li>
+  </ol>
+
+  <li>Trend figure:</li>
+
+  <ol type="1" start="25">
+    <li> to 31. Earned per share on common stock each year for past sevent yearss. (Where necessary, earnings should be adjusted to present capitalization.)</li>
+    <li>Sp. to 31. S.P. Same date for speculatvi preferred stock, if wanted.</li>
+  </ol>
+
+  <li>Dividends:</li>
+
+  <ol type="1" start="32">
+    <li>Dividend rate on common.</li>
+    <li>Dividend yield on common.</li>
+    <li>P. Dividend rate on preferred.</li>
+    <li>P. Dividend yield on preferred.</li>
+  </ol>
 </ol>
