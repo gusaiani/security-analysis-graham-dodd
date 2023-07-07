@@ -76,3 +76,34 @@ In this chapter we shall suggest standard forms for such comparative analyses, a
     <li>P. Dividend yield on preferred.</li>
   </ol>
 </ol>
+
+**Observations on the Railroad Comparison.** In has formerly been the custom to base earnings studies on the figures for the previous calendar years, with certain references to later interim reports. But since complete figures are now available month by month, it is more logical and effective practice to ignore the calendar-year divisions and to use instead the results for the twelve months to the latest date available. The simplest way t arrive at such a twelve months’ figure is to apply the *change* shown for thecurrent year to date to the results of the previous calendar year.
+
+*Example:*
+
+##### Gross Earnings of Pennsylvania Railroad System for 12 Months Ended June, 1939
+
+<table>
+  <tr>
+    <td>(1) 6 months to June 1939 (as reported)</td>
+    <td>$189,623,000</td>
+  </tr>
+  <tr>
+    <td>(2) 6 months to June 1938 (as reported)</td>
+    <td>167,524,000</td>
+  </tr>
+  <tr>
+    <td>(3) Difference</td>
+    <td>+22,099,000</td>
+  </tr>
+  <tr>
+    <td>(4) Calendar year 1938</td>
+    <td>360,384,000</td>
+  </tr>
+  <tr>
+    <td>12 months to June 1939 (4 plus 3)</td>
+    <td>$382,483,000</td>
+  </tr>
+</table>
+
+Our table includes a few significant calculations based on the seven-year average. In an intensive study, average results should be scrutinized in more detail. To save time, it is suggested that additional average figures be computed only for those roads which the analyst selects for further investigation after he has studied the exhibits in the “standard form.” Whether the period of averaging should cover seven years or a longer or shorter time is largely a matter for individual judgement. In theory it should be just long enough to cover a full cyclical fluctuation but not so long as to include factors or results that are totally out of date. The six years 1934—1939 might well be regarded as a somewhat better criterion, for example, than the longer period 1933—1939.
