@@ -121,3 +121,115 @@ In comparing railroad common stocks (and preferred shares equivalent thereto), t
 *Example:* The example shown on page 681 illustrates in a twofold fashion the fallacy of comparing a conservatively capitalized with a speculatively capitalized common stock. In 1922 the earnings of Union Pacific common were nearly four times as high in relation to market price as were those of Rock Island common. A conclusion that Union Pacific was “cheaper,” based on these figures, would have been fallacious, because the relative capitalization structures were so different as to make the two companies noncomparable. This fact is shown graphically by the much larger expansion of the earnings and the market price of Rock Island common that accompanied the moderate rise in gross business during the five years following.
 
 The situation in 1927 was substantially the opposite. At that time Rock Island common was earning proportionately more than Union Pacific common. But it would have been equally fallacious to conclude that Rock Island common was “intrinsically cheaper.” The speculative capitalization structure of the latter road made it highly vulnerable to unfavorable development, so that it was unable to withstand the post-1929 depression.
+
+**Other Illustrations in Appendix.** The practical approach to comparative analysis of railroad stocks (and bonds) may best be illustrated by the reproduction of several such comparisons made by one of the authors a number of years ago and published as part of the service rendered to clients by a New York Stock Exchange firm. These will be found in Appendix Note 66 on accompanying CD. It will be observed that the comparisons were made betweend roads in approximately the same class as regards capitalization structure, with the exception of the comparison between Atchison and New York Central, in which instance special reference was made to the greater sensitivity of New York Central to changes in either direction.
+
+##### Comparison of Union Pacific and Rock Island Common Stocks
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Union Pacific R.R.</th>
+    <th>Chicago, Rock Island, & Pacific Ry.</th>
+  </tr>
+  <tr>
+    <td><i>A.</i> Showing the effect of general improvement</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Average price of common, 1922</td>
+    <td>140</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Earned per share, 1922</td>
+    <td>$12.76</td>
+    <td>$0.96</td>
+  </tr>
+  <tr>
+    <td>% earned on market price, 1922</td>
+    <td>9.1%</td>
+    <td>2.4%</td>
+  </tr>
+  <tr>
+    <td>Fixed charges and preferred dividends earned, 1922</td>
+    <td>2.39 times</td>
+    <td>1.05 times</td>
+  </tr>
+  <tr>
+    <td>Ratio of gross to market value of common, 1922</td>
+    <td>62%</td>
+    <td>419%</td>
+  </tr>
+  <tr>
+    <td>Increase in gross, 1927 over 1922</td>
+    <td>5.7%</td>
+    <td>12.9%</td>
+  </tr>
+  <tr>
+    <td>Earned per share of common, 1927</td>
+    <td>$16.05</td>
+    <td>$12.08</td>
+  </tr>
+  <tr>
+    <td>Increase in earnings on common, 1927 over 1922</td>
+    <td>26%</td>
+    <td>1,158%</td>
+  </tr>
+  <tr>
+    <td>Average price of common, 1927</td>
+    <td>179</td>
+    <td>92</td>
+  </tr>
+  <tr>
+    <td>Increase in average price, 1927 over 1922</td>
+    <td>28%</td>
+    <td>130%</td>
+  </tr>
+  <tr>
+    <td><i>B.</i> Showing the effect of a general decline in business:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Earned on average price, 1927</td>
+    <td>9.0%</td>
+    <td>13.1%</td>
+  </tr>
+  <tr>
+    <td>Fixed charges and preferred dividends earned, 1927</td>
+    <td>2.64 times</td>
+    <td>1.58 times</td>
+  </tr>
+  <tr>
+    <td>Ratio of gross to market value of common, 1927</td>
+    <td>51%</td>
+    <td>204%</td>
+  </tr>
+  <tr>
+    <td>Decrease in gross, 1933 below 1927</td>
+    <td>46%</td>
+    <td>54%</td>
+  </tr>
+  <tr>
+    <td>Earned on common, 1933</td>
+    <td>$7.88</td>
+    <td>$20.40(d)</td>
+  </tr>
+  <tr>
+    <td>Decrease in earnings for common, 1933 below 1927</td>
+    <td>51%</td>
+    <td>269%</td>
+  </tr>
+  <tr>
+    <td>Average price of common, 1933</td>
+    <td>97</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Decrease in average price, 1933 below 1927</td>
+    <td>46%</td>
+    <td>93%</td>
+  </tr>
+</table>
