@@ -233,3 +233,9 @@ The situation in 1927 was substantially the opposite. At that time Rock Island c
     <td>93%</td>
   </tr>
 </table>
+
+#### Form II. Public-Utility Comparison
+
+The public-utility comparison form is practically the same as that for railroads. The only changes are the following: Fixed charges (as mentioned in line 1 and elsewhere) should include subsidiary-preferred dividends. Line 2 should be called “Funded debt and subsidiary preferred stock,” and these should be taken from the balance sheet. Items 22 and 22 I.P., relating to net deductions, are not needed. Item 10 becomes “ratio of depreciation to gross.” An item, 10M, may be included to show ”ratio of maintenance to gross” for the companies which publish this information.
+
+Our observations regarding the use of the railroad comparison apply as well to the public-utility comparison. Variations in the depreciation rate are fully as important as variations in the railroad maintenance ratios. When a wide difference appears, it should not be taken for granted that one property is unduly conservative or the other not conservative enough, but a *presumption* to this effect does arise, and the question should be investigated as thoroughly as possible. A statistical indication that one utility stock is more attractive than another should not be acted upon until (among other qualitative matters) some study has been made of the rate situation and the relative prospects for favorable or unfavorable changes therein. In view of experience since 1933, careful attention should also be given to the dangers of municipal or federal competition.
