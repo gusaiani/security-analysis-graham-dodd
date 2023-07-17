@@ -63,8 +63,8 @@ In this chapter we shall suggest standard forms for such comparative analyses, a
   <li>Trend figure:</li>
 
   <ol type="1" start="25">
-    <li> to 31. Earned per share on common stock each year for past sevent yearss. (Where necessary, earnings should be adjusted to present capitalization.)</li>
-    <li>Sp. to 31. S.P. Same date for speculatvi preferred stock, if wanted.</li>
+    <li> to 31. Earned per share on common stock each year for past seven years. (Where necessary, earnings should be adjusted to present capitalization.)</li>
+    <li>Sp. to 31. S.P. Same date for speculative preferred stock, if wanted.</li>
   </ol>
 
   <li>Dividends:</li>
@@ -239,3 +239,97 @@ The situation in 1927 was substantially the opposite. At that time Rock Island c
 The public-utility comparison form is practically the same as that for railroads. The only changes are the following: Fixed charges (as mentioned in line 1 and elsewhere) should include subsidiary-preferred dividends. Line 2 should be called “Funded debt and subsidiary preferred stock,” and these should be taken from the balance sheet. Items 22 and 22 I.P., relating to net deductions, are not needed. Item 10 becomes “ratio of depreciation to gross.” An item, 10M, may be included to show ”ratio of maintenance to gross” for the companies which publish this information.
 
 Our observations regarding the use of the railroad comparison apply as well to the public-utility comparison. Variations in the depreciation rate are fully as important as variations in the railroad maintenance ratios. When a wide difference appears, it should not be taken for granted that one property is unduly conservative or the other not conservative enough, but a *presumption* to this effect does arise, and the question should be investigated as thoroughly as possible. A statistical indication that one utility stock is more attractive than another should not be acted upon until (among other qualitative matters) some study has been made of the rate situation and the relative prospects for favorable or unfavorable changes therein. In view of experience since 1933, careful attention should also be given to the dangers of municipal or federal competition.
+
+#### Form III. Industrial Comparison (for Companies in the Same Field)
+
+Since this form differs in numerous respects from the two preceding, ti is given in full herewith:
+
+<ol type="A">
+  <li>Capitalization</li>
+
+  <ol type="1">
+    <li>Bonds at par</li>
+    <li>Preferred stock at market value (number of shares × market price).</li>
+    <li>Common stock at market value (number of shares × market price).</li>
+    <li>Total capitalization.</li>
+    <li>Ratio of bonds to capitalization.</li>
+    <li>Ratio of aggregate market value of common to capitalization.</li>
+  </ol>
+
+  <li>Income Account (most recent year):</li>
+
+  <ol type="1" start="8">
+    <li>Gross sales.</li>
+    <li>Depreciation.</li>
+    <li>Net available for bond interest.</li>
+    <li>Bond interest.</li>
+    <li>Preferred dividend requirements.</li>
+    <li>Balance for common.</li>
+    <li>Margin of profit (ratio of 10 to 8).</li>
+    <li>% earned on total capitalization (ratio of 10 to 4).</li>
+  </ol>
+
+  <li>Calculations:</li>
+
+  <ol type="1" start="16">
+    <li>Number of times interest charges earned</li>
+    <li>I.P. Number of times interest charges plus preferred dividends earned.</li>
+    <li>Earned on common, per share.</li>
+    <li>Earned on common, % of market price.</li>
+    <li>S.P. Earned on preferred, per share.</li>
+    <li>S.P. Earned on preferred, % of market price.</li>
+    <li>Ratio of gross to aggregate market value of common.</li>
+    <li>S.P. Ratio of gross to aggregate market value of preferred.</li>
+  </ol>
+
+  <li>Seven-year average:</li>
+
+  <ol type="1" start="20">
+    <li>Number of times interest charges earned.</li>
+    <li>Earned on common stock per share.</li>
+    <li>Earned on common stock, % of current market price. (20 I.P., 21 S.P. and 22 S.P.—Same calculaton for preferred stock if wanted).</li>
+  </ol>
+
+  <li>Trend figure:</li>
+
+  <ol type="1" start="23">
+    <li>Earned per share on common stock each year for past seven years. (adjustments in number of shares outstanding to be made where necessary).</li>
+    <li>S.P. Same date for speculative preferred issues, if wanted.</li>
+  </ol>
+
+  <li>Dividends:</li>
+
+  <ol type="1" start="32">
+    <li>Dividend rate on common.</li>
+    <li>Dividend yield on common.</li>
+    <li>P. Dividend rate on preferred.</li>
+    <li>P. Dividend yield on preferred.</li>
+  </ol>
+
+  <li>Balance sheet:</li>
+
+  <ol type="1" start="26">
+    <li>Cash assets.</li>
+    <li>Receivables (less reserves).</li>
+    <li>Inventories (less proper reserves).</li>
+    <li>Total current assets.</li>
+    <li>Total current liabilities.</li>
+    <li>N. Notes Payable (Including “Bank Loans” and “Bills Payable”).</li>
+    <li>Net current assets.</li>
+    <li>Ratio of current assets to current liabilities.</li>
+    <li>Ratio of inventory to sales.</li>
+    <li>Net tangible assets available for total capitalization.</li>
+    <li>Cash-asset-value of common per share (deducting all prior obligations).</li>
+    <li>Net-current-asset-value of common per share (deducting all prior obligations).</li>
+    <li>Net-tangible-asset-value of common per share (deducting all prior obligations).</li>
+    <li>(36 S.P, 37 S.P, 38 S.P.—Same date for speculative preferred issues, if wanted).</li>
+  </ol>
+
+  <li>Supplementary data (when available):</li>
+
+  <ol>
+    <li>Physical output: Number of units; receipts per unit; cost per unit; profit per unit; total capitalization per unit; common stock valuation per unit.</li>
+    <li>Miscellaneous: for example number of stores operated; sales per store; profit per store; ore reserves; life of mine at current (or average) rate of production.</li>
+  </ol>
+</ol>
+
