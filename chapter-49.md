@@ -340,3 +340,290 @@ Whereas the percentage earned on the market price of the common (item 18) is a 
 As a matter of practical procedure it is not safe to rely upon the fact that the earnings ratio for the common stock (item 18) is higher than the average for the industry, unless the percentage earned on the total capitalization (item 15) is also higher. Furthermore, if the company with the poorer earnings exhibit shows much larger sales-per-dollar-of-common-stock (item 19), it may have better speculative possibilities in the event of general business improvement.
 
 The balance-sheet computations do not have primary significance unless they indicate either definite financial weakness or a substantial excess of current-asset-value over the market price. The division of importance as between the current results, the seven-year average and the trend is something entirely for the analyst’s judgement to decide. Naturally, he will have the more confidence in any suggested conclusion if it is confirmed in each of these counts.
+
+**Example of the Use of Standard Forms.** An example of the use of the standard form to reach a conclusion concerning comparative values should be of interest. A survey of the common stocks of the listed steel producers in July 1938 indicated that Continental Steel had made a better exhibit than the average, whereas Granite City Steel had shown much smaller earning power. The two companies operated to some extent in the same branches of the steel industry; they were very similar in size, and the price of their common stocks was identical. In the tabulation presented on page 666 we supply comparative figures for these two enterprises, omitting some of the items on our standard form as immaterial to this analysis.
+
+##### Comparison of Continental Steel and Granite City Steel (000 omitted, except those per share)
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Continental Steel</th>
+    <th>&nbsp;</th>
+    <th>Granite City Steel</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>Market price of common, July 1938</td>
+    <td>17</td>
+    <td>&nbsp;</td>
+    <td>17</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1. Bonds at par</td>
+    <td>$1,202</td>
+    <td>&nbsp;</td>
+    <td>$1,618</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>2. Preferred stock at market</td>
+    <td>2,450</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>3. Common stock at market</td>
+    <td>3,410</td>
+    <td>&nbsp;</td>
+    <td>6,494</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>4. Total capitalization</td>
+    <td>7,062</td>
+    <td>&nbsp;</td>
+    <td>8,112</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>5. Ratio of common to total capitalization</td>
+    <td>48.3%</td>
+    <td>&nbsp;</td>
+    <td>80.0%</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Average of 5 years ended 6/30/38</th>
+    <th>Year ended 6/30/38</th>
+    <th>Average of 5 years ended 6/30/38</th>
+    <th>Year ended 6/30/38</th>
+  </tr>
+  <tr>
+    <td>8. Gross sales</td>
+    <td>$15,049</td>
+    <td>$13,989</td>
+    <td>$8,715</td>
+    <td>$8,554</td>
+  </tr>
+  <tr>
+    <td>9. Depreciation</td>
+    <td>500</td>
+    <td>445</td>
+    <td>390</td>
+    <td>459</td>
+  </tr>
+  <tr>
+    <td>10. Net available for bond interest</td>
+    <td>704</td>
+    <td>559</td>
+    <td>336</td>
+    <td>287 (d)</td>
+  </tr>
+  <tr>
+    <td>11. Bond interest</td>
+    <td>81</td>
+    <td>67</td>
+    <td>(Est.) 18</td>
+    <td>(Est.) 54</td>
+  </tr>
+  <tr>
+    <td>12. Preferred dividends</td>
+    <td>179</td>
+    <td>171</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
