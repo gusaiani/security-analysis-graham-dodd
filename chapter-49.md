@@ -438,192 +438,157 @@ The balance-sheet computations do not have primary significance unless they indi
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>13. Balance for common</td>
+    <td>444</td>
+    <td>321</td>
+    <td>318</td>
+    <td>341(d)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>14. Margin of profit</td>
+    <td>4.7%</td>
+    <td>4.0%</td>
+    <td>3.9%</td>
+    <td>(def.)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15. % earned on total capitalization</td>
+    <td>10.0</td>
+    <td>7.9%</td>
+    <td>4.1%</td>
+    <td>(def.)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>16. Interest charges earned</td>
+    <td>8.7 times</td>
+    <td>8.3 times</td>
+    <td>18.7 times</td>
+    <td>(def.)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>17. Earned on common, per share</td>
+    <td>$2.29</td>
+    <td>$1.60</td>
+    <td>$1.20</td>
+    <td>$0.89(d)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>18. Earned on common, % of market price</td>
+    <td>13.5</td>
+    <td>9.4</td>
+    <td>7.1</td>
+    <td>(d)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>19. Ratio of gross to market value of common</td>
+    <td>441.5%</td>
+    <td>409.8%</td>
+    <td>134.3%</td>
+    <td>131.8%</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Trend figures:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>23. Earned per share by years:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Year ended June 30, 1938</td>
+    <td>$1.60</td>
+    <td>&nbsp;</td>
+    <td>$0.89(d)</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Year ended June 30, 1937</td>
+    <td>3.83</td>
+    <td>1.31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Year ended June 30, 1936</td>
+    <td>2.67</td>
+    <td>&nbsp;</td>
+    <td>1.49</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Year ended June 30, 1935</td>
+    <td>1.69</td>
+    <td>&nbsp;</td>
+    <td>1.45</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Year ended June 30, 1934</td>
+    <td>1.66</td>
+    <td>&nbsp;</td>
+    <td>2.65</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Dividends:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>24. Dividend rate on common</td>
+    <td>&nbsp;</td>
+    <td>$1.00</td>
+    <td>&nbsp;</td>
+    <td>None</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>25. Dividend yield on common</td>
+    <td>&nbsp;</td>
+    <td>5.9%</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Financial position (dates):</td>
+    <td>&nbsp;</td>
+    <td>6/30/38</td>
+    <td>&nbsp;</td>
+    <td>12/31/37</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>29. Total current assets</td>
+    <td>&nbsp;</td>
+    <td>$6,467</td>
+    <td>&nbsp;</td>
+    <td>$4,179</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>30. Total current liabilities</td>
+    <td>&nbsp;</td>
+    <td>1,198</td>
+    <td>&nbsp;</td>
+    <td>1,164</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>31. Net current assets</td>
+    <td>&nbsp;</td>
+    <td>5,269</td>
+    <td>&nbsp;</td>
+    <td>3,015</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>33. Net tangible assets for total capitalization</td>
+    <td>&nbsp;</td>
+    <td>13,498</td>
+    <td>&nbsp;</td>
+    <td>13,556</td>
   </tr>
 </table>
