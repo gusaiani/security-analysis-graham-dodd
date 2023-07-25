@@ -592,3 +592,21 @@ The balance-sheet computations do not have primary significance unless they indi
     <td>13,556</td>
   </tr>
 </table>
+
+*Comments on the Comparison.* The use of five-year figures for each item, presented along with those of the most recent twelve months, is suggested here because the subnormal business conditions in the year ended June 30, 1938 made it inadvisable to lay too great emphasis on the results for this single period. Granite City reports on calendar-year basis, whereas Continental used both a June 30 and a December 31 fiscal year during 1934—1938. However, the availability of quarterly or semiannual figures makes it a simple matter for the analyst to construct his average and 12 months’ figures to end in the middle of the year.
+
+Analysis of the data reveals only one point of superiority for Granite City Steel—the smaller amount of senior securities. But even this is not necessarily an advantage, since the relatively fewer shares of Continental common make them more sensitive to favorable as well as unfavorable developments. The exhibit for the June 1938 year, and five-year average, show a statistical superiority for Continental on each of the following important points:
+
+```
+Earnings on market price of common stock.
+Earnings on total capitalization.
+Ratio of gross to market value of common.
+Margin of profit.
+Depreciation in relation to plant account.
+Working-capital position.
+Tangible asset values.
+Dividend return.
+Trend of earnings.
+```
+
+If the comparison is carried back prior to 1934, Granite City is found to have enjoyed a marked advantage in the depression years from mid-1930 to mid-1933. During this time it earned and paid dividends while Continental Steel was reporting moderate losses. It is curious to observe that in the more recent recession the tables were exactly turned, and Continental Steel did very well while Granite City fared badly. Obviously the 1937—1938 results would command more attention than those in the longer past. Nevertheless, the thorough analyst would endeavor to learn as much as possible about the basic reasons underlying the change in the relative performance of the two companies.
