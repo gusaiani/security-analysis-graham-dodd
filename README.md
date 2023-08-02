@@ -55,3 +55,5 @@
 [Chapter 48: Cost of Financing and Management](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-48.md)
 
 [Chapter 49: Comparative Analysis of Companies in the Same Field](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-49.md)
+
+[Chapter 50: Discrepancies Between Price and Value](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-50.md)
