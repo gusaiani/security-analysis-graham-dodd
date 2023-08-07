@@ -15,3 +15,15 @@ The second general method consists in scrutinizing corporate reports as they mak
 **Can Cyclical Swings of Prices Be Exploited?** The best understood disparities between price and value are those which accompany the recurrent broad swings of the market through boom and depression. It is a mere truism that stocks sell too high in a bull market and too low in a bear market. For at bottom this is simply equivalent to saying that any upward or downward movement of prices must finally reach a limit, and since prices do not remait at such limits (or at any other level) permanently, it must turn out in retrospect that prices will have advanced or declined too far.
 
 Can the analyst exploit successfully the repeated exaggerations of the general market? Experience suggests that a procedure somewhat like the following should turn out to be reasonably satisfactory:
+
+1. Select a diversified list of leading common stocks, *e.g.*, those in the “Dow-Jones Industrial Average.”
+
+2. Determine an indicated “normal” value for this group by applying a suitable multiplier to average earnings. The multiplier might be equivalent to capitalizing the earnings at, say, twice the current interest rate on highest grade industrial bonds. The period for averaging earnings would ordinarily be seven to ten years, but expectional conditions such as occurred in 1931—1933 might suggest a different method, *e.g.*, basing the average on the period beginning in 1934, when operating in 1939 or later.
+
+3. Make composite purchases of the list when the shares can be bought at a substantial discount from normal value, say, at 2/3 such value. Or purchases may be made on a scale downwards, beginning say, at 80% of normal value.
+
+4. Sell out such purchases when a price is reached substantially above normal value, say, 1/3 higher, or from 20% to 50% higher on a scale basis.
+
+This was the general scheme of operations developed by Roger Babson many years ago. It yielded quite satisfactory results prior to 1925. But—as we pointed out in Chapter 37—during the 1931-1933 cycle (measuring from low point to low point) it would have called for purchasing during 1931, selling out probably in 1926, thus requiring complete abstinence from the market during the great boom of 1927—1929, and repurchasing in 1931, to be followed by a severe shrinkage in market values. A program of this character would have made far too heavy demands upon human fortitude.
+
+The behaviour of the market since 1933 has offered difficulties of a different sort in applying these mechanical formulas—particularly in determining normal earnings from which to compute normal values. It is scarcely to be expected that an idea as basically simple as this one can be utilized with any high degree of accuracy in catching the broad market swings. But for those who realize its inherent limitations it may have considerable utility, for at least it is likely on the average to result in purchases at intrinsically attractive levels—which is more than half the battle in common-stock investment.
