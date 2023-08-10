@@ -112,19 +112,23 @@ Bond prices tend undoubtedly to swing through cycles in somewhat the same way as
     <td>260—130</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1930</td>
+    <td>1,065,807</td>
+    <td>30.743</td>
+    <td>13.86</td>
+    <td>5.25</td>
+    <td>260—155</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1929</td>
+    <td>1,053,693</td>
+    <td>26,220</td>
+    <td>11.77</td>
+    <td>4.50</td>
+    <td>494—162</td>
   </tr>
 </table>
+
+The balance sheet of January 31, 1938, showed cash assets of 85 millions and net current assets of 134 millions. At the 1938 low prices, the preferred and common together were selling for 126 millions. Here, then , was a company whose spectacular growth was one of the great romances of American business, a company that was without doubt the largest retail enterprise in America and perhaps in the world, that had an uninterrupted record of earnings and dividends for many years—and yet was selling for less than its net current assets alone. Thus one of the outstanding businesses of the country was considered by Wall Street in 1938 to be worth less as a going concern than if it were liquidated. Why? First, because of chain-store tax threats; second, because of a recent decline in earnings; and, third, because the general market was depressed.
+
+We doubt that a better illustration can be found of the real nature of the stock makert which does not aim to evaluate businesses with any exactitude but rather to express its likes and dislikes, its hopes and fears, in the form of daily changing quotations. There is indeed enough sound sense and selective judgement in the market’s activities to create on most occasions some degree of correspondence between market price and ascertainable or intrinsic value. In particular, as was pointed out in Chapter 4, when we are dealing with something as elusive and nonmathematical as the evaluation of future prospects, we are generally led to accept the market’s verdict as better than anything that the analyst can arrive at. But, on enough occasions to keep the analyst busy, the emotions of the stock market carry it in either direction beyond the limits of sound judgement.
