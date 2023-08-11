@@ -132,3 +132,109 @@ Bond prices tend undoubtedly to swing through cycles in somewhat the same way as
 The balance sheet of January 31, 1938, showed cash assets of 85 millions and net current assets of 134 millions. At the 1938 low prices, the preferred and common together were selling for 126 millions. Here, then , was a company whose spectacular growth was one of the great romances of American business, a company that was without doubt the largest retail enterprise in America and perhaps in the world, that had an uninterrupted record of earnings and dividends for many years—and yet was selling for less than its net current assets alone. Thus one of the outstanding businesses of the country was considered by Wall Street in 1938 to be worth less as a going concern than if it were liquidated. Why? First, because of chain-store tax threats; second, because of a recent decline in earnings; and, third, because the general market was depressed.
 
 We doubt that a better illustration can be found of the real nature of the stock makert which does not aim to evaluate businesses with any exactitude but rather to express its likes and dislikes, its hopes and fears, in the form of daily changing quotations. There is indeed enough sound sense and selective judgement in the market’s activities to create on most occasions some degree of correspondence between market price and ascertainable or intrinsic value. In particular, as was pointed out in Chapter 4, when we are dealing with something as elusive and nonmathematical as the evaluation of future prospects, we are generally led to accept the market’s verdict as better than anything that the analyst can arrive at. But, on enough occasions to keep the analyst busy, the emotions of the stock market carry it in either direction beyond the limits of sound judgement.
+
+*Opportunities in Normal Markets.* During the intermediate period, when average prices show no definite signs of being either too low or too high, common stocks may usually be found that seem definitely undervalued on a statistical basis. These generally fall into two classes: (1) Those showing high current and average earnings in relation to market price and (2) those making a reasonably satisfactory exhibit of earnings and selling at a low price in relation to net-current-asset value. Obviously, such companies will not be large and well known, or else the trend of earnings will not have been encouraging. In the appended table are given a number of companies falling in each group as of the end of 1938 or 1939, at which times the market level for industrial stocks did not appear to be especially high or especially low.
+
+##### Group A. Common Stocks Selling at the End of 1938 or 1939 at Less Than 7 Times Past Year’s Earnings and Also at Less Than Net Current Asset Value
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Year taken</th>
+    <th>Price Dec. 31</th>
+    <th>Earnings for year per share</th>
+    <th>Average earnings 1934-1938 or 1934-1939 per share</th>
+    <th>Net current asset value per share</th>
+    <th>Net tangible asset value per share</th>
+  </tr>
+  <tr>
+    <td>J. D. Adams Mfg.</td>
+    <td>1938</td>
+    <td>8</td>
+    <td>$1.15</td>
+    <td>$1.20</td>
+    <td>$12.07</td>
+    <td>$14.38</td>
+  </tr>
+  <tr>
+    <td>American Seating</td>
+    <td>1939</td>
+    <td>10¼</td>
+    <td>1.82</td>
+    <td>1.75</td>
+    <td>11.42</td>
+    <td>23.95</td>
+  </tr>
+  <tr>
+    <td>Bunte Bros.</td>
+    <td>1938</td>
+    <td>10</td>
+    <td>2.10</td>
+    <td>2.14</td>
+    <td>12.84</td>
+    <td>27.83</td>
+  </tr>
+  <tr>
+    <td>Grand Union</td>
+    <td>1939</td>
+    <td>10</td>
+    <td>1.80</td>
+    <td>1.25</td>
+    <td>13.60</td>
+    <td>20.00</td>
+  </tr>
+  <tr>
+    <td>International Silver</td>
+    <td>1939</td>
+    <td>26¾</td>
+    <td>4.98</td>
+    <td>def 0.10</td>
+    <td>39.67</td>
+    <td>97.50</td>
+  </tr>
+  <tr>
+    <td>I. B. Kleinert</td>
+    <td>1938</td>
+    <td>8½</td>
+    <td>1.27</td>
+    <td>0.80</td>
+    <td>11.04</td>
+    <td>16.90</td>
+  </tr>
+  <tr>
+    <td>New Idea</td>
+    <td>1939</td>
+    <td>12⅛</td>
+    <td>2.18</td>
+    <td>1.78</td>
+    <td>13.44</td>
+    <td>16.02</td>
+  </tr>
+  <tr>
+    <td>N.Y. Merchandise</td>
+    <td>1939</td>
+    <td>7¾</td>
+    <td>1.44</td>
+    <td>1.44</td>
+    <td>11.66</td>
+    <td>14.05</td>
+  </tr>
+  <tr>
+    <td>Pacific Commercial</td>
+    <td>1938</td>
+    <td>11½</td>
+    <td>2.31</td>
+    <td>2.77</td>
+    <td>24.18</td>
+    <td>27.74</td>
+  </tr>
+  <tr>
+    <td>Seton Leather</td>
+    <td>1938</td>
+    <td>6¼</td>
+    <td>1.38</td>
+    <td>0.94</td>
+    <td>8.38</td>
+    <td>11.27</td>
+  </tr>
+</table>
