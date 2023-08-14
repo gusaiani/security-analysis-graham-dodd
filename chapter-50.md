@@ -238,3 +238,111 @@ We doubt that a better illustration can be found of the real nature of the stock
     <td>11.27</td>
   </tr>
 </table>
+
+##### Group B. Common Stocks Selling at the End of 1938 or 1939 at Two-thirds, or Less, of Net Current Asset Value and Also at Less Than 12 Times Either Past Year’s or Average Earnings
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Year taken</th>
+    <th>Price Dec. 31</th>
+    <th>Earnings for year per share</th>
+    <th>Average earnings 1934-1938 or 1934-1939 per share</th>
+    <th>Net current asset value per share</th>
+    <th>Net tangible asset value per share</th>
+  </tr>
+  <tr>
+    <td>Butler Bros.</td>
+    <td>1939</td>
+    <td>7</td>
+    <td>$0.83</td>
+    <td>$0.27</td>
+    <td>$12.75</td>
+    <td>$19.59</td>
+  </tr>
+  <tr>
+    <td>Ely & Walker</td>
+    <td>1939</td>
+    <td>18</td>
+    <td>2.30</td>
+    <td>1.83</td>
+    <td>41.60</td>
+    <td>48.51</td>
+  </tr>
+  <tr>
+    <td>Gilchrist</td>
+    <td>1939</td>
+    <td>4¾</td>
+    <td>0.70</td>
+    <td>0.85</td>
+    <td>13,85</td>
+    <td>17.38</td>
+  </tr>
+  <tr>
+    <td>Hale Bros. Stores</td>
+    <td>1939</td>
+    <td>14</td>
+    <td>1.81</td>
+    <td>2.00</td>
+    <td>22.13</td>
+    <td>28.14</td>
+  </tr>
+  <tr>
+    <td>Intertype</td>
+    <td>1939</td>
+    <td>8¾</td>
+    <td>0.55</td>
+    <td>0.82</td>
+    <td>19.77</td>
+    <td>22.35</td>
+  </tr>
+  <tr>
+    <td>Lee & Cady</td>
+    <td>1939</td>
+    <td>6</td>
+    <td>0.77</td>
+    <td>0.73</td>
+    <td>11.35</td>
+    <td>12.61</td>
+  </tr>
+  <tr>
+    <td>H. D. Lee Mercantile</td>
+    <td>1938</td>
+    <td>14</td>
+    <td>0.87</td>
+    <td>1.35</td>
+    <td>25.00</td>
+    <td>31.56</td>
+  </tr>
+  <tr>
+    <td>Manhattan Shirt</td>
+    <td>1938</td>
+    <td>11½</td>
+    <td>0.73</td>
+    <td>1.06</td>
+    <td>19.36</td>
+    <td>23.62</td>
+  </tr>
+  <tr>
+    <td>Reliance Mfg.</td>
+    <td>1939</td>
+    <td>12</td>
+    <td>1.69</td>
+    <td>0.94</td>
+    <td>18.97</td>
+    <td>22.21</td>
+  </tr>
+  <tr>
+    <td>S. Stroock</td>
+    <td>1939</td>
+    <td>9¼</td>
+    <td>1.21</td>
+    <td>1.39</td>
+    <td>14.90</td>
+    <td>26.61</td>
+  </tr>
+</table>
+
+It is not difficult for the assiduous analyst to find interesting statistical exhibits such as those presented in our table. Much more difficult is the task of determining whether or not the qualitative factors will justify following the quantitative indications—in other words, whether or not the investor may have sufficient confidence in the company’s future to consider its shares a real bargain at the apparently subnormal price.
+
+On this question the weight of financial opinion appears inclined to a generally pessimistic conclusion. The investment trusts, with all their facilities for discovering opportunities of this type, have paid little attention to them—partly, it is true, because they are difficult to buy and sell in the large quantities that the trusts prefer, but also because of their conviction that however good the statistical exhibit of a secondary company may be it is not likely to prove a profitable turchase *unless there is specific ground for optimist regarding its future*.
