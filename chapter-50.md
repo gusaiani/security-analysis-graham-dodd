@@ -346,3 +346,75 @@ We doubt that a better illustration can be found of the real nature of the stock
 It is not difficult for the assiduous analyst to find interesting statistical exhibits such as those presented in our table. Much more difficult is the task of determining whether or not the qualitative factors will justify following the quantitative indications—in other words, whether or not the investor may have sufficient confidence in the company’s future to consider its shares a real bargain at the apparently subnormal price.
 
 On this question the weight of financial opinion appears inclined to a generally pessimistic conclusion. The investment trusts, with all their facilities for discovering opportunities of this type, have paid little attention to them—partly, it is true, because they are difficult to buy and sell in the large quantities that the trusts prefer, but also because of their conviction that however good the statistical exhibit of a secondary company may be it is not likely to prove a profitable turchase *unless there is specific ground for optimist regarding its future*.
+
+The main drawback of a typical smaller sized company is its vulnerability to a sudden and perhaps permanent loss of its earning power. Undoubtedly such adverse developments occur in a larger proportion of cases in this group than among the larger enterprises. As an offset to this we have the fact that the successful small conpany can multiply its value far more impressively than those which are already of enourmous size. For example, the growth of Philip Morris, Inc., in market value from 5 millions in 1934 to 90 millions in 1939, accompanying a 1,200% increase in net earnings, whould have been quite inconceivable in the case of American Tobacco. Similarly, the growth of Pepsi-Cola has far outstripped in percentage that of Coca-Cola; the same is true of General Shoe vs. Internation Shoe; etc.
+
+But most students will try to locate the potential Philip Morris opportunities, by gaging future possibilities with greater or less care, and will then buy their shares even at a fairly high price—rather than make their commitments in a diversified group of “bargain issues” with only ordinary prospects. Our own experience leads us to favor the latter technique, although we cannot guarantee brilliant results therefrom under present-day conditions. Yet judging from observations made over a number of years, it would seem that investment in apparently undervalued common stokcs can be carried on with a very fair degree of over-all success, provided average alertness and good judgment are used in passing on the future-prospect question—and provided also that commitments are avoided at times when the general market is statistically much too high. Two older examples of this type of opportunity are given here, to afford the reader some notion of former stock markets.
+
+##### Florence Stove Common
+
+<table>
+  <tr>
+    <td>Price in Jan. 1935</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>Dividend</td>
+    <td>$2</td>
+  </tr>
+  <tr>
+    <td>Earned per share:</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>$7.93</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>7.98</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>3.33</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>2.27</td>
+  </tr>
+</table>
+
+##### Firestone Tire & Rubber Common
+
+<table>
+  <tr>
+    <td>Price in Nov. 1925</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td>Dividend</td>
+    <td>$6</td>
+  </tr>
+  <tr>
+    <td>Earned per share year ended Oct.:</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>$32.57</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>16.92</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>14.06</td>
+  </tr>
+  <tr>
+    <td>1922</td>
+    <td>17.08</td>
+  </tr>
+</table>
+
+In these cases the market price had failed to reflect adequately the indicated earning power.
