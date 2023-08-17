@@ -418,3 +418,66 @@ But most students will try to locate the potential Philip Morris opportunities, 
 </table>
 
 In these cases the market price had failed to reflect adequately the indicated earning power.
+
+**Market Behaviour of Standard and Nonstandard Issues.** A close study of the market action of common stocks suggests the following further general observations:
+
+1. Standard or leading issues almost always respond rapidly to changes in their reported profits—so much so that they tend regularly to exaggerate marketwise the significance of year-to-year fluctuations in earnings.
+
+2. The action of the less familiar issues depends largely upon what attitude is taken towards them by professional market operators. If interest is lacking, the price may lag far behind the statistical showing. If interest is attracted to the issue, either manipulatively or more legitimately, the opposite result can readily be attained, and the price will respond in extreme fashion to changes in the company’s exhibit.
+
+*Examples of Behavior of Nonstandard Issues.* The following two examples will illustrate this diversity of behavior of nonrepresentative common stocks.
+
+##### Butte and Superior Copper (Actually Zinc) Company Common
+
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Earnings per share</th>
+    <th>Dividend per share</th>
+    <th>Price range</th>
+  </tr>
+  <tr>
+    <td>Year, 1914</td>
+    <td>$5.21</td>
+    <td>$2.25</td>
+    <td>44-24</td>
+  </tr>
+  <tr>
+    <td>1st quarter, 1915</td>
+    <td>4.27</td>
+    <td>0.75</td>
+    <td>50-36</td>
+  </tr>
+  <tr>
+    <td>2d quarter, 1915</td>
+    <td>4.27</td>
+    <td>0.75</td>
+    <td>50-36</td>
+  </tr>
+  <tr>
+    <td>3d quarter, 1915</td>
+    <td>10.13</td>
+    <td>5.75</td>
+    <td>73-57</td>
+  </tr>
+  <tr>
+    <td>4th quarter, 1915</td>
+    <td>11.34</td>
+    <td>8.25</td>
+    <td>75-59</td>
+  </tr>
+  <tr>
+    <td>Year 1915</td>
+    <td>$33.47</td>
+    <td>$18.00</td>
+    <td>80-36</td>
+  </tr>
+  <tr>
+    <td>Year 1916</td>
+    <td>30.58</td>
+    <td>34.00</td>
+    <td>105-42</td>
+  </tr>
+</table>
+
+These were extraordinarily large earnings and dividends. Even allowing for the fact that they were due to wartime prices for zinc, the market price showed none the less a striking disregard of the company’s spectacular exhibit. The reason was lack of general interest or of individual market sponshorship.
