@@ -481,3 +481,99 @@ In these cases the market price had failed to reflect adequately the indicated e
 </table>
 
 These were extraordinarily large earnings and dividends. Even allowing for the fact that they were due to wartime prices for zinc, the market price showed none the less a striking disregard of the company’s spectacular exhibit. The reason was lack of general interest or of individual market sponshorship.
+
+Contrast the foregoing with the appended showing of the common stock of Mullins Body (later Mullins Manufacturing) Corporation.
+
+Between 1924 and 1926 we note the characteristic market swings of a low-priced “secondary” common-stock issue. At the beginning of 1927 the shares were undoubtedly attractive, speculatively, at about 10, for the price was low in relation to the earnings of the three years previously. A substantial, but by no means spectacular, rise in profits during 1927—1928 resulted in a typical stock-market exploitation. The price advanced from 10 in 1927 to 95 in 1928 and fell back again to 10 in 1929.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Earned per share</th>
+    <th>Dividend</th>
+    <th>Price range</th>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>$1.91</td>
+    <td>None</td>
+    <td>18-9</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>2.47</td>
+    <td>None</td>
+    <td>22-13</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>1.97</td>
+    <td>None</td>
+    <td>20-8</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>5.13</td>
+    <td>None</td>
+    <td>79-10</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>6.53</td>
+    <td>None</td>
+    <td>95-69</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>2.67</td>
+    <td>None</td>
+    <td>82-10</td>
+  </tr>
+</table>
+
+A contrast of another kind is afforded by the behavior of the aircraft-manufacturing stocks in 1938-1939, as compared with that of war beneficiaries in 1915-1918. The two following examples will illustrate the relationship between market price in 1938 and 1939 and actual performance at the time.
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Boeing Airplane Co.</th>
+    <th>Glenn L. Martin Co.</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>December 1938</td>
+    <td>November 1939</td>
+  </tr>
+  <tr>
+    <td>Market value of company</td>
+    <td>$25,270,000 (722,000 sh. @35)</td>
+    <td>$49,413,000 (1,092,000 sh. @45¼)</td>
+  </tr>
+  <tr>
+    <td>Sales 1938</td>
+    <td>2,006,000</td>
+    <td>12,417,000</td>
+  </tr>
+  <tr>
+    <td>Net 1938</td>
+    <td>555,000(d)</td>
+    <td>2,349,000</td>
+  </tr>
+  <tr>
+    <td>Sales, 9 months 1939</td>
+    <td>6,566,000</td>
+    <td>8,506,000</td>
+  </tr>
+  <tr>
+    <td>Net, 9 months 1939</td>
+    <td>2,606,000(d)</td>
+    <td>1,514,000</td>
+  </tr>
+  <tr>
+    <td>Tangible assets, Sept. 30, 1939</td>
+    <td>4,527,000</td>
+    <td>15,200,000</td>
+  </tr>
+</table>
+
+In these cases the market was evidently capitalizing the as yet unrealized profits from war orders as if they supplied a *permanent* basis of future earnings. The contrast between the Butte and Superior price-earnings ratio in 1915-1916 and that of these aircraft concerns in 1938-1939 is very striking.
