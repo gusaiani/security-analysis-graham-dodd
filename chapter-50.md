@@ -599,3 +599,31 @@ Situations involving litigation frequently permit the analyst to pursue to advan
 *Examples:* Island Oil and Transport 8% Notes. In June 1933 these notes were selling at 18. The receiver held a cash fund equivalent to about 45% on the issue, from which were deductible certain fees and allowances, indicating a net distributable balance of about 30 for the notes. The distribution was being delayed by a suit for damages that had been repeatedly unsuccessful in its various legal stages and was now approaching final determination. This suit was exerting an adverse effect upon the market value of the notes out of all proportion to its merits, a statement that is demonstrable from the fact that the litigation could have been settled by payment of a relatively small amount. After the earlier decisions were finally sustained by the higher courts, the noteholders received a distribution of $290 per $1,000 in April 1934. A small additional distribution was indicated.
 
 A similar situation arose in the case of United Shipyards Corporation stock after ratification of the sale of its properties to Bethlehem Steel Company in 1938. Dissenting holders brought suit to set the sale aside on the ground that the price was grossly inadequate. The effect of this litigation was to hold down the price of the Class *B* common to 1¼ in January 1939, as against a realizable value of between 2½ to 3 if the sale was upheld. Obviously, if the suit had any merit, the stock should have been worth more rather than less than 2½; alternatively, if it had no merit, as seemed clear, then the shares were clearly worth twice their selling price. (A similar disparity existed in connection with the price of the Class *A* stock.)
+
+**Undervalued Investment Issues.** Undervalued bonds and preferred stocks of investment caliber may be discovered in any period by means of assiduous search. In many cases the low price of a bond or preferred stock is due to a poor market, which in turn results from the small size of the issue, but this very small size may make for greater inherent security. The Electric Refrigeration Building Corporation 6s, due 1936, described in Chapter 26, are a good example of this paradox.
+
+At times some specific development greatly strenghtens the position of a senior issue, but the price is slow to reflect this improvement, and thus a bargain situation is created. These developments relate usually to the capitalization structure or to corporate relationships. Several examples will illustrate our point.
+
+*Examples:* In 1923 Youngstown Sheet and Tube Company purchased the properties of Steel and Tube Company of America and assumed liability for the latter’s General Mortgage 7s, due 1951. Youngstown sold a 6% debenture issue at 99 to supply funds for this purchase. The following price relationship obtained at the time:
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Price</th>
+    <th>Yield, %</th>
+  </tr>
+  <tr>
+    <td>Youngstown Sheet and Tube Debenture 6s</td>
+    <td>99</td>
+    <td>6.02</td>
+  </tr>
+  <tr>
+    <td>Steel and Tube General 7s</td>
+    <td>102</td>
+    <td>6.85</td>
+  </tr>
+</table>
+
+The market failed to realize the altered status of the Steel and Tube bonds, and thus they sold illogically at a higher yield than the unsecured issue of the same obligor company. This presented a clear-cut opportunity to the analyst to recommend a purchase or an exchange.
+
+In 1922 the City of Detroit purcheased the urban lines of Detroit United Railway Company and agreed to pay therefor sums sufficient to retire the Detroit United Railway First 4½s, due 1932. Unusually strong protective provisions were inserted in the purchase contract which practically, if not technically, made the City of Detroit liable for the bonds. But, after the deal was consummated, the bonds sold at 82, yielding more than 7%. The bond market failed to recognize their true status as virtual obligations of the City of Detroit.
