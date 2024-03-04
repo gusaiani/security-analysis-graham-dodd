@@ -54,3 +54,80 @@ More important, perhaps, is the broad distinction of size and prominence that ca
 It will be recalled that in our treatment of speculative senior issues (Chap. 26), we referred to the price sector of about 70 to 100 as the “range of subjective variation,” in which an issue might properly sell because of a legitimate difference of opinion as to whether or not it was sound. It seems, however, that in the case of unseasoned industrial bonds or preferred stocks the analyst should not be attracted by a price level within this range, even though the quantitative showing be quite satisfactory. He should favor such issues only when they can be bought at a frankly speculative price.
 
 Exception may be made to this rule when the statistical exhibit is extraordinarily strong, as perhaps in the case of the Fox Film 6% notes mentioned in the preceding chapter and described in Appendix Note 67, page 835 on accompanying CD. We doubt if such exceptions can prudently include any unseasoned industrial preferred stocks, because of the contractual weakness of such issues. (In the case of Congoleum preferred, described above, the company was of dominant size in its field, and the preferred stock was not so much “unseasoned” as it was inactive marketwise.)
+
+**Discrepancies in Comparative Prices.** Comparisons may or may not be odious, but they hold a somewhat deceptive fascination for the analyst. It seems a much simpler process to decide that issue *A* is preferable to issue *B* than to determine that issue *A* is an attractive purchase in its own right. But in our chapter on comparative analysis we have alluded to the particular responsibility that attaches to the recommendation of security exchanges, and we have warned against an overready acceptance of a purely quantitative superiority. The future is often no respecter of statistical data. We may frame this caveat in another way bu suggesting that the analyst should not urge a security exchange unless either (1) the issue to be bought is attractvie, regarded by itself, or (2) there is a definite contractual relationship between the two issues in question. Let us illustrate consideration (1) by two examples of comparisons taken from our records.
+
+*Examples: I. Comparison Made in March 1932.*
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Ward Baking First 6s, due 1937. Price 85¼, yield 9.70%</th>
+    <th>Bethlehem Steel First & Ref. 5s, due 1942. Price 93, yield 5.90%</th>
+  </tr>
+  <tr>
+    <td>Total interest charges earned:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>8.1 times</td>
+    <td>1.0 times</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>8.2 times</td>
+    <td>4.3 times</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>11.0 times</td>
+    <td>4.8 times</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>11.2 times</td>
+    <td>2.7 times</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>14.0 times</td>
+    <td>2.3 times</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>14.5 times</td>
+    <td>2.6 times</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>12.6 times</td>
+    <td>2.1 times</td>
+  </tr>
+  <tr>
+    <td>Seven-year average</td>
+    <td>11.4 times</td>
+    <td>2.8 times</td>
+  </tr>
+  <tr>
+    <td>Amount of bond issues</td>
+    <td>$4,546,000</td>
+    <td>$145,000,000</td>
+  </tr>
+  <tr>
+    <td>Market value of stock issues (March ’32 average)</td>
+    <td>12,200,000</td>
+    <td>116,000,000</td>
+  </tr>
+  <tr>
+    <td>Cash assets</td>
+    <td>3,438,000</td>
+    <td>50,300,000</td>
+  </tr>
+  <tr>
+    <td>Net working capital</td>
+    <td>3,494,000</td>
+    <td>116,300,000</td>
+  </tr>
+</table>
