@@ -131,3 +131,80 @@ Exception may be made to this rule when the statistical exhibit is extraordinari
     <td>116,300,000</td>
   </tr>
 </table>
+
+In this comparison the Ward Baking issue made a far stronger statistical showing than the Bethlehem Steel bonds. Furthermore, it appeared sufficiently well protected to justify an investment rating, despite the high return. The qualitative factors, although not impressive, did not suggest any danger of collapse of the business. Hence the bonds could be recommended either as an original purchase or as an advantageous substitute for the Bethlehem Steel 5s.
+
+*II. Comparison Made in March 1929.*
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Spear & Co. (Furniture Stores) 7% First Preferred. Price 77, yielding 9.09%</th>
+    <th>Republic Iron & Steel 7% Preferred. Price 112, yielding 6.25%</th>
+  </tr>
+  <tr>
+    <td>(Interest and) preferred dividends earned:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>2.4 times</td>
+    <td>1.9 times</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>4.0 times</td>
+    <td>1.5 times</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>3.0 times</td>
+    <td>2.1 times</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>2.5 times</td>
+    <td>1.7 times</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>4.7 times</td>
+    <td>1.1 times</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>6.5 times</td>
+    <td>2.5 times</td>
+  </tr>
+  <tr>
+    <td>4.3 times</td>
+    <td>0.5 times</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Seven-year average</td>
+    <td>3.9 times</td>
+    <td>1.6 times</td>
+  </tr>
+  <tr>
+    <td>Amount of bond issues</td>
+    <td>None</td>
+    <td>$32,700,000</td>
+  </tr>
+  <tr>
+    <td>Amount of (1st) preferred issue</td>
+    <td>$3,900,000</td>
+    <td>25,000,000</td>
+  </tr>
+  <tr>
+    <td>Market value of junior issues</td>
+    <td>3,200,000</td>
+    <td>62,000,000</td>
+  </tr>
+  <tr>
+    <td>Net working capital</td>
+    <td>10,460,000</td>
+    <td>21,500,000</td>
+  </tr>
+</table>
