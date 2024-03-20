@@ -226,3 +226,27 @@ It is true that if extraordinary prosperity should develop in sutations of this 
 **Discrepancies Due to Special Supply and Demand Factors.** The illogical relationships that we have been considering grow out of supply and demand conditions that are, in turn, the product of unthinking speculative purchases. Sometimes discrepancies are occasioned by special and temporary causes affecting either demand or supply.
 
 *Examples:* In the illogical relationship between the prices of Interboro Rapid Transit Company 5s and 7s in 1933, the operations of a substantial sinking fund, which purchased the 5s and not the 7s, were undoubtedly instrumental in raising the price of the former disproportionately. An outstanding example of this kind is found in the market action of United States Liberty 4¼s during the postwar readjustment of 1921—1922. Large amounts of these bonds had been bought during the war for patriotic reasons and financed by bank loans. A general desire to liquidate these loans later on induced a heavy volume of sales which drove the price down. This special selling pressure actually resulted in establishing a lower price basis for Liberty Bonds than for high-grade railroad issues, which were, of course, inferior in security and at a greater disadvantage also in the matter of taxation. Compare the following simultaneous prices in September 1920.
+
+<table>
+  <tr>
+    <th>Issue</th>
+    <th>Price</th>
+    <th>Yield</th>
+  </tr>
+  <tr>
+    <td>United States Liberty Fourgh 4¼s, due 1938</td>
+    <td>84½</td>
+    <td>5.64%</td>
+  </tr>
+  <tr>
+    <td>Union Pacific First 4s, due 1947</td>
+    <td>80</td>
+    <td>5.42%</td>
+  </tr>
+</table>
+
+This situation supplied an excellent opportunity for the securities analyst to advise exchanges from the old-line railroad issues into Liberty Bonds.
+
+A less striking disparity appeared a little later between the price of these Liberty Bonds and of United States Victory 4¾s, due 1923. This state of affairs is discussed in a circular, prepared by one of the authors and issued at that time, a copy of which is given in Appendix Note 68 on accompanying CD, as an additional example of “practical security analysis.”
+
+**United States Savings Bonds Offer Similar Opportunity.** For the investor of moderate means the disparity between United States government and corporate obligations has reappeared in recent years. The yield on United States Savings Bonds (available to any one individual to the extent of $10,000 principal amount each year) is 2.90% on the regular compound-interest basis of calculation and 3.33% on a simple-interest basis. This yield is definitely higher than that returned by best-rated public-utility and industrial issues. In addition to their safety factor, which at present must clearly be set higher than that of any corporate issue, the United States Savings Bonds have the minor advantage of exemption from normal income tax and the major advantage of being redeemable *at the option of the holder* at any time, thus guaranteeing him against intermediate loss in market value.
