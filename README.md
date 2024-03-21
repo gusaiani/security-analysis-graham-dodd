@@ -59,3 +59,5 @@
 [Chapter 50: Discrepancies Between Price and Value](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-50.md)
 
 [Chapter 51: Discrepancies Between Price and Value (Continued)](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-51.md)
+
+[Chapter 52: Market Analysis and Security Analysis](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-52.md)
