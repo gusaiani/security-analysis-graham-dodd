@@ -77,3 +77,19 @@ We are sceptical of the ability of the analyst to forecast with a fair degree of
 2. The discovery of senior issues that merit an investment rating but that also have opportunities of an appreciable enhancement in value.
 3. The discovery of common stocks, or speculativev senior issues, that appear to be selling at far less than their intrinsic value.
 4. The determination of definite price discrepancies existing between related securities, which situations may justify making exchanges or initiating hedging or arbitrage operations.
+
+### A Summary of Our Views on Investment Policies
+
+If we transfer our attention, finally, from the analyst to the owner of securities, we may briefly express our views on what he may soundly do and not do. The following résumé makes some allowance for different categories of investors.
+
+**A. The Investor of Small Means.** *1. Investment for Income. In his case the only sensible investment for safety and accumulated income, under presenst conditions, is found in United States Savings Bonds.* Other good investments yield little if any more, and they have not equal protection against both ultimate and intermediate loss. Straight bonds and preferred stocks ostensibly offering a higher return are almost certain to involve an appreciable risk factor. The various types of “savings plans” and similar securities offered by salesmen are full of pitfalls; the investor persuaded by their promise of liberal income to prefer them to United States Savings Bonds is very, very likely to regret his choice.
+
+*2. Investment for Profit.* Four approaches are open to both the small and the large investor:
+
+*a.* Purchase of representative common stocks when the market level is clearly low as judged by objective, long-term standards. This policy requires patience and is by no means free from the possibility of grave miscalculation. Over a long period we believe that it will show good results.
+
+*b.* Purchase of individual issues with special growth possibilities, when these can be obtained at reasonable prices in relation to actual accomplishment.
+
+Where growth is *generally* expected, the price is rarely reasonable. If the basis of purchase is a confidence i n future growth not held by the public, the operation may prove sound and profitable; it may also prove ill-founded and costly.
+
+*c.* Purchase of well-secured privileged senior issues. A combination of really adequate security with a promising conversion or similar right is a rare but by no means unknown phenomenon. A policy of careful selection in this field should bring good results, provided the investor has the patience and persistence needed to find his opportunities.
