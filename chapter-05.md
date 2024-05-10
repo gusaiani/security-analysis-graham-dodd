@@ -11,3 +11,28 @@ Securities are customarily divided into the two main groups of bonds and stocks,
 The bond of a business without assets or earning power would be every whit as valueless as the stock of such an enterprise. Bonds representing all the capital placed in a new venture are no safer than common stock would be, and are considerably less attractive. For the bondholders could not possibly get more out of the company by virtue of his fixed claim than he could realize if he owned the business in full, free and clear. This simple principle seems too obvious to merit statement; yet because of the traditional association of the bond form with superior safety, the investor has often been persuaded that by the mere act of limiting his return he obtained an assurance against loss.
 
 **3. Failure of Titles to Describe Issues with Accuracy.** The basic classification of securities into bonds and stocks—or even into three main classes of bonds, preferred stocks, and commons stocks—is open to the third objection that in many cases these titles fail to supply an accurate description of the issue. This is the consequence of the steadily mounting percentage of securities which do not conform to the standard patterns, but instead modify or mingle the customary provisions.
+
+Briefly stated, these standard patterns are as follows:
+
+<ol type="I">
+  <li>The bond pattern comprises:</li>
+  <ol type="A">
+    <li>The unqualified right to a fixed interest payment on fixed dates.</li>
+    <li>The unqualified right to repayment of a fixed principal amount on a fixed date.</li>
+    <li>No further interest in assets or profits, and no voice in the management.</li>
+  </ol>
+
+  <li>The preferred-stock pattern comprises:</li>
+  <ol type="A">
+    <li>A stated rate of dividend in priority to any payment on the common. (Hence full preferred dividends are mandatory if the common receives any dividend; but if nothing is paid on the common, the preferred dividend is subject to the discretion of the directors).</li>
+    <li>The right to a stated principal amount in the event of dissolution, in priority to any payments to the common stock.</li>
+    <li>Either no voting rights, or voting power shared with the common.</li>
+  </ol>
+
+  <li>The common-stock pattern comprises:</li>
+  <ol type="A">
+    <li>A pro rata ownership of the company’s assets in excess of its debts and preferred stock issues.</li>
+    <li>A pro rata interest in all profits in excess of prior deductions.</li>
+    <li>A pro rata vote for the election of directors and for other purposes.</li>
+  </ol>
+</ol>
