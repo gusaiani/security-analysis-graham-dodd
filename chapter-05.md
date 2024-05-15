@@ -46,3 +46,60 @@ Of less frequent and perhaps unique deviations from the standard patterns, the v
 More striking still is the emergence of completely distinctive types of securities so unrelated to the standard bond or stock pattern as to require an entirely different set of names. Of these, the most significant is the option warrant—a device which during the years prior to 1929 developed into a financial instrument of major imporatnace and tremendous mischief-making powers. The option warrants issued by a single company—American and Foreign Power Company—attained in 1929 an aggregate market value of more than a *billion dollars*, a figure exceeding our national debt in 1914. A number of the newfangled security forms, bearing titles such as allotment certificates and dividend participations, could be mentioned.
 
 The peculiarities and complexities to be found in the present day security list are added arguments against the traditional practice of pigeonholing and generalizing about securities in accordance with their *titles*. While this procedure has the merit of convenience and a certain rough validity, we think it should be replaced by a more flexible and accurate basis of classification. In our opinion, the criterion most useful for purposes of study would be the *normal behavior* of the issue after purchase—in other words its risk-and-profit characteristics as the buyer or owner would reasonably view them.
+
+**New Classification Suggested.** With this standpoint in mind, we suggest that securities be classified under the following three headings:
+
+<table>
+  <th>
+    <td>Class</td>
+    <td>Representative Issue</td>
+  </th>
+  <tr>
+    <td>I. Securities of the fixed-value type</td>
+    <td>A high-grade bond or preferred stock.</td>
+  </tr>
+  <tr>
+    <td>II. Senior securities of the variable-value type</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>A. Well-protected issues with profit possibilities.</td>
+    <td>A high-grade convertible bond.</td>
+  </tr>
+  <tr>
+    <td>B. Inadequately protected issues.</td>
+    <td>A lower-grade bond or preferred stock.</td>
+  </tr>
+  <tr>
+    <td>III. Common-stock type.</td>
+    <td>A common stock.</td>
+  </tr>
+</table>
+
+An approximation to the above groping could be reached by the use of more familiar terms, as follows:
+
+<ol type="I">
+  <li>Investment bonds and preferred stocks.</li>
+  <li>Speculative bonds and preferred stocks.</li>
+  <ol type="A">
+    <li>Convertibles, etc.</li>
+    <li>Low-grade senior issues</li>
+  </ol>
+  <li>Common stocks.</li>
+</ol>
+
+The somewhat novel designations that we employ are needed to make our classification more comprehensive. This necessity will be clearer, perhaps, from the following description and discussion of each group.
+
+*Leading Characteristics of the Three Types.* The first class includes issues, of whatever title, in which prospective change of value may fairly be said to hold minor importance. The owner’s dominant interest lies in the safety of his principal and his sole purpose in making the commitment is to obtain a steady income. In the second class, prospective changes in the value of the principal assume real significance. In Type *A*, the investor hopes to obtain the safety of a straight investment, with an added possibility of profit by reason of a conversion right or some similar privilege. In Type *B*, a definite risk of loss is recogninezd, which is presumaby offest by a corresponding chance of profit. Securities included in Group II*B* will differ from the common-stock type (Group III) in two respects: (1) they enjoy an effective priority over some junior issue, thus giving them a certain degree of protection. (2) Their profit possibilities, however substantial, have a fairly definite limit, in contrast with the unlimited percentage of possible gain theoretically or optimistically associated with a fortunate common-stock commitment.
+
+Issues of the fixed-value type include all the *straight* bonds and preferred stocks of high quality selling at a normal price. Besides these, there belong in this class:
+
+1. Sound convertible issues where the conversion level is too remote to enter as a factor in the purchase. (Similarly for participating or warrant-bearing senior issues).
+
+2. Guaranteed common stocks of investment grade.
+
+3. “Class *A*” or prior-common stocks occupying the status of a high-grade, straight preferred stock.
+
+On the other hand, a bond of investment grade which happens to sell at any unduly low price would belong in the second group, since the purchaser might have reason to expect and be interested in an appreciation of its market value.
+
+Exactly at what point the question of price fluctuation becomes material rather than minor is naturally impossible to prescribe. The price level itself is not the sole determining factor. A long-term 3% bond selling at 60 may have belonged in the fixed-value class (*e.g.*, Northern Pacific Railway 3s, due 2047 between 1922 and 1930), whereas a one-year maturity of any coupon rate selling at 80 would *not* because in a comparatively short time it must either be paid off at a 20-point advance or else default and probably suffer a sever decline in market value. We must be prepared, therefore, to find marginal cases where the classification (as between Group I and Group II) will depend on the personal viewpoint of the analyst or investor.
