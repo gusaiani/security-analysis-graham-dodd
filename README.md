@@ -14,6 +14,10 @@
 
 [Chapter 5: Classification of Securities](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-05.md)
 
+##### Part II - Fixed-value Investments
+
+[Chapter 6: The Selection of Fixed-value investments](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-06.md)
+
 ##### Part IV - Theory of Common-Stock Investment. The Dividend Factor
 
 [Chapter 27: The Theory of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-27.md)
