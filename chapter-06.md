@@ -16,4 +16,27 @@ Having suggested a classification of securities by character rather than by titl
 
 **Bond Form Inherently Unattractive: Quantitative Assurance of Safety Essentials.** This situation clearly calls for a more critical and exacting attitued towards bond selection than was formerly considered necessary by investors, issuing houses, or authors of textbooks on investment. Allusion has already been made to the dangers inherent in the acceptance of the bond *form* as an assurance of safety, or even of smaller risk than is found in stocks. Instead of associating bonds primarily with the presumption of *safety* as has long been the practice—it would be sounder to start with what is not presumption but fact, *viz.*, that a (straight) bond is an investment with *limited return*. In exchange for limiting his participation in future profits, the bondholder obtains a prior claim and a definite promise of payment, while the preferred stockholder obtains only the priorirty, without the promise. But neither priority nor promise is itself an *assurance* of payment. This assurance rests in the ability of the enterprise to fulfill its prospects. The essence of proper bond selection consists, therefore, in obtaining specific and convincing factors of safety in compensation for the surrender of participation in profits.
 
-**Major Emphasis on Avoidance of Loss.** Our primary conception of the bond as a commitment with limited returns leads us to another important viewpoint toward bond investment. Since the chief emphasis must be placed on avoidance of loss, bond selection is primarily a negative art. It is a process of exclusion and rejection, rather than of search and acceptance. In this respect the contrast with common-stock selection is fundamental in character. The prospective buyer of a given common stock is influenced more or less equally by the desire to avoid loss and the desire to make a profit.
+**Major Emphasis on Avoidance of Loss.** Our primary conception of the bond as a commitment with limited returns leads us to another important viewpoint toward bond investment. Since the chief emphasis must be placed on avoidance of loss, bond selection is primarily a negative art. It is a process of exclusion and rejection, rather than of search and acceptance. In this respect the contrast with common-stock selection is fundamental in character. The prospective buyer of a given common stock is influenced more or less equally by the desire to avoid loss and the desire to make a profit. The penalty for mistakenly rejecting the issue may conceivably be as great as that for mistakenly accepting it. But an investor may reject any number of good bonds with virtually no penalty at all, provided he does not eventually accept an unsound issue. Hence, broadly speaking, there is no such thing as being unduly captious or exacting in the purchase of fixed-value investments. The observation that Walter Bagehot addressed to commercial bankers is equally applicable to the selection of investment bonds. “If there is a difficulty or a doubt the security should be declined.”
+
+**Four Principles for the Selection of Issues of the Fixed-value Type.** Having established this general approach to our problem, we may now state four additional principles of more specific character which are applicable to the selection of individual issues:
+
+<ol type="I">
+  <li>
+    Safety is measured not by specific lien or other contractual rights, but by the ability of the issuer to meet all of its obligations.
+  </li>
+  <li>
+    This ability should be measured under conditions of depression rather than prosperity.
+  </li>
+  <li>
+    Deficient safety cannot be compensated for by an abnormally high coupon rate.
+  </li>
+  <li>
+    The selection of all bonds for investment should be subject to rules of exclusion and to specific quantitative tests corresponding to those prescribed by statute to govern investments of savings banks.
+  </li>
+</ol>
+
+A technique of bond selection based on the above principles will differ in significant respects from the traditional attitude and methods. In departing from old concepts, however, this treatment represents not an innovation but the recognition and advocacy of viewpoints which have been steadily gaining ground among intelligent and experienced investors. The ensuing discussion is designed to make clear both the nature and the justification of the newer ideas.
+
+### Safety Not Measured By Lien But By Ability to Pay
+
+The basic difference confronts us at the very beginning. In the past the primary emphasis was laid upon the specific security, *i.e.*, the character and supposed value of the property on which the bonds hold a lien. From our standpoint this consideration is quite secondary; the dominant element must be the strength and soundness of the obligor enterprise.
