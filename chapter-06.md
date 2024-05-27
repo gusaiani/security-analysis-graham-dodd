@@ -39,4 +39,13 @@ A technique of bond selection based on the above principles will differ in signi
 
 ### Safety Not Measured By Lien But By Ability to Pay
 
-The basic difference confronts us at the very beginning. In the past the primary emphasis was laid upon the specific security, *i.e.*, the character and supposed value of the property on which the bonds hold a lien. From our standpoint this consideration is quite secondary; the dominant element must be the strength and soundness of the obligor enterprise.
+The basic difference confronts us at the very beginning. In the past the primary emphasis was laid upon the specific security, *i.e.*, the character and supposed value of the property on which the bonds hold a lien. From our standpoint this consideration is quite secondary; the dominant element must be the strength and soundness of the obligor enterprise. There is here a clearcut distinction between two points of view. On the one hand the bond is regarded as a claim against *property*; on the other hand, as a claim against a *business*.
+
+The older view was logical enough in its origin and purpose. It desired to make the bondholder independent of the risks of the business by giving him ample security on which to levy in the event that the enterprise proved a failure. If the business became unable to pay his claim, he could take over the mortgaged property and pay himself out of that. This arrangement would be excellent if it worked, but in practice it rarely proves to be feasible. For this there are three reasons:
+
+1. The shrinkage of property values when the business fails.
+2. The difficulty of asserting the bondholder’s supposed legal rights.
+
+3. The delays and other disadvantages incident to a receivership.
+
+**Lien Is No Guarantee against Shrinkage of Values.** The conception of a mortage lien as a guaranty of protection independent of the success of the business is in most cases a complete fallacy. In the typical situation, the value of the pledged property is vitally dependent on the earning power of the enterprise. The bondholder usually has a lien on a railroad line, or on factory buildings and equipment, or on power plants and other utility properties, or perhaps on a bridge or hotel structure. These properties are rarely adaptable to uses other than those for which they were constructed. Hence if the enterprise proves a failure its fixed assets ordinarily suffer an appalling shrinkage in realizable value. For this reason the established practice of stating the original cost or appraised value of the pledged property as an inducement to purchase bonds is entirely misleading. The value of pledged assets assumes practical importance only in the event of default, and in any such event the book figures are almost invariably found te be unreliable and irrelevant. This may be illustrated by Seabord-All Forida Railway First Mortgage 6s, selling in 1931 at 1 cent on the dollar shortly after completion of the road.
