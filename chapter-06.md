@@ -61,3 +61,104 @@ The older view was logical enough in its origin and purpose. It desired to make 
 2. *The Theory of Buying the Highest Yielding Obligation of a Sound Company.* It follows also that if any obligation of an enterprise deserves to qualify as a fixed-value investment, then all its obligations must do so. Stated conversely, if a company’s junior bonds are not safe, its first-mortgage bonds are not a desirable fixed-value investment. For if the second mortgage is unsafe the company itself is weak, and generally speaking there can be no high-grade obligations of a weak enterprise. The theoretically correct procedure for bond investment, therefore, is first to select a company meeting every test of strength and soundness, and then to purchase its highest yielding obligation, which would usually mean its junior rather than its first-lien bonds. Assuming no error were ever made in our choice of enterprises, this procedure would work out perfectly well in practice. The greater the chance of mistake, however, the more reason to sacrifice yield in order to reduce the potential loss in capital value. But we must recognize that in favoring the lower yielding first-mortage issue, the bond buyer is in fact expressing a lack of confidence in his own judgment as to the soundness of the business—which, if carried far enough, would call into question the advisability of his making an investment in *any* of the bonds of the particular enterprise.
 
 *Example:* As an example of this point, let us consider the Cudahy Packing Company First Mortgage 5s, due 1946, and the Debenture 5½s of the same company, due 1937. In June 1932 the First 5s sold at 95 to yield about 5½%, whereas the junior 5½s sold at 59 to yield over 20% to maturity. The purchase of the 5% bonds at close to par could only be justified by a confident belief that the company would remain solvent and reasonably prosperous, for otherwise the bonds would undoubtedly suffer a severe drop in market price. But if the investor has confidence in the future of Cudahy, why should he not buy the debenture issue and obtain an enormously greater return on his money? The only answer can be that the investor wants the superior protection of the first mortgage in the event his judgment proves incorrect and the company falls into difficulties. In that case he would probably lose less as the owner of the first-mortgage bonds than through holding the junior issue. Even on this score it should be pointed out that if by any chance Cudahy Packing Company were to suffer the reverses that befell Fisk Rubber Company, the loss in market value of the first-mortgage bonds would be fully as great as those suffered by the debentures; for in April 1932 Fisk Rubber Company First 8s were selling as low as 17 against a price of 12 for the unsecured 5½% Notes. It is clear, at any rate, that the investor who favors the Cudahy first-lien 5s is paying a premium of about 15% per annum (the difference in yield) for only a *partial* insurance against loss. On this basis he is undoubtedly giving up too much for what he gets in return. The conclusion appears inescapable either that he should make no investment in Cudahy bonds or that he should buy the junior issue at its enormously higher yield. This rule may be laid down as applying to the general case where a first-mortage bond sells at a fixed-value price (*e.g.*, close to par) and junior issues of the same company can be bought to yield a much higher return.
+
+3. *Senior Liens Are to Be Favored, Unless Junior Obligations Offer a Substantial Advantage.* Obviously a junior lien should be preferred only if the advantage in income return is substantial. Where the first-mortgage bond yields only slightly less, it is undoubtedly wise to pay the small insurance premium for protection against unexpected trouble.
+
+*Example:* This point is illustrated by the relative market prices of Atchison Topeka and Santa Fe Railway Company General (first) 4s and Adjustment (second mortgage) 4s, both of which mature in 1995.
+
+##### Price of ATchison General 4s and Adjustment 4s at Various Dates
+
+<table>
+  <th>
+    <td>Date</td>
+    <td>Price of General 4s</td>
+    <td>Price of Adjustment 4s</td>
+    <td>Spread</td>
+  </th>
+  <tr>
+    <td>Jan. 2, 1913</td>
+    <td>97½</td>
+    <td>88</td>
+    <td>9½</td>
+  </tr>
+  <tr>
+    <td>Jan. 5, 1917</td>
+    <td>95½</td>
+    <td>86¾</td>
+    <td>8¾</td>
+  </tr>
+  <tr>
+    <td>May 21, 1920</td>
+    <td>70¼</td>
+    <td>62</td>
+    <td>8¼</td>
+  </tr>
+  <tr>
+    <td>Aug. 4, 1922</td>
+    <td>93½</td>
+    <td>84½</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Dec. 4, 1925</td>
+    <td>89¼</td>
+    <td>85¼</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Jan. 3, 1930</td>
+    <td>93¼</td>
+    <td>93</td>
+    <td>¼</td>
+  </tr>
+  <tr>
+    <td>Jan. 7, 1931</td>
+    <td>98½</td>
+    <td>97</td>
+    <td>1½</td>
+  </tr>
+  <tr>
+    <td>June 2, 1932</td>
+    <td>81</td>
+    <td>66½</td>
+    <td>14½</td>
+  </tr>
+  <tr>
+    <td>June 19, 1933</td>
+    <td>93</td>
+    <td>88</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Jan. 9, 1934</td>
+    <td>94¼</td>
+    <td>83</td>
+    <td>11¼</td>
+  </tr>
+  <tr>
+    <td>Mar. 6, 1936</td>
+    <td>114⅝</td>
+    <td>113½</td>
+    <td>1⅛</td>
+  </tr>
+  <tr>
+    <td>Apr. 26, 1937</td>
+    <td>103½</td>
+    <td>106¾</td>
+    <td>3¼</td>
+  </tr>
+  <tr>
+    <td>Apr. 14, 1938</td>
+    <td>99¼</td>
+    <td>75¼</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>Dec. 29, 1939</td>
+    <td>105¾</td>
+    <td>85¼</td>
+    <td>20½</td>
+  </tr>
+</table>
+
+Prior to 1924 the Atchison General 4s sold usually at about 7 to 10 points above the Adjustment 4s and yielded about ½% less. Since both issues were considered safe without question, it would have been more logical to purchase the junior issue at its 10% lower cost.
