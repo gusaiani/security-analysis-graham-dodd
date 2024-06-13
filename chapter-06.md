@@ -161,4 +161,38 @@ The older view was logical enough in its origin and purpose. It desired to make 
   </tr>
 </table>
 
-Prior to 1924 the Atchison General 4s sold usually at about 7 to 10 points above the Adjustment 4s and yielded about ½% less. Since both issues were considered safe without question, it would have been more logical to purchase the junior issue at its 10% lower cost.
+Prior to 1924 the Atchison General 4s sold usually at about 7 to 10 points above the Adjustment 4s and yielded about ½% less. Since both issues were considered safe without question, it would have been more logical to purchase the junior issue at its 10% lower cost. After 1923 this point of view asserted itself, and the price difference steadily narrowed. During 1930 and part of 1931 the junior issue sold on numerous occasions at practically the same price as the General 4s. This relationship was even more illogical than the unduly wide spread in 1922—1923, since the advantage of the Adjustment 4s in price and yield was too negligible to warrant accepting a junior position, even assuming unquestioned safety for both liens.
+
+Within a very short time this rather obvious truth was brought home strikingly by the widening of the spread to over 14 points during the demoralized bond-market conditions of June 1932. As the record appeared in 1934, it could be inferred that a reasonable differential between the two issues would be about 5 points and that either a substantial wideing or a virtual disappearance of the spread would present an opportunity for a desirable exchange of one issue for another. Two such opportunities did in fact appear in 1934 and 1936, as shown in our table.
+
+But this example is of further utility in illustrating the all-pervasive factor of change and the necessity of taking it into account in bond analysis. By 1937 the failure of Atchison’s earnings to recover within striking distance of its former normal, and the actual inadequacy of the margin above interest requirements as judged by conservative standards, should have warned the investor that the “adjustment” (*i.e.*, contingent) element in the junior issue could not safely be ignored. Thus a price relationship that was logical at a time when safety of interest was never in question could not be relied upon under the new conditions. In 1938 the poor earnings actually compelled the road to defer the May interest payment on the adjustment bonds, as a result of which their price fell to 75¼ and the spread widened to 24 points. Although the interest was later paid in full and the price recovered to 96 in 1939, it would seem quite unwise for the investor to apply pre-1932 standards to this bond issue.
+
+A junior lien of Company *X* may be selected in preference to a first-mortgage bond of Company *Y*, on one of two bases:
+
+1. The protection for the total debt of Company *X* is adequate and the yield of the junior lien is substantially higher than that of the Company *Y* issue; or
+
+2. If there is no substantial advantage in yield, then the indicated protection for the total debt of Company *X* must be considerably better than that of Company *Y*.
+
+*Example of 2:*
+
+<table>
+  <th>
+    <td>Issue</td>
+    <td>Price in 1930</td>
+    <td>Fixed charges earned, 1929</td>
+  </th>
+  <tr>
+    <td>Pacific Power and Light Co. First 5s, due 1955</td>
+    <td>101</td>
+    <td>1.53 times</td>
+  </tr>
+  <tr>
+    <td>American Gas and Electric Co. Debenture 5s, due 2028</td>
+    <td>101</td>
+    <td>2.52 times</td>
+  </tr>
+</table>
+
+The appreciably higher coverage of total charges by American Gas and Electric would have justified preferring its junior bonds to the first-mortgage issue of Pacific Power and Light, when both were selling at about the same price.
+
+**Special Status of “Underlying Bonds.”** In the railroad field an especial investment character is generally supposed to attach to what are known as “underlying bonds.” These represent issues of relatively small size secured by a lien on especially important past of the obligor system, and often followed by a series of “blanket mortgages.” The underlying bond usually enjoys a first lien, but it may be a second- or even a third- mortgage issue, provided the senior issues are also of comparatively small magnitude.
