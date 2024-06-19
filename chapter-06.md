@@ -196,3 +196,25 @@ A junior lien of Company *X* may be selected in preference to a first-mortgage b
 The appreciably higher coverage of total charges by American Gas and Electric would have justified preferring its junior bonds to the first-mortgage issue of Pacific Power and Light, when both were selling at about the same price.
 
 **Special Status of “Underlying Bonds.”** In the railroad field an especial investment character is generally supposed to attach to what are known as “underlying bonds.” These represent issues of relatively small size secured by a lien on especially important past of the obligor system, and often followed by a series of “blanket mortgages.” The underlying bond usually enjoys a first lien, but it may be a second- or even a third- mortgage issue, provided the senior issues are also of comparatively small magnitude.
+
+*Example:* New York and Erie Railroad Third Mortgage Extended 4½s, due 1839, are junior to two small prior liens covering an important part of the Erie Railroad’s main line. They are followed by four successive blanket mortgages on the system, and they have regularly enjoyed the favored status of an underlying bond.
+
+Bonds of this description have been thought to be entirely safe, regardless of what happens to the system as a whole. They have almost always come through reorganization unscathed; and even during a receivership interest payments are usually continued as a matter of course, largely because the sum involved is proportionately so small. They are not exempt, however, from fairly sharp declines in market value if insolvency overtakes the system.
+
+*Examples:* In the case of New York and Erie Third 4½s (which had been voluntarily extended on maturity in 1923 and again in 1933), principal and interest were defaulted in March 1938, following the bankrupcty of the Erie two months earlier. The bid price declined to as low as 61. However, the various reorganization plans filed to the end of 1939 all provided for the payment of principal and interest in full on this issue.
+
+Chicago and Eastern Illinois Consolidated 6s, due 1934, were finally paid off in full in 1940, with further interest at 4%—but not until their price had fallen as low as 32 in 1933.
+
+Pacific Railway of Missouri First 4s and Second 5s and Missouri Pacific Railway Third 4s, all extended from their original maturities to 1938, are underlying bonds of the Missouri Pacific system. They continued to receive interest and were left undisturbed in the receivership of 1915. Following the second bankruptcy in 1933, they continued to receive interest until their maturity date. At that time payment of principal was defaulted, but interest payments were continued through 1939. The various reorganization plans virtually provided for these bonds in full, by offering them prior-lien, fixed-interest obligations of the new company. But since 1931, the price of these three issues has been as low as 65, 60, and 53, respectively.
+
+Other bonds, however, once regarded as underlying issues, have not fared so well following insolvency.
+
+*Example:* Milwaukee, Sparta and Northwestern First 4s, due 1947, ranked as an underlying bond of the Chicago and North Western Railway, and for many years their price was not far below that of the premier Union Pacific First 4s, due the same year. Yet the receivership of the Chicago and North Western was followed by default of interest on this issue in 1935 and collapse of its price to the abysmal low of 8⅛ as late as 1939.
+
+From the foregoing it would appear that *in some cases* underlying bonds may be viewed as exceptions to our rule that a bond is not sound unless the company is sound. For the most part such bonds are owned by institutions or large investors. (The same observations may apply to certain first-mortgage bonds of operating subsidiaries of public-utility holding-company systems.)
+
+In railroad bonds of this type, the location and strategic value of the mileage covered are of prime importance. First-mortage on nonessential and unprofitable parts of the system, referred to sometimes as “divisional liens,” are not true underlying bonds in the sense that we have just used the term. Divisional first liens on poorly located mileage may receive much less favorable treatment in a reorganizatin than blanket mortgage bonds ostensibly junior to them.
+
+*Example:* Central Branch Union Pacific Railway First 4s, due 1938, were said to “underly” the Missouri Pacific First and Refunding mortgage, which provided for their retirement. Yet the reorganization plans presented to the end of 1939 all offered better treatment for the Missouri Pacific First and Refunding 5s than for the ostensibly senior Central Branch bonds.
+
+As a practical matter it is not so easy to distinguish in advance between the underlying bonds that come through reorganization unscathed and those which suffer drastic treatment. Hence the ordinary investor may be well advised to leave such issues out of his calculations and stick to the rule that only strong companies have strong bonds.
