@@ -18,6 +18,8 @@
 
 [Chapter 6: The Selection of Fixed-value investments](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-06.md)
 
+[Chapter 7: The Selection of Fixed-value investments: Second and Third Principles](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-07.md)
+
 ##### Part IV - Theory of Common-Stock Investment. The Dividend Factor
 
 [Chapter 27: The Theory of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-27.md)
