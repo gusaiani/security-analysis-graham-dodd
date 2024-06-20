@@ -1,4 +1,11 @@
 ##### Chapter 7
 
-The Selection of Fixed-Value Investments: Second and Third Principles
+### The Selection of Fixed-Value Investments: Second and Third Principles
 
+#### II. Bonds Should Be Bought on a Depression Basis
+
+The rule that a sound investment must be able to withstand adversity seems self-evident enough to be termed a truism. Any bond can do well when conditions are favorable; it is only under the acid test of depression that the advantages of strong over weak issues become manifest and vitally important. For this reason prudent investors have always favored the obligations of old-established enterprises which have demonstrated their ability to come through bad times as well as good.
+
+**Presumption of Safety Bsaed upon Either the Character of the Industry or the Amount of Protection.** Confidence in the ability of a bond issue to weather depression may be based on either of two different reasons. The investor may believe that the particular business will be immune from a drastic shrinkage in earning power, or else that the margin of safety is so large that it can undergo such a shrinkage without resultant danger. The bonds of light and power companies have been favored principally for the first reason, the bonds of United States Steel corporation subsidiaries for the second. In the former case it is the *character* of the industry, in the latter it is the *amount* of protection, which justifies the purchase. Of the two viewpoints, the one which tries to avoid the perils of depression appeals most to the average bond buyer. It seems much simpler to invest in a depression-proof enterprise than to have to rely on the company’s financial strength to pull its bonds through a period of poor results.
+
+**No Industry Entirely Depression-proof.** The objection to this theory of investment is, of course, that there is no such thing as a depression-proof industry, meaning thereby one that is immune from the danger of *any* decline in earning power. It is true that the Edison companies have shown themselves subject to only minor shrinkage in profits, as compared, say, with the steel producers. But even a small decline may prove fatal if the business is bonded to the limit of prosperity earnings. Once it is admitted—as it always must be —that the industry can suffer *some* reduction in profits, then the investor is compelled to estimate the possible extent of the shrinkage and compare it with the surplus above the interest requirements.
