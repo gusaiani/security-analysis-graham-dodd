@@ -87,4 +87,31 @@ Foreign-corporation bonds have an advantage over governmental bonds in that the 
 
 The bonds of very small enterprises are subject to objections which disqualify them as media for conservative investment. A company of relatively minor size is more vulnerable than others to unexpected happenings, and it is likely to be handicapped by the lack of strong banking connections or of technical resources. Very small businesses, therefore, have never been able to obtain public financing and have depended on private capital, those suppying the funds being given the double inducement of a share in the profits and a direct voice in the management. The objections to bonds of undersized corporations apply also to tiny villages or microscopic townships, and the careful investor in municipal obligations will ordinarily avoid those below a certain population level.
 
-The establishment of such minimum requirements as to size necessarily involves the drawing of arbitrary lines of demarcation. There is no mathematical means of determining exactly at what point a company or a municipality becomes large enough to warrant the investor’s attention. The same difficulty will attach to setting up any other quantitative standards, as for example the margin of earnings above interest charges, or the relation of stock or property values to bonded debt. It must be borne in mind, therefore, that all these “critical points” are necessarily rule-of-thumb decisions,
+The establishment of such minimum requirements as to size necessarily involves the drawing of arbitrary lines of demarcation. There is no mathematical means of determining exactly at what point a company or a municipality becomes large enough to warrant the investor’s attention. The same difficulty will attach to setting up any other quantitative standards, as for example the margin of earnings above interest charges, or the relation of stock or property values to bonded debt. It must be borne in mind, therefore, that all these “critical points” are necessarily rule-of-thumb decisions, and the investor is free to use other amounts if they appeal to him more. But however arbitrary the standards selected may be, they are undoubtedly of great practical utility in safeguarding the bond buyer from inadequately protected issues.
+
+**Provisions of New York Statute.** The New York statute has prescribed various standards as to minimum size in defining investments eligible for savings banks. As regards municipal bonds, a population of not less than 10,000 is required for states adjacent to New York, and of 30,000 for other states. Railroads must either own 500 miles of standard-gauge line or else have operating revenues of not less than $10,000,000 per annum. Unsecured and income bonds or railroad companies are admitted only if (among other special requirements) the *net income* available for dividends amounts to $10,000,000. For gas and electric companies, gross revenues must have averaged $1,000,000 per year during the preceding five years; but in the case of telephone bonds, this figure must be $5,000,000. There are further provisions to the effect that the size of the bond issue itself must be not less than $1,000,000 for gas and electric companies, and not less than $5,000,000 in the case of telephone obligations.
+
+*Some Criticisms of These Requirements.* The figures of minimum gross receipts do not appear well chosen from the standpoint of bond investment in general. The distinctions as to population requirements would scarcely appeal to investors throughout the country. The alternative tests for railroads, based on either mileage or revenues, are confusing and unnecessary. The $10,000,000-gross requirement by itself is too high; it would have eliminated, for example, the Bangor and Aroostook Railroad, one of the few lines to make a satisfactory exhibit during the 1930—1933 depression as well as before. Equally unwarranted is the requirement of $5,000,000 gross for telephone concerns, as against only $1,000,000 for gas and electric utilities. This provision would have ruled out the bonds of Tri-State Telephone and Telegraph Company trior to 1927, although they were then (and since) obligations of unquestioned merit. We believe that the following proposed requirements for minimum size, although by necessity arbitrarily taken, are in reasonable accord with the realities of sound investment:
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Minimum Requirement of Size</th>
+  </tr>
+  <tr>
+    <td>Municipalities</td>
+    <td>10,000 population</td>
+  </tr>
+  <tr>
+    <td>Public-utility enterprises</td>
+    <td>$2,000,000 gross</td>
+  </tr>
+  <tr>
+    <td>Railroad systems</td>
+    <td>$3,000,000 gross</td>
+  </tr>
+  <tr>
+    <td>Industrial companies</td>
+    <td>$5,000,000</td>
+  </tr>
+</table>
