@@ -72,3 +72,113 @@ To condemn a powerfully entrenched security such as General Electric preferred i
 **Total-deductions Basis of Calculation Recommended.** In calculating the earnings coverage for preferred stocks with bonds preceding, it is absolutely essential that the bond interest and preferred dividend be taken *together*. The almost universal practice of stating the earnings on the preferred stock separately (in dollars per share) is exactly similar to, and as fallacious as, the prior-deductions method of computing the margin above interest charges on a junior bond. If the preferred stock issue is much smaller than the funded debt, the earnings per share will indicate that the preferred dividend is earned more times than is the bond interest. Such a statement must either have no meaning at all, or else it will imply that the preferred dividend is safer than the bond interest of the same company—an utter absurdity. (See the examples on page 194.)
 
 The West Penn Electric Company Class *A* stock is in reality a second preferred issue. In this example the customary statement makes the preferred dividend appear safer than the bond interest; and because the Class *A* issue is small, it makes this second preferred issue appear much safer than either the bonds or the first preferred. The correct statement shows that the Class *A* requirements are covered 1.26 times instead of 7.43 times—a tremendous difference. The erroneous method of stating the earnings coverage was probably responsible in good part for the high price at which the Class *A* shares sold in 1937 (108). It is interesting to observe that although the Class *A* shares had declined to 25 in 1932, they later sold repeatedly at a higher price than the 7% preferred issue. Evidently some investors were still misled by the per-share earnings figures, and imagined the second preferred safer than the first preferred.
+
+<table>
+  <tr>
+    <td>*A.*</td>
+    <td>Colorado Fuel and Iron Company:</td>
+    <td>1929 figures</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Earned for bond interest</td>
+    <td>$3,978,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Interest charges</td>
+    <td>1,628,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Preferred dividends</td>
+    <td>160,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Balance for common</td>
+    <td>2,190,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Customary but incorrect statement</td>
+    <td>Correct statement</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Int. charges earned: 2.4 times</td>
+    <td>Int. charges earned: 2.4 times</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Preferred dividend earned: 14.7 times</td>
+    <td>Interest and preferred dividends earned: 2.2 times</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Earned per share of preferred: $117.50</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Note: The preceding statement of earnings on the preferred stock alone is either worthless or dangerously misleading.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+*An Apparent Contradiction Explained.* Our principles of preferred-dividend coverage lead to an apparent contradiction, *viz.*, that the preferred stockholders of a company must require a larger minimum coverage than the bondholders of the same company, yet by the nature of the case the actual coverage is bound to be smaller. For in any corporation the bond interest alone is obviously earned with a larger margin than the bond interest and preferred dividends combined. This fact has created the impression among investors (and some writers) that the tests of a sound preferred stock may properly be less stringent than those of a sound bond. But this is not true at all. The real point is that where a company has both bonds and preferred stock the preferred stock can be safe enough *only if the bonds are much safer than necessary*. Conversely, if the bonds are only just safe enough, the preferred stock cannot be sound. This is illustrated by two examples, as follows:
