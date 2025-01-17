@@ -125,59 +125,168 @@ The West Penn Electric Company Class *A* stock is in reality a second preferred 
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>B.</td>
+    <td>Warner Bros. Pictures, Inc.:</td>
+    <td>Year ended Aug. 28, 1937</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Earned for interest</td>
+    <td>$10,760,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Interest charges</td>
+    <td>4,574,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Preferred dividends</td>
+    <td>397,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Balance for common</td>
+    <td>5,789,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Customary but incorrect statement</td>
+    <td>Correct statement</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Int. charges earned: 2.35 times</td>
+    <td>Int. charges earned: 2.35 times</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Preferred dividends earned: 14.8 times</td>
+    <td>Interest and preferred dividends earned: 2.1 times</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Earned per share of preferred: $56.99</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C.</td>
+    <td>West Penn Electric Company:</td>
+    <td>1937 figures</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>Gross</td>
+    <td>$40,261,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Net before charges</td>
+    <td>13,604,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Fixed charges (include preferred dividends of subsidiaries)</td>
+    <td>8,113,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Dividends on 7% and 6% preferred issues</td>
+    <td>2,267,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Dividends on Class *A* stock (junior to 6% and 7% Pfd.)</td>
+    <td>412,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Balance for Class *B* and common</td>
+    <td>2,812,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Customary but incorrect statement</td>
+    <td>Correct statement</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Times interest or dividends earned</td>
+    <td>Times earned</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Fixed charges: 1.68 times</td>
+    <td>Fixed charges: 1.68 times</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>6% and 7% preferred (combined): 2.42 times</td>
+    <td>Charges and preferred dividends: 3.31 times</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Class *A: 7.43 times*</td>
+    <td>Fixed charges, preferred dividends, and Class *A* dividends: 3.26 times</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Liggett & Myers Tobacco Co.</th>
+    <th>&nbsp;</th>
+    <th>Commonwealth and Southern Corp.</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <th>Year</th>
+    <th>Number of times interest earned</th>
+    <th>Number of times int. and pfd. dividend earned</th>
+    <th>Number of times fixed charges earned</th>
+    <th>Number of times fixed charges and pfd. dividend earned</th>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>15.2</td>
+    <td>7.87</td>
+    <td>1.84</td>
+    <td>1.48</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>13.9</td>
+    <td>7.23</td>
+    <td>1.84</td>
+    <td>1.55</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>12.3</td>
+    <td>6.42</td>
+    <td>1.71</td>
+    <td>1.44</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td>11.9</td>
+    <td>6.20</td>
+    <td>1.62</td>
+    <td>1.37</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td>11.2</td>
+    <td>5.85</td>
+    <td>1.52</td>
+    <td>1.31</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>9.8</td>
+    <td>5.14</td>
+    <td>1.42</td>
+    <td>1.28</td>
   </tr>
 </table>
 
