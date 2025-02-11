@@ -295,3 +295,45 @@ The West Penn Electric Company Class *A* stock is in reality a second preferred 
 The Liggett and Myers preferred-dividend coverage (including, of course, the bond interest as well) is substantially above our suggested minimum of four times. The bond-interest coverage alone is therefore far in excess of the smaller minimum required for it, *viz.*, three times. On the other hand, the Commonwealth and Southern fixed-charge coverage in 1930 was just about at the proposed minimum 1¾ times. This meant that while the various bonds *might* qualify for investment, the 6% preferred stock could not possibly do so, and the purchase of that issue at a price above par in 1930 was an obvious mistake.
 
 *“Dollars-per-share” Formula Misleading.* When a preferred stock has no bonds ahead of it, the earnings may be presented either as so many dollars per share or as so many times dividend requirements. The second form is distinctly preferable, for two reasons. The more important one is that the use of the “dollars per share” formula in cases where there are no bonds is likely to encourage its use in cases where there are bonds. Security analysts and intelligent investors should make special efforts to avoid and decry this misleading method of stating preferred-dividend coverage, and this may best be accomplished by dropping the dollars-per-share form of calculation entirely. As a second point, it should be noted that the significance of the dollars earned per share is dependent upon the market price of the preferred stock. Earnings of $20 per share would be much more favorable for a preferred issue selling at 80 than for a preferred selling at 125. In the one case the earnings are 25%, and in the other only 16%, on the market price. The dollars-per-share figure loses all comparative value when the par value is less than $100, or when there is no-par stock with a low dividend rate per share. Earnings of $18.60 per share in 1931 on S.H. Kress and Company 6% Preferred (par $10) are of course far more favorable than earnings of $20 per share on some 7% preferred stock, par $100.
+
+**Calculation of the Stock-value Ratio.** The technique of applying this test to preferred stocks is in all respects similar to that of the earnings-coverage test. The bonds, if any, and the preferred stock must be taken together and the total compared with the market price of the common stock only. When calculating the protection behind a bond, the preferred issue is part of the stock equity; but when calculating the protection behind the preferred shares, the common stock is now, of course, the only junior security. In cases where there are both a first and second preferred issue, the second preferred is added to the common stock in calculating the equity behind the first preferred.
+
+##### Example of Calculation of Stock-value Ratios for Preferred Stocks
+##### Procter and Gamble Company
+
+<table>
+  <tr>
+    <th>Capitalization</th>
+    <th>Face amount</th>
+    <th>Low price 1932</th>
+    <th>Value at low price in 1932</th>
+  </tr>
+  <tr>
+    <td>Bonds</td>
+    <td>$10,500,000</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>8% pfd. (1st pdf.)</td>
+    <td>2,250,000</td>
+    <td>@140</td>
+    <td>$3,150,000</td>
+  </tr>
+  <tr>
+    <td>5% pfd. (2d pfd.)</td>
+    <td>17,156,000</td>
+    <td>@81</td>
+    <td>13,900,000</td>
+  </tr>
+  <tr>
+    <td>Common</td>
+    <td>6,140,000</td>
+    <td>@20</td>
+    <td>128,200,000</td>
+  </tr>
+</table>
+
+*A.* Stock-value ratio for bonds
+
+(3,150,000 + 13,900,000 + 128,200,000) / 10,500,000 = 13.8:1
