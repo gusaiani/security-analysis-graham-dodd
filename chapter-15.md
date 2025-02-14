@@ -337,3 +337,15 @@ The Liggett and Myers preferred-dividend coverage (including, of course, the bon
 *A.* Stock-value ratio for bonds
 
 (3,150,000 + 13,900,000 + 128,200,000) / 10,500,000 = 13.8:1
+
+*B.* Stock-value ratio for 1st pfd.
+
+(13,900,000 + 128,200,000) / (10,500,000 + 3,150,000) = 10.4:1
+
+*C.* Stock-value ratio for 2d pfd.
+
+128,200,000 / (10,500,000 + 3,150,000 + 13,900,000) = 4.6:1
+
+Should the market value of the common stock be compared with the *par* value or the *market* value of the preferred? In the majority of cases it will not make any vital difference which figure is used. There are, however, an increasing number of no-par-value preferreds (and also a number like Island Creek Coal Company Preferred and Remington Rand, Inc., Second Preferred in which the real par is entirely different from the stated par). In these cases an equivalent would have to be constructed from the dividend rate. Because of such instances and also those where folk and Western Railway Company 4% Preferred in 1932 or Eastman Kodak 6% Preferred in 1939), it would seem the better rule to use the *market price* of preferred stocks regularly in computing stock-value ratios. On the other hand the regular use of the *face value* of bond issues, rather than the market price, is recommended, because it is much more convenient and does not involve the objections just discussed in relation to preferred shares.
+
+**Noncumulative Issues.** The theoretical disadvantage of a noncumulative preferred stock as compared with a cumulative issue is very similar to the inferiority of preferred stocks in general as compared with bonds. The drawback of not being able to compel the payment of dividends on preferred stocks generally is almost matched by the handicap in the case of noncumulative issues of not being able to receive in the future the dividends withheld in the past.
