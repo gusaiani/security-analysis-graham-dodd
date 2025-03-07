@@ -354,4 +354,16 @@ Should the market value of the common stock be compared with the *par* value or 
 
 *Example:* St. Louis-San Francisco Railway Company affords a typical example. No dividends were paid on the (old) preferred issue between 1916 and 1924, although the dividend was fully earned in most of these years. Payments were not commenced until immediately before dividends were initiated on the common; and they were continued (on the new preferred) less than a year after the common dividend was suspended in 1931.
 
-The manifest injustice of such an arrangement led the New Jersey courts (in the United States Cast Iron Pipe case) to decide that if dividends are earned on a noncumulative preferred stock but not paid, then the holder is entitled to receive such amounts later before anything can be paid on the common. This meant that in New Jersey a noncumulative preferred stock was given a cumulative claim on dividends to the extent that they were earned.
+The manifest injustice of such an arrangement led the New Jersey courts (in the United States Cast Iron Pipe case) to decide that if dividends are earned on a noncumulative preferred stock but not paid, then the holder is entitled to receive such amounts later before anything can be paid on the common. This meant that in New Jersey a noncumulative preferred stock was given a cumulative claim on dividends to the extent that they were earned. The United States Supreme Court however, handed down a contrary decision (in the Wabash Railway case) holding that while the noncumulative provision may work a great hardship on the holder, he has nevertheless agreed thereto when he accepted the issue. This is undoubtedly sound law, but the inherent objections to the non-cumulative provision are so great (chiefly because of the opportunity it affords for unfair policies by the directors) that it would seem to be advisable for the legislatures of the several states to put the New Jersey decision into statutory effect by prohibiting the creation of completely noncumulative preferred stocks, requiring them to be made cumulative at least to the extent that the dividend is earned. This result has been attained in a number of individual instances through insertion of appropriate charter provisions.
+
+**Features of the List of 21 Preferred Issues of Investment Grade.** Out of some 440 preferred stocks listed on the New York Stock Exchange in 1932, only 40, or 9%, were noncumulative. Of these, 29 were railroad or street-railway issues and only 11 were industrial issues. The reader will be surprised to note, however, that out of only 21 preferred stocks selling continuously on an investment basis in 1932, no less than four were noncumulative. Other peculiarities are to be found in this favored list, and they may be summarized as follows (see page 192 of accompanying CD):
+
+1. Both the number of noncumulative issues and the number of preferred stocks preceded by bonds are proportionately higher among the 21 “good” companies than in the Stock Exchange list as a whole.
+
+2. The industry best represented is the *snuff* business, with three companies.
+
+3. Miscellaneous peculiarities:
+a. Only one issue has a sinking fund provision.
+b. One issue is a second preferred (Procter and Gamble).
+c. One issue has a par value of only $1 (Island Creek Coal).
+d. One issue was callable at close to the lowest market price of 1932-1933 (General Electric).
