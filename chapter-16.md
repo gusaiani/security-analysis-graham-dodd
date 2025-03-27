@@ -20,4 +20,80 @@ We suggest that the minimum earnings coverage recommended in the preceding chapt
 
 Note that interest on income or adjustment bonds is not part of the total interest charges when calculating the coverage for the *fixed-interest* bonds. In this respect the position of an income bond is exactly that of a preferred stock. Note also that the statement made by the statistical services that 57.29% was earned on the M-K-T Adjustment 5s. (*i.e.*, that the “interest was covered” more than eleven times) is valueless or misleading.
 
-*Significance of These Figures for the Investor in Early 1931.* The 1930 earnings were somewhat lower than the ten-year average and could then apparently be viewed as a fair indication of the normal earning power of M-K-T.
+*Significance of These Figures for the Investor in Early 1931.* The 1930 earnings were somewhat lower than the ten-year average and could then apparently be viewed as a fair indication of the normal earning power of M-K-T. The coverage for the preferred stock was clearly inadequate from any investment standpoint. The coverage for the adjustment-bond interest on the more conservative basis (the net-deductions method) was below our minimum requirement of 2½ times, so that this issue would not have qualified for investment. The coverage for the fixed-bond interest was substantially above our minimum and indicated a satisfactory degree of protection.
+
+##### Missouri-Kansas-Texas Railroad Company, Calendar Year 1930 (All dollar figures in thousands)
+
+<table>
+  <tr>
+    <td>Gross revenue</td>
+    <td>$45,949</td>
+  </tr>
+  <tr>
+    <td>Railway operating income (net after taxes)</td>
+    <td>13,353</td>
+  </tr>
+  <tr>
+    <td>Gross income (net after rents, plus other income)</td>
+    <td>12,0009</td>
+  </tr>
+  <tr>
+    <td>Fixed charges (fixed interest and other deductions)</td>
+    <td>4,230</td>
+  </tr>
+  <tr>
+    <td>Balance for adjustment interest</td>
+    <td>7,779</td>
+  </tr>
+  <tr>
+    <td>Adjustment interest</td>
+    <td>696</td>
+  </tr>
+  <tr>
+    <td>Balance for dividends (net income)</td>
+    <td>7,083</td>
+  </tr>
+  <tr>
+    <td>Preferred dividends</td>
+    <td>4,645</td>
+  </tr>
+  <tr>
+    <td>Balance for common</td>
+    <td>2,438</td>
+  </tr>
+  <tr>
+    <td>Net after taxes exceeds gross income. Hence use net-deductions test.</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Net deductions = difference between net after taxes and balance for adjustment interest. = $13,353 - $7,779</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>&nbsp;</th>
+    <th>Times Earned</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>Net deductions</td>
+    <td>= $ 5,574</td>
+    <td>$13,353 / $5,574</td>
+    <td>= 2.40</td>
+  </tr>
+  <tr>
+    <td>Net deductions and adjustment interest</td>
+    <td>=  6,270</td>
+    <td>$13,353/$6,270</td>
+    <td>= 2.14</td>
+  </tr>
+  <tr>
+    <td>Net deductions, adjustment interest, and preferred dividends</td>
+    <td>= $10,915</td>
+    <td>$13,353 / $10,915</td>
+    <td>= 1.22</td>
+  </tr>
+</table>
