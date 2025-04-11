@@ -97,3 +97,94 @@ Note that interest on income or adjustment bonds is not part of the total intere
     <td>= 1.22</td>
   </tr>
 </table>
+
+Naturally the disastrous decline of earnings in 1931—1933 could not have been foreseen or fully guarded against. The market price of M-K-T fixed obligations suffered severely in 1932; but since the company’s debt structure was relatively conservative, it did not come so close to insolvency as the majority of other carriers. In fact, the 1932—1934 interest was paid on the adjustment bonds, although such payment was not obligatory.
+
+Subsequent developments are worth describing because of their practical bearing on bond investment. The following table should prove instructive:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Balance for interest</th>
+    <th>Net deduction earned, times</th>
+    <th>Range for year 4½s, 1978</th>
+    <th>Range for year Adj. 5s</th>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>11,999,000</td>
+    <td>2,40</td>
+    <td>92½–101</td>
+    <td>86–108½</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>5,579,000</td>
+    <td>1.22</td>
+    <td>43½–98</td>
+    <td>34-95</td>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>4,268,000</td>
+    <td>1.01</td>
+    <td>36–70¾</td>
+    <td>13–60</td>
+  </tr>
+  <tr>
+    <td>1933</td>
+    <td>3,378,000</td>
+    <td>0.86</td>
+    <td>55–77½</td>
+    <td>32¾–65</td>
+  </tr>
+  <tr>
+    <td>1934</td>
+    <td>2,093,000</td>
+    <td>0.65</td>
+    <td>63⅛–83¾</td>
+    <td>29–62½</td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>2,457,000</td>
+    <td>0.71</td>
+    <td>28½–64</td>
+    <td>11¼–36½</td>
+  </tr>
+  <tr>
+    <td>1936</td>
+    <td>4,773,000</td>
+    <td>1.09</td>
+    <td>52½–83</td>
+    <td>30¾–74¾</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>3,274,000</td>
+    <td>0.86</td>
+    <td>38–79¾</td>
+    <td>18½–80</td>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>1,120,000</td>
+    <td>0.49</td>
+    <td>25-45¾</td>
+    <td>10–24</td>
+  </tr>
+</table>
+
+It will be seen that the 1930 earnings did not in fact prove a guide to the future normal earning power of M-K-T. Yet this mistake need not have proved very costly to an idividual investor who bought the fixed-interest bonds in 1931. Despite the decline in earnings and investment quality, he had several opportunities to sell out advantageously during the next six years. As we point out later (Chap. 21), proper investment technique would have compelled such a sale, in view of the changed exhibit.
+
+After 1934, interest on the adjustment bonds was paid only in 1937. The price range of that issue is interesting chiefly as a reflection of the heedlessness of bond buyers. Note that at the 1937 highs they paid the same price for the adjustment 5s as for the 4½s, despite the totally inadequate earnings coverage, and despite the fact that in 1932, 1934 and 1935 the senior issue had sold more than twice as high as the adjustments.
+
+**Senior Income Bonds.** There are a few instances of income bonds which are senior in their lien to other bonds bearing fixed interest. The Atchison Adjustment 4s are the best known example, being followed by 4% fixed-interest debenture issues which have regularly sold at a lower price except briefly in 1938. The situation holds true also with respect to St. Louis Southwestern Railway Company Second Income 4s. While the theoretical status of such bonds is rather confusing, the practical procedure called for is, obviously, to treat the interest thereon as part of the company’s *fixed charges*, when dealing with the system as a whole.
+
+#### Guaranteed Issues
+
+No special investment quality attaches to guaranteed issues as such. Inexperienced investors may imagine that the word “guaranteed” carries a positive assurance of safety; but, needless to say, the value of any guaranty depends strictly upon the financial condition of the guarantor. If the guarantor has nothing, the guaranty is worthless. In contrast with the attitude of the financial novice, Wall Street displays a tendency to *underestimate* the value of a guaranty, as shown by the lower prices often current for guaranteed issues in comparison with the debentures or even the preferred stock of the guarantor. This sophisticated distrust of guarantees dates back to the Kanawha and Hocking Coal and Coke Company case in 1915, when the guarantor railroad endeavored to escape its liability by claiming that the guaranty, made in 1901, was beyond its corporate powers and hence void. This attempt at evasion, encouraged by the outcome of antitrust suits in the Ohio and federal courts, in the end proved completely unsuccessful; but it cast a shoadow over the value of all guarantees, from which they have not completely emerged even after 25 years. We know of no important case in which a solvent company has escaped the consequences of its guaranty through legal technicalities.
+
+**Status of Guaranteed Issues.** If a company guarantees interest, dividend, or principal payments, its failure to meet this obligation will expose it to insolvency. The claim against the guarantor ranks equally with an unsecured debt of the company, so that guaranteed issues deserve the same rating as a debenture bond of the guarantor and a better rating than its preferred stock. A guaranteed issue may also be entitled to an investment rating because of its own position and earning power independent of the guaranty. In such cases the guaranty may add to its security, but it cannot detract therefrom even if the guarantor company itself is in bad straits.
+
+*Examples:* The Brooklyn Union Elevated Railroad 5s (see pages 78—79) were guaranteed by the Brooklyn Heights Railroad Company, which went into receivership in 1919; but the bond came through the reorganization unscathed because of its own preferred position in the Brooklin Rapid TRansit System.
