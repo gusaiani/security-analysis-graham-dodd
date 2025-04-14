@@ -187,4 +187,29 @@ No special investment quality attaches to guaranteed issues as such. Inexperienc
 
 **Status of Guaranteed Issues.** If a company guarantees interest, dividend, or principal payments, its failure to meet this obligation will expose it to insolvency. The claim against the guarantor ranks equally with an unsecured debt of the company, so that guaranteed issues deserve the same rating as a debenture bond of the guarantor and a better rating than its preferred stock. A guaranteed issue may also be entitled to an investment rating because of its own position and earning power independent of the guaranty. In such cases the guaranty may add to its security, but it cannot detract therefrom even if the guarantor company itself is in bad straits.
 
-*Examples:* The Brooklyn Union Elevated Railroad 5s (see pages 78—79) were guaranteed by the Brooklyn Heights Railroad Company, which went into receivership in 1919; but the bond came through the reorganization unscathed because of its own preferred position in the Brooklin Rapid TRansit System.
+*Examples:* The Brooklyn Union Elevated Railroad 5s (see pages 78—79) were guaranteed by the Brooklyn Heights Railroad Company, which went into receivership in 1919; but the bond came through the reorganization unscathed because of its own preferred position in the Brooklyn Rapid TRansit System. Similarly U.S. Industrial Alcohol Company Preferred dividends were guaranteed by Distilling Company of America; the latter enterprise became bankrupt, but the Alcohol Company was easily able to continue the dividend out of its own earnings and later to retire the preferred issue at 125.
+
+A common or preferred stock fully guaranteed by another company has the status of a bond issue as far as the guarantor is concerned. If the guaranty proves worthless, it would naturally return to the position of a stock—usually a weak issue, but possibly a strong one, as in the case of U.S. Industrial Alcohol Company Preferred just mentioned. A similar situation obtains with respect to income bonds of one company guaranteed by another (*e.g.*, Chicago, Terre Haute, and Southeastern Railway Company Income 5s, *guaranteed* by the Chicago, Milwaukee, St. Paul and Pacific Railroad Company).
+
+The value of a guarantee is sometimes very evident when part of an issue is guaranteed and part is not.
+
+*Example:*
+
+##### Anacostia and Potomac River Railroad First 5s, due 1949
+
+<table>
+  <tr>
+      <td>$500,000 guaranteed by Washington Ry. & Elec. Co.</td>
+      <td>price 110 in 1939</td>
+  </tr>
+  <tr>
+      <td>$2,100,000 unguaranteed</td>
+      <td>price 80 in 1939</td>
+  </tr>
+</table>
+
+In this case the Anacostia company’s earnings coverage was inadequate (1.36 times in 1938), but that of the guarantor company was high (over 4 times in 1938 on a consolidated basis and over 11 times in that year on parent-only basis inclusive of interest for which it was contingently liable).
+
+**Exact Terms of Guaranty Are Important.** The exact terms of a guaranty have obviously a vital influence upon its value. A guaranty of interest only is likely to be much less significant than a guaranty of principal as well.
+
+*Examples:* Philippine Railway Company First 4s, due 1937, were guaranteed as to interest only by the Philippine government. The earnings of the road itself were poor. Interest was paid promply up to maturity, but principal was defaulted. The price of the bond reflected this situation, having sold no higher than 39 since 1929.
