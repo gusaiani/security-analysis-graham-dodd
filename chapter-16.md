@@ -213,3 +213,13 @@ In this case the Anacostia company’s earnings coverage was inadequate (1.36 ti
 **Exact Terms of Guaranty Are Important.** The exact terms of a guaranty have obviously a vital influence upon its value. A guaranty of interest only is likely to be much less significant than a guaranty of principal as well.
 
 *Examples:* Philippine Railway Company First 4s, due 1937, were guaranteed as to interest only by the Philippine government. The earnings of the road itself were poor. Interest was paid promply up to maturity, but principal was defaulted. The price of the bond reflected this situation, having sold no higher than 39 since 1929.
+
+Minneapolis, St. Paul and Saulte Saint Marie Railroad First Consolidated 4s and 5s due 1938: All the 4% bonds and about half the 5% bonds were guaranteed as to interest only by Canadian Pacific Railway. Principal was defaulted on maturity, and the Canadian Pacific ceased to Pay interest, the price of the bonds declining to 6.
+
+On the other hand, this company’s First and Refunding 5½s, Series *B*, due 1978,—a junior lien—are also guaranteed as to interest by Canadian Pacific and in accordance with the guaranty continued to receive interest after the senior lien was in default. These bonds sold at 64 in 1939, whereas the senior issues sold at 6. Note that in 1931 they sold as low as 35, whereas the 1st Consolidated Guaranteed 5s, due 1938, sold at 45 and the Canadian Pacific (unsecured) Debenture stock sold at 56 7/8. It is clear that the value of the *long-term* Canadian Pacific guaranty was not fully appreciated in 1931.
+
+A similar disadvantage attaches to a guaranty of dividends running for a limited period.
+
+*Examples:* The actual working out of such a situation was shown in the case of American Telegraph and Cable Company common stock, which was guaranteed as to 5% dividends (only) for 50 years from 1882 by the Western Union Telegraph Company under a lease terminating in 1932. Because of the long record of dividend payments, investors came finally to consider the dividend as a fixture, and as late as 1922 the stock sold at 70. But in the meantime the strategic or trade value of the leased cable properties was rapidly diminishing, so that the value of the stock at the expiration of the lease was likely to be very small. A settlement was made in 1930 with Western Union under which the American Telegraph and Cable stockholders received the equivalent of about $20 for the principal of their stock.
+
+A rather unusual example of the importance of the exact terms of a guaranty was supplied by Pratt and Whitney Preferred (retired in 1928). According to the security manuals, the dividend on this issue was “guaranteed” by its parent company, Niles-Bement-Pond.
