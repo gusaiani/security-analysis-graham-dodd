@@ -237,3 +237,9 @@ In would seem good policy for investors, therefore, to favor bonds of this type,
 At the inception of this dual system, investors were disposed to consider the federal supervision and tax exemption as a virtual guarantee of the safety of the *Joint Stock* Land Bank bonds, and they were therefore willing to buy them at a yield only ½% higher than that returned by the *Federal* Land Bank bonds. In comparing the nonguaranteed Joint Stock bonds with the mutually guaranteed federal bonds, the following observations might well have been made:
 
 1. Assuming the complete success of the farm-loan system, the guarantee would be superfluous, since each bond issue separately would have enjoyed ample protections
+
+2. Assuming complete failure of the system, the guarantee would prove worthless, since all the banks would be equally insolvent.
+
+3. For any intermediate stage between these two extremes, the joint and several guarantee might prove extremely valuable. This would be particularly true as to bonds of a farm-loan district subjected to extremely adverse conditions of a *local* character.
+
+In view of the fact that the farm-loan system was a new and untried undertaking, investors therein should have assured themselves of the largest possible measure of protection. Those who in their eagerness for the extra ½% of income dispensed with the joint guarantee committed a patent mistake of judgement.
