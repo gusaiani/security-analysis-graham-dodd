@@ -52,4 +52,75 @@ The foregoing discussion will perhaps adequately explain the low price of the Ge
 
 **Guaranteed Issues Frequently Undervalued.** The Tobacco Products example illustrates the fairly frequent undervaluation of guaranteed or quasi-guaranteed issues as compared with other securities of the guarantor enterprise. A well-known instance was that of San Antonio and Aransas Pass Railway Company First 4s, due 1943, guaranteed as to principal and interest by Southern Pacific Company. Although these enjoyed a mortgage security in addition to the guaranty they regularly sold at prices yielding higher returns than did the unsecured obligations of the Southern Pacific.
 
-*Examples:* A more striking contrast was afforded by the price of Barnhart Bros. and Spindler Company First and Second Preferred (both guaranteed as to principal and dividends by American Type Founders Company) in relation to the price of the guarantor’s own preferred stock which was not a fixed obligation. Additional examples of this point are afforded by the price of Huyler’s of Delaware, Inc., Preferred, guaranteed by Schulte Retail Stores Corporation, as compared with the price of Schulte Preferred; and by the price of Armour and Company of Delaware guaranteed preferred, as compared with the preferred stock of the guarantor company, Armour and Company of Illinois. Some comparative quotations relating to these examples are given below:
+*Examples:* A more striking contrast was afforded by the price of Barnhart Bros. and Spindler Company First and Second Preferred (both guaranteed as to principal and dividends by American Type Founders Company) in relation to the price of the guarantor’s own preferred stock which was not a fixed obligation. Additional examples of this point are afforded by the price of Huyler’s of Delaware, Inc., Preferred, guaranteed by Schulte Retail Stores Corporation, as compared with the price of Schulte Preferred; and by the price of Armour and Company of Delaware guaranteed preferred, as compared with the preferred stock of the guarantor company, Armour and Company of Illinois. Some comparative quotations relating to these examples are given below.
+
+##### Comparative Prices and Yields of Guaranteed Securities and Securities of the Guarantor
+
+<table>
+  <tr>
+    <th>Issue</th>
+    <th>Date</th>
+    <th>Price</th>
+    <th>Yield, %</th>
+  </tr>
+  <tr>
+    <td>San Antonio & Aransas Pass 1st 4s/1943 (GTD)</td>
+    <td>Jan. 2, 1920</td>
+    <td>56¼</td>
+    <td>8.30</td>
+  </tr>
+  <tr>
+    <td>Southern Pacific Co. Debenture 4s/1929</td>
+    <td>Jan. 2, 1920</td>
+    <td>81</td>
+    <td>6.86</td>
+  </tr>
+  <tr>
+    <td>Barnhart Bros. & Spindler 7% 1st Pfd. (GTD)</td>
+    <td>1923 low price</td>
+    <td>90</td>
+    <td>7.78%</td>
+  </tr>
+  <tr>
+    <td>Barnhart Bros. & Spindler 7% 2d pfd. (GTD)</td>
+    <td>1923 low price</td>
+    <td>80</td>
+    <td>8.75</td>
+  </tr>
+  <tr>
+    <td>American Type Founders 7% Pfd</td>
+    <td>1923 low price</td>
+    <td>95</td>
+    <td>7.37</td>
+  </tr>
+  <tr>
+    <td>Huyler’s of Delaware 7% Pfd. (GTD)</td>
+    <td>April 11, 1928</td>
+    <td>102½</td>
+    <td>6.83</td>
+  </tr>
+  <tr>
+    <td>Schulte Retail Stores 8% Pfd.</td>
+    <td>April 11, 1928</td>
+    <td>129</td>
+    <td>6.20</td>
+  </tr>
+  <tr>
+    <td>Armour of Delaware 7% Pfd. (GTD)</td>
+    <td>Feb. 13, 1925</td>
+    <td>95⅛</td>
+    <td>7.36</td>
+  </tr>
+  <tr>
+    <td>Armour of Illinois 7% Pfd.</td>
+    <td>Feb. 13, 1925</td>
+    <td>92 7/8</td>
+    <td>7.54</td>
+  </tr>
+</table>
+
+Is it obvious that in cases of this sort advantageous exchanges can be made from the lower yielding into the higher yielding security with no impairment of safety; or else into a much better secured issue with little sacrifice of yield, and sometimes with an actual gain.
+
+### Inclusion of Guarantees and Rentals In the Calculations of Fixed Charges
+
+All obligations equivalent to bond interest should be included with a company’s interest charges when calculating the coverage for its bond issues. This point has already been explained in some details in connection with railroad fixed charges, and it was touched upon briefly in our discussion of public-utility bonds. The procedure in these groups offers no special difficulties. But in the case of certain types of industrial companies, the treatment of rentals and guarantees may offer confusing variations. This question is of particular moment in connection with retail enterprises, theater companies, etc., in which rent or other obligations realted to buildings occupied may be an important element in the general picture.
