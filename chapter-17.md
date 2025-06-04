@@ -126,3 +126,40 @@ Is it obvious that in cases of this sort advantageous exchanges can be made from
 All obligations equivalent to bond interest should be included with a company’s interest charges when calculating the coverage for its bond issues. This point has already been explained in some details in connection with railroad fixed charges, and it was touched upon briefly in our discussion of public-utility bonds. The procedure in these groups offers no special difficulties. But in the case of certain types of industrial companies, the treatment of rentals and guarantees may offer confusing variations. This question is of particular moment in connection with retail enterprises, theater companies, etc., in which rent or other obligations related to buildings occupied may be an important element in the general picture. Such a building may be owned by the corporation and paid for by a bond issue, in which case the obligation will be fully disclosed in both the balance sheet and the income account. But if another company occupies a similar building under long-term lease, no separate measure of the rental obligation appears in the income account and no indication thereof can be found in the balance sheet. The second company may *appear* sounder than the first, but that is only because its obligations are undisclosed; essentially, both companies are carrying a similar burden. Conversely, the outright ownership of premises free and clear carries an important advantage (from the standpoint of preferred stock, particularly) over operation under long-term lease, although the capitalization set-up will not reveal this advantage.
 
 *Examples:* If Interstate Department Stores Preferred had been compared with The Outlet Company Preferred in 1929 the two exhibits might have appeared closely similar; the earnings coverage averaged about the same, and neither company showed any bond or mortage liability. But Outlet’s position was in actuality by far the stronger, because it owned its land and buildings while those of Interstate (with a minor exception) were held under lease. The real effect of this situation was to place a substantial fixed obligation ahead of Interstate Department Stores Preferred which did not exist in the case of Outlet. In the chain-store field a similar observation would apply to a comparison of J. C. Penney Preferred and S. H. Kress Preferred in 1932; for the latter company owned more than half of its store properties, while nearly all the Penney locations were leased.
+
+**Lease Liabilities Generally Overlooked.** The question of liability under long-term leases received very little attention from the financial world until its significance was brought home rudely in 1931 and 1932, when the high level of rentals assumed in the preceding boom years proved intolerably burdensome to many merchandising companies.
+
+*Example:* The influence of this factor upon a supposed investment security is shown with striking force in the case of United Cigar Stores Preferred. This issue, and its predecessor, had for many years shown every sign of stability and had sold accordingly at a consistently high level. For 1928 the company reported “no funded debt” and earnings equal to about seven times the preferred dividend. Yet so crushing were the liabilities under its long-term leases (and to carry properties acquired by subsidiaries), that in 1932 bankruptcy was resorted to and the preferred stock was menaced with extinction.
+
+**Such Liabilities Complicated Analysis.** It must be admitted that in the case of companies where the rental factor is important, its obtrusion has badly complicated the whole question of bond or preferred stock analysis. Fortunately the investor now has some data as to the extent of such leasehold obligations, since they are now required to be summarized in registration statements filed with the S.E.C., and the actual rent payments must be stated each year (on Form 10-K). But the problem remains whether or not these rentals should be treated, in whole or in part, as the equivalent of fixed charges. To some extent, certainly, they are identical rather with fixed “overhead”—*e.g.*, depreciation, taxes, general expense—which it has not been found feasible to add in with bond interest for the purpose of figuring a margin of safety. One type of solution is obvious: If the company meets the earnings test, even after adding rents paid to bond interest, the rent situation need not worry the investor.
+
+*Example:*
+
+##### Swift and Company 3¾s, due 1950
+
+<table>
+  <tr>
+    <td>&nbsp;</td>
+    <td>1934—1938 Average Results</td>
+  </tr>
+  <tr>
+    <td>Balance for dividends</td>
+    <td>$8,630,000</td>
+  </tr>
+  <tr>
+    <td>Interest paid</td>
+    <td>2,107,000</td>
+  </tr>
+  <tr>
+    <td>Rentals paid</td>
+    <td>996,000</td>
+  </tr>
+  <tr>
+    <td>Interest earned</td>
+    <td>5.1 times</td>
+  </tr>
+  <tr>
+    <td>Interest and rentals earned</td>
+    <td>3.8 times</td>
+  </tr>
+</table>
