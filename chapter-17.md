@@ -163,3 +163,81 @@ All obligations equivalent to bond interest should be included with a company’
     <td>3.8 times</td>
   </tr>
 </table>
+
+We feel, however, that it would be neither fair nor practicable to require every company to meet a test so severe. A compromise suggestion based on some study of actual exhibits may be hazarded, *viz.:* (1) that one-third the annual rentals (for building space) be included with fixed charges (and preferred dividends), to compute the earnings coverage; and (2) that in the case of retail establishments (chain stores, department stores) the minimum coverage required for interest plus one-third of rentals be reduced from 3 to 2. This reduction would recognize the relative stability of retail business, after allowance is made for the special burden attaching to the rental factor. The corresponding coverage required for a retail company’s preferred stock would be reduced from 4 to 2½.
+
+*Examples:*
+
+##### *(A)* Nonretail Bond Issue Loew’s, Inc. 3½s, Due 1946
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>August 1934—August 1938 Average Results</th>
+  </tr>
+  <tr>
+    <td>Balance for dividends</td>
+    <td>$10,097,000</td>
+  </tr>
+  <tr>
+    <td>Interest (and subsid. preferred dividends) paid</td>
+    <td>2,614,000</td>
+  </tr>
+  <tr>
+    <td>One-third of rentals paid</td>
+    <td>1,107,000</td>
+  </tr>
+  <tr>
+    <td>Interest, etc., earned</td>
+    <td>4.86 times</td>
+  </tr>
+  <tr>
+    <td>Interest and one-third of rentals earned</td>
+    <td>3.71 times</td>
+  </tr>
+</table>
+
+##### *(B)* Retail Enterprise Preferred Stock
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>&nbsp;</th>
+    <th>1934—1938 Average Results</th>
+  </tr>
+  <tr>
+    <th>&nbsp;</th>
+    <th>McCrory Stores Corp. 6% Preferred</th>
+    <th>McLellan Stores Co. 6% Preferred</th>
+  </tr>
+  <tr>
+    <td>Balance for common stock</td>
+    <td>$1,682,000</td>
+    <td>$1,148,000</td>
+  </tr>
+  <tr>
+    <td>Interest on bonds</td>
+    <td>abt. 200,000</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>One-third of rentals</td>
+    <td>770,000</td>
+    <td>434,000</td>
+  </tr>
+  <tr>
+    <td>Preferred dividends</td>
+    <td>300,000</td>
+    <td>180,000</td>
+  </tr>
+  <tr>
+    <td>Preferred dividend (and interest earned)</td>
+    <td>4.36 times</td>
+    <td>7.38 times</td>
+  </tr>
+  <tr>
+    <td>Preferred dividend, interest and 1/3 of rentals earned</td>
+    <td>2.33 times</td>
+    <td>2.87 times</td>
+  </tr>
+</table>
