@@ -241,3 +241,15 @@ We feel, however, that it would be neither fair nor practicable to require every
     <td>2.87 times</td>
   </tr>
 </table>
+
+*Conclusions:* Loew’s 3½s pass our quantitative test for nonretail bond issues. McLellan Preferred does, but McCrory Preferred does not, pass our suggested test for retail-store preferred stocks.
+
+The four preceding examples illustrate a simplified technique for earnings coverage. Instead of first computing the amount available for the charges, we divide the charges (and preferred dividends) into the balance *after* charges (and preferred dividends) and add 1 to the quotient.
+
+The reader is warned that these suggested standards and the calculations illustrating them are submitted with considerable hesitation. They represent a new departure in analytical method; the data for rentals paid are available only at some effort; most serious of all, the arithmetical standards proposed are arbitrary and perhaps not the best that can be devised. We might point out, further, that the new test may yield some unexpected results. Note that McLellan Preferred has sold (in 1939) at a lower price than McCrory Preferred—a point that *may* be justified by other factors. Note, further, that if the same calculation as above is applied to W.T. Grant 5% Preferred—a high-priced issue, which earned its dividend nearly ten times over in 1934—1938—we should find that the preferred dividend plus one-third of rentals was covered not quite 2½ times.
+
+**Status of Guaranteed Obligations.** Some additional observations may properly be made as to the computation of earnings coverage in the case of guaranteed obligations. In the typical case the properties involved in the guarantee form part of the whole enterprise; hence both the earnings therefrom and the guaranteed payments are included in a single income statement.
+
+*Example:* Neisner Realty Corporation 6s, due 1948, are guaranteed by Neisner Brothers, Inc. The corporation’s operations and interest charges are included in the parent company’s consolidated statement.
+
+When the guaranteed security is outstanding against a separately operated property, its standing may depend either on its own results or on those of the guarantor.
