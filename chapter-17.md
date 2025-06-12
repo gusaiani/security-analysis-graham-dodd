@@ -252,4 +252,37 @@ The reader is warned that these suggested standards and the calculations illustr
 
 *Example:* Neisner Realty Corporation 6s, due 1948, are guaranteed by Neisner Brothers, Inc. The corporation’s operations and interest charges are included in the parent company’s consolidated statement.
 
-When the guaranteed security is outstanding against a separately operated property, its standing may depend either on its own results or on those of the guarantor.
+When the guaranteed security is outstanding against a separately operated property, its standing may depend either on its own results or on those of the guarantor. Hence the issue need be required to pass only one of three alternative tests, based on (1) earnings of issuing company, independent of the guarantee; or (2) combined earnings and charges of the issuing and guarantor companies; or (3) earnings of guarantor company applied to its own charges plus its guarantees.
+
+*Examples: a.* Indiana Harbor Belt Railway General 4s and 4½s, due 1957. Guaranteed as to principal and interest by New York Central Railroad and an important subsidiary. The Standard Statistics Bond guide gives as the interest coverage that of the guarantor, the New York Central System. But the showing of the company itself is much better, *e.g.:*
+
+<table>
+  <tr>
+    <th>&nbsp;</th>
+    <th>Charges earned</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <th>&nbsp;</th>
+    <th>N. Y. Central System</th>
+    <th>Indiana Harbor Belt</th>
+  </tr>
+  <tr>
+    <td>1938</td>
+    <td>0.59 times</td>
+    <td>2.98 times</td>
+  </tr>
+  <tr>
+    <td>1937</td>
+    <td>1.12 times</td>
+    <td>3.81 times</td>
+  </tr>
+</table>
+
+*b.* This is the typical situation, in which coverage is calculated from a consolidated income account, including operations of both the parent (guarantor) company and its guaranteed subsidiaries.
+
+*c.* Minneapolis, St. Paul and Sault Sainte Marie 5½s, due 1978, guaranteed as to interest by Canadian Pacific Railway. The “Soo line” shows earnings of only a small part of total interest charges. Coverage for this issue might best be computed by applying earnings of Canadian Pacific Railway to the total of its own interest charges plus the guaranteed interest on these and other bonds guaranteed by Canadian Pacific Railway.
+
+### Subsidiary Company Bonds
+
+The bonds of a subsidiary of a strong company are generally regarded as well protected, on the theory that the parent company will take care of all its constituents’ obligations. This viewpoint is encouraged by the common method of setting up consolidated income accounts, under which all the subsidiary bond interest appears as a charge against all the combined earnings, ranking ahead of the parent company’s preferred and common stocks.
