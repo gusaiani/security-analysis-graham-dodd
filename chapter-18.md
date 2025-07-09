@@ -60,4 +60,61 @@ What this arrangement would mean in effect is the turning of a fixed-interest bo
 
 Obviously, however, control cannot well be vested in creditors when they belong to several classes with conflicting interests. In such cases Chandler Act proceedings would seem necessary to cut the Gordian knot. But, theoretically at least, a voting-control arrangement is possible with a simple senior and a simple junior lien. If default should occur only with respect to the junior lien, voting control would pass to that issue. If the senior lien is defaulted, it would take control as a single class.
 
-Although these suggestions may inspire doubt because of their novelty, it should be pointed out that the idea of voting by bondholders is both an old one and growing in vogue. Although in the past it was an exceptional arrangement, we now find that many reorganization plans, providing for issuance of income bonds, give voting powers to these securities, generally calling for control of the board of directors until all or most of the issue is retired or if interest is not paid in full. Furthermore, many indentures covering fixed-interest bonds now provide for a vote by bondholders on amendments to the indenture.
+Although these suggestions may inspire doubt because of their novelty, it should be pointed out that the idea of voting by bondholders is both an old one and growing in vogue. Although in the past it was an exceptional arrangement, we now find that many reorganization plans, providing for issuance of income bonds, give voting powers to these securities, generally calling for control of the board of directors until all or most of the issue is retired or if interest is not paid in full. Furthermore, many indentures covering fixed-interest bonds now provide for a vote by bondholders on amendments to the indenture. It is also common for Canadian trust indentures to provide for meetings of bondholders in order to amend theterms of the indenture, including even the postponement or change of interest or principal payments. Such meetings may be called by the trustee, by a stated proportion of the bondholders, or in certain instances by the company itself.
+
+It may be objected that the suggested arrangement would really give a bondholder no better legal rights than a preferred stockholder and would thus relegate him to the unsatisfactory position of having both a limited interest and and an unenforceable claim. Our answer must be that, if the control device can be developed properly, it would provide an adequate remedy for both bondholders and preferred stockholders. In that case the basic contractual advantage of bonds over preferred shares would vanish, except to the extent of the right of bonds to repayment at a fixed date. We repeat, in conclusion, the point made in our discussion of the theory of preferred stocks (page 188 on accompanying CD) that the contractual disadvantage of preferred shares is, at bottom, not so much a matter of inherent legal rights as it is of practical corporate procedure and of the investor’s own shortcomings.
+
+**Tendency of Securities of Insolvent Companies to Sell below Their Fair Value.** Some additional aspects of the corporate-reorganization question deserve attention. The first relates to the market action of securities of insolvent companies. Receiverships in the past have been productive generally of a vast and pervasive uncertainty, which threatens extinction to the stockholders but fails to promise anything specific to the bondholders. As a result there has been a tendency for the securities of companies in receivership to sell below their fair value in the aggregate; and also a tendency for illogical relationships to be established between the price of a bond issue in default and the price of the junior stock issues.
+
+*Examples:* The Fisk Rubber Company case is an excellent example of the former point; the Studebaker Corporation situation in September 1933 illustrates the latter.
+
+<table>
+  <tr>
+    <th>Market Value of Fisk Rubber Securities in April 1932</th>
+    <th>&nbsp;</th>
+  </tr>
+  <tr>
+    <td>$7,600,000 First 8s @16</td>
+    <td>$1,200,000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
