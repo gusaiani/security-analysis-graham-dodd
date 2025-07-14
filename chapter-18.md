@@ -78,43 +78,90 @@ It may be objected that the suggested arrangement would really give a bondholder
     <td>$1,200,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>8,200,000 Debenture 5½s@11</td>
+    <td>900,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Stock issues</td>
+    <td>Nominal</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Total market value of the company</td>
+    <td>$2,100,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Balance Sheet, June 30, 1932</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Cash</td>
+    <td>$7,687,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Receivables (less reserve of $1,425,000)</td>
+    <td>4,838,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Inventories (at lower of cost or market)</td>
+    <td>3,216,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>$15,741,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Accounts Payable</td>
+    <td>363,000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Net current assets</td>
+    <td>$15,378,000</td>
+  </tr>
+  <tr>
+    <td>Fixed assets (less $8,400,000 depreciation)</td>
+    <td>23,350,000</td>
   </tr>
 </table>
+
+The company’s securities were selling together for less than one-third of the cash alone, and for only one-seventh of the net current assets, allowing nothing for the fixed property.
+
+##### Studebaker Corporation, September 1933
+
+<table>
+  <tr>
+    <th>Issue</th>
+    <th>Face amount</th>
+    <th>Market price</th>
+    <th>Market value</th>
+  </tr>
+  <tr>
+    <td>10-year 6% notes and other claims</td>
+    <td>$22,000,000</td>
+    <td>40</td>
+    <td>$8,800,000</td>
+  </tr>
+  <tr>
+    <td>Preferred stock</td>
+    <td>5,800,000</td>
+    <td>27</td>
+    <td>$1,500,000</td>
+  </tr>
+  <tr>
+    <td>Common stock (2,464,000 shares)</td>
+    <td>&nbsp;</td>
+    <td>6</td>
+    <td>$14,700,000</td>
+  </tr>
+  <tr>
+    <td>Total value of stock issues</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>$16,200,000</td>
+  </tr>
+</table>
+
+The company’s debt, selling at 40 cents on the dollar, was entitled to *prompt payment in full* before the stockholder received anything. Nevertheless, the market placed a much larger value upon the stock issues than upon the prior debt.
+
+**Voluntary Readjustment Plans.** Realization of the manifest disadvantages of receivership has often led bondholders to accept suggestions emanating from the management for a voluntary reduction of their contractual claims. Arrangements of this kind have varied from the old-fashioned type of “composition” (in which creditors extended or even curtailed their claims, while the stockholders retained their interest intact) to cases where the bondholders received a substantial part of the stock equity.
+
+*Examples:* At the end of 1931 Radio-Keith-Orpheum Corporation, needing funds to meet pressing obligations, found ordinary financing impossible. The stockholders ratified a plan under which in effect they surrendered 75% of their stock interest, which was given in turn as a bonus to those who supplied the $11,600,000 required by purchasing debenture notes. (Continued large losses, however, forced the company into receivership a year later.)
