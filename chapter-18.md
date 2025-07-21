@@ -173,3 +173,17 @@ The Kansas City Public Service Company readjustment plans, also consummated in 1
 It was obvious that the Kansas City Public Service bondholders were better off to accept temporarily the 3% which could be paid rather than to insist on the 6% which could not be paid and thereby precipitate a receivership. (The previous receivership of the enterprise, terminated in 1926, had lasted six years.) In this case the stockholders were not required to give up any part of their junior interest to the bondholders in return for the concessions made. While theoretically some such sacrifice and transfer would be equitable, it was not of much practical importance here because any stock bonus given to the bondholders would have had a very slight market value. It should be recognized as a principle, however, that the waiving of any important right by the bondholders entitles them to some *quid pro quo* from the stockholders—in the form either of a contribution of cash to the enterprise or of a transfer of some part of their claim on future earnings to the bondholders.
 
 In 1939 additional legislation of a temporary nature was adopted, designed to facilitate so called “voluntary reorganizations” of railroads by making them binding on all security holders. This statute was intended specifically to aid the Baltimore and Ohio and Lehigh Valley roads, which had previously proposed voluntary reorganization plans. These were designed to reduce fixed-interest charges and to extend current and near maturities. The stockholders, in each case, were to retain their interests intact.
+
+As we have previously stated, it is our opinion that voluntary readjustment plans are desirable in themselves, but they should be proposed *after* voting control over the corporation has passed to the bondholders, and they are in a position to choose between alternative courses of action.
+
+**Changes in the Status of Bond Trustees.** Not the least important of the remedial legislation enacted since 1933 is the “Trust Indenture Act of 1939.” This undertakes to correct a number of inadequacies and abuses in the administration of their duties by bond trustees. The chief criticism of the behavior of indenture trustees in the past is that they did not act as trustees at all but merely as agents of the bondholders. This meant that as a general rule they took no action on their own initiative but only when directed to do so and were fully indemnified by a certain percentage of the bondholders. Indentures have said practically nothing about the duties of a trustee but a great deal about his immunities and indemnification.
+
+The 1939 statute aims directly at this unsatisfactory situation by including the following provision (in Section 315):
+
+```
+Duties of the Trustee in Case of Default
+
+(c) The indenture to be qualified shall contain provisions requiring the indenture trustee to exercise in case of default (as such term is defined in the indenture) such of the rights and powers vested in it by such indenture, and to use the same degree of care and skill in their exercise, as a prudent man would exercise or use under the circumstances in the conduct of his own affairs.
+```
+
+There are further provisions limiting the use of so-called “exculpatory clauses,” which in the past made it impossible to hold a trustee to account for anything except provable fraud or else negligence so gross as to be equivalent thereto.
