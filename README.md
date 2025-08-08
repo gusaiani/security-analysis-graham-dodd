@@ -31,6 +31,8 @@
 
 [Chapter 18: Protective Covenants and Remedies of Senior Security Holders](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-18.md)
 
+[Chapter 19: Protective Covenants (Continued)](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-19.md)
+
 ##### Part IV - Theory of Common-Stock Investment. The Dividend Factor
 
 [Chapter 27: The Theory of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-27.md)
