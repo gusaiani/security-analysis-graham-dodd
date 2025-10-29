@@ -33,7 +33,7 @@
 
 [Chapter 19: Protective Covenants (Continued)](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-19.md)
 
-[Chapter 21: Supervision of Investment Holdings](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-20.md)
+[Chapter 21: Supervision of Investment Holdings](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-21.md)
 
 ##### Part IV - Theory of Common-Stock Investment. The Dividend Factor
 
