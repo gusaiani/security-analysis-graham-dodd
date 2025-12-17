@@ -42,4 +42,45 @@ In September 1938 the debentures could have been bought on the New York Stock Ex
 
 Late in 1924 they could have been bought on a parity basis (*i.e.*, without payment of a premium for the conversion privilege) at prices close to par. Specifically, they sold on November 28, 1924, at 101 when the stock sold at 91. At that time the company’s earnings were showing continued improvement and indicated that the bonds were adequately secured. (Fixed charges were covered twice in 1924.) The value of the conversion privilege was shown by the fact that the stock sold at 131 in the next year, making the bonds worth 145.
 
-3. *Rand Kardex Bureau, Inc., 5½s Due 1931.* These bonds were originally offered in December 1925 at 99½. They carried stock-purchase warrants (detachable after January 1, 1927) entitling the holder to purchase 22½ shares of Class *A* common at $40 per share during 1926, at $24.50 per share during 1924, at $45 per share during 1938, at $47.50 per share during 1929, and at $50 per share during 1930.
+3. *Rand Kardex Bureau, Inc., 5½s Due 1931.* These bonds were originally offered in December 1925 at 99½. They carried stock-purchase warrants (detachable after January 1, 1927) entitling the holder to purchase 22½ shares of Class *A* common at $40 per share during 1926, at $24.50 per share during 1924, at $45 per share during 1938, at $47.50 per share during 1929, and at $50 per share during 1930. (The Class *A* stock was in reality a participating preferred issue.) The bonds could be turned in at par in payment for the stock purchased under the warrants, a provision that virtually made the bonds convertible into the stock.
+
+The bonds appeared to be adequately secured. The previous exhibit (based on the earnings of the predecessor companies) showed the following coverage for the interest on the new bond issue:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Number of Times Interest Covered</th>
+  </tr>
+  <tr>
+    <td>1921 (depression year)</td>
+    <td>1.7</td>
+  </tr>
+  <tr>
+    <td>1922 (depression year)</td>
+    <td>2.3</td>
+  </tr>
+  <tr>
+    <td>1923</td>
+    <td>6.7</td>
+  </tr>
+  <tr>
+    <td>1924</td>
+    <td>7.2</td>
+  </tr>
+  <tr>
+    <td>1925 (9 months)</td>
+    <td>12.2</td>
+  </tr>
+</table>
+
+Net current assets exceed twice the face value of the bond issue.
+
+When the bonds were offered to the public, the Class *A* stock was quoted at about 42, indicating an immediate value for the stock-purchase warrants. The following year the stock advanced to 53, and the bonds to 130½. In 1927 (when Rand Kardex merged with Remington Typewriter) the stock advanced to 76, and the bonds to 190.
+
+**Example of an Unattractive Issue.** By way of contrast with these examples we shall supply an illustration of a superficially attractive but basically unsound convertible offering, such as characterized the 1928—1929 period.
+
+*National Trade Journals, Inc., 6% Convertible Notes, Due 1938.* The company was organized in February 1938 to acquire and publish about a dozen trade journals. In November 1928 it sold $2,800,000 of the foregoing notes at 97½. The notes were initially convertible into 27 shares of common stock (at $37.03 per share) until November 1, 1930; into 25 shares (at $40 a share) from the latter date until November 1, 1932; and at prices that progressively increased to $52.63 a share during the last two years of the life of the bonds.
+
+These bonds could have been purchaesd at the time of issuance and for several months thereafter at prices only slightly above their parity value as compared with the market value of the equivalent stock. Specifically, they could have been bought at 97½ on November 30, when the stock sold at 34⅛, which meant that the stock needed to advance only two points to assure a profit on conversion.
+
+However, at no time did the bonds appear to be adequately secured, despite the attractive picture presented in the offering circular.
