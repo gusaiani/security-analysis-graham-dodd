@@ -83,4 +83,79 @@ When the bonds were offered to the public, the Class *A* stock was quoted at abo
 
 These bonds could have been purchaesd at the time of issuance and for several months thereafter at prices only slightly above their parity value as compared with the market value of the equivalent stock. Specifically, they could have been bought at 97½ on November 30, when the stock sold at 34⅛, which meant that the stock needed to advance only two points to assure a profit on conversion.
 
-However, at no time did the bonds appear to be adequately secured, despite the attractive picture presented in the offering circular.
+However, at no time did the bonds appear to be adequately secured, despite the attractive picture presented in the offering circular. The circular exhibited “estimated” earnings of the predecessor enterprise based on the 3½ years preceding, which averaged 4.16 times the charges on the bond issue. But close to half of these estimated earnings were expected to be derived from economies predicted to result from the consolidation in the way of reduction of salaries, etc. The conservative investor would not be justified in taking these “earnings” for granted, particularly in a hazardous and competitive business of this type, with a relatively small amount of tangible assets.
+
+Eliminating the estimated “earnings” mentioned in the preceding paragraph the exhibit at the time of issuance and thereafter was as follows:
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Price range of bonds</th>
+    <th>Price range of stock</th>
+    <th>Prevailing conversion price</th>
+    <th>Times interest earned</th>
+    <th>Earned per share on common</th>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>1.73\*</td>
+    <td>$0.78\*</td>
+  </tr>
+  <tr>
+    <td>1926</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>2.52\*</td>
+    <td>1.84\*</td>
+  </tr>
+  <tr>
+    <td>1927</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>2.80\*</td>
+    <td>2.20\*</td>
+  </tr>
+  <tr>
+    <td>1928</td>
+    <td>100–97½</td>
+    <td>35 7/8 —30</td>
+    <td>$37.03</td>
+    <td>1.69†</td>
+    <td>1.95</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>99–50</td>
+    <td>34 ::5/8—5</td>
+    <td>37.03</td>
+    <td>1.86†</td>
+    <td>1.04</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>42—10</td>
+    <td>6 3/8—½</td>
+    <td>37.03—40</td>
+    <td>0.09†</td>
+    <td>—1.68</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>10½—5</td>
+    <td>1</td>
+    <td>40.00</td>
+    <td>Receivership</td>
+    <td></td>
+  </tr>
+</table>
+
+* Predecessor enterprise. Pre-share figures are after estimating federal taxes.
+
+† Actual earnings for last 10 months of 1928 and succeeding calendar years.
+
+Receivers were appointed in June 1931. The properties were sold in August of that year, and bondholders later received about 8½ cents on the dollar.
