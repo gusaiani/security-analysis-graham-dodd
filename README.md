@@ -39,6 +39,8 @@
 
 [Chapter 22: Privileged Issues](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-22.md)
 
+[Chapter 23: Technical Characteristics of Privileged Senior Securities](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-23.md)
+
 ##### Part IV - Theory of Common-Stock Investment. The Dividend Factor
 
 [Chapter 27: The Theory of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-27.md)
