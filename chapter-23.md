@@ -40,3 +40,64 @@ Where the speculative approach is followed, *i.e.*, where the issue is bought pr
 a. The *extent* of the profit-sharing or speculative interest per dollar of investment.
 b. The *closeness* of the privilege to a realizable profit at the time of purchase.
 c. The *duration* of the privilege.
+
+The amount of speculative interest attaching to a convertible or warrant-bearing senior security is equal to the current market value of the number of shares of stock covered by the privilege. Other things being equal, the larger the amount of the speculative interest per dollar of investment the more attractive the privilege.
+
+*Examples:* Rand Kardex 5½s, previously described, carried warrants to buy 22:12 shares of Class *A* stock initially at 40. Current price of Class *A* stock was 42. The “speculative interest” amounted to 22:12 × 42, or $945 per $1,000 bond.
+
+Reliable Stores Corporation 6s, offered in 1927, carried warrants to buy only 5 shares of common stock initially at 10. Current price of the common ws 12. Hence the “speculative interest” amounted to 5 × 12 or only $60 per $1,000 bond.
+
+Intercontinental Rubber Products Co. 7s offered an extraordinary example or a large speculative interest attaching to a bond. As a result of peculiar provisions surrounding their issuance in 1922, each $1,000 note was convertible into 100 shares of stock and also carried the right to purchase 400 additional shares at 10. When the stock sold at 10 in 1925, the speculative interest per $1,000 note amounted to 500 × 10, or $5,000. If the notes were then selling, say, at 120, the speculative interest would have equalled 417% of the bond investment—or 70 *times* as great as in the case of the Reliable Stores offering.
+
+The practical importance of the amount of speculative interest can be illustrated by the following comparison, covering the three examples above given.
+
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Reliable Stores 6s</th>
+    <th>Rand Kardex 5½s</th>
+    <th>Intercontinental Rubber 7s</th>
+  </tr>
+  <tr>
+    <th>Number of shares covered by each $1,000 bond</th>
+    <th>5</th>
+    <th>22½</th>
+    <th>500</th>
+  </tr>
+  <tr>
+    <th>Base price</th>
+    <th>$10.00</th>
+    <th>$40.00</th>
+    <th>10.00</th>
+  </tr>
+  <tr>
+    <th>Increase in value of bond when stock advances:</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>25% above base price</th>
+    <th>12.50</th>
+    <th>225.00</th>
+    <th>1,250.00</th>
+  </tr>
+  <tr>
+    <th>50% above base price</th>
+    <th>25.00</th>
+    <th>450.00</th>
+    <th>2,500.00</th>
+  </tr>
+  <tr>
+    <th>100% above base price</th>
+    <th>50.00</th>
+    <th>900.00</th>
+    <th>5,000.00</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</table>
