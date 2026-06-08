@@ -59,45 +59,45 @@ The practical importance of the amount of speculative interest can be illustrate
     <th>Intercontinental Rubber 7s</th>
   </tr>
   <tr>
-    <th>Number of shares covered by each $1,000 bond</th>
-    <th>5</th>
-    <th>22½</th>
-    <th>500</th>
+    <td>Number of shares covered by each $1,000 bond</td>
+    <td>5</td>
+    <td>22½</td>
+    <td>500</td>
   </tr>
   <tr>
-    <th>Base price</th>
-    <th>$10.00</th>
-    <th>$40.00</th>
-    <th>10.00</th>
+    <td>Base price</td>
+    <td>$10.00</td>
+    <td>$40.00</td>
+    <td>10.00</td>
   </tr>
   <tr>
-    <th>Increase in value of bond when stock advances:</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td>Increase in value of bond when stock advances:</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>25% above base price</th>
-    <th>12.50</th>
-    <th>225.00</th>
-    <th>1,250.00</th>
+    <td>25% above base price</td>
+    <td>12.50</td>
+    <td>225.00</td>
+    <td>1,250.00</td>
   </tr>
   <tr>
-    <th>50% above base price</th>
-    <th>25.00</th>
-    <th>450.00</th>
-    <th>2,500.00</th>
+    <td>50% above base price</td>
+    <td>25.00</td>
+    <td>450.00</td>
+    <td>2,500.00</td>
   </tr>
   <tr>
-    <th>100% above base price</th>
-    <th>50.00</th>
-    <th>900.00</th>
-    <th>5,000.00</th>
-  </tr>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td>100% above base price</td>
+    <td>50.00</td>
+    <td>900.00</td>
+    <td>5,000.00</td>
   </tr>
 </table>
+
+In the case of convertible bonds the speculative interest always amounts to 100% of the bond at par when the stock sells at the conversion price. Hence in these issues our first and second component elements express the same fact. If a bond selling at par is convertible into stock at 50, and if the stock sells at 30, then the speculative interest amounts to 60% of the commitment, which is the same thing as saying that the current price of the stock is 60% of that needed before conversion would be profitable.Stock-purchase-warrant issues disclose no such fixed relationship between the amount of the speculative interest and the proximity of this interest to a realizable profit. In the case of the Reliable Stores 6s, the speculative interest was very small, but it showed an actual profit at the time of issuance, since the stock was selling *above* the subscription price.
+
+*Significance of Call on Large Number of Shares at Low Price.* It may be said parenthetically that a speculative interest in a large number of shares selling at a low price is technically more attractive than one in a smaller number of shares selling at a high price. This is because low-priced shares are apt to fluctuate over a wider range *percentagewise* than higher prices stocks. Hence if a bond is both well secured and convertible into many shares at a low price, it will have an excellent chance for very large profit without being subject to the offsetting risk of greater loss through a speculative dip in the price of the stock.
+
+For example, as a matter of *form* of privilege, the Ohio Copper Company 7s, due 1931, convertible into 1,000 shares of stock selling at $1, had better possibilities than the Atchison, Topeka and Santa Fe Convertible 4½s, due 1948, convertible into 6 shares of common, selling at 166 2/3 although in each case the amount of speculative interest equalled $1,000 per bond.
