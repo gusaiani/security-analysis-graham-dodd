@@ -125,3 +125,63 @@ The reason for this phenomenon is as follows: The price of the common stock is m
 The same anomaly arises in the case of closely held common stocks with voting power, compared with the more active nonvoting issue of the same company. American Tobacco *B* and Liggett and Myers Tobacco *B* (both nonvoting) have for years sold higher than the voting stock. A similar situation formely existed in the two common issues of Bethlehem Steel, Pan American Petroleum and others. The paradoxical principle holds true for the securities market generally that *in the absence of a special demand* relative scarcity is likely to make for a lower rather than a higher price.
 
 In cases such as Westinghouse and American Tobacco the proper corporate policy would be to extend to the holder of the intrinsically more valuable issue the privilege of exchanging it for the more active but intrinsically inferior issue. The White Rock company actually took this step. Although the holders of the participating preferred might make a mistake in accepting such an offer, they cannot object to its being made to them, and the common stockholders may gain but cannot lose through its acceptance.
+
+**Relative Price Behavior of Convertible and Warrant-bearing Issues.** From the standpoint of price behavior under favorable market conditions the best results are obtained by holders of senior securities with detachable stock-purchase warrants.
+
+To illustrate this point we shall compare certain price relationships shown in 1929 between four privileged issues and the corresponding common stocks. The issues are as follows:
+
+1. Mohawk Hudson Power Corporation 7% Second Preferred, carrying warrants to buy 2 shares of common at 50 for each share of preferred.
+
+2. Whise Sewing Machine Corporation 6% Debentures, due 1936, carrying warrants to buy 2½ shares of common stock for each $100 bond.
+
+3. Central States Electric Corporation 6% Preferred, convertible into common stock at $118 per share.
+
+4. Independent Oil and Gas Company Debentures 6s, due 1939, convertible into common stock at $32 per share.
+
+The following table shows in striking fashion that in speculative markets issues with purchase warrants have a tendency to sell at large premiums in relation to the common-stock price and that these premiums are much greater than in the case of similarly situated convertible issues.
+
+<table>
+  <th>
+    <td>Senior Issue</td>
+    <td>Market price of common</td>
+    <td>Conversion or subscription price of common</td>
+    <td>Price of senior issue</td>
+    <td>Realizable value of senior issue based on privilege (conversion or subscription parity)</td>
+    <td>Amount by which senior issue sold above parity, (“premium”), points</td>
+  </th>
+  <tr>
+    <td>Mohawk Hudson 2d Pdf</td>
+    <td>52½</td>
+    <td>50</td>
+    <td>163\*</td>
+    <td>105</td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td>White Sewing Machine 6s</td>
+    <td>39</td>
+    <td>40</td>
+    <td>123½†</td>
+    <td>97½</td>
+    <td>26</td>
+  </tr>
+  <tr>
+    <td>Central States Electric Pfd</td>
+    <td>116</td>
+    <td>118</td>
+    <td>97</td>
+    <td>98</td>
+    <td>-1</td>
+  </tr>
+  <tr>
+    <td>Independent Oil & Gas 6s</td>
+    <td>31</td>
+    <td>32</td>
+    <td>105</td>
+    <td>97</td>
+    <td>8</td>
+  </tr>
+</table>
+
+\* Consisting of 107 for the preferred stock, ex-warrants, plus 56 for the warrants.
+† Consisting of 98½ for the bonds, ex-warrants, plus 25 for the warrants.
