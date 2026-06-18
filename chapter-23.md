@@ -196,4 +196,21 @@ Even in the case of a *convertible* issue a callable feature is technically a se
 
 But in the case of issues with stock-purchase warrants, the subscription privilege almost invariably runs its full time even though the senior issue itself may be called prior to maturity. If the warrant is detachable, it simply continues its separate existence until its own expiration date. Frequently, the subscription privilege is made “nondetachable”; *i.e.*, it can be exercised only by presentation of the senior security. But even in these instances, if the issue should be redeemed prior to the expiration of the purchase-option period, it is customary to give the holder a separate warrant running for the balance of the time originally provided.
 
-*Example:* Prior to January 1, 1934, United Aircraft and Transport Corporation had outstanding 150,000 shares of 6% Cumulative Preferre stock.
+*Example:* Prior to January 1, 1934, United Aircraft and Transport Corporation had outstanding 150,000 shares of 6% Cumulative Preferred stock. These shares carried nondetachable warrants for one share of common stock at $30 a share for each two shares of preferred stock held. The subscription privilege was to run to November 1, 1938, and was protected by a provision for the issuance of a detached warrant evidencing the same privilege per share in case the preferred stock was redeemed prior to November 1, 1938. Some of the preferred stock was called for redemption on January 1, 1933, and detached warrants were accordingly issued to the holders thereof. (A year later the remainder of the issue was called and additional warrants issued.)
+
+**Third Advantage of Warrant-bearing Issues.** Subscription-warrant issues have still a third advantage over other privileged securities, and this is in a practical sense probably the most important of all. Let us consider what courses of conduct are open to holders of each type in the favorable event that the company prospers, that a high dividend is paid on the common, and that the common sells at a high price.
+
+1. Holder of a participating issue:
+  a. May sell at a profit.
+  b. May hold and receive participating income.
+2. Holder of a convertible issue:
+  a. May sell at a profit.
+  b. May hold but will receive no benefit from high common dividend.
+  c. May convert to secure larger income but sacrifices his senior position.
+3. Holder of an issue with stock-purchase warrants:
+  a. May sell at a profit
+  b. May hold but will receive no benefit from high common dividend.
+  c. May subscribe to common to receive high dividend. He may invest new capital, or he may sell or apply his security ex-warrants to provide funds to pay for the common. In either case he undertakes the risks of a common stockholder in order to receive the high dividend income.
+  d. May dispose of his warrants at a cash profit and retain his original security, ex-warrants. (The warrant may be sold directly, or he may subscribe to the stock and immediately sell it at the current indicated profit.)
+
+The fourth option listed above is peculiar to a subscription-warrant issue and has no counterpart in convertible or participating securities. It permits the holder to cash his profit from the speculative component of the issue and still maintain his original *investment* position. Since the typical buyer of a privileged senior issue should be interested primarily in making a sound investment—with a secondary opportunity to profit from the privilege‚ this fourth optional course of conduct may prove a great convenience.
