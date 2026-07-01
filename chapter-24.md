@@ -71,3 +71,7 @@ If the stock sells at 360, a straight conversion basis of 180 would make the bon
 This arrangement might be characterized as a combination of a conversion privilege at 180 with a stock purchase right at 100.
 
 **Delayed Conversion Privilege.** The privilege of converting is sometimes not operative immediately upon the issuance of the obligation.
+
+*Examples:* This was true, for example, of Brooklyn Union Gas Company Convertible 5½s, discussed in Note 38 of the Appendix on accompanying CD. Although they were issued in December 1925, the right to convert did not accrue until January 1, 1929. Similarly, New York, New Haven, and Hartford Railroad Company Convertible Debenture 6s, due in 1948, although issued  in 1907, were not convertible until January 15, 1923; Chesapeake Corporation Convertible 5s, due 1947, were issued in 1927 but did not become convertible until May 15, 1932.
+
+More commonly the suspension of the conversion privilege does not last so long as these examples indicate, but in any event this practice introduces an additional factor of uncertainty and tends to render the privilege less valuable than it would be otherwise. This feature may account in part for the spread, indicated in Note 38, page 772, of the Appendix on accompanying CD, which existed during 1926, 1927, and the early part of 1928 between the Brooklyn Union Gas Company 5½s and the related common stock.

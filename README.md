@@ -43,6 +43,8 @@
 
 [Chapter 24: Technical Aspects of Convertible Issues](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-24.md)
 
+[Chapter 26: Senior Securities of Questionable Safety](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-26.md)
+
 ##### Part IV - Theory of Common-Stock Investment. The Dividend Factor
 
 [Chapter 27: The Theory of Common-Stock Investment](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-27.md)
