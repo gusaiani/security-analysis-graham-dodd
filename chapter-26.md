@@ -45,3 +45,78 @@ In the typical case of this kind the chance of profit will exceed the chance of 
 *Limitations upon Importance of Current-asset Position.* It is clear that considerable weight attaches to the working-capital exhibit in selecting speculative bonds. This importance must not be exaggerated, however, to the point of assuming that, whenever a bond is fully covered by net current assets, its safety is thereby assured. The current assets shown in any balance sheet may be greatly reduced by subsequent operating losses; more important still, the stated values frequently prove entirely undependable in the event of insolvency.
 
 Of the many examples of this point which can be given, we shall mention R. Hoe and Company 7% Notes and Ajax Rubber Company First 8s. Although these obligations were covered by net working capital in 1929, they subsequently sold as low as 2 cents on the dollar. (See also our discussion of Willys-Overland Company 6½s and Berkey and Gay Furniture Company First 6s in Note 34 of the Appendix on accompanying CD.)
+
+##### Examples of Low-Priced Industrial Bonds Covered By Net Current Assets, 1932
+
+<table>
+  <tr>
+    <th>Name of issue</th>
+    <th>Due</th>
+    <th>Low price 1932</th>
+    <th>Date of balance sheet</th>
+    <th>Net current assets</th>
+    <th>Funded debt at part</th>
+    <th>Normal interest coverage Period</th>
+    <th>Normal interest coverage Times earned</th>
+  </tr>
+  <tr>
+    <td>American Seating 6s</td>
+    <td>1936</td>
+    <td>17</td>
+    <td>Sept. 1932</td>
+    <td>$3,826</td>
+    <td>$3,056</td>
+    <td>1924-1930</td>
+    <td>5.2</td>
+  </tr>
+  <tr>
+    <td>Crucible Steel 5s</td>
+    <td>1940</td>
+    <td>39</td>
+    <td>June 1932</td>
+    <td>16,163</td>
+    <td>13,250</td>
+    <td>1924-1930</td>
+    <td>9.4</td>
+  </tr>
+  <tr>
+    <td>McKesson & Robbins 5½s</td>
+    <td>1950</td>
+    <td>25</td>
+    <td>June 1932</td>
+    <td>42,885</td>
+    <td>20,848</td>
+    <td>1925-1930</td>
+    <td>4.1</td>
+  </tr>
+  <tr>
+    <td>Marion Seam Shovel 6s</td>
+    <td>1947</td>
+    <td>21</td>
+    <td>June 1932</td>
+    <td>4,598</td>
+    <td>2,417</td>
+    <td>1922-1930</td>
+    <td>3.9</td>
+  </tr>
+  <tr>
+    <td>National Acme 6s</td>
+    <td>1942</td>
+    <td>54</td>
+    <td>Dec. 1931</td>
+    <td>4,327</td>
+    <td>1,963</td>
+    <td>1922-1930</td>
+    <td>5.5</td>
+  </tr>
+</table>
+
+We must distinguish, therefore, between the mere fact that the working capital, as reported, covers the funded debt and the more significant fact that it exceeds the bond issue *many times over*. The former statement is always interesting, but by no means conclusive. If added to other favorable factors, such as a good earnings coverage in normal years and a generally satisfactory qualitative showing, it might make the issue quite attractive but preferably as part of a group-purchase in the field.
+
+**Speculative Preferred Stocks.** *Stages in Their Price History.* Speculative preferred stocks are more subject than speculative bonds to irrational activity, so that from time to time such preferred shares are overvalued in the market in the same way as common stocks. We thus have three possible stages in the price history of a preferred issue, in each of which the market quotations tends to be out of line with the value:
+
+1. The first stage is that of original issuance, when investors are persuaded to buy the offering at a full investment price not justified by its intrinsic merit.
+
+2. In the second stage the lack of investment merit has become manifest, and the price drops to a speculative level. During this period the decline is likely to be overdone, for reasons previously discussed.
+
+3. A third stage sometimes appears in which the issue advances speculatively in the same fashion as common stocks. On such occasions certain factors of questionable importance—such as the amount of dividend accumulations—are overemphasized.
