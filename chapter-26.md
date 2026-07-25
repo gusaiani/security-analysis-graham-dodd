@@ -120,3 +120,19 @@ We must distinguish, therefore, between the mere fact that the working capital, 
 2. In the second stage the lack of investment merit has become manifest, and the price drops to a speculative level. During this period the decline is likely to be overdone, for reasons previously discussed.
 
 3. A third stage sometimes appears in which the issue advances speculatively in the same fashion as common stocks. On such occasions certain factors of questionable importance—such as the amount of dividend accumulations—are overemphasized.
+
+An example fo this third or irrational stage will be given a little later.
+
+*The Rule of “Maximum Valuation for Senior Issues.”* Both as a safeguard against being led astray by the propaganda that is characteristic of the third stage and also as a general guide in dealing with speculative senior issues, the following principle of security analysis is presented, which we shall call “the rule of maximum valuation for senior issues.”
+
+```
+A senior issue cannot be worth, intrinsically, any more than a common stock would be worth if it occupied the position of that senior issue, with no junior securities outstanding.
+```
+
+This statement may be understood more readily by means of an example.
+
+Company *X* and Company *Y* have the same value. Company *X* has 80,000 shares of preferred and 200,000 shares of common. Company *Y* has only 80,000 shares of common and no preferred. Then our principle states that a share of Company *X* preferred cannot be worth more than share of Company *Y* common. This is true because Company *Y* common represents the same value that lies behind *both* the preferred and common of company *X*.
+
+Instead of comparing two equivalent companies such as *X* and *Y*, we may assume that Company *X* is recapitalized so that the old common is eliminated and the preferred becomes the sole stock issue, *i.e.*, the new common stock. (To coin a term, we may call such an assumed changed the “commonizing” of a preferred stock.) Then our principle merely states the obvious fact that the value of such a hypothetical common stock cannot be *less* than the value of the preferrd stock it replaces, because it is equivalent to the preferred *plus* the old common. The same idea may be applied to a speculative bond, followed either by common stock only or by both preferred and common. If the bond is “commonized,” *i.e.*, if it is assumed to be turned into a common stock, with the old stock issues eliminated, then the value of the new common stock thus created cannot be less than the present value of the bond.
+
+This relationship must hold true regardless of how high the coupon or dividend rate, the par value or the redemption price of the senior issue may be and, particularly, regardless of what amount of unpaid interest or dividends may have accumuated. For if we had a preferred stock with accumulations of $1,000 per share, the value of the issue could be no greater than if it were a common stock (without dividend accumulations) representing complete ownership of the business. The unpaid dividends cannot create any additional value for the company’s securities in the aggregate; they merely affect the division of the total value between the preferred and the common.
