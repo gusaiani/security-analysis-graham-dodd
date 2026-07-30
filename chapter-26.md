@@ -142,3 +142,42 @@ This relationship must hold true regardless of how high the coupon or dividend r
 American Zinc preferred stock was created in 1916 as a stock dividend on the common, the transaction thus amounting to a split-up of old common into preferred and new common. The preferred was given a stated par of $25 but had all the attributes of a $100-par stock ($6 cumulative dividends, redemption and liquidating value of $100). This arrangement was evidently a device to permit carrying the preferred issue in the balance sheet as a much smaller liability than it actually represented. Between 1920 and 1927 the company reported continuous deficits (except for a negligible profit in 1922); preferred dividends were suspended in 1921, and by 1928 about $40 per share had accumulated.
 
 In 1928 the company benefited moderately from the prevailing prosperity and barely earned $6 per share on the preferred. However, the company’s issues were subjected to manipulation that advanced the price of the preferred from 35 in 1927 to 118 in 1928, while the common rose even more spectacularly from 6 to 57. These advances were accompanied by rumors of a plan to pay off the accumulated divideds—exactly how, not being stated. Naturally enough, this development failed to materialize.
+
+The irrationality of the gambling spirit is well shown here by the absurd acceptance of unpaid preferred dividends *as a source of value for both the preferred and the common*. The speculative argumen in behalf of the caommon stock ran as follows: “The accumulated preferred dividends are going to be paid off. This will be good for the common. Therefore let us buy the common.” According to this topsy-turvy reasoning, if there were no unpaid preferred dividends ahead of the common it would be less attractive (even at the same price), because there would then be in prospect no wonderful plan for clearing up the accumulations.
+
+We may use the American Zinc example to demonstrate the practical application of our “rule of maximum valuation for senior issues.” Was American Zinc Preferred too high at 118 in 1928? Assuming the preferred stockholders owned the company completely, this would then mean a price of 118 for a *common* stock earning $6 per share in 1928 after eight years of deficits. Even in the hectic days of 1928 speculators would not have been at all attracted to such a common stock at that price, so that the application of our rule should have prevented the purchase of the preferred stock at its inflated value.
+
+The quotation of 57 reached by American Zinc common was evidently the height of absurdity, since it represented the following valuation for the company:
+
+<table>
+  <tr>
+    <td>Preferred stock, 80,000 sh. @ 118</td>
+    <td>$9,440,000</td>
+  </tr>
+  <tr>
+    <td>Common stock, 200,000 sh. @57</td>
+    <td>11,400,000</td>
+  </tr>
+  <tr>
+    <td>Total valuation</td>
+    <td>$20,840,000</td>
+  </tr>
+  <tr>
+    <td>Earnings, 1928</td>
+    <td>481,000</td>
+  </tr>
+  <tr>
+    <td>Average earnings, 1920-1927</td>
+    <td>188,000(d)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+In order to equal the above valuation of the American Zinc Company the hypothetical common stock (80,000 shares basis) would have had to sell at $260 *per share*, earning a bare $6 and paying no dividend.
+
+This figure indicates the extent to which the heedless public was led astray in this case by the exploitation of unpaid dividends.
+
+American Hide and Leather Company offers another, but less striking, example of this point. In no year between 1922 and 1928, inclusive, did the company earn more than $4.41 on the preferred, and the average profits were very small. Yet in each of these seven years, the preferred stock sold as high as 66 or higher. This recurring strength was based largely on the speculative appeal of the enormous accumulated preferred dividends which grew from about $120 to $175 per share during this period.
