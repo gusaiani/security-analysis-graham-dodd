@@ -181,3 +181,23 @@ In order to equal the above valuation of the American Zinc Company the hypotheti
 This figure indicates the extent to which the heedless public was led astray in this case by the exploitation of unpaid dividends.
 
 American Hide and Leather Company offers another, but less striking, example of this point. In no year between 1922 and 1928, inclusive, did the company earn more than $4.41 on the preferred, and the average profits were very small. Yet in each of these seven years, the preferred stock sold as high as 66 or higher. This recurring strength was based largely on the speculative appeal of the enormous accumulated preferred dividends which grew from about $120 to $175 per share during this period.
+
+Applying our rule, we may consider American Hide and Leather Preferred as representing complete ownership of the business, which to all intents and purposes it did. We should then have a common stock which had paid no dividends for many years and with average earnings at best (using the 1922—1927 period) of barely $2 per share. Evidently a price of above 65 for such a common stock would be far too high. Consequently this price was excessive for American Hide and Leather Preferred, nor could the existence of accumulated dividends, however large, affect this conclusion in the slightest.
+
+**Variation in Capital Structure Affects Total Market Value of Securities.** From the foregoing discussion it might be inferred that the value of a single capital-stock issue must always be equivalent to the combined values of any preferred and common stock issues into which it might be split. In a theoretical sense this is entirely true, but in practice it may not be true at all, because a division of capitalization into senior securities and common stock may have a real advantage over a single common-stock issue. This subject will receive extended treatment under the heading of “Capitalization Structure” in Chap. 40.
+
+The distinction between the idea just suggested and our “rule of maximum valuation” may be clarified as follows:
+
+1. Assume Company *X* = Company *Y*
+2. Company *X* has preferred (*P*) and common (*C*); Company *Y* has common only (*C’*)
+3. Then it would *appear* that
+
+`Value of P + value of C = value of C’`
+
+since each side of the equation represents equal things, namely the total value of each company.
+
+But this apparent relationship may not hold good in practice because the preferred-and-common capitalization method may have real advantages over a single common-stock issue.
+
+On the other hand, our “rule of maximum valuation” merely states that the value of *P alone* cannot exceed value of *C’*. This should hold true in practice as well as in theory, except in so far as manipulative or heedlessly speculative activity brushes aside all rational considerations.
+
+Our rule is stated in negative form and is therefore essentially negative in its application. It is most useful in detecting instances where preferred stocks or bonds are *not worth* their market price. To apply it positively it would be necessary, first to arrive at a value for the preferred ona “communized” basis (*i.e.*, representing complete ownership of the business) and then to determine what deduction from this value should be made to reflect the part of the ownership fairly ascribable to the existing common stock. At times this approach will be found useful in establishing the fact that a given senior issue is worth more than its market price. But such a procedure brings us far outside the range of mathematical formulas and into the difficult and indefinite field of common-stock valuation, with which we have next to deal.
