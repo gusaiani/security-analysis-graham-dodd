@@ -53,6 +53,8 @@
 
 [Chapter 29: The Dividend Factor in Common-stock Analysis](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-29.md)
 
+[Chapter 30: Stock Dividends](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-30.md)
+
 ##### Part V - Analysis of the Income Account. The Earnings Factor in Common-Stock Valuation
 
 [Chapter 31: Analysis of The Income Account](https://github.com/gusaiani/security-analysis-graham-dodd/blob/master/chapter-31.md)
