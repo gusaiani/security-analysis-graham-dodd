@@ -50,3 +50,15 @@ American Can combined both devices at one time in 1926. It reduced the par value
 Similarly in 1929, the Coca-Cola Company paid a 100% stock dividend in Class *A* stock without par value. This stock was booked at $5 per share (lower than the stated value of the common) despite the fact that the Class *A* stock had all the characteristics of a $50-par, 6% preferred issue, except formal designation of such a par figure. (See also the accounting by this company of its 100% dividend payable in common stock in 1927, and also our discussion of its treatment of repurchases of Class *A* shares in Chap. 42.)
 
 **Objections to Extraordinary Stock Dividends and Split-Ups.** Extraordinary stock dividends and stock split-ups are both open to the serious objection that their declaration exercises an undue influence upon market prices and hence that they can afford an avenue for manipulation and for unfair profits by insiders. It is obvious that in theory a large stock dividend gives the stockholder nothing that he did not own before. His two pieces of paper now represent the same ownership formerly expressed by one piece of paper. This reasoning led the United States Supreme Court to decide that stock dividends are not income and consequently not subject to income tax. In practive, however, a stock dividend may readily be given exceptional speculative importance. For stock speculation is largely a matter of A trying to decide what B, C and D are likely to think—with B, C and D trying to do the same. Hence a stock dividend, even if it has no real significance of any kind, can and does serve as a stimulus to that *mutual attempt at taking advantage of each other* which often lies at the bottom of speculators’ activities.
+
+**Effect on the Cash Dividend Rate.** The essentially illusive character of large stock dividends would be more evident were it not for the fact that an investment element of real importance may also enter into the picture. The payment of an extraordinary stock dividend is usually the forerunner of an increase in the regular cash dividend rate. Since investors are legitimately interested in the cash dividend, they must necessarily be interested also in any stock dividend, for this may have a bearing upon the probable cash dividend. This serves to confuse the issue and to make less obtrusive the purely manipulative aspects of stock-dividend declarations.
+
+The dividend history of a successful industrial corporation frequently discloses the following sequence:
+
+1. A protracted period of small dividends in relation to earnings, with the upbuilding of a huge surplus.
+
+2. The sudden payment of a large stock dividend.
+
+3. An immediate increase in the regular cash dividend payments.
+
+No policy could be more conducive to the confusion of investment and speculative attitudes or lend itself more easily to the taking of unfair advantage by those in control.
