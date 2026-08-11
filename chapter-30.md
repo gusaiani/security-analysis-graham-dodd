@@ -62,3 +62,15 @@ The dividend history of a successful industrial corporation frequently discloses
 3. An immediate increase in the regular cash dividend payments.
 
 No policy could be more conducive to the confusion of investment and speculative attitudes or lend itself more easily to the taking of unfair advantage by those in control.
+
+#### Periodic Stock Dividends
+
+This policy represents a great advance in basic soundness over the haphazard and often inequitable practices that we have been discussing. Such practices involve first the large accumulation of undistributed earnings in  the surplus account, and second the ultimate capitalization thereof through stock dividends at arbitrary times and in arbitrary amounts. Assuming that in many cases it may be desirable to retain a good part of each year’s earnings in the business, then the interests of the stockholders would be best served by giving them currently a tangible evidence of their ownership of these reinvested profits.
+
+If an enterprise regularly earns $12 per share and pays out only $5 in cash, the stockholders would benefit greatly by receiving each year a stock dividend representing a good part of the $7 added to their company’s resources. In theory, of course, the additional stock certificate gives him nothing that he would not own without it; in other words, without a stock dividend his old certificate would still fully represent the ownership of the added $7 per share. But in actuality the payment of periodic stock dividends produces important advantages. Among them are the following:
+
+1. The stockholder can sell the stock-dividend certificate, so that at his option he can have either cash or more stock to represent the reinvested earnings. Without a stock dividend he might in theory accomplish the same end by selling a small part of the shares represented by his old certificate, but in practice this is difficult to calculate and inconvenient in execution.
+
+2. He is likely to receive larger cash dividends as a result of such a policy, because the established cash rate will usually be continued on the increased number of shares. For example, if a company earning $12 pays out $5 in cash and 5% in stock, in the next year it will most probably pay $5 in cash on the new capitalization, equivalent to $5.25 on the previous holdings. Without the stock dividend, it would probably continue the $5 rate unchanged.
+
+3. By adding the reinvested profits to the stated capital (instead of to surplus) the management is placed under a direct obligation to earn money and pay dividends on these added resources. No such accountability exists with respect to the profit and loss surplus. The stock-dividend procedure will serve not only as a challenge to the efficiency of the management but also as a proper test of the wisdom of reinvesting the sums involved.
