@@ -74,3 +74,19 @@ If an enterprise regularly earns $12 per share and pays out only $5 in cash, the
 2. He is likely to receive larger cash dividends as a result of such a policy, because the established cash rate will usually be continued on the increased number of shares. For example, if a company earning $12 pays out $5 in cash and 5% in stock, in the next year it will most probably pay $5 in cash on the new capitalization, equivalent to $5.25 on the previous holdings. Without the stock dividend, it would probably continue the $5 rate unchanged.
 
 3. By adding the reinvested profits to the stated capital (instead of to surplus) the management is placed under a direct obligation to earn money and pay dividends on these added resources. No such accountability exists with respect to the profit and loss surplus. The stock-dividend procedure will serve not only as a challenge to the efficiency of the management but also as a proper test of the wisdom of reinvesting the sums involved.
+
+4. Issues paying periodic stock dividends enjoy a higher market value than similar common stocks not paying such dividends.
+
+**Variations in the Practice of Periodic Stock-Dividend Payment.** The practice of disbursing periodic dividends developed fairly rapidly from about 1923 until the subsequent depression. Three variations of the idea were resorted to:
+
+1. The standard method was to pay a stock dividend in addition to the regular cash dividend. These stock dividends were paid either montly, quarterly, semiannually, or annually.
+
+2. Sometimes a periodic stock dividend was offered in lieu of the regular cash dividend. This took the form of an option to the stockholder to take a certain amount of either cash or stock.
+
+*Example:* The Seagrave Corporation paid a dividend quarterly at the annual rate of either $1.20 in cash or 10% in stock between 1925 and 1929, inclusive.
+
+3. In a few cases stock dividends only were paid, with no cash disbursement or option. The most prominent exponent of periodic stock dividends, the North American Company, followed this procedure by paying dividends of 2½% in stock, quarterly, between 1923 and 1933, in which latter year the payment was reduced to 2% quarterly. (In 1935 the company gave up the stock-dividend policy and returned to a cash-dividend basis.)
+
+**Objectionable Feature of Periodic Stock Dividends.** Nearly every financial practice is open to abuse, and periodic stock dividends have proved no exception. The objectionable feature in this case has been to establish a regular stock-dividend rate exceeding in market value the amount of the earnings carried to surplus. This practice makes the issue appear unduly attractive to the unintelligent buyer, who is deceived by the high cash value of the current payments in stock. It requires some insight into corporate accounting methods to realize the true significance of such stock-dividend payments.
+
+Let us use the outstanding North American Company case as an illustration. As we have stated, this company paid continuous stock dividends on the common shares at the rate of 10% annually for ten years. During most of this period the 10% stock dividend represented a payment of only $1 per share, as far as its books were concerned. This followed from the fact that prior to 1927 the par value of the stock was $10 and that after the shares were made no-par they were still given a “stated value” on the books at $10 per share. Hence 10% of either the par or the stated value amounted to only $1 per share. But from the investor’s viewpoint he was receiving dividends worth much more than $1 per share, because the market price of North American common far exceeded its par or stated value.
