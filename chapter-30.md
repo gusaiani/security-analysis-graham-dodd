@@ -90,3 +90,89 @@ If an enterprise regularly earns $12 per share and pays out only $5 in cash, the
 **Objectionable Feature of Periodic Stock Dividends.** Nearly every financial practice is open to abuse, and periodic stock dividends have proved no exception. The objectionable feature in this case has been to establish a regular stock-dividend rate exceeding in market value the amount of the earnings carried to surplus. This practice makes the issue appear unduly attractive to the unintelligent buyer, who is deceived by the high cash value of the current payments in stock. It requires some insight into corporate accounting methods to realize the true significance of such stock-dividend payments.
 
 Let us use the outstanding North American Company case as an illustration. As we have stated, this company paid continuous stock dividends on the common shares at the rate of 10% annually for ten years. During most of this period the 10% stock dividend represented a payment of only $1 per share, as far as its books were concerned. This followed from the fact that prior to 1927 the par value of the stock was $10 and that after the shares were made no-par they were still given a “stated value” on the books at $10 per share. Hence 10% of either the par or the stated value amounted to only $1 per share. But from the investor’s viewpoint he was receiving dividends worth much more than $1 per share, because the market price of North American common far exceeded its par or stated value.
+
+The facts will appear from the table that follows.
+
+It will be noted that beginning with the third quarterly payment in 1931, the amount charged against earnings for the stock dividend was advanced from $1 to $1.468 per share annually. This followed a request from the New York Stock Exchange that the charge against earnings or earned surplus covering the stock dividends reflect the interest of the new shares in the capital surplus as well as in the stated capital. Even afther this change was made, however, there remained a wide discrepancy between the amount at which the dividends were valued on the books and the value given these dividends by the stock market, and presumably by the stockholders, until the quotation suffered a further severe decline.
+
+*Danger of Vicious Circle Developing.* An arrangement of this kind is likely to develop into a vicious circle. The higher the market price the greater the apparent value of the stock dividends, which in turn will seem to justify a still higher market price. (With a 10% stock dividend the dividend return obviously remains at 10% regardless of how high the market price may climb.) Such a result is deceptive and supplies an unwholesome impetus to riotous speculation as well as to thoughtless investment. In effect it is the opposite of the practice followed many years ago by such companies as American Can and National Biscuit, when the market price was kept far below the true value of the shares by an unduly “conservative” dividend policy. It is fully as objectionable, of course, to pursue a policy calculated to create a market price higher than that warranted by the earnings and other value factors. Such an unjustified price must necessarily be of temporary duration and is likely to result (as does all improper accounting) in giving the initiated an unfair advantage over the investing public.
+
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Earnings per share</th>
+    <th>Range of market price</th>
+    <th>Value of the 10% stock dividend per company’s books</th>
+    <th>Value of the 10% stock dividend to the stockholders (average market value)</th>
+  </tr>
+  <tr>
+    <td>1932</td>
+    <td>$2.01</td>
+    <td>43-14</td>
+    <td>$1.47</td>
+    <td>$2.85</td>
+  </tr>
+  <tr>
+    <td>1931</td>
+    <td>3.41</td>
+    <td>90-26</td>
+    <td>1.23</td>
+    <td>5.80</td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>4.53</td>
+    <td>133-57</td>
+    <td>1.00</td>
+    <td>9.50</td>
+  </tr>
+  <tr>
+    <td>1929</td>
+    <td>5.03</td>
+    <td>187-67</td>
+    <td>1.00</td>
+    <td>12.70</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
