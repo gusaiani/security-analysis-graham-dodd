@@ -134,45 +134,49 @@ It will be noted that beginning with the third quarterly payment in 1931, the am
     <td>12.70</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1928</td>
+    <td>4.68</td>
+    <td>97-56</td>
+    <td>1.00</td>
+    <td>7.65</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1927</td>
+    <td>4.06</td>
+    <td>65-46</td>
+    <td>1.00</td>
+    <td>5.55</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1926</td>
+    <td>4.05</td>
+    <td>67-42</td>
+    <td>1.00</td>
+    <td>5.45</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1925</td>
+    <td>3.74</td>
+    <td>75-41</td>
+    <td>1.00</td>
+    <td>5.80</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1924</td>
+    <td>3.32</td>
+    <td>45-22</td>
+    <td>1.00</td>
+    <td>3.35</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1923</td>
+    <td>3.59</td>
+    <td>24-18</td>
+    <td>1.00</td>
+    <td>2.10</td>
   </tr>
 </table>
+
+**Historical Development.** From the historical standpoit it is interesting to note that the North American Company began its stock-dividend policy at about the same time that the first protagonist of the idea had decided to abandon it. This was the American Light and Traction Company, which during 1910-1919 had paid dividends at the annual rate of both $10 in cash and 10% in stock. During 1916 when the stock sold at about 400, the stockholders were receiving dividends worth a realizable value of some $50 annually, although the earnings were only about $25 per share. Such a dividend policy could be permanently successful only if the company could continuously reinvest in its business ever-increasing amounts of profits, upon which in turn it could realize 20% annually. The law of diminishing returns (and the voracious growth of compound interest) would clearly outlaw such a possibility. In the depression of 1920-1921 American Light and Traction found it necessary to reduce its dividend rate sharply. The market quotation fell below 80, an astounding decline for an *investment stock* during that period. (The price range of Atchison during the years 1916-1921 was between 109 and 76.) This experience led the directors to give up the periodic stock-dividend idea in 1925, at the very time when it was coming into general favor among other public-utility holding companies. The abandonment of stock dividends by North American Company ten years later is a striking illustration of the way in which financial history repeats itself.
+
+**Example of Vicious Pyramiding on Stock Dividends.** During the boom years periodic stock dividends were made the medium of an especially vicious pyramiding of reported profits. An operating company would pay out stock dividends with a market value more than its current earnings, and in turn an investment trust or holding company would report these stock dividends as income in an amount equal to the market value.
