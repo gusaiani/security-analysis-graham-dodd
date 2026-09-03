@@ -196,3 +196,7 @@ In 1934 General Electric Company determined that its working-capital position wa
 **The Forgoing Summarized.** Our conception of suitable dividend policies, discussed at length in this and the preceding chapter, may be summed up in the following three statements.
 
 1. Withholding and reinvestment of a substantial part of the earnings must be clearly justified to the stockholders on the grounds of concrete benefits therefrom exceeding the value of the cash if paid to the stockholders. Such withholding should be specifically approved by the stockholders.
+
+2. If retention of profits is in any sense a matter of necessity rather than choice, the stockholders should be advised of this fact, and the amounts involved should be designated as “reserves” instead of as “surplus profits.”
+
+3. Earnings voluntarily retained in the business should be capitalized in good part by the periodic issuance of additional stock, with current market value not exceeding such reinvested earnings. If the additional capital is subsequently found no longer to be needed in the business, it should be distributed to the shareholders against the retirement of the stock previously issued to represent it.
