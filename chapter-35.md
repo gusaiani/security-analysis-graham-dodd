@@ -62,3 +62,13 @@ It is unfortunate that something resembling this practice has been resorted to a
     <td>$8.75</td>
   </tr>
 </table>
+
+Although Detroit Edison’s depreciation charges have been unusually liberal by comparison with the average for the industry, the accounting method employed for 1931 (and also in 1934) might well be criticized for two reasons. In the first place its effect, if not its purpose, was to disguise the actual decline in earnings from the previous year. Second, because of the high reputation of the company, this device was likely to be imitated by other enterprises, and thus it might furnish an unwholesome stimulus to the new practice of overstating earnings by the transfer of charges to the surplus account.
+
+**An Illustration of Tricky Accounting.** An extraordinary example of tricky accounting is displayed by Iowa Public Service Company. For 1929 this company reported a property account of $25,200,000, gross earnings of $4,200,000 and a depreciation charge of only $78,000. The inadequacy of this figure is patent. In succeeding years the depreciation allowance was gradually increased, reaching $220,000 in 1932, which was still a somewhat subnormal figure. In 1932, the company made formal confession of the insufficiency of its past depreciaton charges, by the following unique procedure:
+
+1. It reduced the stated value of its common stock by $1,587,000 and transferred this sum to capital surplus.
+
+2. It immediately used up this capital surplus by charging against it $1,500,000 for additional depreciation and $87,000 for contingencies.
+
+In this case we see a good part of the necessary depreciation charge excluded from the income statements over a period of years and finally allowed for by reducing the amount at which the common stock is valued. An incidental effect of this mischievous accounting was to permit the parent company (American Electric Power Corporation) to take out in dividends a sum exceeding the true earnings and the initial surplus combined, to the serious prejudie of the bondholders and the first preferred stockholders.
