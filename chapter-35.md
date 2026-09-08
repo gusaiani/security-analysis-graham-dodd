@@ -72,3 +72,94 @@ Although Detroit Edison’s depreciation charges have been unusually liberal by 
 2. It immediately used up this capital surplus by charging against it $1,500,000 for additional depreciation and $87,000 for contingencies.
 
 In this case we see a good part of the necessary depreciation charge excluded from the income statements over a period of years and finally allowed for by reducing the amount at which the common stock is valued. An incidental effect of this mischievous accounting was to permit the parent company (American Electric Power Corporation) to take out in dividends a sum exceeding the true earnings and the initial surplus combined, to the serious prejudie of the bondholders and the first preferred stockholders.
+
+**Inadequate Depreciation Revealed by Transfers from Surplus and Reserves.** *Example:* The case of Brooklyn Union Gas is perhaps the most impressive example of the failure of the income account to reflect the necessary deductions for amortization. The extent of the consequent overstatement of earnings has been glaringly revealed by the huge transfers required to be made from surplus and contingency reserves. The story may be summarized as follows, as regards the ten years 1929—1938:
+
+##### Brooklyn Union Gas Company
+
+<table>
+  <tr>
+    <td>*A.* Annual average 1929-1938:</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Gross revenue</td>
+    <td>$23,389,000</td>
+  </tr>
+  <tr>
+    <td>Depreciation</td>
+    <td>729,000</td>
+  </tr>
+  <tr>
+    <td>Depreciation, per cent of gross</td>
+    <td>3.1</td>
+  </tr>
+  <tr>
+    <td>Depreciation, per cent of fixed capital</td>
+    <td>0.67</td>
+  </tr>
+  <tr>
+    <td>Reported earnings for common</td>
+    <td>$3,791,000</td>
+  </tr>
+  <tr>
+    <td>Dividends paid</td>
+    <td>2,918,000</td>
+  </tr>
+  <tr>
+    <td>**Indicated balance to surplus**</td>
+    <td>**$873,000**</td>
+  </tr>
+  <tr>
+    <td>*B.* Ten-year period 1929-1938:</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Surplus and contingency reserve, Dec. 31, 1928</td>
+    <td>$29,161,000</td>
+  </tr>
+  <tr>
+    <td>Surplus and contingency reserve, Dec. 31, 1938</td>
+    <td>9,840,000</td>
+  </tr>
+  <tr>
+    <td>Decrease for period</td>
+    <td>$19,321,000</td>
+  </tr>
+  <tr>
+    <td>Indicated increase per income account above</td>
+    <td>8,730,000</td>
+  </tr>
+  <tr>
+    <td>Discrepancy</td>
+    <td>$28,051,000</td>
+  </tr>
+  <tr>
+    <td>Average earnings per share of common per income account</td>
+    <td>$5.13</td>
+  </tr>
+  <tr>
+    <td>Average earnings per share of common per balance sheet</td>
+    <td>$1.36</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
