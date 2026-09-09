@@ -143,23 +143,63 @@ In this case we see a good part of the necessary depreciation charge excluded fr
     <td>$1.36</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>*C.* Explanation of discrepancy:</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Transferred from surplus, etc. to:</td>
     <td></td>
   </tr>
   <tr>
+    <td>Reserve for depreciation or retirements</td>
+    <td>$25,300,000</td>
+  </tr>
+  <tr>
+    <td>Write-off of appraisal expense, 1937</td>
+    <td>1,781,000</td>
+  </tr>
+  <tr>
+    <td>Miscellaneous charges (net)</td>
+    <td>970,000</td>
+  </tr>
+  <tr>
+    <td>Total charges to surplus, etc., 1929-1938</td>
+    <td>$28,051,000</td>
+  </tr>
+  <tr>
+    <td>*D.* Retirement reserve “used up” 1929-1938:</td>
     <td></td>
-    <td></td>
+  </tr>
+  <tr>
+    <td>Retirement reserve, Dec. 31, 1928</td>
+    <td>$1,565,000</td>
+  </tr>
+  <tr>
+    <td>Additions from income, 1929-1938</td>
+    <td>7,290,000</td>
+  </tr>
+  <tr>
+    <td>Additions from surplus and contingency reserve</td>
+    <td>25,300,000</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>$34,155,000</td>
+  </tr>
+  <tr>
+    <td>Balance (depreciation reserve), Dec. 31, 193</td>
+    <td>7,270,000</td>
+  </tr>
+  <tr>
+    <td>Reserve consumed by actual retirements</td>
+    <td>$26,885,000</td>
   </tr>
 </table>
+
+The foregoing figures are given in considerable detail, since they disclose a complicated but significant state of affairs bearing on the true earning power of the company. The reader will note the following points:
+
+1. The average reported earnings of $5.13 per share were computed after deduction of a “retirement reserve” of very small size in relation to both gross earnings and plant account.
+
+2. These charges for retirements against income proved woefully inadequate to cover the actual retirements taking place during the period. To meet these charges the company had to exhaust a large contingency reserve ($13,800,000 at the end of 1928) and to draw heavily on surplus besides.
+
+3. Although the company reported to stockholders that it had earned an aggregate of $51 per share during the period, paid dividends of $40 and carried $11 per share to surplus, its surplus and contingency reserve had really decreased about $26 per share. Hence the earnings as indicated by the balance sheet had averaged only $1.36 per share instead of $5.13 per share as reported in the income account.
